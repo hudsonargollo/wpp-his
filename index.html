@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message</title>
+</head>
+
+<body>
+
+
+
+    <style>
+        ul,
+        li,
+        p {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        #box {
+            margin: 20px auto;
+            width: 1100px;
+            height: 100%;
+            background: #F9FBFF;
+            box-shadow: 0 5px 12px 0 rgba(47, 43, 192, 0.22);
+            overflow: hidden;
+        }
+
+        #box .top-title {
+            width: 100%;
+            height: 40px;
+            border-bottom: 1px solid #eeeeee;
+            line-height: 40px;
+            text-align: center;
+        }
+
+        #box .top-title p {
+            font-size: 14px;
+            color: #7B8EA7;
+        }
+
+        #box .content {
+
+            display: flex;
+        }
+
+        #box .content .left-txt {
+            width: 38%;
+            height: 700px;
+            background: #EAEFF6;
+            padding: 20px;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
+
+        #box .content .right-txt {
+            width: 60%;
+            height: 740px;
+            /* display: inline-flex;
+            flex-direction: column; */
+            text-align: center;
+            border-left: 1px solid #EAEFF6;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
+
+        #box .content .right-txt .cell:not(:last-child) {
+            margin-bottom: 5px;
+        }
+
+        #box .content .right-txt .group {
+            padding: 10px 20px;
+            border-bottom: 2px solid #E2E6F3;
+            text-align: left;
+            box-sizing: border-box;
+            position: -webkit-sticky;
+            position: sticky;
+            top: 0;
+            background: #F9FBFF;
+            z-index: 1;
+        }
+
+        #box .content .right-txt .group .group-name {
+            font-size: 15px;
+            color: #071C29;
+            font-weight: 700;
+        }
+
+        #box .content .right-txt .group .group-contact {
+            font-size: 12px;
+            color: #6B7C93;
+            line-height: 16px;
+            overflow-y: auto;
+            max-height: 50px;
+            word-wrap: break-word;
+        }
+
+        #box .content .user {
+            display: flex;
+            margin: 10px;
+            max-width: 312px;
+            min-height: 66px;
+        }
+
+        #box .content .user .cell {
+            margin-left: 20px;
+            text-align: left;
+        }
+
+        #box .content .user .user-name {
+            font-size: 12px;
+            color: #7b8ea7;
+            line-height: 16px;
+            margin-bottom: 8px;
+        }
+
+        #box .content .user .text {
+            max-width: 240px;
+            display: inline-block;
+            padding: 12px 16px;
+            background: #EAEFF6;
+            position: relative;
+            border-radius: 7px;
+            font-size: 13px;
+            line-height: 18px;
+            color: #6b7c93;
+            word-wrap: break-word;
+        }
+
+        #box .content .user .txt.photo {
+            padding: 0;
+        }
+
+        #box .content .user .wifi {
+            padding: 0 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 190px;
+            height: 32px;
+            height: 32px;
+            background: #eaeff6;
+            border-radius: 8px;
+            color: #6B7C93;
+            font-size: 12px;
+        }
+
+        #box .content .user .wifi picture {
+            padding: 0;
+            display: flex;
+            align-items: center;
+        }
+
+        #box .content .right-user .wifi {
+            flex-direction: row-reverse;
+        }
+
+        #box .content .right-user {
+            justify-content: flex-end;
+            padding: 10px;
+            max-width: 100%;
+        }
+
+        #box .content .right-user>picture,
+        #box .content .right-user .user-name {
+            display: none;
+        }
+
+
+        #box .content .left-txt p.title {
+            font-size: 24px;
+            color: #6b7c93;
+            line-height: 32px;
+        }
+
+        #box .content .left-txt ul li {
+            width: 368px;
+            padding: 16px;
+            margin-top: 16px;
+            background: #F9FBFF;
+            border-radius: 12px;
+        }
+
+        #box .content .left-txt img {
+            border-radius: 10px;
+            max-width: 40px;
+        }
+
+        /* #box .content .left-txt picture{max-width: 40px;} */
+        #box .content .left-txt ul li a {
+            display: flex;
+            text-decoration: none;
+        }
+
+        #box .content .left-txt ul li.active {
+            box-shadow: 0 18px 32px 0 rgba(24, 52, 99, 0.10);
+            background: #ffffff;
+        }
+
+        #box .content .left-txt ul li .cell {
+            width: 313px;
+            margin-left: 15px;
+        }
+
+        #box .content .left-txt ul li .cell .cont {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+
+        #box .content .left-txt .name {
+            max-width: 180px;
+            font-size: 15px;
+            color: #071C29;
+            line-height: 20px;
+            text-overflow: ellipsis;
+            overflow: hidden;
+        }
+
+        #box .content .left-txt .time,
+        .chat {
+            font-size: 12px;
+            color: #7B8EA7;
+            line-height: 16px;
+        }
+
+        .chat {
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            max-height: 40px;
+        }
+
+        .carryOver.zz,
+        .carryOver.hb {
+            width: 180px;
+            height: 54px;
+            background-color: #F99D3B;
+            color: #ffffff;
+            border-radius: 4px 4px 0px 0px;
+            padding: 0 10px;
+            display: flex;
+            align-items: center;
+            position: relative;
+            margin-bottom: 30px;
+        }
+
+        .carryOver.zd {
+            width: 180px;
+            height: 54px;
+            background-color: #00C777;
+            color: #ffffff;
+            border-radius: 4px 4px 0px 0px;
+            padding: 0 10px;
+            display: flex;
+            align-items: center;
+            position: relative;
+            margin-bottom: 30px;
+        }
+
+        .carryOver.zz::after {
+            content: "微信转账";
+            width: 178px;
+            height: 20px;
+            background: #FEFEFE;
+            position: absolute;
+            bottom: -20px;
+            left: 0;
+            border: 1px solid #E4E8EB;
+            border-radius: 0 0 4px 4px;
+            color: #999999;
+            font-size: 8px;
+            padding: 0 10px;
+            line-height: 19px;
+        }
+
+        .carryOver.hb::after {
+            content: "微信红包";
+            width: 178px;
+            height: 20px;
+            background: #FEFEFE;
+            position: absolute;
+            bottom: -20px;
+            left: 0;
+            border: 1px solid #E4E8EB;
+            border-radius: 0 0 4px 4px;
+            color: #999999;
+            font-size: 8px;
+            padding: 0 10px;
+            line-height: 19px;
+        }
+
+        .carryOver.zd::after {
+            content: "活动账单";
+            width: 178px;
+            height: 20px;
+            background: #FEFEFE;
+            position: absolute;
+            bottom: -20px;
+            left: 0;
+            border: 1px solid #E4E8EB;
+            border-radius: 0 0 4px 4px;
+            color: #999999;
+            font-size: 8px;
+            padding: 0 10px;
+            line-height: 19px;
+        }
+
+        .carryOver picture {
+            margin-right: 4px;
+        }
+
+        .carryOver .money {
+            font-size: 18px;
+            line-height: 15px;
+            margin-bottom: 5px;
+        }
+
+        .carryOver .int {
+            font-size: 10px;
+            line-height: 15px;
+            opacity: 0.9;
+        }
+
+        .carryOver .gx {
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+
+        .carryOver.hb picture {
+            margin-right: 12px;
+        }
+
+        .carryOver.zzys,
+        .carryOver.hbys,
+        .carryOver.zdys {
+            opacity: 0.5;
+        }
+
+        .document {
+            width: 178px;
+            height: 64px;
+            border: 1px solid #E4E8EB;
+            background: #FEFEFE;
+            border-radius: 4px;
+            padding: 0 10px;
+            display: flex;
+            align-items: center;
+        }
+
+        .document .fileName {
+            max-width: 132px;
+            color: #070f29;
+            font-size: 14px;
+            line-height: 18px;
+            margin-right: 15px;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        .document .size {
+            font-size: 10px;
+            color: #999999;
+            line-height: 14px;
+            margin-top: 2px;
+        }
+
+
+        .userCard {
+            width: 178px;
+            height: 60px;
+            border: 1px solid #E4E8EB;
+            background: #FEFEFE;
+            border-radius: 4px;
+            padding: 0 10px;
+            display: flex;
+            align-items: center;
+        }
+
+        .userCard .cardName {
+            max-width: 132px;
+            color: #070f29;
+            font-size: 14px;
+            line-height: 16px;
+        }
+
+        .userCard .id {
+            font-size: 10px;
+            color: #7b8ea7;
+            line-height: 14px;
+            margin-top: 2px;
+        }
+
+        .userCard picture {
+            margin-right: 15px;
+        }
+
+
+        .address {
+            width: 200px;
+            height: 164px;
+            border: 1px solid #e4e8eb;
+            border-radius: 3px;
+        }
+
+        .address .addint {
+            height: 54px;
+            display: flex;
+            align-items: center;
+            background: #FEFEFE;
+        }
+
+        .address .addPic {
+            width: 100%;
+            height: 110px;
+            background: #f0f3f8;
+        }
+
+        .address .addName {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            font-size: 12px;
+            color: #070f29;
+            line-height: 16px;
+            margin-left: 6px;
+        }
+
+        .videoCall{width: 200px;height: 32px;background: #eaeff6;border-radius: 8px;padding: 0 6px;display: flex;align-items: center;color: #6B7C93;font-size: 12px;}
+        .videoCall picture{margin-right: 6px;display: flex;align-items: center;}
+
+
+        .play {
+            width: 160px;
+            height: 90px;
+            background: #EAEFF6;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 3px;
+        }
+
+
+        .center-user.notice {
+            padding: 0 11px;
+            background: #EAEFF6;
+            border-radius: 2px;
+            max-width: 400px;
+            margin: 20px auto;
+            color: #7B8EA7;
+            font-size: 12px;
+            line-height: 16px;
+            display: inline-block;
+        }
+
+        .center-user.messageTime {
+            font-size: 12px;
+            color: #7b8ea7;
+            line-height: 16px;
+            text-align: center;
+            margin: 20px auto;
+        }
+
+
+        .document img,
+        .photo img {
+            max-width: 150px;
+        }
+
+        .user>picture>img {
+            max-width: 40px;
+            border-radius: 10px;
+        }
+
+        iframe {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+
+    <div id="box">
+        <div class="top-title">
+            <p>iCareFone for WhatsApp Transfer</p>
+        </div>
+        <div class="content">
+            <div class="left-txt">
+                <p class="title">Messages</p>
+                <ul id="userList">
+
+                </ul>
+            </div>
+            <div class="right-txt">
+
+                <div class="list2" id="list2"></div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+<script>
+
+    //请求用户列表
+    function listCallbackFunc(result) {
+        var list = result.list
+        for (var i = 0; i < list.length; i++) {
+            if (list[i].type == "group") {
+                list[i].avatar = "images/users1.png"
+            }
+            else if (list[i].type == "broadcast"){
+                list[i].avatar = "images/broadcast.png"
+            }
+            else {
+                list[i].avatar = "images/user01.png"
+            }
+            if (list[i].name == "") {
+                list[i].name = "Aamir Khan"
+            }
+            let insertText = "<li id='" + list[i].id + "'><a href='javascript:void(0)' onclick='RequestContent(" + list[i].id + "," +  list[i].total + ",0)' ><picture><img src='" + list[i].avatar + "'alt=''></picture><div class='cell'><div class='cont'><p class='name'>" + list[i].name + "</p><p class='time'>" + list[i].time + "</p></div><p class='chat'>" + list[i].msg + "</p></div></a> </li>";
+            document.getElementById("userList").innerHTML += insertText
+            if(list[i].id == 0){
+                RequestContent(list[i].id,list[i].total,0)
+            }
+        }
+
+
+
+
+    }
+
+    var userImg = "";
+    var userName = "";
+    var scrollBox = document.getElementsByClassName('right-txt')[0]
+
+    var fileNum = 0     //json文件数
+    var reqNum = 0      //请求次数
+    var totalNum = 0     //消息总数
+    var reqId = null  //请求的文件名
+    var userId = null //请求的用户
+
+    scrollBox.addEventListener('scroll', function () {
+        var contentH = scrollBox.clientHeight; //获取可见区域高度
+        var scrollHight = scrollBox.scrollHeight; //获取全文高度
+        var scrollTop = scrollBox.scrollTop //获取被卷去的高度
+
+        if (contentH + scrollTop >= scrollHight && reqNum < fileNum && fileNum > 0) {
+                reqNum += 1
+                RequestContent(userId,totalNum,1)
+        }
+    })
+
+
+    //请求内容
+    function RequestContent(id,total,tme) {
+        //点击
+        if(tme == 0){
+            reqNum = 0
+            totalNum = total
+            userId = id
+            scrollBox.innerHTML = ""
+            fileNum = 0
+            getSiblings(document.getElementById(id))
+            userImg = document.getElementById(id).querySelector('img').getAttribute('src')
+            userName = document.getElementById(id).querySelector('p.name').innerHTML
+        }
+
+        if(total>100){
+            fileNum = parseInt(total/100)
+            reqId = id + "-" + reqNum
+        }else{
+            reqId = id
+        }
+        var body = document.getElementsByTagName('body')[0];
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = './Json/' + reqId + '.json?callback=contentCallbackFunc';
+        body.appendChild(script);
+    }
+
+
+    function contentCallbackFunc(data) {
+        var contentLenght = data.body.length
+        if(reqNum == 0){
+            let grouphtml = '<div class="group"><div class="cell"><p class="group-name">' + data.head.name + '</p><p class="group-contact">' + data.head.member + '</p></div></div>'
+                scrollBox.innerHTML += grouphtml
+        }
+
+        for (let i = 0;i < contentLenght; i++) {
+
+            //通知
+            if (data.body[i].position == 'conter') {
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+
+                let insertText = timeHtml + '<br><span class="center-user notice">' + data.body[i].msg + '</span><br>'
+                scrollBox.innerHTML += insertText
+            }
+            //文件
+            if (data.body[i].type == 'document') {
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+
+                let insertText = timeHtml + '<div  class="user ' + data.body[i].position + '-user"><picture><img src="' + userImg + '" alt=""></picture><div class="cell"><p class="user-name">' + userName + '</p><div class="' + data.body[i].type + '"><div><p class="fileName"><span>' + data.body[i].mediaName + '</span></p><p class="size"><span>' + data.body[i].mediaSize + '</span></p></div> <picture><img onerror="this.onerror=null;this.src=\'images/file.svg\';" src="' + data.body[i].localPath + '"alt=""></picture></div></div></div>';
+                scrollBox.innerHTML += insertText
+            }
+            //照片
+            if (data.body[i].type == 'photo') {
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+                let insertText = timeHtml + '<div class="user ' + data.body[i].position + '-user"><picture><img src="' + userImg + '" alt=""></picture><div class="cell"><p class="user-name">' + userName + '</p><div class="txt ' + data.body[i].type + '"><picture><img  onerror="this.onerror=null;this.src=\'images/photo.png\';" src="' + data.body[i].localPath + '" alt=""></picture></div></div></div>';
+                scrollBox.innerHTML += insertText
+            }
+            //音频
+            if (data.body[i].type == 'audio') {
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+                let insertText = timeHtml + '<div class="user ' + data.body[i].position +'-user"><picture><img src="'+ userImg + '" alt=""></picture><div class="cell"><p class="user-name">'+ userName +'</p><div class="wifi '+ data.body[i].type + '"><picture><img  onerror="this.onerror=null;this.src=\'images/photo.png\';" src="images/wifi-left.png" alt=""></picture><span>' + data.body[i].mediaTime + '</span></div></div></div>';
+
+                scrollBox.innerHTML += insertText
+            }
+            //视频
+            if (data.body[i].type == 'video') {
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+                let insertText = timeHtml + '<div class="user ' + data.body[i].position + '-user"><picture><img src="' + userImg + '" alt=""></picture><div class="cell"><p class="user-name">' + userName + '</p><div class="' + data.body[i].type + '"><picture><img onerror="this.onerror=null;this.src=\'images/photo.png\';" src="' + data.body[i].thumbPath + '" alt=""></picture></div></div></div>';
+                scrollBox.innerHTML += insertText
+            }
+
+            //视频通话
+            if (data.body[i].type == 'videoCall') {
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+                let insertText = timeHtml + '<div class="user ' + data.body[i].position + '-user"><picture><img src="' + userImg + '" alt=""></picture><div class="cell"><p class="user-name">' + userName + '</p><div class="' + data.body[i].type + '"><picture><img src="images/video.png" alt=""></picture><span class="time">聊天时长&nbsp; 00:43</span></div></div></div>';
+                scrollBox.innerHTML += insertText
+            }
+            //语音通话
+            if (data.body[i].type == 'voiceCall') {
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+                let insertText = timeHtml + '<div class="user ' + data.body[i].position + '-user"><picture><img src="' + userImg + '" alt=""></picture><div class="cell"><p class="user-name">' + userName + '</p><div class="' + data.body[i].type + '"><picture><img src="images/call.png" alt=""></picture><span class="time">聊天时长&nbsp; 00:43</span></div></div></div>';
+                scrollBox.innerHTML += insertText
+            }
+            //文字
+            if (data.body[i].type == 'text') {
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+                let insertText = timeHtml + '<div class="user ' + data.body[i].position + '-user"><picture><img src="' + userImg + '" alt=""></picture><div class="cell"><p class="user-name">' + userName + '</p><p class="' + data.body[i].type + '"> ' + data.body[i].msg + '</p></div></div>';
+                scrollBox.innerHTML += insertText
+            }
+            //红包
+            if (data.body[i].type == 'red packet') {
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+                let insertText = timeHtml + '<div class="user ' + data.body[i].position + '-user"><picture><img src="' + userImg + '" alt=""></picture><div class="cell"><p class="user-name">' + userName + '</p><div class="carryOver hb"><picture><img src="images/hb.svg" alt=""></picture><p class="gx">恭喜发财，大吉大利</p></div></div></div>';
+                scrollBox.innerHTML += insertText
+            }
+
+
+            //定位
+            if(data.body[i].type == 'location'){
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+                let insertText = timeHtml + '<div class="user ' + data.body[i].position +'-user"><picture><img src="'+ userImg + '" alt=""></picture><div class="cell"><p class="user-name">'+ userName +'</p><div class="txt '+ data.body[i].type + '"><picture><img  onerror="this.onerror=null;this.src=\'images/photo.png\';" src="' + data.body[i].thumbPath + '" alt=""></picture></div></div></div>';
+                scrollBox.innerHTML += insertText
+            }
+            //卡片
+            if(data.body[i].type == 'contact'){
+                var timeHtml = ""
+                if(data.body[i].time){
+                    timeHtml = '<span class="center-user notice">'+ data.body[i].time + '</span>'
+                }
+
+                let insertText = timeHtml + '<div class="user ' + data.body[i].position +'-user"><picture><img src="'+ userImg + '" alt=""></picture><div class="cell"><p class="user-name">'+ userName +'</p><div class="userCard '+ data.body[i].type + '"><picture><img  onerror="this.onerror=null;this.src=\'images/Card.png\';" src="images/Card.png" alt=""></picture><div><p class="cardName">' + data.body[i].msg + '</p></div>  </div></div></div>';
+                scrollBox.innerHTML += insertText
+            }
+
+        }
+
+    }
+
+    function getSiblings(elem) {
+        elem.classList.add("active")
+        var siblings = []
+        var sibling = elem.parentNode.firstChild
+        while (sibling) {
+            if (sibling.nodeType === 1 && sibling !== elem) {
+                siblings.push(sibling)
+            }
+            sibling = sibling.nextSibling
+        }
+        for (var i = 0; i < siblings.length; i++) {
+            siblings[i].classList.remove("active")
+        }
+    }
+
+</script>
+<script src="./chatContent.json?callback=listCallbackFunc"></script>
