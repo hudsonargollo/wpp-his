@@ -1,0 +1,301 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 34 98443-3201",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 08:15:53",
+      "delete" : false,
+      "identifier" : "CPHxzLkGIABIAJABAA==",
+      "msg" : "Opa meu parceiro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 08:15:54",
+      "delete" : false,
+      "identifier" : "CPLxzLkGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 08:16:04",
+      "delete" : false,
+      "identifier" : "CPzxzLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 08:16:10",
+      "delete" : false,
+      "identifier" : "CILyzLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 08:26:11",
+      "delete" : false,
+      "identifier" : "CNv2zLkGIABIAJABAA==",
+      "msg" : "Luiz Eduardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 08:26:18",
+      "delete" : false,
+      "identifier" : "COL2zLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Luiz Eduardo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 08:26:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COj2zLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 08:26:27",
+      "delete" : false,
+      "identifier" : "COv2zLkGIABIAJABAA==",
+      "msg" : "Comprei a plataforma. Vocês tem videos demostrando a plataforma para usar da melhor forma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 08:26:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPP2zLkGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 08:26:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPT2zLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 08:26:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CIH3zLkGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 08:26:52",
+      "delete" : false,
+      "identifier" : "CIT3zLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Você recebeu o login e senha no seu e-mail de compra.* \n\nProcure por \"CADEMI\" ou \"Iuri Meira\" na sua caixa de entrada, spam ou lixeira.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 08:26:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIX3zLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 12:13:01",
+      "delete" : false,
+      "identifier" : "CIWn2LkGIABIAIoBBAgAEACQAQA=",
+      "msg" : "Opa amigo. Gostei da plataforma, porém o financeiro não me atende. Pelo Notion consigo ter uma relação melhor a produtos que tenho em estoque, saída",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 12:13:16",
+      "delete" : false,
+      "identifier" : "CJSn2LkGIABIAJABAA==",
+      "msg" : "Me desculpa, mas como não irei utilizar, precisarei do reembolso durante os 7 dias",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 12:13:38",
+      "delete" : false,
+      "identifier" : "CKqn2LkGIABIAJABAA==",
+      "msg" : "Caso a plataforma passse por mudanças, como gerenciamento de produtos, entrada e saída diária, eu tenho interesse",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 12:13:55",
+      "delete" : false,
+      "identifier" : "CLun2LkGIABIAJABAA==",
+      "msg" : "Mas no momento, fica inviável eu ter durante 1 ano, sendo que não irei usar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 14:50:13",
+      "delete" : false,
+      "mediaName" : "6d2c55c9-0686-45f0-b6ce-3220a4298a9a.opus",
+      "localPath" : "media\/db88699c2e9482a18a4eb8db792ed0860b21dbda.opus",
+      "mediaSize" : "101 KB",
+      "identifier" : "CN3w2LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:52"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 15:03:32",
+      "delete" : false,
+      "mediaName" : "21a6e519-0bd0-48d8-b76d-efba23134505.opus",
+      "localPath" : "media\/39a3e4e6ba7ac3bfd703eb46a3b99a78b5e88aaf.opus",
+      "mediaSize" : "213 KB",
+      "identifier" : "CPz22LkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "01:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 15:12:02",
+      "delete" : false,
+      "mediaName" : "b11a6c30-474f-4132-8812-b42a92b51332.opus",
+      "localPath" : "media\/e16951fde63a15421a10c8c9f04da2f48947350e.opus",
+      "mediaSize" : "30 KB",
+      "identifier" : "CPr62LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/16 09:27:42",
+      "delete" : false,
+      "identifier" : "CMaf4rkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nRecebi sua solicitação de reembolso, e como parte de nossa política de tratativa, aguardamos um período de 24 horas para receber uma resposta antes de dar continuidade ao processo. Como não tivemos retorno desde nossa última conversa, consideramos que você optou por não seguir com o reembolso, e por isso o processo foi suspenso temporariamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/16 11:15:51",
+      "delete" : false,
+      "identifier" : "CJ\/S4rkGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/16 11:16:00",
+      "delete" : false,
+      "identifier" : "CKjS4rkGIABIAJABAA==",
+      "msg" : "Eu preciso do reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/16 11:16:26",
+      "delete" : false,
+      "identifier" : "CMLS4rkGIABIAJABAA==",
+      "msg" : "Deixei claro com o vendedor e pela plataforma da ticto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/16 11:16:40",
+      "delete" : false,
+      "identifier" : "CNDS4rkGIABIAJABAA==",
+      "msg" : "Pode dar continuidade no reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/16 11:18:07",
+      "delete" : false,
+      "identifier" : "CKfT4rkGIABIAJABAA==",
+      "msg" : "Deixei claro aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/16 11:18:27",
+      "delete" : false,
+      "identifier" : "CLvT4rkGIABIAJABAA==",
+      "msg" : "Espero que faça o reembolso pelo art 49",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 09:13:13",
+      "delete" : false,
+      "identifier" : "COHe7LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 09:13:27",
+      "delete" : false,
+      "identifier" : "CO\/e7LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou dar continuidade",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 09:13:32",
+      "delete" : false,
+      "identifier" : "CPTe7LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Um momento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 09:34:47",
+      "delete" : false,
+      "identifier" : "CO\/o7LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar, por gentileza?",
+      "type" : "text"
+    }
+  ]
+})

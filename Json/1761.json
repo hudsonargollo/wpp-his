@@ -1,0 +1,75 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 46 99105-7288",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/20 13:16:32",
+      "delete" : false,
+      "identifier" : "COiW+LkGIABIAJABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/20 13:16:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO2W+LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/24 18:21:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Quero acessar o conteúdo do Desafio 5 em 30!",
+      "delete" : false,
+      "identifier" : "CM6xjroGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/24 18:21:12",
+      "delete" : false,
+      "identifier" : "CNCxjroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para acessar seus materiais basta clicar no link abaixo ⬇️ \n\nhttps:\/\/redirect.lifs.app\/desafio5em30",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/24 18:21:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNGxjroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/24 18:22:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não, deu tudo certo!",
+      "delete" : false,
+      "identifier" : "CJOyjroGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/24 18:22:21",
+      "delete" : false,
+      "identifier" : "CJWyjroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ótimo!\nEstamos à disposição para qualquer dúvida ou necessidade.\nObrigado pelo seu contato! 😉",
+      "type" : "text"
+    }
+  ]
+})

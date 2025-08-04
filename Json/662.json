@@ -1,0 +1,146 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 77 98862-9228",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 18:36:12",
+      "delete" : false,
+      "identifier" : "CNSwhMEGIABIAZABAA==",
+      "msg" : "Ola, boa tarde. \nQuero reembolso da assinatura recorrente cobrada hoje no meu cartão.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 08:09:39",
+      "delete" : false,
+      "identifier" : "CPuth8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo certo? Capitão Caverna por aqui 🐺\n\nRecebi sua solicitação de reembolso da renovação automática de hoje.\n\nAntes de seguir com o cancelamento, posso entender melhor o motivo? Houve algum problema ou dificuldade com o uso da plataforma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 08:10:59",
+      "delete" : false,
+      "identifier" : "CMuuh8EGIABIAJABAA==",
+      "msg" : "Bom dia, nenhum problema, apenas não quero continuar com o curso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 08:14:00",
+      "delete" : false,
+      "identifier" : "CICwh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia me mandar o seu E-mail de cadastro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 08:16:20",
+      "delete" : false,
+      "identifier" : "CIyxh8EGIABIAJABAA==",
+      "msg" : "Rian981@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 08:22:48",
+      "delete" : false,
+      "identifier" : "CJC0h8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Rian! Capitão Caverna por aqui 🐺\n\nEntendi seu pedido, mas como sua assinatura era anual com renovação automática, e o cancelamento não foi solicitado antes da nova cobrança, não conseguimos realizar o reembolso, já que o sistema apenas seguiu com o contrato vigente.\n\nMesmo com pouco uso, o acesso ao sistema esteve disponível durante todo o tempo — e não houve nenhuma falha ou impedimento técnico da nossa parte.\n\nA assinatura já foi cancelada para que não renove novamente no futuro.\n\nSe precisar de ajuda com o uso da plataforma ou quiser aproveitar o acesso enquanto está ativo, sigo por aqui pra te orientar.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 08:23:41",
+      "delete" : false,
+      "identifier" : "CMW0h8EGIABIAJABAA==",
+      "msg" : "Preciso realizar o reembolso, independentemente disso. Não me foi apresentado nenhum contrato.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 08:23:51",
+      "delete" : false,
+      "identifier" : "CM+0h8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ryan, verificamos aqui na plataforma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 08:23:59",
+      "delete" : false,
+      "identifier" : "CNe0h8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "e o reembolso será autorizado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 08:24:13",
+      "delete" : false,
+      "identifier" : "COW0h8EGIABIAJABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 08:29:05",
+      "delete" : false,
+      "identifier" : "CIm3h8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Rian, você poderia me informar a data da compra e, se possível, enviar um print do comprovante ou da confirmação recebida por e-mail?\n\nMuito provavelmente sua assinatura foi feita pela nossa plataforma antiga (Perfect Pay), que não utilizamos mais atualmente.\n\nCom essas informações, consigo verificar direitinho aqui e te dar um retorno mais preciso.\n\nFico no aguardo. 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 08:30:13",
+      "delete" : false,
+      "mediaName" : "Comprovante Modo Caverna.pdf",
+      "localPath" : "media\/5525cb7576a07a002a2cb3f6f64d9b6bb6cb1bc5.pdf",
+      "mediaSize" : "244 KB",
+      "identifier" : "CM23h8EGIABIAJABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/1aa730fd41520ac155922bb3e0f64047895bb995"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 08:30:14",
+      "delete" : false,
+      "identifier" : "CM63h8EGIABIAJABAA==",
+      "msg" : "Segue",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 08:34:39",
+      "delete" : false,
+      "identifier" : "CNe5h8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Rian, acabei de confirmar aqui:\nSua assinatura foi feita pela plataforma antiga (Perfect Pay), que não utilizamos mais e não temos mais acesso administrativo para cancelamentos ou reembolsos.\n\nPor esse motivo, o ideal é que você entre em contato diretamente com o suporte da Perfect Pay para solicitar o cancelamento ou estorno da cobrança.\n\nEntendo que é chato lidar com isso, mas infelizmente essa gestão não está mais sob nossa responsabilidade desde a mudança de sistema.\n\nSe precisar de mais alguma coisa. tô aqui! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 08:35:04",
+      "delete" : false,
+      "identifier" : "CPC5h8EGIABIAJABAA==",
+      "msg" : "Certo, obrigado",
+      "type" : "text"
+    }
+  ]
+})

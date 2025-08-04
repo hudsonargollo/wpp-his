@@ -1,0 +1,114 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 88 98814-3060",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 01:31:25",
+      "delete" : false,
+      "identifier" : "CKX5vr4GIABIAJABAA==",
+      "msg" : "Bom dia! Segue o comprovante do envelope:",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 01:31:39",
+      "delete" : false,
+      "identifier" : "CLP5vr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 01:31:45",
+      "delete" : false,
+      "identifier" : "CLn5vr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 01:31:53",
+      "delete" : false,
+      "identifier" : "CMH5vr4GIABIAJABAA==",
+      "msg" : "Samuel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 01:31:59",
+      "delete" : false,
+      "identifier" : "CMf5vr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Samuel*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 01:32:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM35vr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 01:32:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Envelope dos escolhidos",
+      "delete" : false,
+      "identifier" : "COH5vr4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 01:32:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COL5vr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 01:32:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Enviei meu comprovante de pagamento ✅",
+      "delete" : false,
+      "identifier" : "COz5vr4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 01:32:38",
+      "delete" : false,
+      "identifier" : "CO75vr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Muito obrigada pelo pagamento! Assim que seu envelope for postado te mandaremos o código de rastreio para que você possa acompanhar a entrega 😊*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 01:32:56",
+      "delete" : false,
+      "mediaName" : "de18cdfe-76c9-44ec-8284-87d23b0d1a3e.jpg",
+      "localPath" : "media\/d55ff8f5b5de0715f1d20584270c18039280a003.jpg",
+      "mediaSize" : "36 KB",
+      "identifier" : "CID6vr4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/db34e4c03a4de0ac36200f9c2abe35d59c3e2352"
+    }
+  ]
+})

@@ -1,0 +1,84 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99114-5154",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 14:32:57",
+      "delete" : false,
+      "identifier" : "CNGBvboGIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 14:33:06",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CNqBvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 14:33:07",
+      "delete" : false,
+      "identifier" : "CNuBvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 14:33:13",
+      "delete" : false,
+      "identifier" : "COGBvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 14:33:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CPOBvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 14:33:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CI2CvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 14:34:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CKKCvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 14:48:06",
+      "delete" : false,
+      "identifier" : "CN6IvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    }
+  ]
+})

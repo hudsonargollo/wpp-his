@@ -1,0 +1,140 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 66 98132-2745",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/09 21:07:43",
+      "delete" : false,
+      "identifier" : "CNfyv7kGIABIAJABAA==",
+      "msg" : "boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/09 21:07:58",
+      "delete" : false,
+      "identifier" : "CObyv7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/09 21:08:04",
+      "delete" : false,
+      "identifier" : "COzyv7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/09 21:08:09",
+      "delete" : false,
+      "identifier" : "CPHyv7kGIABIAJABAA==",
+      "msg" : "Victor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/09 21:08:14",
+      "delete" : false,
+      "identifier" : "CPbyv7kGIABIAJABAA==",
+      "msg" : "foi mal ai o horario...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/09 21:08:15",
+      "delete" : false,
+      "identifier" : "CPfyv7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Victor*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/09 21:08:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CP3yv7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/09 21:08:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJzzv7kGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/09 21:08:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJ3zv7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/09 21:09:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CKTzv7kGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/09 21:09:03",
+      "delete" : false,
+      "identifier" : "CKfzv7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Você recebeu o login e senha no seu e-mail de compra.* \n\nProcure por \"CADEMI\" ou \"Iuri Meira\" na sua caixa de entrada, spam ou lixeira.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/09 21:09:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKjzv7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/09 21:10:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não, preciso de ajuda",
+      "delete" : false,
+      "identifier" : "CODzv7kGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/09 21:10:02",
+      "delete" : false,
+      "identifier" : "COLzv7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 09:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 09:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    }
+  ]
+})

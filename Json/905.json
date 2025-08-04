@@ -1,0 +1,364 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 91 98839-4531",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 16:38:02",
+      "delete" : false,
+      "identifier" : "CKL1m78GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 16:38:17",
+      "delete" : false,
+      "identifier" : "CLH1m78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 16:38:23",
+      "delete" : false,
+      "identifier" : "CLf1m78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 16:41:12",
+      "delete" : false,
+      "identifier" : "COD2m78GIABIAZABAA==",
+      "msg" : "Moisés",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 16:41:19",
+      "delete" : false,
+      "identifier" : "COf2m78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Moisés*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 16:41:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO32m78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 16:43:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "COL3m78GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 16:43:30",
+      "delete" : false,
+      "identifier" : "COr3m78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 16:43:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO\/3m78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 16:47:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CO35m78GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 16:47:52",
+      "delete" : false,
+      "identifier" : "CPD5m78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 17:13:12",
+      "delete" : false,
+      "identifier" : "COCFnL8GIABIAZABAA==",
+      "msg" : "Quero cancelar minha compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 17:23:26",
+      "delete" : false,
+      "identifier" : "CMaKnL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Tudo bem ?\nSou a Brenda e vou está dando continuidade ao seu atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 17:24:59",
+      "delete" : false,
+      "identifier" : "CKOLnL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia me explicar melhor o motivo da sua solicitação de cancelamento, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 17:29:05",
+      "delete" : false,
+      "identifier" : "CJmNnL8GIABIAZABAA==",
+      "msg" : "Não era o que eu esperava",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 17:29:08",
+      "delete" : false,
+      "identifier" : "CJyNnL8GIABIAZABAA==",
+      "msg" : "Me enganei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 17:33:56",
+      "delete" : false,
+      "identifier" : "CLyPnL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendemos que a compra não atendeu às suas expectativas e lamentamos qualquer inconveniente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 17:34:52",
+      "delete" : false,
+      "identifier" : "CPSPnL8GIABIAZABAA==",
+      "msg" : "😥",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 17:35:00",
+      "delete" : false,
+      "identifier" : "CPyPnL8GIABIAZABAA==",
+      "msg" : "Pode fazer o cancelamento?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 17:35:13",
+      "delete" : false,
+      "identifier" : "CImQnL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Gostaríamos de convidá-lo a explorar uma nova interface, que estará disponível em breve. Por meio do link que estou compartilhando, você poderá acessar a plataforma e fazer login com sua conta normalmente. Essa versão otimizada estará disponível em breve, e você está recebendo acesso exclusivo a ela. Esperamos que essa experiência atenda melhor às suas expectativas.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 17:35:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJWQnL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 17:42:50",
+      "delete" : false,
+      "identifier" : "CNKTnL8GIABIAZABAA==",
+      "msg" : "Gostaria de fazer o cancelamento mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 17:45:12",
+      "delete" : false,
+      "identifier" : "COCUnL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tudo bem!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 17:46:00",
+      "delete" : false,
+      "identifier" : "CJCVnL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual o seu e-mail ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 17:46:11",
+      "delete" : false,
+      "identifier" : "CJuVnL8GIABIAZABAA==",
+      "msg" : "moisessouza945@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/29 12:04:18",
+      "delete" : false,
+      "identifier" : "CPqXoL8GIABIAZABAA==",
+      "msg" : "Oi?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 08:13:04",
+      "delete" : false,
+      "identifier" : "CMjxqb8GIABIAZABAA==",
+      "msg" : "Oi?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 08:43:06",
+      "delete" : false,
+      "identifier" : "CNL\/qb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Bom dia, tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 08:54:01",
+      "delete" : false,
+      "identifier" : "COGEqr8GIABIAZABAA==",
+      "msg" : "Tudo bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 08:54:09",
+      "delete" : false,
+      "identifier" : "COmEqr8GIABIAZABAA==",
+      "msg" : "Pode resolver isso hoje?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 08:58:05",
+      "delete" : false,
+      "identifier" : "CNWGqr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você poderia me explicar melhor, o porquê você deseja o reembolso ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 09:00:57",
+      "delete" : false,
+      "identifier" : "CIGIqr8GIABIAZABAA==",
+      "msg" : "Não era o que eu esperava, infelizmente eu não consigo me adaptar a certas didáticas. Então eu não vou tirar nenhum proveito quase se fizer o método. Então quero cancelar a compra, conforme o que foi estabelecido,",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 09:01:27",
+      "delete" : false,
+      "identifier" : "CJ+Iqr8GIABIAZABAA==",
+      "msg" : "Na página de comprar disse que eu poderia pedir o reembolso sem complicações",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 09:06:03",
+      "delete" : false,
+      "identifier" : "CLOKqr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo que o Modo Caverna pode não ter sido exatamente o que você esperava, e que certas metodologias podem não se encaixar no seu perfil. No entanto, muitas vezes a adaptação leva um tempo, e há maneiras de personalizar a experiência para que ela funcione melhor para você. Podemos te ajudar a encontrar um ritmo mais confortável, ajustando a abordagem para algo mais alinhado ao seu estilo. Se quiser, podemos conversar sobre isso e buscar alternativas para que você consiga extrair o máximo possível dessa jornada.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 09:08:00",
+      "delete" : false,
+      "identifier" : "CKiLqr8GIABIAZABAA==",
+      "msg" : "Não não, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 09:13:46",
+      "delete" : false,
+      "identifier" : "CIKOqr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tudo bem, Moises",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 09:17:20",
+      "delete" : false,
+      "identifier" : "CNiPqr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O reembolso foi realizado.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 09:33:20",
+      "delete" : false,
+      "identifier" : "CJiXqr8GIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 09:37:06",
+      "delete" : false,
+      "identifier" : "CPqYqr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! ☺️",
+      "type" : "text"
+    }
+  ]
+})

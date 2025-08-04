@@ -1,0 +1,161 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 71 99287-4612",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:20:40",
+      "delete" : false,
+      "identifier" : "CLDw47gGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:20:55",
+      "delete" : false,
+      "identifier" : "CL\/w47gGIABIAZABAA==",
+      "msg" : "Como acesso a central pelo celular ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:21:06",
+      "delete" : false,
+      "identifier" : "CMrw47gGIABIAZABAA==",
+      "msg" : "Só entra no modo caverna. A central não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:35:38",
+      "delete" : false,
+      "mediaName" : "1ae7fe90-4e64-44fd-b05a-b4cc583350cd.opus",
+      "localPath" : "media\/d6744bb392054040dd6d1fb072534644bc955944.opus",
+      "mediaSize" : "13 KB",
+      "identifier" : "CLL347gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:52:09",
+      "delete" : false,
+      "identifier" : "CJH\/47gGIABIAZABAA==",
+      "msg" : "Laisevb@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:55:07",
+      "delete" : false,
+      "mediaName" : "1ac56ebd-4bcd-43b9-9cad-444a152114a5.opus",
+      "localPath" : "media\/dfb54f498bcc268032ae916c84f5f48d7b7069cd.opus",
+      "mediaSize" : "118 KB",
+      "identifier" : "CMOA5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:57"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:55:31",
+      "delete" : false,
+      "mediaName" : "e6571cd1-b497-41e7-8430-f63f65f4e305.opus",
+      "localPath" : "media\/5fdc9eb207c9a81d4a198f515167521a00f3f4a8.opus",
+      "mediaSize" : "45 KB",
+      "identifier" : "CNuA5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:22"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:55:37",
+      "delete" : false,
+      "identifier" : "COGA5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "centralcaverna.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:57:02",
+      "delete" : false,
+      "mediaName" : "8b0a5ead-fb5e-45ff-a390-0e366ef9bfd3.jpg",
+      "localPath" : "media\/90b1cc349a89baf712fccabbf468a307ca0fbe41.jpg",
+      "mediaSize" : "49 KB",
+      "identifier" : "CLaB5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/4212f6dcb2c39e1b73b95fce7f94b91abdc26e22"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:57:15",
+      "delete" : false,
+      "mediaName" : "5fccd72f-6b0b-40e1-b7e5-90e293f3f79d.jpg",
+      "localPath" : "media\/813974af4aaec7c30b73ee9bba90ddc36332b149.jpg",
+      "mediaSize" : "106 KB",
+      "identifier" : "CMOB5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/6679f87fadd1427839c0b8db1fd208b0ea7b7777"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:57:24",
+      "delete" : false,
+      "mediaName" : "c61b9fb2-38a3-42a3-b58e-75a141951ed3.opus",
+      "localPath" : "media\/16d1d12ee1526a3e726d17f41df533e3c68e4962.opus",
+      "mediaSize" : "9 KB",
+      "identifier" : "CMyB5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:04"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 11:18:15",
+      "delete" : false,
+      "identifier" : "CK+L5LgGIABIAZABAA==",
+      "msg" : "Obrigada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 11:18:53",
+      "delete" : false,
+      "identifier" : "CNWL5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 11:19:00",
+      "delete" : false,
+      "identifier" : "CNyL5LgGIABIAZABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 11:19:12",
+      "delete" : false,
+      "identifier" : "COiL5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,66 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Pedro Augusto",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 11:46:54",
+      "delete" : false,
+      "identifier" : "CObUzbkGIABIAZABAA==",
+      "msg" : "Boa é com você que solicito minhas placas de faturamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 11:57:29",
+      "delete" : false,
+      "identifier" : "COHZzbkGIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 11:58:40",
+      "delete" : false,
+      "mediaName" : "9dddd6c4-2cda-4725-a0aa-e77f389998c5.opus",
+      "localPath" : "media\/05ca24943fca14e7d9c8671e7e2ababf9b3b039c.opus",
+      "mediaSize" : "30 KB",
+      "identifier" : "CKjazbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 11:58:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CLvazbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 12:06:58",
+      "delete" : false,
+      "identifier" : "CJrezbkGIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:50:18",
+      "delete" : false,
+      "identifier" : "COKqzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer dúvida estou a disposição 😊",
+      "type" : "text"
+    }
+  ]
+})

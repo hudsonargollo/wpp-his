@@ -1,0 +1,46 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 64 99328-5203",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/21 02:52:13",
+      "delete" : false,
+      "identifier" : "CJWvmbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/21 02:52:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJyvmbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/21 02:52:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna\/Central Caverna",
+      "delete" : false,
+      "identifier" : "CK2vmbsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/21 02:52:39",
+      "delete" : false,
+      "identifier" : "CK+vmbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sem problemas! Todas as aulas do Modo Caverna estão agora dentro da Área de Conteúdos do sistema, basta acessar o app para assistir.",
+      "type" : "text"
+    }
+  ]
+})

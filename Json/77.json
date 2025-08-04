@@ -1,0 +1,629 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99153-4515",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:27:12",
+      "delete" : false,
+      "identifier" : "CLjercQGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:27:21",
+      "delete" : false,
+      "identifier" : "CMHercQGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:27:44",
+      "delete" : false,
+      "identifier" : "CNjercQGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Tinha comprado o modo caverna assim que lançou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:27:57",
+      "delete" : false,
+      "identifier" : "COXercQGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Lembro que a oferta era vitalícia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:28:06",
+      "delete" : false,
+      "identifier" : "CO7ercQGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Mas mesmo assim cobrou novamente o anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:28:15",
+      "delete" : false,
+      "identifier" : "CPfercQGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Mas o ponto é o seguinte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:28:25",
+      "delete" : false,
+      "identifier" : "CIHfrcQGIABIAZABAA==",
+      "msg" : "Na época que lançou, comprei pra mim e meu irmao",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:28:30",
+      "delete" : false,
+      "identifier" : "CIbfrcQGIABIAZABAA==",
+      "msg" : "Porém agora fui renovar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:28:50",
+      "delete" : false,
+      "identifier" : "CJrfrcQGIABIAZABAA==",
+      "msg" : "E a minha conta com email hugobenignoes@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:29:14",
+      "delete" : false,
+      "identifier" : "CLLfrcQGIABIAZABAA==",
+      "msg" : "Quando vou fazer o checkout vai para o email do meu irmão v_h_b@hotmail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:29:23",
+      "delete" : false,
+      "identifier" : "CLvfrcQGIABIAZABAA==",
+      "msg" : "Efetuei a compra 2 vezes seguidas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:29:27",
+      "delete" : false,
+      "identifier" : "CL\/frcQGIABIAZABAA==",
+      "msg" : "E bugou as duas vezes",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:29:36",
+      "delete" : false,
+      "identifier" : "CMjfrcQGIABIAZABAA==",
+      "msg" : "Nao consigo acessar nem no meu email",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:29:39",
+      "delete" : false,
+      "identifier" : "CMvfrcQGIABIAZABAA==",
+      "msg" : "Nem do meu irmão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:29:45",
+      "delete" : false,
+      "identifier" : "CNHfrcQGIABIAZABAA==",
+      "msg" : "Pode me ajudar por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 10:59:17",
+      "delete" : false,
+      "identifier" : "CL3trcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? Sim, a renovação é anual.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 10:59:30",
+      "delete" : false,
+      "identifier" : "CMrtrcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Em relação aos e-mails, irei verificar, um momento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 10:59:40",
+      "delete" : false,
+      "identifier" : "CNTtrcQGIABIAZABAA==",
+      "msg" : "Beleza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:03:32",
+      "delete" : false,
+      "identifier" : "CLzvrcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "pede pra seu irmão tentar acessar, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:04:30",
+      "delete" : false,
+      "identifier" : "CPbvrcQGIABIAZABAA==",
+      "msg" : "Tá falando que o email nao tem conta cadastrada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:04:38",
+      "delete" : false,
+      "identifier" : "CP7vrcQGIABIAZABAA==",
+      "msg" : "Mas entao",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:04:48",
+      "delete" : false,
+      "identifier" : "CIjwrcQGIABIAZABAA==",
+      "msg" : "Eu nao estava tentando comprar ele novamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:04:53",
+      "delete" : false,
+      "identifier" : "CI3wrcQGIABIAZABAA==",
+      "msg" : "Estava na minha conta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:05:04",
+      "delete" : false,
+      "identifier" : "CJjwrcQGIABIAZABAA==",
+      "msg" : "Quando tentei renovar o checkout da ticto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:05:10",
+      "delete" : false,
+      "identifier" : "CJ7wrcQGIABIAZABAA==",
+      "msg" : "Automaticamente cobrou no nome dele",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:05:17",
+      "delete" : false,
+      "identifier" : "CKXwrcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "é porque na ticto só ta tendo a compra do e-mail do seu irmão aprovada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:05:21",
+      "delete" : false,
+      "identifier" : "CKnwrcQGIABIAZABAA==",
+      "msg" : "Tem como passar a assinatura pro meu email? hugobenignoes@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:05:25",
+      "delete" : false,
+      "identifier" : "CK3wrcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "a que ta no seu e-mail, mostra como expirada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:05:59",
+      "delete" : false,
+      "identifier" : "CM\/wrcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "a assinatura dele?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:06:06",
+      "delete" : false,
+      "identifier" : "CNbwrcQGIABIAZABAA==",
+      "msg" : "Isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:06:08",
+      "delete" : false,
+      "identifier" : "CNjwrcQGIABIAZABAA==",
+      "msg" : "Na verdade",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:06:22",
+      "delete" : false,
+      "identifier" : "CObwrcQGIABIAZABAA==",
+      "msg" : "Eu paguei 2 assinaturas lá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:06:27",
+      "delete" : false,
+      "identifier" : "COvwrcQGIABIAZABAA==",
+      "msg" : "Teria como renovar as duas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:06:31",
+      "delete" : false,
+      "identifier" : "CO\/wrcQGIABIAZABAA==",
+      "msg" : "Ou cancelar a dele",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:06:36",
+      "delete" : false,
+      "identifier" : "CPTwrcQGIABIAZABAA==",
+      "msg" : "E renovar no meu email hugobenignoes@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:06:48",
+      "delete" : false,
+      "identifier" : "CIDxrcQGIABIAZABAA==",
+      "msg" : "Ja tinha tudo criado nessa minha conta, meus dados e etc",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:06:52",
+      "delete" : false,
+      "identifier" : "CITxrcQGIABIAZABAA==",
+      "msg" : "Vai me ajudar muito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:14:58",
+      "delete" : false,
+      "identifier" : "COr0rcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "tenta acessar com hugobenignoes@gmail.com agora, pra ver se consegue",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:15:09",
+      "delete" : false,
+      "identifier" : "CPX0rcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMDI3ODU3RThFNENEQjk0NTNAxO3ZhoYzSAB4iP\/+ioYzkAEA",
+      "msg" : "por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:25:49",
+      "delete" : false,
+      "identifier" : "CPX5rcQGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:27:10",
+      "delete" : false,
+      "identifier" : "CMb6rcQGIABIAZABAA==",
+      "msg" : "Agora deu certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:27:12",
+      "delete" : false,
+      "identifier" : "CMj6rcQGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:27:36",
+      "delete" : false,
+      "identifier" : "COD6rcQGIABIAZABAA==",
+      "msg" : "Voce pode me confirmar se tinha 2 comprar no email v_h_b@hotmail?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:27:47",
+      "delete" : false,
+      "identifier" : "COv6rcQGIABIAZABAA==",
+      "msg" : "Pode dar acesso a esse email tbm?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:29:13",
+      "delete" : false,
+      "identifier" : "CMH7rcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "na verdade não, porque a renovação que foi solicitada no e-mail Hugobenignoes não prosseguiu. Esta ára nós como assinatura canelada. Entõo, a aprovação que estava em v_h_b eu transferi para o seu e-mail.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:29:31",
+      "delete" : false,
+      "identifier" : "CNP7rcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "mas ai você pode comprar novamente, porém com os dados dele.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:29:40",
+      "delete" : false,
+      "identifier" : "CNz7rcQGIABIAZABAA==",
+      "msg" : "Perfeito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 11:29:45",
+      "delete" : false,
+      "identifier" : "COH7rcQGIABIAZABAA==",
+      "msg" : "Obrigado então",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:45:03",
+      "delete" : false,
+      "identifier" : "CPeCrsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ai se você quiser comprar novamente, me avisa!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 11:45:11",
+      "delete" : false,
+      "identifier" : "CP+CrsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você conseguiu acessar ai?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 12:01:10",
+      "delete" : false,
+      "identifier" : "CL6KrsQGIABIAZABAA==",
+      "msg" : "Beleza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 12:01:12",
+      "delete" : false,
+      "identifier" : "CMCKrsQGIABIAZABAA==",
+      "msg" : "Consegui sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 12:01:14",
+      "delete" : false,
+      "identifier" : "CMKKrsQGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 13:42:54",
+      "delete" : false,
+      "identifier" : "CJa6rsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "ÓTIMO.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 13:43:16",
+      "delete" : false,
+      "identifier" : "CKy6rsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você vai querer fazer a compra do outro acesso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 13:51:10",
+      "delete" : false,
+      "identifier" : "CIa+rsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "se quiser, te envio o link, me avise, qualquer coisa!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 14:03:22",
+      "delete" : false,
+      "identifier" : "COLDrsQGIABIAZABAA==",
+      "msg" : "Nao, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 14:04:50",
+      "delete" : false,
+      "identifier" : "CLrErsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "OK, te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 14:16:26",
+      "delete" : false,
+      "identifier" : "CPLJrsQGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 14:16:36",
+      "delete" : false,
+      "identifier" : "CPzJrsQGIABIAZABAA==",
+      "msg" : "Acabei de tentar logar no computador",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 14:16:38",
+      "delete" : false,
+      "identifier" : "CP7JrsQGIABIAZABAA==",
+      "msg" : "E nao deu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 14:16:55",
+      "delete" : false,
+      "identifier" : "CI\/KrsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "apareceu o qu tira um print, por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 14:17:21",
+      "delete" : false,
+      "identifier" : "CKnKrsQGIABIAZABAA==",
+      "msg" : "Agora deu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 14:17:24",
+      "delete" : false,
+      "identifier" : "CKzKrsQGIABIAZABAA==",
+      "msg" : "Limpei o cache",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 14:17:25",
+      "delete" : false,
+      "identifier" : "CK3KrsQGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 14:17:46",
+      "delete" : false,
+      "identifier" : "CMLKrsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "ótimo, tenta acessar sempre pelo navegador edge também, ele tem um desempenho melhor.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 14:17:54",
+      "delete" : false,
+      "identifier" : "CMrKrsQGIABIAZABAA==",
+      "msg" : "Showw",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 14:17:55",
+      "delete" : false,
+      "identifier" : "CMvKrsQGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 14:18:07",
+      "delete" : false,
+      "identifier" : "CNfKrsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! Qualquer coisa, é só chamar!",
+      "type" : "text"
+    }
+  ]
+})

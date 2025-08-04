@@ -1,0 +1,101 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 99 98489-3987",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/26 21:43:34",
+      "delete" : false,
+      "identifier" : "CL6t27wGIABIAJABAA==",
+      "msg" : "oii",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/26 21:43:44",
+      "delete" : false,
+      "identifier" : "CMit27wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/26 21:43:48",
+      "delete" : false,
+      "identifier" : "CMyt27wGIABIAJABAA==",
+      "msg" : "quero me afiliar a central caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/26 21:43:50",
+      "delete" : false,
+      "identifier" : "CM6t27wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/26 21:43:55",
+      "delete" : false,
+      "identifier" : "CNOt27wGIABIAJABAA==",
+      "msg" : "Angelo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/26 21:44:01",
+      "delete" : false,
+      "identifier" : "CNmt27wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Angelo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/26 21:44:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN+t27wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/26 21:44:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPit27wGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/26 21:44:39",
+      "delete" : false,
+      "identifier" : "CP+t27wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/26 21:44:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CISu27wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

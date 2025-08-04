@@ -1,0 +1,63 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 99249-3306",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/23 13:03:56",
+      "delete" : false,
+      "identifier" : "CPT15cIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/23 13:04:02",
+      "delete" : false,
+      "identifier" : "CPr15cIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/23 13:15:13",
+      "delete" : false,
+      "identifier" : "CJn75cIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pra acessar sua conta, é só entrar em:\napp.modocaverna.com\/login\nE fazer o login normalmente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/23 13:15:45",
+      "delete" : false,
+      "identifier" : "CLn75cIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Caso esqueceu\/não recebeu a sua senha, Acesse:\napp.modocaverna.com\/forgot-password\nPreencha com seu e-mail e siga as instruções pra recuperar sua senha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/23 13:23:25",
+      "delete" : false,
+      "identifier" : "CIX\/5cIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Testa trocar o seu navegador, limpar o histórico\/cache e tentar novamente. Se mesmo assim der erro, me avisa! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/03 16:16:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJium8MGIAA=",
+      "type" : ""
+    }
+  ]
+})

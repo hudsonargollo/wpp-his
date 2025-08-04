@@ -1,0 +1,112 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 62 99294-4841",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 21:23:44",
+      "delete" : false,
+      "identifier" : "CJj64r4GIABIAJABAA==",
+      "msg" : "ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 21:23:59",
+      "delete" : false,
+      "identifier" : "CKf64r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 21:24:05",
+      "delete" : false,
+      "identifier" : "CK364r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 21:24:13",
+      "delete" : false,
+      "identifier" : "CLX64r4GIABIAJABAA==",
+      "msg" : "rickeslley",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 21:24:19",
+      "delete" : false,
+      "identifier" : "CLv64r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *rickeslley*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 21:24:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMH64r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 21:54:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CMOI474GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 21:54:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMSI474GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/26 02:15:32",
+      "delete" : false,
+      "identifier" : "CPzXscAGIABIAZABAA==",
+      "msg" : "Opa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/26 02:15:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CIrYscAGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/26 02:16:09",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar o conteúdo",
+      "delete" : false,
+      "identifier" : "CKHYscAGIABIAZABAA==",
+      "type" : "file"
+    }
+  ]
+})

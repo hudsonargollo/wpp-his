@@ -1,0 +1,67 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 69 99292-5210",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/30 13:57:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPysycAGIAA=",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/30 13:57:28",
+      "delete" : false,
+      "identifier" : "CICtycAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/30 13:57:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIGtycAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 12:00:17",
+      "delete" : false,
+      "identifier" : "CImx+MAGIABIAJABAA==",
+      "msg" : "oi boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 12:01:05",
+      "delete" : false,
+      "mediaName" : "a31d810e-ecb2-45ad-9641-f1a7546027f1.jpg",
+      "localPath" : "media\/735bfd6907e8376657c8d7ef00d01f97e963eb10.jpg",
+      "mediaSize" : "157 KB",
+      "identifier" : "CLmx+MAGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/3e5575a820b2ba3eb796d89c6720d5927122d6c7"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 12:01:08",
+      "delete" : false,
+      "identifier" : "CLyx+MAGIABIAJABAA==",
+      "msg" : "vai liberar tudo por 1 ano?",
+      "type" : "text"
+    }
+  ]
+})

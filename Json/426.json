@@ -1,0 +1,81 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94593-2318",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 18:31:10",
+      "delete" : false,
+      "identifier" : "CKaawsIGIABIAJABAA==",
+      "msg" : "Boa noite, tudo bem? Vi que foi renovado meu acesso ao Central Caverna, no entanto eu não gostaria de ter continuado pois não estou utilizando a um tempo ja",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 18:32:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNmawsIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 18:32:27",
+      "delete" : false,
+      "identifier" : "CPOawsIGIABIAZABAA==",
+      "msg" : "Falar com suporte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 18:33:54",
+      "delete" : false,
+      "identifier" : "CMqbwsIGIABIAJABAA==",
+      "msg" : "Sua Assinatura expirou em 15 de junho de 2025",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/17 10:00:13",
+      "delete" : false,
+      "identifier" : "COXNxcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você poderia me enviar o seu CPF, por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/17 10:41:05",
+      "delete" : false,
+      "identifier" : "CPngxcIGIABIAZABAA==",
+      "msg" : "38281702850",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/17 10:48:46",
+      "delete" : false,
+      "identifier" : "CMbkxcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado.\nO valor será devolvido em até 7 dias úteis, na mesma forma de pagamento utilizada.\n\nSe um dia decidir voltar, a Caverna vai estar aqui. 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/17 12:42:56",
+      "delete" : false,
+      "identifier" : "CIiaxsIGIABIAZABAA==",
+      "msg" : "Muito obrigado pela ajuda",
+      "type" : "text"
+    }
+  ]
+})

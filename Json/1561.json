@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 97884-1924",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 15:09:43",
+      "delete" : false,
+      "identifier" : "CO\/N7LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, Samuel! tudo bem? \nAqui é a Bruna, suporte do Modo Caverna!\nGostaria de saber como está sendo sua experiencia com o sistema e o que está achando 😊\n\nCaso tenha alguma sugestão de melhoria ou integração, poderia registrá-la no formulário abaixo, por gentileza? ⬇️\nhttps:\/\/bit.ly\/avaliacao-cc",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 18:11:31",
+      "delete" : false,
+      "identifier" : "CIuj7boGIABIAZABAA==",
+      "msg" : "Oii",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 18:11:38",
+      "delete" : false,
+      "identifier" : "CJKj7boGIABIAZABAA==",
+      "msg" : "Está ótimo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 20:40:32",
+      "delete" : false,
+      "identifier" : "CPjo7boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, sua avaliação é muito importante para nós. Muito obrigada🔺🐺",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,59 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 67 99250-5249",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:35:46",
+      "delete" : false,
+      "identifier" : "COqYpLoGIABIAZABAA==",
+      "msg" : "Quero ganhar indicando a Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 08:59:24",
+      "delete" : false,
+      "mediaName" : "798aea73-b1fe-4e40-a058-6c51cb53bab8.opus",
+      "localPath" : "media\/eaf0140a0d530aaca0b63a8892ae459264345520.opus",
+      "mediaSize" : "17 KB",
+      "identifier" : "CKTZproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 08:59:25",
+      "delete" : false,
+      "identifier" : "CKXZproGIABIAZABAA==",
+      "msg" : "Agradecemos sua mensagem. Não estamos disponíveis no momento, mas responderemos assim que possível.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 19:35:33",
+      "delete" : false,
+      "identifier" : "CL2DqboGIABIAJABAA==",
+      "msg" : "mthcobainprojects@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:19:01",
+      "delete" : false,
+      "mediaName" : "1e727db7-f35e-4c69-8d91-b4cbc1db1d02.opus",
+      "localPath" : "media\/2d36bd346bc366c7b74ea54130189c11cc29c286.opus",
+      "mediaSize" : "57 KB",
+      "identifier" : "CM3ntroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:27"
+    }
+  ]
+})

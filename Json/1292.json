@@ -1,0 +1,174 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 97131-4695",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 18:51:08",
+      "delete" : false,
+      "identifier" : "CNT+pbwGIABIAJABAA==",
+      "msg" : "Olá boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 18:51:24",
+      "delete" : false,
+      "identifier" : "COT+pbwGIABIAJABAA==",
+      "msg" : "Eu quero cancelar a minha assinatura, não estou usando isso faz um tempo, não me adaptei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 18:51:25",
+      "delete" : false,
+      "identifier" : "COX+pbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 18:51:31",
+      "delete" : false,
+      "identifier" : "COv+pbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 18:51:39",
+      "delete" : false,
+      "identifier" : "CPP+pbwGIABIAJABAA==",
+      "msg" : "Comprei a central caverna e o modo canverna, só está gerando gasto no meu cartão e eu não uso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 18:51:46",
+      "delete" : false,
+      "identifier" : "CPr+pbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Comprei a central caverna e o modo canverna, só está gerando gasto no meu cartão e eu não uso*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 18:51:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CID\/pbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 19:01:55",
+      "delete" : false,
+      "identifier" : "CNuDprwGIABIAJABAA==",
+      "msg" : "Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/17 09:30:19",
+      "delete" : false,
+      "identifier" : "COOaqbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/17 09:31:23",
+      "delete" : false,
+      "identifier" : "CKObqbwGIABIAJABAA==",
+      "msg" : "Eu quero cancelar os dois produtos que tenho como assinatura. Nao tou usando, não consegui me adaptar e já encontrei outro app melhor, e tou pagando isso todo mes, não é justo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/17 09:31:43",
+      "delete" : false,
+      "identifier" : "CLebqbwGIABIAJABAA==",
+      "msg" : "Eu pago dois, a central caverna e o modo caverna, por favor, me ajude a bloquear isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/17 10:57:27",
+      "delete" : false,
+      "identifier" : "CM\/DqbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/17 10:57:40",
+      "delete" : false,
+      "identifier" : "CNzDqbwGIABIAJABAA==",
+      "msg" : "labdesacadas@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/17 10:59:08",
+      "delete" : false,
+      "identifier" : "CLTEqbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou realizar o cancelamento da renovação automática",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/17 10:59:32",
+      "delete" : false,
+      "identifier" : "CMzEqbwGIABIAJABAA==",
+      "msg" : "Quero que pare de vir no meu cartão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/17 11:01:06",
+      "delete" : false,
+      "mediaName" : "750def9e-129b-4803-8460-9b9d47be01ed.opus",
+      "localPath" : "media\/7a26e131c49757ffa91fe56224b6a2df45605ca9.opus",
+      "mediaSize" : "29 KB",
+      "identifier" : "CKrFqbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/17 11:01:23",
+      "delete" : false,
+      "identifier" : "CLvFqbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua assinatura não será renovada!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/17 11:09:42",
+      "delete" : false,
+      "identifier" : "CK7JqbwGIABIAJABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    }
+  ]
+})

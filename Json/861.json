@@ -1,0 +1,255 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 99674-3217",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 09:58:17",
+      "delete" : false,
+      "identifier" : "CPGuv78GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e quero receber o estorno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 09:58:32",
+      "delete" : false,
+      "identifier" : "CICvv78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 09:58:38",
+      "delete" : false,
+      "identifier" : "CIavv78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 09:58:43",
+      "delete" : false,
+      "identifier" : "CIuvv78GIABIAZABAA==",
+      "msg" : "Yuri",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 09:58:49",
+      "delete" : false,
+      "identifier" : "CJGvv78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Yuri*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 09:58:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJevv78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 09:59:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CKOvv78GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 09:59:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKSvv78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 09:59:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CKuvv78GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 09:59:17",
+      "delete" : false,
+      "identifier" : "CK2vv78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 09:59:56",
+      "delete" : false,
+      "identifier" : "CNSvv78GIABIAZABAA==",
+      "msg" : "Quero o estorno, comprei hoje e me arrependi\nYuri Muniz Gonzalez",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 10:07:29",
+      "delete" : false,
+      "identifier" : "CJmzv78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual seu e-mail ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 10:22:04",
+      "delete" : false,
+      "identifier" : "CIS6v78GIABIAZABAA==",
+      "msg" : "y.munizgonzalez@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 15:56:14",
+      "delete" : false,
+      "identifier" : "CNbWwL8GIABIAZABAA==",
+      "msg" : "Qual o prazo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 16:19:19",
+      "delete" : false,
+      "identifier" : "CL\/hwL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem ?\nVocê poderia nos explicar com mais detalhes o motivo do reembolso? Queremos garantir que nossos usuários tenham a melhor experiência possível.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 16:22:53",
+      "delete" : false,
+      "identifier" : "CJXjwL8GIABIAZABAA==",
+      "msg" : "Posso sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 16:22:57",
+      "delete" : false,
+      "identifier" : "CJnjwL8GIABIAZABAA==",
+      "msg" : "Não foi o que esperei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 22:43:09",
+      "delete" : false,
+      "identifier" : "CLWh178GIABIAJABAA==",
+      "msg" : "oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 22:43:25",
+      "delete" : false,
+      "identifier" : "CMWh178GIABIAJABAA==",
+      "msg" : "ainda não foi devolvido o dinheiro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 22:43:33",
+      "delete" : false,
+      "identifier" : "CM2h178GIABIAJABAA==",
+      "msg" : "vou ter que colocar no reclame aqui?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 08:17:05",
+      "delete" : false,
+      "identifier" : "CLmu2b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? Poderia me explicar melhor o que exatamente você não esperava?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 08:43:01",
+      "delete" : false,
+      "identifier" : "CM262b8GIABIAZABAA==",
+      "msg" : "Eu não gostei da metodologia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 08:43:47",
+      "delete" : false,
+      "identifier" : "CPu62b8GIABIAZABAA==",
+      "msg" : "Por favor, realizar o extorno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 08:49:39",
+      "delete" : false,
+      "identifier" : "CNu92b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Lamento que a metodologia não tenha atendido às suas expectativas. Estamos sempre em busca de melhorias, e o seu feedback é muito importante para nós.\n\nGostaria de entender um pouco mais sobre o que não agradou, para que possamos oferecer uma alternativa ou até mesmo um suporte personalizado para que você aproveite melhor o conteúdo.\n\nAlém disso, temos o Modo Caverna , que é mais completo, com vídeoaulas e acesso total ao sistema. Se você tiver interesse, posso liberar 1 mês gratuito para que possa explorar o aplicativo e ver se ele atende melhor às suas necessidades.\n\nFico à disposição para te ajudar no que for preciso! 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 08:50:23",
+      "delete" : false,
+      "identifier" : "CIe+2b8GIABIAZABAA==",
+      "msg" : "Eu só quero o estorno que meu direito, só isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 08:50:33",
+      "delete" : false,
+      "identifier" : "CJG+2b8GIAA6IEQyOERFNzgwRUMwMzI3MTAwQTU2M0FBQzg1RDIzNzNDQJKhjtPhMkgBeJ6VxdThMpABAA==",
+      "msg" : "Essa é a última vez que falo por aqui issso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 09:14:29",
+      "delete" : false,
+      "identifier" : "CK3J2b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, tudo bem!\n\nSeu reembolso foi processado com sucesso. Caso decida retornar no futuro, ficaremos muito felizes em tê-lo de volta. Estamos finalizando uma nova versão do sistema Modo Caverna, mais atualizada e com melhorias, que tenho certeza de que você vai gostar!\n\nFicamos à disposição para qualquer dúvida ou para quando você quiser voltar a utilizar nossos produtos.",
+      "type" : "text"
+    }
+  ]
+})

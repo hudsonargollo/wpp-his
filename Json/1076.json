@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 42 99830-8799",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/19 00:52:46",
+      "delete" : false,
+      "identifier" : "CJbazLgGIABIAJABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/19 00:56:30",
+      "delete" : false,
+      "identifier" : "CPbbzLgGIABIAJABAA==",
+      "msg" : "Só agora que vi a mensagem.\n\nJá aproveitando, muito bom toda a plataforma, as aulas, a estrutura toda!\n\nParabéns! Tudo muito bem produzido, cuidado e pensado.\n\nEu acabei de assistir a aula: SOMPAN: O que precisa ser feito.\n\nE o Iuri fala pra solicitar aqui pelo Whats o Documento. Gostaria de solicitar.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/19 08:55:17",
+      "delete" : false,
+      "identifier" : "CK28zrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia! Tudo bem?\nMuito obrigada pelo feedback 🤩\nVou estar te enviando o documento aqui!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/19 08:57:07",
+      "delete" : false,
+      "mediaName" : "O guia prático para definição de um plano de ação (1).pdf",
+      "localPath" : "media\/eb7d01ae2a4ee4d8014e5dc4293188f39cf6ed24.pdf",
+      "mediaSize" : "6,5 MB",
+      "identifier" : "CJu9zrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/371776ce29412757af36971971f67105bf7fe48c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 15:20:23",
+      "delete" : false,
+      "identifier" : "CO+2\/b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem?\nMe chamo Rafaella, gostaria de saber como está sendo sua experiência com o modo caverna, está conseguindo acessar normalmente? ☺️",
+      "type" : "text"
+    }
+  ]
+})

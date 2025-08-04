@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 98488-6994",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/06 14:26:36",
+      "delete" : false,
+      "identifier" : "CNTyyr8GIABIAJABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/06 14:26:46",
+      "delete" : false,
+      "identifier" : "CN7yyr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/06 14:26:52",
+      "delete" : false,
+      "identifier" : "COTyyr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/06 14:27:16",
+      "delete" : false,
+      "identifier" : "CPzyyr8GIABIAJABAA==",
+      "msg" : "Não consigo baixar 2 ebooks",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/06 16:11:16",
+      "delete" : false,
+      "identifier" : "CNyjy78GIABIAJABAA==",
+      "msg" : "deixa, consegui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 08:11:04",
+      "delete" : false,
+      "identifier" : "CNDlzr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nSou a Brenda e faço parte do suporte.\nQue ótimo que você conseguiu baixar os e-books, qualquer dúvida é só entrar em contato.",
+      "type" : "text"
+    }
+  ]
+})

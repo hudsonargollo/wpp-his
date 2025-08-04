@@ -1,0 +1,472 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 35 99238-9137",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:11:03",
+      "delete" : false,
+      "identifier" : "CM\/6xrcGIABIAZABAA==",
+      "msg" : "Ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:11:05",
+      "delete" : false,
+      "identifier" : "CNH6xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:11:13",
+      "delete" : false,
+      "identifier" : "CNn6xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:11:15",
+      "delete" : false,
+      "identifier" : "CNv6xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:11:21",
+      "delete" : false,
+      "identifier" : "COH6xrcGIABIAZABAA==",
+      "msg" : "Cassiano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:11:27",
+      "delete" : false,
+      "identifier" : "COf6xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Cassiano.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:11:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COr6xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:11:58",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "CIb7xrcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:12:00",
+      "delete" : false,
+      "identifier" : "CIj7xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, Central Caverna. Agora selecione uma opção que corresponda a sua dúvida\/problema.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:12:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIn7xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:12:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Como faço para acessar pela primeira vez o sistema da Central?",
+      "delete" : false,
+      "identifier" : "CJL7xrcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:12:13",
+      "delete" : false,
+      "identifier" : "CJX7xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para realizar seu primeiro acesso, coloque seu e-mail de compra nesse link: ⬇️\n\nhttps:\/\/centralcaverna.com\/onboarding e configure seu perfil.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:12:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJb7xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:15:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consegui.",
+      "delete" : false,
+      "identifier" : "CNv8xrcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:15:34",
+      "delete" : false,
+      "identifier" : "CN78xrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o seu problema... enquanto isso, vou te direcionar para um atendente. \n\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 09:00 às 18:00 de segunda à sexta, e \n das 09:00 às 12:00 aos sábados.\n\nAgora é só aguardar alguns minutos.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:18:52",
+      "delete" : false,
+      "identifier" : "CKT+xrcGIABIAZABAA==",
+      "msg" : "Estou tentando acessar o curso que adquiri e ele está bloqueado \nmaestro.cassiano@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:32:26",
+      "delete" : false,
+      "identifier" : "CNKEx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:32:49",
+      "delete" : false,
+      "identifier" : "COmEx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifiquei aqui e sua compra foi referente somente a plataforma Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:33:21",
+      "delete" : false,
+      "identifier" : "CImFx7cGIABIAZABAA==",
+      "msg" : "Uai mas paguei exatamente o preço anunciado 147",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:34:25",
+      "delete" : false,
+      "identifier" : "CMmFx7cGIABIAZABAA==",
+      "msg" : "Inclusive tenho um email oficial dizendo o link para o curso que adquiri.... Aí quando entro está bloqueado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:34:31",
+      "delete" : false,
+      "identifier" : "CM+Fx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso, esse é o antigo valor da Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:34:37",
+      "delete" : false,
+      "mediaName" : "5eb73eb3-bf4d-4945-af57-cabe438bf25b.jpg",
+      "localPath" : "media\/ffcd2592f4b9e26da20a46b0d8ec5aa38b09df5f.jpg",
+      "mediaSize" : "116 KB",
+      "identifier" : "CNWFx7cGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a27d4717132b5d02c750ee478c560824f3ef0e03"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:34:52",
+      "delete" : false,
+      "identifier" : "COSFx7cGIABIAZABAA==",
+      "msg" : "Sim, na promoção que compreo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:35:01",
+      "delete" : false,
+      "mediaName" : "81437294-deba-4f35-8c92-d711368d851e.opus",
+      "localPath" : "media\/20cdd8d756df900df63f51fa27b4905e6d8a85fa.opus",
+      "mediaSize" : "15 KB",
+      "identifier" : "CO2Fx7cGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:35:25",
+      "delete" : false,
+      "identifier" : "CIWGx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pronto, agora confere no seu email qual o produto que você comprou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:36:07",
+      "delete" : false,
+      "identifier" : "CK+Gx7cGIABIAJABAA==",
+      "msg" : "este email que recebi....e ao clicar vai para o curso do modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:36:13",
+      "delete" : false,
+      "identifier" : "CLWGx7cGIABIAJABAA==",
+      "msg" : "exatamente o que comprei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:36:17",
+      "delete" : false,
+      "identifier" : "CLmGx7cGIABIAJABAA==",
+      "msg" : "e esta bloeuqado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:36:22",
+      "delete" : false,
+      "mediaName" : "5373a557-50a9-40c8-8146-b53140cdcd31.opus",
+      "localPath" : "media\/8b39c956e9bd704d0ec0f7f6162fd9fea717ca3d.opus",
+      "mediaSize" : "100 KB",
+      "identifier" : "CL6Gx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:49"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:36:49",
+      "delete" : false,
+      "identifier" : "CNmGx7cGIABIAZABAA==",
+      "msg" : "E recebi o email pq?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:36:59",
+      "delete" : false,
+      "mediaName" : "8de804a2-5cfe-4b0d-9cf9-4237e2801109.jpg",
+      "localPath" : "media\/52be2da7f9cd640c8e3442ad592e399f96c516ea.jpg",
+      "mediaSize" : "64 KB",
+      "identifier" : "COOGx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/a9f552457e9844fd896ae72cb007c46d6af24cd5"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:37:13",
+      "delete" : false,
+      "mediaName" : "731241cf-f77d-4777-b73e-a4d95ba06bb8.jpg",
+      "localPath" : "media\/62714d146585289c21eab20f11bfc724f9841e0f.jpg",
+      "mediaSize" : "41 KB",
+      "identifier" : "CPGGx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/4d5056ed51604044130662c76b7b7a4b2d27972c"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:37:23",
+      "delete" : false,
+      "identifier" : "CPuGx7cGIABIAJABAA==",
+      "msg" : "uai, mas entao a propaganda nao foi clara",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:37:28",
+      "delete" : false,
+      "identifier" : "CICHx7cGIABIAJABAA==",
+      "msg" : "e fa'co o q?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:37:38",
+      "delete" : false,
+      "mediaName" : "9f76fb10-9e71-4e37-bc67-4c8082e20c21.opus",
+      "localPath" : "media\/26cc6f7f3330e44268049f3e64000282bdbdb71e.opus",
+      "mediaSize" : "36 KB",
+      "identifier" : "CIqHx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:38:34",
+      "delete" : false,
+      "mediaName" : "8198ad7e-4474-4a03-9fb5-efc9c31a762f.opus",
+      "localPath" : "media\/97bceda7781ed082e40ff85a572c81e10feed971.opus",
+      "mediaSize" : "23 KB",
+      "identifier" : "CMKHx7cGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:38:34",
+      "delete" : false,
+      "identifier" : "CMKHx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Caso você tenha interesse em adquirir o Modo Caverna, consigo te dar um desconto, por você já ter adquirido a Central",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:38:42",
+      "delete" : false,
+      "identifier" : "CMqHx7cGIABIAZABAA==",
+      "msg" : "Quanto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:53:25",
+      "delete" : false,
+      "identifier" : "CL2Ox7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fica por 12x de R$ 13,28 ou R$ 132,30 à vista",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 16:57:27",
+      "delete" : false,
+      "identifier" : "CK+Qx7cGIABIAJABAA==",
+      "msg" : "mande o link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:58:56",
+      "delete" : false,
+      "mediaName" : "518e710b-9162-4f63-966c-b2283aa9c55c.opus",
+      "localPath" : "media\/ddb591d24527cca29117823ba9827c301cd02112.opus",
+      "mediaSize" : "49 KB",
+      "identifier" : "CIiRx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:59:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJGRx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:59:23",
+      "delete" : false,
+      "identifier" : "CKORx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "No local de cupom você vai digitar 10off e aplicar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:59:30",
+      "delete" : false,
+      "identifier" : "CKqRx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "irá reduzir o valor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 17:43:14",
+      "delete" : false,
+      "identifier" : "COqlx7cGIABIAZABAA==",
+      "msg" : "Ol",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 17:43:15",
+      "delete" : false,
+      "identifier" : "COulx7cGIABIAZABAA==",
+      "msg" : "Ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 17:43:22",
+      "delete" : false,
+      "identifier" : "CPKlx7cGIABIAZABAA==",
+      "msg" : "O grupo de avisos não existe mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 17:44:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CMCmx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

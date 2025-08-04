@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 98741-2484",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 16:47:15",
+      "delete" : false,
+      "identifier" : "CMuJ9rsGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 16:47:20",
+      "delete" : false,
+      "identifier" : "CNCJ9rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 16:47:26",
+      "delete" : false,
+      "identifier" : "CNaJ9rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 16:47:45",
+      "delete" : false,
+      "identifier" : "COmJ9rsGIABIAZABAA==",
+      "msg" : "O aplicativo modo caverna é o que tem aquele curso do modo caverna original?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 21:00:40",
+      "delete" : false,
+      "identifier" : "CLCA97sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 21:00:59",
+      "delete" : false,
+      "identifier" : "CMOA97sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso",
+      "type" : "text"
+    }
+  ]
+})

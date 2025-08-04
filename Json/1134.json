@@ -1,0 +1,597 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 84 98710-2350",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/18 23:58:25",
+      "delete" : false,
+      "identifier" : "CNnUsbwGIABIAZABAA==",
+      "msg" : "Não consigo acessar o app modo caverna. Diz que a senha está errada.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 23:58:34",
+      "delete" : false,
+      "identifier" : "COLUsbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 23:58:40",
+      "delete" : false,
+      "identifier" : "COjUsbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/18 23:59:14",
+      "delete" : false,
+      "identifier" : "CIrVsbwGIABIAZABAA==",
+      "msg" : "Allan",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 23:59:21",
+      "delete" : false,
+      "identifier" : "CJHVsbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Allan*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 23:59:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJfVsbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/18 23:59:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CKLVsbwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 23:59:46",
+      "delete" : false,
+      "identifier" : "CKrVsbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 23:59:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK\/VsbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/19 00:00:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Como faço para acessar pela primeira vez o sistema?",
+      "delete" : false,
+      "identifier" : "CLjVsbwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/19 00:00:02",
+      "delete" : false,
+      "identifier" : "CLrVsbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para realizar seu primeiro acesso, coloque seu e-mail de compra e sua senha será seu CPF! Acesse no link abaixo: ⬇️\n\nhttps:\/\/modocaverna.com\/login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/19 00:00:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLvVsbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/19 00:00:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não! Ainda preciso de ajuda.",
+      "delete" : false,
+      "identifier" : "CNzVsbwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/19 00:00:38",
+      "delete" : false,
+      "identifier" : "CN7VsbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/19 13:46:59",
+      "delete" : false,
+      "identifier" : "CIvZtLwGIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/19 13:47:05",
+      "delete" : false,
+      "identifier" : "CJHZtLwGIABIAJABAA==",
+      "msg" : "Não consigo acessar meu produto.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 08:02:11",
+      "delete" : false,
+      "identifier" : "CLvauLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 08:02:24",
+      "delete" : false,
+      "identifier" : "CMjauLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual curso você comprou?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 08:02:31",
+      "delete" : false,
+      "identifier" : "CM\/auLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 08:26:58",
+      "delete" : false,
+      "identifier" : "CIrmuLwGIABIAZABAA==",
+      "msg" : "Desafio e o aplicativo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 08:27:01",
+      "delete" : false,
+      "identifier" : "CI3muLwGIABIAZABAA==",
+      "msg" : "allanfernandeso@yahoo.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:01:06",
+      "delete" : false,
+      "identifier" : "CKquubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Esse foi seu e-mail de compra?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 11:19:01",
+      "delete" : false,
+      "identifier" : "CN22ubwGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 11:19:09",
+      "delete" : false,
+      "identifier" : "COW2ubwGIABIAZABAA==",
+      "msg" : "Não aparece minhas compras lá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:21:03",
+      "delete" : false,
+      "identifier" : "CNe3ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não encontrei compra nesse e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 11:21:54",
+      "delete" : false,
+      "identifier" : "CIq4ubwGIABIAZABAA==",
+      "msg" : "TOP1801VIR62QD",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 11:22:08",
+      "delete" : false,
+      "identifier" : "CJi4ubwGIABIAZABAA==",
+      "msg" : "TOP1801QMD3MU",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 11:22:10",
+      "delete" : false,
+      "identifier" : "CJq4ubwGIABIAZABAA==",
+      "msg" : "As duas compras",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:25:39",
+      "delete" : false,
+      "identifier" : "COu5ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu cpf por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 11:26:31",
+      "delete" : false,
+      "identifier" : "CJ+6ubwGIABIAZABAA==",
+      "msg" : "104.934.544-46",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:28:29",
+      "delete" : false,
+      "identifier" : "CJW7ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "allanfernandeso@yahoo.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:28:44",
+      "delete" : false,
+      "identifier" : "CKS7ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu e-mail cadastrado na plataforma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:28:59",
+      "delete" : false,
+      "identifier" : "CLO7ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você não conseguiu realizar cadastro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:29:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CM+7ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 11:29:52",
+      "delete" : false,
+      "identifier" : "COi7ubwGIABIAZABAA==",
+      "msg" : "Quando acesso diz que não tem acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 11:30:21",
+      "delete" : false,
+      "identifier" : "CIW8ubwGIABIAZABAA==",
+      "msg" : "E-mail \nE a senha é o cpf",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:31:53",
+      "delete" : false,
+      "identifier" : "COG8ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você precisa realizar o cadastro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:31:58",
+      "delete" : false,
+      "identifier" : "COa8ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te enviei o link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 01:25:45",
+      "delete" : false,
+      "identifier" : "CNGJx7wGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 01:25:55",
+      "delete" : false,
+      "identifier" : "CNuJx7wGIABIAJABAA==",
+      "msg" : "Continuo sem conseguir acessar meu plano.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 01:26:06",
+      "delete" : false,
+      "identifier" : "COaJx7wGIABIAJABAA==",
+      "msg" : "Lá aparece apenas como se minha versão fosse de teste.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 01:26:31",
+      "delete" : false,
+      "mediaName" : "c0577d3c-a3ce-44f2-b7db-61df193e02b3.jpg",
+      "localPath" : "media\/d26642c44478b00669b6a22fe02b1a9c3a28e444.jpg",
+      "mediaSize" : "17 KB",
+      "identifier" : "CP+Jx7wGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/e201abb08178e5af996ca3ee258b1139c9a52441"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 01:28:21",
+      "delete" : false,
+      "mediaName" : "c2009fed-8042-40b0-a5c9-b0b2ff12b65a.jpg",
+      "localPath" : "media\/5e7607ce07f9fb87687d232192e685b68db584d0.jpg",
+      "mediaSize" : "27 KB",
+      "identifier" : "CO2Kx7wGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c5b0a7200b9b7b692b6c65da8668d5bae4fbc22a"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/23 08:59:24",
+      "delete" : false,
+      "identifier" : "CKTeyLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Allan! Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/23 08:59:55",
+      "delete" : false,
+      "identifier" : "CMPeyLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifica novamente por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 15:56:11",
+      "delete" : false,
+      "identifier" : "CNOAub0GIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 15:56:27",
+      "delete" : false,
+      "identifier" : "COOAub0GIABIAJABAA==",
+      "msg" : "Meu acesso está como o trial vencido. Sendo que comprei o plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 15:56:31",
+      "delete" : false,
+      "identifier" : "COeAub0GIABIAJABAA==",
+      "msg" : "Poderiam verificar pra mim?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/13 15:59:38",
+      "delete" : false,
+      "identifier" : "CKKCub0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Allan! Me envia seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 16:00:10",
+      "delete" : false,
+      "identifier" : "CMKCub0GIABIAJABAA==",
+      "msg" : "allanfernandeso@yahoo.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/13 16:04:05",
+      "delete" : false,
+      "identifier" : "CK2Eub0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifiquei aqui e sua conta está como trial pois o email utilizado na compra foi allanfernandeso@yahoo.com\nNesse email de compra seu acesso está ativo com a assinatura anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 16:04:29",
+      "delete" : false,
+      "identifier" : "CMWEub0GIABIAJABAA==",
+      "msg" : "Como meu email utilizado foi .com se chegou meu email normalmente na hora da compra?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 16:04:35",
+      "delete" : false,
+      "identifier" : "CMuEub0GIABIAJABAA==",
+      "msg" : "Acredito que há um erro no sistema de vocês",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 16:05:07",
+      "delete" : false,
+      "mediaName" : "6fddd652-baf4-4e98-bc29-81f19a94f6ef.jpg",
+      "localPath" : "media\/96bab471d69b9d9817f59a4b340d1112a48950a8.jpg",
+      "mediaSize" : "76 KB",
+      "identifier" : "COuEub0GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/f60d68ee7ff6c598ba2b20d712f3e9fd43b5b0f2"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/13 16:05:19",
+      "delete" : false,
+      "mediaName" : "bb9c14c6-c002-4945-bdd7-a9cfa1798b08.jpg",
+      "localPath" : "media\/a1af1ff8436a52c5d536cfdeac82ec41934cef26.jpg",
+      "mediaSize" : "30 KB",
+      "identifier" : "CPeEub0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/49d34a3fcae06673342da469e4f677fab52a1db4"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 16:05:21",
+      "delete" : false,
+      "identifier" : "CPmEub0GIABIAJABAA==",
+      "msg" : "Verifiquem o sistema e se der pra corrigir, agradeço.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 16:06:09",
+      "delete" : false,
+      "mediaName" : "7157a2d0-26ce-4ef4-a518-d0bcd1d2c325.jpg",
+      "localPath" : "media\/6b5c0c8f16518b7e2f9160df39f0b570653032c2.jpg",
+      "mediaSize" : "93 KB",
+      "identifier" : "CKmFub0GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/707d933b82797eb910bfdfd70e5cc61310b42fea"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/13 16:07:20",
+      "delete" : false,
+      "identifier" : "CPCFub0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, Allan, como te mostrei na imagem, seus dados de compra constam o email sem o .br.\nOs dados são enviados diretamente para o sistema, liberando o email de compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 16:07:50",
+      "delete" : false,
+      "identifier" : "CI6Gub0GIABIAJABAA==",
+      "msg" : "Deve ser erro aí. Mostrei o email da compra.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 16:08:04",
+      "delete" : false,
+      "identifier" : "CJyGub0GIABIAJABAA==",
+      "msg" : "De toda forma, não consigo acessar com o email que vc diz estar cadastrado.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/13 16:13:07",
+      "delete" : false,
+      "identifier" : "CMuIub0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Basta colocar seu cpf como senha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 16:13:26",
+      "delete" : false,
+      "identifier" : "CN6Iub0GIABIAJABAA==",
+      "msg" : "Obrigado. Deu certo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/13 16:28:37",
+      "delete" : false,
+      "identifier" : "CO2Pub0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida pode me mandar mensagem!",
+      "type" : "text"
+    }
+  ]
+})

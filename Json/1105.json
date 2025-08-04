@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99090-2571",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 21:34:11",
+      "delete" : false,
+      "identifier" : "CIvx2b0GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/19 21:34:20",
+      "delete" : false,
+      "identifier" : "CJTx2b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/19 21:34:26",
+      "delete" : false,
+      "identifier" : "CJrx2b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/19 21:49:21",
+      "delete" : false,
+      "identifier" : "CJn42b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,28 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 47 99637-9401",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 10:54:59",
+      "delete" : false,
+      "identifier" : "CLus0LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nMe chamo Bruna, sou responsável pelo suporte de afiliados. Vi que você se interessou na afiliação da Central Caverna, vou te mandar um PDF com o passo a passo! Qualquer dúvida que tiver, pode me mandar mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 10:55:07",
+      "mediaSize" : "1 KB",
+      "mediaName" : "AFILIADOS-CENTRAL (1).pdf",
+      "delete" : false,
+      "identifier" : "CMOs0LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/e09b9b69fc5d278344c873b09c884c5884ba7059"
+    }
+  ]
+})

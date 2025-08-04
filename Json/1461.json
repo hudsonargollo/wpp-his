@@ -1,0 +1,83 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 71 98408-0272",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/28 10:54:05",
+      "delete" : false,
+      "identifier" : "CIWGwLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 10:28:28",
+      "delete" : false,
+      "identifier" : "CITAyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nRecebi sua solicitação de reembolso, e como parte de nossa política de tratativa, aguardamos um período de 24 horas para receber uma resposta antes de dar continuidade ao processo. Como não tivemos retorno desde nossa última conversa, consideramos que você optou por não seguir com o reembolso, e por isso o processo foi suspenso temporariamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/31 09:49:27",
+      "delete" : false,
+      "identifier" : "CN\/Qz7sGIABIAZABAA==",
+      "msg" : "olá tudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/31 09:50:28",
+      "delete" : false,
+      "identifier" : "CJzRz7sGIABIAZABAA==",
+      "msg" : "o produto não atingiu minha expectativas, achei que seria vídeos aulas, ou algo do tipo, algo mais didático",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/31 17:15:28",
+      "delete" : false,
+      "identifier" : "COih0bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiu ter acesso a plataforma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/31 17:43:44",
+      "delete" : false,
+      "identifier" : "CIiv0bsGIABIAZABAA==",
+      "msg" : "sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 10:01:59",
+      "delete" : false,
+      "mediaName" : "654a058e-fad7-48da-8f1c-f9bd58ff9cc0.opus",
+      "localPath" : "media\/259e03f97e3b1bd23b315e7bf52d245796620d1e.opus",
+      "mediaSize" : "25 KB",
+      "identifier" : "CM+c2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 10:02:24",
+      "delete" : false,
+      "identifier" : "COic2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você tem o período avaliativo de 7 dias para utilizar a plataforma",
+      "type" : "text"
+    }
+  ]
+})

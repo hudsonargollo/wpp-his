@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 61 99196-8871",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 19:18:01",
+      "delete" : false,
+      "identifier" : "CKGx2b0GIABIAZABAA==",
+      "msg" : "Ola, boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 19:18:15",
+      "delete" : false,
+      "identifier" : "CK+x2b0GIABIAZABAA==",
+      "msg" : "Minha conta foi suspensa no Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 19:18:21",
+      "delete" : false,
+      "mediaName" : "912d07e8-85a2-4d4a-8c03-0add5b902260.jpg",
+      "localPath" : "media\/35c9c5067520a4398ce7be9e8c43e92a79145294.jpg",
+      "mediaSize" : "136 KB",
+      "identifier" : "CLWx2b0GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/fd42b60bc788d73b222752eeb9eb5b9c15a5c2f9"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 19:18:37",
+      "delete" : false,
+      "identifier" : "CMWx2b0GIABIAZABAA==",
+      "msg" : "gabrielcristofergl@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/20 07:47:46",
+      "delete" : false,
+      "identifier" : "CNqQ3L0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Gabriel! Atualiza a página por gentileza",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 34 99878-1094",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/08 20:25:41",
+      "delete" : false,
+      "mediaName" : "cd409be0-c041-4913-aea5-4bba7d831aef.jpg",
+      "localPath" : "media\/c37dab7a5c1fbac96167ad9b4e3821c983234eb8.jpg",
+      "mediaSize" : "138 KB",
+      "identifier" : "CP3V2LoGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/8bb9964a4e13543b699eed8523fa490adb32582b"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 08:02:23",
+      "delete" : false,
+      "identifier" : "CMec27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 09:47:25",
+      "delete" : false,
+      "identifier" : "COXN27oGIABIAZABAA==",
+      "msg" : "... Pra onde vão os conteúdos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 09:47:47",
+      "delete" : false,
+      "identifier" : "CPvN27oGIABIAZABAA==",
+      "msg" : "E tbm queria saber sobre a central caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 10:07:24",
+      "delete" : false,
+      "identifier" : "CJTX27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Os cursos estão disponíveis no Modo Caverna ☺️",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,26 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 95 98110-2299",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 08:39:01",
+      "delete" : false,
+      "identifier" : "CN2oubgGIABIAZABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 09:13:43",
+      "delete" : false,
+      "identifier" : "CP+4ubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩\nComo posso te ajudar?",
+      "type" : "text"
+    }
+  ]
+})

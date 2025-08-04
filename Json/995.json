@@ -1,0 +1,110 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 27 99843-1562",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/09 16:19:07",
+      "delete" : false,
+      "identifier" : "CLPTt74GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/09 16:19:20",
+      "delete" : false,
+      "identifier" : "CMDTt74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/09 16:19:26",
+      "delete" : false,
+      "identifier" : "CMbTt74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/09 16:19:30",
+      "delete" : false,
+      "identifier" : "CMrTt74GIABIAZABAA==",
+      "msg" : "yara",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/09 16:19:36",
+      "delete" : false,
+      "identifier" : "CNDTt74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *yara*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/09 16:19:42",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNbTt74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/09 16:20:06",
+      "delete" : false,
+      "identifier" : "CO7Tt74GIABIAZABAA==",
+      "msg" : "eu quero meu dinheiro de volta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/09 16:20:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPjTt74GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/09 16:20:53",
+      "delete" : false,
+      "identifier" : "CJ3Ut74GIABIAZABAA==",
+      "msg" : "???",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/09 19:21:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPaouL4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 20:03:55",
+      "delete" : false,
+      "identifier" : "COOCw74GIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    }
+  ]
+})

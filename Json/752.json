@@ -1,0 +1,72 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 44 99872-7968",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/24 21:25:07",
+      "delete" : false,
+      "identifier" : "COusq8AGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Desafio Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/24 21:25:16",
+      "delete" : false,
+      "identifier" : "CPSsq8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/24 21:25:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPWsq8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/24 21:26:16",
+      "delete" : false,
+      "identifier" : "CLCtq8AGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/26 09:20:33",
+      "delete" : false,
+      "identifier" : "CJmfs8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/26 09:20:46",
+      "delete" : false,
+      "identifier" : "CKafs8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "tudo bem contigo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/26 09:21:01",
+      "delete" : false,
+      "identifier" : "CLWfs8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "me chamo John, como você se chama?",
+      "type" : "text"
+    }
+  ]
+})

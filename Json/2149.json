@@ -1,0 +1,298 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94921-7077",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 17:54:03",
+      "delete" : false,
+      "identifier" : "CPPNzLcGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 17:54:23",
+      "delete" : false,
+      "identifier" : "CIfOzLcGIABIAZABAA==",
+      "msg" : "Gostaria de receber o SOMPAN",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 09:54:50",
+      "delete" : false,
+      "identifier" : "CKKQ0LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi, tudo certo por aí? 😊\n\nSou a Júlia, da equipe do Iuri Meira, e estou aqui para te ajudar com o que precisar!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 09:55:11",
+      "mediaSize" : "1 KB",
+      "mediaName" : "Ebook - Guia Prático para definição de um plano de ação (1).pdf",
+      "delete" : false,
+      "identifier" : "CLeQ0LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/b964bc3144b59f5d8c5c47c947911e592470184a"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 09:55:19",
+      "delete" : false,
+      "identifier" : "CL+Q0LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 15:47:27",
+      "delete" : false,
+      "identifier" : "CMe10bcGIABIAZABAA==",
+      "msg" : "Boa tarde Julia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 15:47:38",
+      "delete" : false,
+      "identifier" : "CNK10bcGIABIAZABAA==",
+      "msg" : "Ok, Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 16:11:50",
+      "delete" : false,
+      "identifier" : "CP7A0bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tudo ótimo e com você? Obrigada por perguntar!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 16:11:59",
+      "delete" : false,
+      "identifier" : "CIfB0bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 16:17:53",
+      "delete" : false,
+      "identifier" : "COnD0bcGIABIAZABAA==",
+      "msg" : "Tudo ótimo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 16:18:03",
+      "delete" : false,
+      "identifier" : "CPPD0bcGIABIAZABAA==",
+      "msg" : "Só isso mesmo, muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 16:36:20",
+      "delete" : false,
+      "identifier" : "CLzM0bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 16:59:41",
+      "delete" : false,
+      "identifier" : "CLXX0bcGIABIAZABAA==",
+      "msg" : "rapidinhoo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 16:59:53",
+      "delete" : false,
+      "identifier" : "CMHX0bcGIABIAZABAA==",
+      "msg" : "como posso editar a data dessas metas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 17:00:21",
+      "mediaSize" : "3 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN3X0bcGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/4d4f5ebd239d5858f05b89e0f3b50faf99a6b453"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 17:00:33",
+      "delete" : false,
+      "identifier" : "COnX0bcGIABIAZABAA==",
+      "msg" : "por que to iniciando o modo caverna agora!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 17:21:34",
+      "delete" : false,
+      "mediaName" : "bca6ee66-2f41-422e-8aeb-62fe0e8452a5.opus",
+      "localPath" : "media\/4519f38140748be7a3b2f7e510bcced41ec1d4af.opus",
+      "mediaSize" : "105 KB",
+      "identifier" : "CNbh0bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:51"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 17:39:03",
+      "delete" : false,
+      "identifier" : "CO\/p0bcGIABIAZABAA==",
+      "msg" : "aah sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 17:39:07",
+      "delete" : false,
+      "identifier" : "CPPp0bcGIABIAZABAA==",
+      "msg" : "entedi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 17:39:12",
+      "delete" : false,
+      "identifier" : "CPjp0bcGIABIAZABAA==",
+      "msg" : "muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 21:57:37",
+      "delete" : false,
+      "identifier" : "CInj0rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Júlia B.:*\nDe nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 00:23:41",
+      "delete" : false,
+      "identifier" : "CMWn07cGIABIAZABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 00:23:43",
+      "delete" : false,
+      "identifier" : "CMin07cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 00:24:01",
+      "delete" : false,
+      "identifier" : "CNmn07cGIABIAZABAA==",
+      "msg" : "Meu menu “Laboratório de Habitos” esta todo bugado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 00:24:09",
+      "mediaSize" : "822 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COGn07cGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b1197bf6b308924182d3c0e4a2938b9606ad4952"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 09:58:11",
+      "delete" : false,
+      "mediaName" : "90cce36b-f3c9-428e-9683-079a588121cb.opus",
+      "localPath" : "media\/ea6953c581c7b37eee61476ee42425a69fa59584.opus",
+      "mediaSize" : "35 KB",
+      "identifier" : "COu01bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 12:20:03",
+      "mediaSize" : "768 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKv31bcGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/d7be5fdd95ba8c62826ad7e3519e9b9d2172a05b"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 12:20:05",
+      "delete" : false,
+      "identifier" : "CK331bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 13:50:44",
+      "delete" : false,
+      "mediaName" : "b41a9d9a-b854-426e-b055-bcc8a752dc16.opus",
+      "localPath" : "media\/ed9e8da9bd479b44ef5461cc1c562a16468e1dcd.opus",
+      "mediaSize" : "29 KB",
+      "identifier" : "COyh1rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 13:50:54",
+      "delete" : false,
+      "mediaName" : "b415856e-ddc9-4962-85ce-85b5a02052a6.opus",
+      "localPath" : "media\/328f823396f8d84f962448aa5b1f8a1a306cffb4.opus",
+      "mediaSize" : "19 KB",
+      "identifier" : "CPah1rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    }
+  ]
+})

@@ -1,0 +1,83 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99141-7285",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 18:46:03",
+      "delete" : false,
+      "identifier" : "CKOpzLsGIABIAJABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 18:46:13",
+      "delete" : false,
+      "identifier" : "CK2pzLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 18:46:19",
+      "delete" : false,
+      "identifier" : "CLOpzLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 19:01:14",
+      "delete" : false,
+      "identifier" : "CLKwzLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 14:25:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CK3H9bsGIABIAZABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 14:25:58",
+      "delete" : false,
+      "identifier" : "CK7H9bsGIABIAZABAA==",
+      "msg" : "Utiliza o cupom: SOUIURI",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 14:26:12",
+      "delete" : false,
+      "identifier" : "CLzH9bsGIABIAZABAA==",
+      "msg" : "Olá Lucas! É um prazer ter você como parceiro do modo caverna. Me chamo Rafaella, estou aqui para te ajudar em todo o processo: desde a sua afiliação, até a escala das suas vendas.\n\nAqui abaixo está o passo a passo que você deverá seguir:",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 14:26:12",
+      "mediaSize" : "4 KB",
+      "mediaName" : "c8a418b2-77d3-4766-baff-d30b519997c2.thumb",
+      "localPath" : "media\/1a4b954accca95e917b7155ca248c79b9556f082.thumb",
+      "delete" : false,
+      "identifier" : "CLzH9bsGIABIAZABAA==",
+      "type" : ""
+    }
+  ]
+})

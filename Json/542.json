@@ -1,0 +1,36 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 12 99143-3549",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/29 22:06:10",
+      "delete" : false,
+      "identifier" : "CIqJ5MEGIABIAJABAA==",
+      "msg" : "oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/29 22:06:20",
+      "delete" : false,
+      "identifier" : "CJSJ5MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/29 22:06:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJaJ5MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

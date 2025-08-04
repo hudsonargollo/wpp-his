@@ -1,0 +1,65 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 93 99106-6305",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 09:46:18",
+      "delete" : false,
+      "identifier" : "CKLH\/7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem? Me chamo Bruna, sou da equipe de suporte do Iuri Meira. Acabei de verificar que consta um pedido do envelope dos escolhidos no seu nome, poderia me mandar o comprovante de pagamento, por gentileza? ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 09:46:42",
+      "delete" : false,
+      "identifier" : "CLrH\/7cGIABIAZABAA==",
+      "msg" : "Bom dia! Vou localizar aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 09:47:11",
+      "delete" : false,
+      "identifier" : "CNfH\/7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, Thay, estou no aguardo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 09:47:35",
+      "delete" : false,
+      "mediaName" : "28a2c606-2fc2-4028-8174-8342cd3264fb.jpg",
+      "localPath" : "media\/4e4b59333b706409ad712047f81b9abf9dc8b5d6.jpg",
+      "mediaSize" : "36 KB",
+      "identifier" : "CO\/H\/7cGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/32a36c10be0efa19a2cfb442823322d51d13892a"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 09:57:51",
+      "delete" : false,
+      "identifier" : "CNfM\/7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Obrigada pelo pagamento, estaremos realizando seu envio em breve! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 14:48:11",
+      "delete" : false,
+      "identifier" : "COOmoLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: AV026749989BR",
+      "type" : "text"
+    }
+  ]
+})

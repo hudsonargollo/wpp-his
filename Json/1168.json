@@ -1,0 +1,192 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99331-9741",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/03 18:31:21",
+      "delete" : false,
+      "identifier" : "CLHrhL0GIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 18:31:31",
+      "delete" : false,
+      "identifier" : "CLvrhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 18:31:37",
+      "delete" : false,
+      "identifier" : "CMHrhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/03 18:46:04",
+      "delete" : false,
+      "identifier" : "CKTyhL0GIABIAZABAA==",
+      "msg" : "Fabricia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 18:46:10",
+      "delete" : false,
+      "identifier" : "CKryhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Fabricia*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 18:46:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLHyhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/03 18:46:28",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLzyhL0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 18:46:36",
+      "delete" : false,
+      "identifier" : "CMTyhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 18:46:41",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMnyhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/03 18:46:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CNXyhL0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 18:46:55",
+      "delete" : false,
+      "identifier" : "CNfyhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/03 18:47:19",
+      "delete" : false,
+      "identifier" : "CO\/yhL0GIABIAZABAA==",
+      "msg" : "Quero cancelar a compra. \n\nfabricia.rezende@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/04 12:50:29",
+      "delete" : false,
+      "identifier" : "CM3uiL0GIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/04 12:51:13",
+      "delete" : false,
+      "identifier" : "CPnuiL0GIABIAZABAA==",
+      "msg" : "Preciso  de um retorno de vocês. \n\nJa fazem 2 dias que estou tentando cancelar minha compra e não tenho retorno.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/04 12:51:25",
+      "delete" : false,
+      "identifier" : "CIXviL0GIABIAZABAA==",
+      "msg" : "Modo caverna\n\nQuero cancelar a compra. \n\nfabricia.rezende@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/04 13:59:04",
+      "delete" : false,
+      "identifier" : "COCOib0GIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:43:52",
+      "delete" : false,
+      "identifier" : "CKDWjb0GIABIAZABAA==",
+      "msg" : "Bom dia.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:44:09",
+      "delete" : false,
+      "identifier" : "CLHWjb0GIABIAZABAA==",
+      "msg" : "Ainda aguardo o retorno de vocês para cancelamento sa minha compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 12:39:07",
+      "delete" : false,
+      "identifier" : "CKOMjr0GIABIAZABAA==",
+      "msg" : "Ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 12:39:20",
+      "delete" : false,
+      "identifier" : "CLCMjr0GIABIAZABAA==",
+      "msg" : "Alguém pode me dar retorno????",
+      "type" : "text"
+    }
+  ]
+})

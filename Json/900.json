@@ -1,0 +1,631 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 98 99188-9739",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 10:23:08",
+      "delete" : false,
+      "identifier" : "CMTFmr8GIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 10:23:12",
+      "delete" : false,
+      "identifier" : "CMjFmr8GIABIAZABAA==",
+      "msg" : "Posso pedir reembolso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 10:23:23",
+      "delete" : false,
+      "identifier" : "CNPFmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 10:23:29",
+      "delete" : false,
+      "identifier" : "CNnFmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 10:23:42",
+      "delete" : false,
+      "identifier" : "CObFmr8GIABIAZABAA==",
+      "msg" : "Antonny",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 10:23:49",
+      "delete" : false,
+      "identifier" : "CO3Fmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Antonny*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 10:23:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPPFmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 10:24:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPvFmr8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 10:24:10",
+      "delete" : false,
+      "identifier" : "CILGmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 10:24:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIfGmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 10:24:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CJHGmr8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 10:24:27",
+      "delete" : false,
+      "identifier" : "CJPGmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 10:24:42",
+      "delete" : false,
+      "identifier" : "CKLGmr8GIABIAZABAA==",
+      "msg" : "Posso pedir reembolso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 10:24:47",
+      "delete" : false,
+      "identifier" : "CKfGmr8GIABIAZABAA==",
+      "msg" : "antonnyb104@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 10:44:08",
+      "delete" : false,
+      "identifier" : "CLDPmr8GIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 10:50:54",
+      "delete" : false,
+      "identifier" : "CMbSmr8GIABIAZABAA==",
+      "msg" : "Meu e-book veio em branco",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:06:43",
+      "delete" : false,
+      "identifier" : "CPvZmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:07:14",
+      "mediaSize" : "13 KB",
+      "mediaName" : "be4c6b9f-cb5e-4808-a87e-fa5284438953.thumb",
+      "localPath" : "media\/d65aa68787f23df60cab1581c7c399da5a942eec.thumb",
+      "delete" : false,
+      "identifier" : "CJramr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:07:41",
+      "delete" : false,
+      "identifier" : "CLXamr8GIABIAZABAA==",
+      "msg" : "Já baixei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:07:44",
+      "delete" : false,
+      "identifier" : "CLjamr8GIABIAZABAA==",
+      "msg" : "Fica em branco",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:07:46",
+      "delete" : false,
+      "identifier" : "CLramr8GIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:08:37",
+      "delete" : false,
+      "mediaName" : "339a558a-ef88-4dbf-9e8a-413554908d4b.jpg",
+      "localPath" : "media\/38b03bf148860bb3ee9d548359329bd4fe02cdc9.jpg",
+      "mediaSize" : "24 KB",
+      "identifier" : "CO3amr8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a693e41c45fd0a70c11cce0ae27e2e9f23587b2e"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:10:14",
+      "delete" : false,
+      "identifier" : "CM7bmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode baixar um leitor de pdf, se continuar em branco, me sinaliza o e-book que você não está conseguindo visualizar.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:10:38",
+      "delete" : false,
+      "identifier" : "CObbmr8GIABIAZABAA==",
+      "msg" : "Já abri em 3 leitores diferentes",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:10:43",
+      "delete" : false,
+      "identifier" : "COvbmr8GIABIAZABAA==",
+      "msg" : "Até no drive",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:10:55",
+      "delete" : false,
+      "identifier" : "CPfbmr8GIABIAZABAA==",
+      "msg" : "Não tem como reembolsar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:10:59",
+      "delete" : false,
+      "identifier" : "CPvbmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual o e-book ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:11:44",
+      "delete" : false,
+      "identifier" : "CKjcmr8GIABIAZABAA==",
+      "msg" : "Todos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:12:48",
+      "delete" : false,
+      "mediaName" : "9d4f4340-cf13-4a46-aa8f-4ca86534f0f5.jpg",
+      "localPath" : "media\/fc0809a452390f0621dfc9d77afb8284c9f4dd98.jpg",
+      "mediaSize" : "22 KB",
+      "identifier" : "COjcmr8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/36aa5d54d48a15eb82f6971576b31dbfd0a09e7e"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:13:50",
+      "delete" : false,
+      "identifier" : "CKbdmr8GIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:14:47",
+      "delete" : false,
+      "identifier" : "CN\/dmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só um momento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:15:00",
+      "delete" : false,
+      "identifier" : "COzdmr8GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CMPlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:31",
+      "mediaSize" : "14,3 MB",
+      "mediaName" : "EBOOK-DETOX-DIGITAL.pdf",
+      "localPath" : "media\/2c624c78a1dfd6099e44300d43be0e2f82310e19.pdf",
+      "delete" : false,
+      "identifier" : "CMvlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:31",
+      "mediaSize" : "61,8 MB",
+      "mediaName" : "EBOOK-DESAFIO-MODO-CAVERNA-1.pdf",
+      "localPath" : "media\/0b7cb1954a22d0f2a0936dc9e384fc9b3feb9e3d.pdf",
+      "delete" : false,
+      "identifier" : "CMvlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:31",
+      "delete" : false,
+      "mediaName" : "OS-MANDAMENTOS-CAVERNA-2.pdf",
+      "localPath" : "media\/f3bd00249489c9b826a70244b404acf93d18bc00.pdf",
+      "mediaSize" : "27,1 MB",
+      "identifier" : "CMvlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/7e414ff3f77a144e16ba162c64caab7ebcf8eb43"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:31",
+      "delete" : false,
+      "mediaName" : "EBOOK-MARKETING-DIGITAL-PARA-INICIANTES.pdf",
+      "localPath" : "media\/0b32dbd75d3414153e5c3ef25a007eb0cdd737f6.pdf",
+      "mediaSize" : "5,7 MB",
+      "identifier" : "CMvlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/69d246d75571fcc785fb28af6d71b728518b059d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:31",
+      "delete" : false,
+      "mediaName" : "PLANNER-MODOCAVERNA.pdf",
+      "localPath" : "media\/2857721fa4917551a6dec2cc2fedb6177a75ac3b.pdf",
+      "mediaSize" : "1,1 MB",
+      "identifier" : "CMvlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/98ac32246394b526f7ccbcf81f78bf9e5db1b2cd"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:31",
+      "mediaSize" : "8,8 MB",
+      "mediaName" : "EBOOK-MANUAL-DE-CRIACAO-DE-BONS-HABITOS-.pdf",
+      "localPath" : "media\/cef3d59ffa8b20042669e2e3570c576a347829fb.pdf",
+      "delete" : false,
+      "identifier" : "CMvlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:31",
+      "delete" : false,
+      "mediaName" : "EBOOK-GUIA-PRATICO-PARA-DEFINICAO-DE-METAS.pdf",
+      "localPath" : "media\/209ba666e6e58f1fe0113c3ad48b428dd62828ca.pdf",
+      "mediaSize" : "18,3 MB",
+      "identifier" : "CMvlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/2aa9a906407d6a9d9fd4f51c9b2df4306a4f2899"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:31",
+      "delete" : false,
+      "mediaName" : "EBOOK-OS-SEGREDOS-DA-LEIDAATRACAO.pdf",
+      "localPath" : "media\/0c3a2a9ce2a16c744ca348ae4d7bb65dc0beafac.pdf",
+      "mediaSize" : "50 MB",
+      "identifier" : "CMvlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/09f78941499beb1935e1d09f03614ea8b77f38f2"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:31:31",
+      "delete" : false,
+      "mediaName" : "EBOOK-PROTOCOLO-ANTI-PROCRASTINACAO.pdf",
+      "localPath" : "media\/f8738d3e808d94cf1745be105858654cd74250d3.pdf",
+      "mediaSize" : "10,1 MB",
+      "identifier" : "CMvlmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/db16e8c1019a66950dc84b361ed54ad2ca35f28c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:32:25",
+      "delete" : false,
+      "identifier" : "CIHmmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Aqui estão todos os E-books",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:43:15",
+      "delete" : false,
+      "identifier" : "CIvrmr8GIABIAZABAA==",
+      "msg" : "Continua em branco",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:43:41",
+      "delete" : false,
+      "identifier" : "CKXrmr8GIABIAZABAA==",
+      "msg" : "Acho q é meu celular 😭",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:47:38",
+      "delete" : false,
+      "identifier" : "CJLtmr8GIABIAZABAA==",
+      "msg" : "Não tem como reembolsar? Não vou conseguir estudar o material assim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 11:57:32",
+      "delete" : false,
+      "identifier" : "COXxmr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Tente entrar em outro dispositivo para visualizar os ebooks",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:57:49",
+      "delete" : false,
+      "identifier" : "CPXxmr8GIABIAZABAA==",
+      "msg" : "Não tenho outro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 11:58:03",
+      "delete" : false,
+      "identifier" : "CIPymr8GIABIAZABAA==",
+      "msg" : "Tem como ou não tem como eu reembolsar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 12:36:20",
+      "delete" : false,
+      "identifier" : "CPyDm78GIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/28 14:55:10",
+      "delete" : false,
+      "identifier" : "CIbFm78GIABIAZABAA==",
+      "msg" : "Suporte é ruim em",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 15:11:51",
+      "delete" : false,
+      "identifier" : "CO\/Mm78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Em virtude das circunstâncias apresentadas, informamos que não será possível realizar o reembolso solicitado.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/28 15:12:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJPNm78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 16:55:19",
+      "delete" : false,
+      "identifier" : "CK\/mq78GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 16:55:22",
+      "delete" : false,
+      "identifier" : "CLLmq78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 16:55:28",
+      "delete" : false,
+      "identifier" : "CLjmq78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 16:55:49",
+      "delete" : false,
+      "identifier" : "CM3mq78GIABIAZABAA==",
+      "msg" : "Baixo os ebook mas fica em branco",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 16:58:39",
+      "delete" : false,
+      "identifier" : "CPfnq78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 16:59:05",
+      "delete" : false,
+      "identifier" : "CJHoq78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você poderia acessar os e-books de outro dispositivo ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 16:59:21",
+      "delete" : false,
+      "identifier" : "CKHoq78GIABIAZABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 16:59:24",
+      "delete" : false,
+      "identifier" : "CKToq78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tente limpar o cache do leitor de pdf ou do Microsoft",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 16:59:34",
+      "delete" : false,
+      "identifier" : "CK7oq78GIABIAZABAA==",
+      "msg" : "Já fiz isso 😭",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 17:03:39",
+      "delete" : false,
+      "identifier" : "CKPqq78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Provavelmente é seu celular, testei por dois dispositivos diferentes e não alertam problemas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 17:05:47",
+      "delete" : false,
+      "identifier" : "CKPrq78GIABIAZABAA==",
+      "msg" : "Poxa e agora",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/31 17:05:56",
+      "delete" : false,
+      "identifier" : "CKzrq78GIABIAZABAA==",
+      "msg" : "Gastei dinheiro em vão",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,257 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Alan",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/05 12:49:12",
+      "delete" : false,
+      "identifier" : "CID5hsIGIAA6FDNBMDFFQjBENDgxMjkyNTk5QzM2QKTop4b0MkgBeMC\/ge\/3MpABAA==",
+      "msg" : "Boa tarde, fui verificar minha fatura e não foi autorizado o parcelamento nem a assinatura do Modo caverna. Apenas fui notificado com a cobrança. Preciso de ajuda! Eu não escolhi nenhum plano. Quero continuar com o modo caverna mas quero escolher o plano e com as parcelas que eu quiser não automático assim.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/05 15:19:28",
+      "delete" : false,
+      "mediaName" : "e62abfc8-85cb-464c-8ad1-74f3fae3e80b.m4a",
+      "localPath" : "media\/48f81687904e067b9d015a12c76d3ce1bf07d23e.m4a",
+      "mediaSize" : "259 KB",
+      "identifier" : "CLi\/h8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/05 15:20:46",
+      "delete" : false,
+      "mediaName" : "2a52c362-5d8c-4965-9a8c-851aba79c3b1.m4a",
+      "localPath" : "media\/b270628dd6c507ad2d36932e25a1b1022d4f3729.m4a",
+      "mediaSize" : "270 KB",
+      "identifier" : "CIbAh8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/05 20:57:28",
+      "delete" : false,
+      "identifier" : "CPDdiMIGIABIAZABAA==",
+      "msg" : "Foi autorizado tudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/05 20:57:33",
+      "delete" : false,
+      "identifier" : "CPXdiMIGIABIAZABAA==",
+      "msg" : "Mas eu não tava ciente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/05 20:57:41",
+      "delete" : false,
+      "identifier" : "CP3diMIGIABIAZABAA==",
+      "msg" : "Eu não selecionei nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/05 20:57:54",
+      "delete" : false,
+      "identifier" : "CIreiMIGIABIAZABAA==",
+      "msg" : "Não escolhi o plano e nem as parcelas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/05 20:58:10",
+      "delete" : false,
+      "identifier" : "CJreiMIGIABIAZABAA==",
+      "msg" : "Entendeu ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/05 20:58:56",
+      "delete" : false,
+      "identifier" : "CMjeiMIGIABIAZABAA==",
+      "msg" : "Não sei se já estava com algum sistema de recorrência",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/05 20:58:59",
+      "delete" : false,
+      "identifier" : "CMveiMIGIABIAZABAA==",
+      "msg" : "Mas mesmo assim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/06 08:20:41",
+      "delete" : false,
+      "mediaName" : "788db756-0aa7-4d46-8388-219501dd8ee4.m4a",
+      "localPath" : "media\/d697f0b6e1953fae789009d225cc27bcd259d644.m4a",
+      "mediaSize" : "283 KB",
+      "identifier" : "CJGei8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/06 08:20:52",
+      "delete" : false,
+      "mediaName" : "48ffea59-4e37-4210-9213-58de3516b65a.m4a",
+      "localPath" : "media\/30d38cea583730aff8e16cf738c7fb2a045ab50e.m4a",
+      "mediaSize" : "121 KB",
+      "identifier" : "CJyei8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 15:41:04",
+      "delete" : false,
+      "identifier" : "CMjsjMIGIABIAZABAA==",
+      "msg" : "Sim sim, mas pedindo reembolso eu perco acesso completo a plataforma ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 15:41:17",
+      "delete" : false,
+      "identifier" : "CNXsjMIGIABIAZABAA==",
+      "msg" : "Até resolver tudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/06 15:46:56",
+      "delete" : false,
+      "identifier" : "CKjvjMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sim!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/06 15:47:44",
+      "delete" : false,
+      "mediaName" : "858bda0f-bb3b-47b8-ac68-5f27aa0a3d24.m4a",
+      "localPath" : "media\/60b365cd9b5422ed90621aad4c8444bef3e403a1.m4a",
+      "mediaSize" : "315 KB",
+      "identifier" : "CNjvjMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 08:41:01",
+      "delete" : false,
+      "identifier" : "CNXiusIGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 11:22:55",
+      "delete" : false,
+      "identifier" : "CMeuu8IGIABIAZABAA==",
+      "msg" : "Quero cancelar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 11:23:01",
+      "delete" : false,
+      "identifier" : "CM2uu8IGIABIAZABAA==",
+      "msg" : "E fazer do meu jeito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 11:23:17",
+      "delete" : false,
+      "identifier" : "CN2uu8IGIABIAZABAA==",
+      "msg" : "Poderiam iniciar o cancelamento juntamente com o reembolso ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 11:23:27",
+      "delete" : false,
+      "identifier" : "COeuu8IGIABIAZABAA==",
+      "msg" : "Esqueci de falar que poderia realizar o processo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/18 15:27:07",
+      "delete" : false,
+      "identifier" : "CIOKzMIGIABIAZABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/18 15:27:20",
+      "delete" : false,
+      "identifier" : "CJCKzMIGIABIAZABAA==",
+      "msg" : "No meu plano não tem aquela parte da área financeira",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/18 15:27:34",
+      "delete" : false,
+      "identifier" : "CJ6KzMIGIABIAZABAA==",
+      "msg" : "Mas no upgrade eu só teria interesse nela",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/18 15:27:48",
+      "delete" : false,
+      "identifier" : "CKyKzMIGIABIAZABAA==",
+      "msg" : "Nesse plano não tem opção de ter essa parte financeira não ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/18 15:31:58",
+      "delete" : false,
+      "identifier" : "CKaMzMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Alan, beleza? 🐺\n\nO seu plano da direito a tudo dentro da plataforma, inclusive os cursos e ebooks extras.\n\nTesta trocar o seu navegador, limpar o histórico\/cache e tentar novamente. Se mesmo assim der erro, me avisa! 🐺",
+      "type" : "text"
+    }
+  ]
+})

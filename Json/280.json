@@ -1,0 +1,119 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98341-1610",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/09 18:44:16",
+      "delete" : false,
+      "identifier" : "CLjFu8MGIABIAJABAA==",
+      "msg" : "Boa noite, tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/09 18:44:28",
+      "delete" : false,
+      "identifier" : "CMTFu8MGIABIAJABAA==",
+      "msg" : "Preciso que a minha assinatura anual seja cancelada, e seja feito o reembolso por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/09 18:44:42",
+      "delete" : false,
+      "identifier" : "CNLFu8MGIABIAJABAA==",
+      "msg" : "Conta: ggteles@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 09:02:41",
+      "delete" : false,
+      "identifier" : "COnXvsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Guilherme! Tudo bem?\nPoderia me detalhar melhor o motivo da sua solicitação de reembolso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 09:53:01",
+      "delete" : false,
+      "identifier" : "CLXvvsMGIABIAZABAA==",
+      "msg" : "Acabei me organizando de outras formas, nao estou utilizando ha mais de meses kk",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 10:08:49",
+      "delete" : false,
+      "identifier" : "COn2vsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Acabei de verificar aqui e foi sua renovação, correto?\nNós aprimoramos o sistema e fizemos uma área exclusiva para cursos como o Modo Caverna, Clube da luta e cursos bônus! Você tem interesse em acessar para utilizar as novas funcionalidades antes de prosseguir com sua decisão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 12:10:31",
+      "delete" : false,
+      "identifier" : "CO+vv8MGIABIAZABAA==",
+      "msg" : "Nao tenho interesse, preciso seguir com o cancelamento da assinatura e reembolso, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 15:28:00",
+      "delete" : false,
+      "identifier" : "CLiMwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sinto muito por isso, e respeitamos sua decisão. Estarei iniciando o procedimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 15:30:14",
+      "delete" : false,
+      "mediaName" : "4d686d8b-2ec3-40ec-a599-2a6048d37478.jpg",
+      "localPath" : "media\/2f0a8ceea35560f3c8768ba0c1a34e21e4f93c6e.jpg",
+      "mediaSize" : "56 KB",
+      "identifier" : "CL6NwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/bb8141a7330af7eb5cd95c3357db2284e4243f6c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 15:32:27",
+      "delete" : false,
+      "identifier" : "CMOOwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Confira seu e-mail, por gentileza!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 17:29:38",
+      "delete" : false,
+      "identifier" : "CLrFwMMGIABIAZABAA==",
+      "msg" : "Ok, obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 17:30:24",
+      "delete" : false,
+      "identifier" : "COjFwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha!",
+      "type" : "text"
+    }
+  ]
+})

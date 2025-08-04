@@ -1,0 +1,53 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 62 98553-1063",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/21 09:12:38",
+      "delete" : false,
+      "identifier" : "CL6evrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/21 10:29:32",
+      "delete" : false,
+      "identifier" : "CMTCvrwGIABIAJABAA==",
+      "msg" : "Não vou conseguir estudar o material",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/26 12:37:22",
+      "delete" : false,
+      "identifier" : "CLqt2bwGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/26 12:37:41",
+      "delete" : false,
+      "identifier" : "CM2t2bwGIABIAZABAA==",
+      "msg" : "Quero saber se foi reembolsado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/26 12:37:48",
+      "delete" : false,
+      "identifier" : "CNSt2bwGIABIAZABAA==",
+      "msg" : "Porque na plataforma não está aparecendo",
+      "type" : "text"
+    }
+  ]
+})

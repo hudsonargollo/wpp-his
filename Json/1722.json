@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 99524-7774",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 13:14:49",
+      "delete" : false,
+      "identifier" : "CIGuoroGIABIAZABAA==",
+      "msg" : "Quero ganhar indicando a Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 15:05:48",
+      "delete" : false,
+      "mediaName" : "d47fbbaa-7398-4646-a20b-e4687fd1258c.opus",
+      "localPath" : "media\/733faa713c3f5198b01713cd0df5ab6c44e1f139.opus",
+      "mediaSize" : "61 KB",
+      "identifier" : "CITioroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 15:06:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CKLioroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 15:09:18",
+      "mediaSize" : "2 KB",
+      "mediaName" : "558516ac-ae9e-44ff-853a-67d8a9c18253.thumb",
+      "localPath" : "media\/56ddf2cd1035fc9bc033fbc77e9cb51766568caf.thumb",
+      "delete" : false,
+      "identifier" : "CNbjoroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 15:10:19",
+      "delete" : false,
+      "mediaName" : "7c40c6fd-707a-40c5-9996-6060aa526a4c.opus",
+      "localPath" : "media\/8840506feb0fe0e2bb203b134b304e72920b61f0.opus",
+      "mediaSize" : "34 KB",
+      "identifier" : "CJPkoroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    }
+  ]
+})

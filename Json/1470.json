@@ -1,0 +1,26 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 24 99308-7330",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 16:09:43",
+      "delete" : false,
+      "identifier" : "CP\/p7LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, João! tudo bem? \nAqui é a Bruna, suporte do Modo Caverna!\nGostaria de saber como está sendo sua experiencia com o sistema e o que está achando 😊\n\nCaso tenha alguma sugestão de melhoria ou integração, poderia registrá-la no formulário abaixo, por gentileza? ⬇️\nhttps:\/\/bit.ly\/avaliacao-cc",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/31 14:56:14",
+      "delete" : false,
+      "identifier" : "CMbg0LsGIABIAJABAA==",
+      "msg" : "Olá, vim da Central Caverna e desejo solicitar o cancelamento do meu plano",
+      "type" : "text"
+    }
+  ]
+})

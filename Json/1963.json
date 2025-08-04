@@ -1,0 +1,139 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94750-2785",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/24 20:58:40",
+      "delete" : false,
+      "identifier" : "CLi+67gGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 20:58:41",
+      "delete" : false,
+      "identifier" : "CLm+67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 20:58:41",
+      "delete" : false,
+      "identifier" : "CLm+67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 20:58:53",
+      "delete" : false,
+      "identifier" : "CMW+67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!*\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 20:58:59",
+      "delete" : false,
+      "identifier" : "CMu+67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/24 20:59:10",
+      "delete" : false,
+      "identifier" : "CNa+67gGIABIAZABAA==",
+      "msg" : "Marta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 20:59:16",
+      "delete" : false,
+      "identifier" : "CNy+67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Marta*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 20:59:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COK+67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/24 21:00:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "CJy\/67gGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 21:00:27",
+      "delete" : false,
+      "identifier" : "CKO\/67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre a Central Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 21:00:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKi\/67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/24 21:00:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Como faço para acessar pela primeira vez o sistema da Central?",
+      "delete" : false,
+      "identifier" : "CLa\/67gGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 21:00:49",
+      "delete" : false,
+      "identifier" : "CLm\/67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para realizar seu primeiro acesso, coloque seu e-mail de compra nesse link: ⬇️\n\nhttps:\/\/centralcaverna.com\/onboarding\n\nDepois configure seu perfil.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 21:00:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLq\/67gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

@@ -1,0 +1,262 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 34 99159-7465",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 17:12:41",
+      "delete" : false,
+      "identifier" : "CMHKybkGIABIAZABAA==",
+      "msg" : "Fechado, muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 17:13:18",
+      "delete" : false,
+      "identifier" : "CObKybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 13:33:53",
+      "delete" : false,
+      "identifier" : "CPmGzrkGIABIAZABAA==",
+      "msg" : "Boa tarde,  sou eu de novo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 13:34:07",
+      "delete" : false,
+      "identifier" : "CIeHzrkGIABIAZABAA==",
+      "msg" : "Tenho mais uma dúvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 13:34:09",
+      "mediaSize" : "312 KB",
+      "mediaName" : "b353292b-cd73-4fb3-badb-0418dd3b592e.webp",
+      "localPath" : "media\/b353292b-cd73-4fb3-badb-0418dd3b592e.png.webp",
+      "delete" : false,
+      "identifier" : "CImHzrkGIABIAZABAA==",
+      "type" : "photo"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 13:35:39",
+      "delete" : false,
+      "mediaName" : "56729e3c-258b-4e72-ae3f-f1ba51322178.jpg",
+      "localPath" : "media\/92019d746fbe7c073ec8de008a28aa69a06532f9.jpg",
+      "mediaSize" : "87 KB",
+      "identifier" : "COOHzrkGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b3f5f0955df825c727b09a7212d1076d27e0c2f4"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 13:38:26",
+      "delete" : false,
+      "mediaName" : "8e5cee14-ae4d-4eaa-b72d-ca60c4246145.opus",
+      "localPath" : "media\/0fe44bc0ee4e2db0a774fd5113cd9bdb3518a634.opus",
+      "mediaSize" : "156 KB",
+      "identifier" : "CIqJzrkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "01:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:11:32",
+      "delete" : false,
+      "mediaName" : "da31f46e-be7f-4b68-bd49-fbcfbbc9453d.opus",
+      "localPath" : "media\/58a039d3de090d1b5b250fc8069198f5531f91da.opus",
+      "mediaSize" : "28 KB",
+      "identifier" : "CNy0zrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:27:21",
+      "delete" : false,
+      "identifier" : "CJG8zrkGIABIAZABAA==",
+      "msg" : "Tá bom",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:41:28",
+      "delete" : false,
+      "mediaName" : "87e5894e-4ef6-444c-9384-9b8a88c4ed54.opus",
+      "localPath" : "media\/2c7b1c7e2c70455e4eb043bd902e45a5b7437293.opus",
+      "mediaSize" : "58 KB",
+      "identifier" : "CODCzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:28"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:44:08",
+      "delete" : false,
+      "mediaName" : "34a98f37-e2ec-45f8-b0e4-b9b43387a6f8.opus",
+      "localPath" : "media\/6f39622dafd512f5f2aacf6ef7c5d09d62f9e3fc.opus",
+      "mediaSize" : "20 KB",
+      "identifier" : "CIDEzrkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:54:57",
+      "delete" : false,
+      "mediaName" : "9956e7fe-8bac-4197-8c08-be87bde0c7c4.opus",
+      "localPath" : "media\/789b7486efe2e2a8ec0ce76463c24c1f5b0072ee.opus",
+      "mediaSize" : "15 KB",
+      "identifier" : "CInJzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:56:01",
+      "delete" : false,
+      "identifier" : "CMnJzrkGIABIAZABAA==",
+      "msg" : "Tomara kkk",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:59:17",
+      "delete" : false,
+      "identifier" : "CI3LzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "🚀🔺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/18 08:09:27",
+      "delete" : false,
+      "identifier" : "CO\/A7LkGIABIAZABAA==",
+      "msg" : "Bom diaa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/18 08:09:36",
+      "delete" : false,
+      "mediaName" : "7f4300ee-a579-49d3-93d0-996d49d956d1.jpg",
+      "localPath" : "media\/396aef85e74e7074c9c7d4516e5d81296601f56c.jpg",
+      "mediaSize" : "44 KB",
+      "identifier" : "CPjA7LkGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a16e45e97bb355afa9290ae0e76151ab71448239"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/18 08:11:14",
+      "delete" : false,
+      "mediaName" : "0b1e1248-65e8-4e2a-b462-cbee33216144.opus",
+      "localPath" : "media\/3add0b4c71dbf295636adf7491484c85903ff440.opus",
+      "mediaSize" : "37 KB",
+      "identifier" : "CNrB7LkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/18 08:11:21",
+      "delete" : false,
+      "mediaName" : "0395f767-b0f3-4516-8ee5-74459b73eb8b.opus",
+      "localPath" : "media\/e84d80de5b94b81f637d879e6bf524c7298ba304.opus",
+      "mediaSize" : "11 KB",
+      "identifier" : "COHB7LkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:05"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 09:58:17",
+      "delete" : false,
+      "mediaName" : "78b81aab-8675-483e-b1f3-2a07121d2c5b.opus",
+      "localPath" : "media\/b7035e8337de12110313e20b32a53d9c04abf47f.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "CPHz7LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/18 10:02:14",
+      "delete" : false,
+      "mediaName" : "23943151-f119-4cf6-b7d7-e3e723021ea7.opus",
+      "localPath" : "media\/2157a4ceee9ad3e9198776362ef0aceb14307014.opus",
+      "mediaSize" : "25 KB",
+      "identifier" : "CN717LkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/18 10:02:17",
+      "delete" : false,
+      "mediaName" : "4709b430-6ac3-48b8-8452-846f1b09c783.opus",
+      "localPath" : "media\/407781331fb63fec63f7946b1e5ccd33792fe354.opus",
+      "mediaSize" : "5 KB",
+      "identifier" : "COH17LkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 10:03:55",
+      "delete" : false,
+      "identifier" : "CMP27LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Mandou sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 10:04:09",
+      "delete" : false,
+      "identifier" : "CNH27LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/18 10:05:08",
+      "delete" : false,
+      "identifier" : "CIz37LkGIABIAZABAA==",
+      "msg" : "Certinho",
+      "type" : "text"
+    }
+  ]
+})

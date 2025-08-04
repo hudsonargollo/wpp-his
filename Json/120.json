@@ -1,0 +1,74 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 61 99370-2633",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/27 22:46:20",
+      "delete" : false,
+      "identifier" : "CPSsm8QGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/27 22:46:35",
+      "delete" : false,
+      "identifier" : "CIOtm8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/27 22:46:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIStm8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/27 22:46:50",
+      "delete" : false,
+      "identifier" : "CJKtm8QGIABIAZABAA==",
+      "msg" : "Não consigo cadastrar a senha de início...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/27 22:47:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJ2tm8QGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/28 09:49:17",
+      "delete" : false,
+      "identifier" : "CNXjncQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/28 09:49:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "COTjncQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

@@ -1,0 +1,431 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 99777-9859",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:13:56",
+      "delete" : false,
+      "identifier" : "COzm3LoGIABIAJABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:14:00",
+      "delete" : false,
+      "identifier" : "CPDm3LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:14:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPfm3LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:14:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna\/Central Caverna",
+      "delete" : false,
+      "identifier" : "CP3m3LoGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:14:15",
+      "delete" : false,
+      "identifier" : "CP\/m3LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sem problemas! Todas as aulas do Modo Caverna estão agora dentro da Área de Contúdos do sistema, basta acessar o app para assistir.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:16:36",
+      "delete" : false,
+      "identifier" : "CIzo3LoGIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:28:29",
+      "delete" : false,
+      "identifier" : "CNXt3LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:29:45",
+      "delete" : false,
+      "identifier" : "CKHu3LoGIABIAJABAA==",
+      "msg" : "Deixa eu te perguntar, eu estou fazendo o Modo Caverna através do link da Cademi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:31:02",
+      "delete" : false,
+      "identifier" : "CO7u3LoGIABIAJABAA==",
+      "msg" : "Tentei confrontar as aulas que tem lá com as que estão disponiveis na Central e notei algumas diferenças",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:31:38",
+      "delete" : false,
+      "identifier" : "CJLv3LoGIABIAJABAA==",
+      "msg" : "É isso mesmo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:32:52",
+      "delete" : false,
+      "identifier" : "CNzv3LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "As aulas estão disponiveis dentro da plataforma Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:33:06",
+      "delete" : false,
+      "identifier" : "COrv3LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estão mais completas por la",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:33:23",
+      "delete" : false,
+      "identifier" : "CPvv3LoGIABIAJABAA==",
+      "msg" : "Maravilha, era essa minha questão.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:33:48",
+      "delete" : false,
+      "identifier" : "CJTw3LoGIABIAJABAA==",
+      "msg" : "Os materiais que tem disponíveis para download na Cademi, vão disponibilizar no Modo Caverna em breve?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:44:29",
+      "delete" : false,
+      "identifier" : "CJX13LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sim, em breve ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:45:38",
+      "delete" : false,
+      "identifier" : "CNr13LoGIABIAJABAA==",
+      "msg" : "Ok, muito obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:47:23",
+      "delete" : false,
+      "identifier" : "CMP23LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estou a disposição!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 16:40:28",
+      "mediaSize" : "16 KB",
+      "mediaName" : "2ed68f3a-0e05-483d-9159-705f224f05b8.thumb",
+      "localPath" : "media\/f40ed8ada8bb080a9bd95a94241d3a59b12effa9.thumb",
+      "delete" : false,
+      "identifier" : "CLSP3boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 15:10:43",
+      "delete" : false,
+      "identifier" : "CKunor4GIABIAJABAA==",
+      "msg" : "Boa tarde, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 15:10:53",
+      "delete" : false,
+      "identifier" : "CLWnor4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 15:10:59",
+      "delete" : false,
+      "identifier" : "CLunor4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 15:11:06",
+      "delete" : false,
+      "identifier" : "CMKnor4GIABIAJABAA==",
+      "msg" : "Rodrigo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 15:11:13",
+      "delete" : false,
+      "identifier" : "CMmnor4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Rodrigo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 15:11:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM+nor4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 15:11:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNanor4GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 15:11:34",
+      "delete" : false,
+      "identifier" : "CN6nor4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 15:11:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COOnor4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 10:19:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Tenho dúvidas sobre a afiliação 🐺",
+      "delete" : false,
+      "identifier" : "CIDCpr4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 10:19:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CILCpr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 10:19:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Sim! Já sou afiliado!",
+      "delete" : false,
+      "identifier" : "CIfCpr4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 10:20:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CInCpr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 10:20:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Tenho outra dúvida",
+      "delete" : false,
+      "identifier" : "CJXCpr4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 10:20:15",
+      "delete" : false,
+      "identifier" : "CJfCpr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva sua dúvida abaixo e em breve você será atendido!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 10:24:07",
+      "delete" : false,
+      "identifier" : "CP\/Dpr4GIABIAJABAA==",
+      "msg" : "Bom dia. Estou tentando vincular meu código de afiliado na Central, mas só recebo a mensagem \"Ops. Ocorreu um erro ao buscar seu código.\" Poderia verificar se meu código ainda está ativo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 10:24:23",
+      "delete" : false,
+      "identifier" : "CI\/Epr4GIABIAJABAA==",
+      "msg" : "código: AFDA3C6132",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 10:24:31",
+      "delete" : false,
+      "identifier" : "CJfEpr4GIABIAJABAA==",
+      "msg" : "e-mail: rodrigo_luis92@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 15:14:02",
+      "delete" : false,
+      "identifier" : "CPLLp74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Rodrigo! Tudo bem?\nTenta novamente agora, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 16:14:46",
+      "delete" : false,
+      "identifier" : "CK7op74GIABIAJABAA==",
+      "msg" : "mesmo erro 😕",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 16:18:25",
+      "delete" : false,
+      "mediaName" : "bf2d5123-9c79-4f51-a0c7-dc9aabbe88bb.opus",
+      "localPath" : "media\/e628b06e7bc36af61fdab35141c11a62257e9d2a.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CInqp74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 16:24:48",
+      "delete" : false,
+      "identifier" : "CIjtp74GIABIAJABAA==",
+      "msg" : "Feito, deu certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 16:24:51",
+      "delete" : false,
+      "identifier" : "CIvtp74GIABIAJABAA==",
+      "msg" : "Muito obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 16:25:23",
+      "delete" : false,
+      "identifier" : "CKvtp74GIABIAJABAA==",
+      "msg" : "Aproveitando, faz algum tempo da ultima live... temos previsão para uma próxima com os afiliados?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 16:35:41",
+      "delete" : false,
+      "mediaName" : "2b2d5b27-f400-4e36-afc6-c94b38d45aa8.opus",
+      "localPath" : "media\/098467e71828befd26c0b9d5ff4d588612b71eb1.opus",
+      "mediaSize" : "61 KB",
+      "identifier" : "CJXyp74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:29"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 16:41:25",
+      "delete" : false,
+      "identifier" : "CO30p74GIABIAJABAA==",
+      "msg" : "joia, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 16:46:46",
+      "delete" : false,
+      "identifier" : "CK73p74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço o contato ☺️",
+      "type" : "text"
+    }
+  ]
+})

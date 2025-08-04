@@ -1,0 +1,47 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 53 99927-9696",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/01 20:49:48",
+      "delete" : false,
+      "identifier" : "CKTss7oGIABIAJABAA==",
+      "msg" : "Olá, sou afiliado da Central Caverna e gostaria de solicitar minha placa de reconhecimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:26:50",
+      "delete" : false,
+      "mediaName" : "3a365162-aaad-458b-a7d8-db49bf6c6c64.opus",
+      "localPath" : "media\/08e2603dde375387be9e38280e77b73e5ec040c3.opus",
+      "mediaSize" : "39 KB",
+      "identifier" : "CKLrtroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 10:28:27",
+      "delete" : false,
+      "identifier" : "CIPstroGIABIAJABAA==",
+      "msg" : "Bom dia, qual seria a prova social?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:30:34",
+      "delete" : false,
+      "identifier" : "CILttroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vídeos que comprovem seu faturamento com as vendas de afiliado da Central Caverna",
+      "type" : "text"
+    }
+  ]
+})

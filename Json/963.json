@@ -1,0 +1,92 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 17 99189-4864",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/16 21:21:59",
+      "delete" : false,
+      "identifier" : "CK\/W3b4GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:22:09",
+      "delete" : false,
+      "identifier" : "CLnW3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:22:16",
+      "delete" : false,
+      "identifier" : "CMDW3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/16 21:22:24",
+      "delete" : false,
+      "mediaName" : "f4e4862b-57dc-4b1c-b9aa-af9fc1e2f6d3.jpg",
+      "localPath" : "media\/a233535d626f19b2f9763d7fc68a2c3d08d87151.jpg",
+      "mediaSize" : "17 KB",
+      "identifier" : "CMjW3b4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a7ce7ba687b9bc7d292ef71ec13cffe5f5782274"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/16 21:22:29",
+      "delete" : false,
+      "identifier" : "CM3W3b4GIABIAZABAA==",
+      "msg" : "Poderia me ajudar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/16 21:24:11",
+      "delete" : false,
+      "identifier" : "CLPX3b4GIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 09:08:26",
+      "delete" : false,
+      "identifier" : "CMKh4L4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia!\nVocê possui um app para leitura de pdf instalado?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 10:35:09",
+      "delete" : false,
+      "identifier" : "CJXK4L4GIABIAZABAA==",
+      "msg" : "Consegui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 10:36:56",
+      "delete" : false,
+      "identifier" : "CIDL4L4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito! Te ajudo em algo mais?",
+      "type" : "text"
+    }
+  ]
+})

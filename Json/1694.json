@@ -1,0 +1,70 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 19 98162-6831",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 17:57:51",
+      "delete" : false,
+      "identifier" : "CNfVqLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi meu amor...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 17:59:17",
+      "delete" : false,
+      "mediaName" : "bfdb442f-2869-4bcf-afb1-0bc59917805d.m4a",
+      "localPath" : "media\/d56e70d74495bf0169b40d3b6fbd7c03ab33ade5.m4a",
+      "mediaSize" : "842 KB",
+      "identifier" : "CK3WqLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 18:00:29",
+      "delete" : false,
+      "mediaName" : "780b8578-9d98-41e2-a0fe-d1563edc0cd9.m4a",
+      "localPath" : "media\/3b2fd964af28d9328414fdc46722ded4a0d6ab2d.m4a",
+      "mediaSize" : "766 KB",
+      "identifier" : "CPXWqLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 18:01:17",
+      "mediaSize" : "31,2 MB",
+      "mediaName" : "15949064-2f28-490d-9b6d-af087dfd653a.mp4",
+      "localPath" : "media\/741a29ec4fcaa7112a0920f94307ca098b80f3f2.mp4",
+      "delete" : false,
+      "identifier" : "CKXXqLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 18:01:54",
+      "delete" : false,
+      "identifier" : "CMrXqLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O site pra participar da rifa é esse aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 18:02:10",
+      "delete" : false,
+      "identifier" : "CNrXqLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "www.rifei.com.br\/rifa-caridade-espirtual",
+      "type" : "text"
+    }
+  ]
+})

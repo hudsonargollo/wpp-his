@@ -1,0 +1,46 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99970-5405",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/19 00:23:03",
+      "delete" : false,
+      "identifier" : "CJ+f7MMGGhMxMzcwODY4NTAwNzY3MDJAbGlkIABIAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/19 00:23:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKCf7MMGGhMxMzcwODY4NTAwNzY3MDJAbGlkIABIAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/19 12:34:46",
+      "delete" : false,
+      "identifier" : "CJ727sMGGhMxMzcwODY4NTAwNzY3MDJAbGlkIABIAJABAA==",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/19 12:34:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKP27sMGGhMxMzcwODY4NTAwNzY3MDJAbGlkIABIAJABAA==",
+      "type" : ""
+    }
+  ]
+})

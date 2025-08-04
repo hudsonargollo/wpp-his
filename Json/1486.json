@@ -1,0 +1,234 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 69 99239-5087",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 12:11:41",
+      "delete" : false,
+      "identifier" : "CLXNxbsGIABIAZABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 12:11:55",
+      "delete" : false,
+      "identifier" : "CMPNxbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 12:12:01",
+      "delete" : false,
+      "identifier" : "CMnNxbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 12:13:28",
+      "delete" : false,
+      "identifier" : "CKDOxbsGIABIAZABAA==",
+      "msg" : "Deivid",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 12:13:34",
+      "delete" : false,
+      "identifier" : "CKbOxbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Deivid*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 12:13:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKzOxbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 12:24:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio 5 em 30",
+      "delete" : false,
+      "identifier" : "CK7TxbsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 12:24:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK\/TxbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 12:24:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar o conteúdo",
+      "delete" : false,
+      "identifier" : "CLrTxbsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 09:46:58",
+      "delete" : false,
+      "identifier" : "CMqsyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 10:48:45",
+      "delete" : false,
+      "identifier" : "CMXJyrsGIABIAZABAA==",
+      "msg" : "Não consigo ter acesso ao ebook",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 10:49:08",
+      "delete" : false,
+      "identifier" : "CNzJyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiu realizar o cadastro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 10:49:18",
+      "delete" : false,
+      "identifier" : "CObJyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Posso te mandar por aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 10:52:10",
+      "delete" : false,
+      "identifier" : "CJLLyrsGIABIAZABAA==",
+      "msg" : "Me manda aqui então",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 10:57:01",
+      "delete" : false,
+      "identifier" : "CLXNyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 10:59:12",
+      "delete" : false,
+      "identifier" : "CLjOyrsGIABIAZABAA==",
+      "msg" : "medradesdeivid85@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 11:05:58",
+      "mediaSize" : "56,7 MB",
+      "mediaName" : "Ebook - Defina seus objetivos e metas.pdf",
+      "localPath" : "media\/57f825cc8f283a40dc334cad7704a96c84c428f8.pdf",
+      "delete" : false,
+      "identifier" : "CM7RyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 11:05:59",
+      "mediaSize" : "2,9 MB",
+      "mediaName" : "Ebook - Guia Prático para definição de um plano de ação.pdf",
+      "localPath" : "media\/84d02deb8c0b5a7715c67ee05556ba882de251c7.pdf",
+      "delete" : false,
+      "identifier" : "CM\/RyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 11:06:00",
+      "mediaSize" : "3,3 MB",
+      "mediaName" : "Ebook - Os pilares da rotina adaptativa.pdf",
+      "localPath" : "media\/c14e4b4f4596a3dce4633925beef6831888dc301.pdf",
+      "delete" : false,
+      "identifier" : "CNDRyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 11:06:00",
+      "mediaSize" : "2,7 MB",
+      "mediaName" : "Ebook - O manual para a criação de bons hábitos.pdf",
+      "localPath" : "media\/a8a82d792f0b8e1f89e2cbc615149010ab53e896.pdf",
+      "delete" : false,
+      "identifier" : "CNDRyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 11:06:01",
+      "mediaSize" : "8,3 MB",
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/9feb408602a89e358f2f7401bc274e01479ef775.pdf",
+      "delete" : false,
+      "identifier" : "CNHRyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 11:06:02",
+      "mediaSize" : "740 KB",
+      "mediaName" : "Ebook - Produtivo burro x produtivo inteligente.pdf",
+      "localPath" : "media\/ddb2a9487cccc8c4c50dbac639fe58f34065c4bd.pdf",
+      "delete" : false,
+      "identifier" : "CNLRyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 11:06:03",
+      "delete" : false,
+      "mediaName" : "Planner - Desafio 5 anos em 30 dias.pdf",
+      "localPath" : "media\/6b5334beead34cd1b24b21b644aed71a61b63b3b.pdf",
+      "mediaSize" : "1,7 MB",
+      "identifier" : "CNPRyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/a58d606bc68edc503a7562ef8ab6cd5af05283fd"
+    }
+  ]
+})

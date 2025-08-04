@@ -1,0 +1,120 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 91821-0278",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/07 13:58:53",
+      "delete" : false,
+      "identifier" : "CNX3mL0GIABIAZABAA==",
+      "msg" : "Opa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/07 13:59:02",
+      "delete" : false,
+      "identifier" : "CN73mL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/07 13:59:08",
+      "delete" : false,
+      "identifier" : "COT3mL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/07 13:59:11",
+      "delete" : false,
+      "identifier" : "COf3mL0GIABIAZABAA==",
+      "msg" : "Riel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/07 13:59:18",
+      "delete" : false,
+      "identifier" : "CO73mL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Riel*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/07 13:59:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPT3mL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/07 13:59:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CPz3mL0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/07 13:59:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CP73mL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/07 13:59:41",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CIX4mL0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/07 13:59:43",
+      "delete" : false,
+      "identifier" : "CIf4mL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/07 14:00:33",
+      "delete" : false,
+      "identifier" : "CLn4mL0GIABIAZABAA==",
+      "msg" : "Eu tinha iniciado uma solicitação de placas com um atendente mas acabei perdendo o contato, estava mudando de endereço, devido o prazo de produção acabei não finalizando o processo, gostaria de solicitar novamente, aluno da quebra da matrix",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/07 15:53:41",
+      "delete" : false,
+      "identifier" : "CL6tmb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, boa tarde! No momento não estamos realizando o envio de placas da quebra da Matrix",
+      "type" : "text"
+    }
+  ]
+})

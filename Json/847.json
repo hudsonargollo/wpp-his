@@ -1,0 +1,80 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 32 99900-4378",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 11:21:27",
+      "delete" : false,
+      "identifier" : "CO\/K5L8GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/11 11:21:32",
+      "delete" : false,
+      "identifier" : "CPTK5L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/11 11:21:38",
+      "delete" : false,
+      "identifier" : "CPrK5L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 11:22:29",
+      "delete" : false,
+      "identifier" : "CK3L5L8GIABIAZABAA==",
+      "msg" : "Queria tirar uma dúvida na verdade, não estou conseguindo encontrar a parte de rituais, na central caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/11 11:24:50",
+      "delete" : false,
+      "identifier" : "CLrM5L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ? \nOs Rituais não existem mais, você pode utilizar a rotina, e em breve na nossa nova versão do sistema terá a aba rituais, pode ficar tranquilo que em breve você poderá utilizar.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 11:25:48",
+      "delete" : false,
+      "identifier" : "CPTM5L8GIABIAZABAA==",
+      "msg" : "Tá joia , obrigado 🤝",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 11:26:22",
+      "delete" : false,
+      "identifier" : "CJbN5L8GIABIAZABAA==",
+      "msg" : "A loja para comprar a pulseira tbm está fora do sistema?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/11 11:34:38",
+      "delete" : false,
+      "identifier" : "CIbR5L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ainda será lançada, dia 24 de abril",
+      "type" : "text"
+    }
+  ]
+})

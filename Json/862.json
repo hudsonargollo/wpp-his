@@ -1,0 +1,150 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 19 99997-5494",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 14:57:21",
+      "delete" : false,
+      "identifier" : "CInH1b8GIABIAJABAA==",
+      "msg" : "oi, boa tarde!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 14:57:23",
+      "delete" : false,
+      "identifier" : "CIvH1b8GIABIAJABAA==",
+      "msg" : "tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 14:57:32",
+      "delete" : false,
+      "identifier" : "CJTH1b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 14:57:38",
+      "delete" : false,
+      "identifier" : "CJrH1b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 14:58:10",
+      "delete" : false,
+      "identifier" : "CLrH1b8GIABIAJABAA==",
+      "msg" : "Carolainne",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 14:58:16",
+      "delete" : false,
+      "identifier" : "CMDH1b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Carolainne*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 14:58:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMbH1b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 14:58:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CNXH1b8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 14:58:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNfH1b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 14:58:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "COnH1b8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 14:58:59",
+      "delete" : false,
+      "identifier" : "COvH1b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 14:59:29",
+      "delete" : false,
+      "identifier" : "CInI1b8GIABIAJABAA==",
+      "msg" : "queria os links que falam no primeiro conteúdo do clube da luta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 15:02:31",
+      "delete" : false,
+      "mediaName" : "9594ef5e-6d86-4275-ac63-d234b2aded1f.opus",
+      "localPath" : "media\/ea4a0ccc4c2fbd552f63c2e07625643f662f30bd.opus",
+      "mediaSize" : "45 KB",
+      "identifier" : "CL\/J1b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:22"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 15:07:03",
+      "delete" : false,
+      "identifier" : "CM\/L1b8GIABIAJABAA==",
+      "msg" : "a sim, por enquanto é só essa dúvida, obrigada!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 15:16:40",
+      "delete" : false,
+      "identifier" : "CJDQ1b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! ☺️",
+      "type" : "text"
+    }
+  ]
+})

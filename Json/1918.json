@@ -1,0 +1,376 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 97242-7508",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 14:57:19",
+      "delete" : false,
+      "identifier" : "CIfMsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Vitor! Vi que aqui que você realizou o pedido de um envelope dos escolhidos, poderia me enviar o comprovante de pagamento, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 15:02:59",
+      "delete" : false,
+      "identifier" : "CNvOsbcGIABIAZABAA==",
+      "msg" : "Olá boa tarde, posso sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:03:03",
+      "delete" : false,
+      "identifier" : "CN\/OsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:03:05",
+      "delete" : false,
+      "identifier" : "COHOsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 15:03:12",
+      "delete" : false,
+      "mediaName" : "14adb17f-0bd4-450b-8f96-e4236c62c68a.jpg",
+      "localPath" : "media\/31fc5b01e78130dc64a4eb097ec1d8629f294213.jpg",
+      "mediaSize" : "46 KB",
+      "identifier" : "COjOsbcGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/e798e352aa78357e84bfc78ac17bcba0647f9053"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 15:04:15",
+      "delete" : false,
+      "identifier" : "CKfPsbcGIABIAZABAA==",
+      "msg" : "Até estava aguardando a confirmação através do e-mail, pra poder ver em relação a retirada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:04:23",
+      "delete" : false,
+      "identifier" : "CK\/PsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Até estava aguardando a confirmação através do e-mail, pra poder ver em relação a retirada.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:04:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLLPsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:06:20",
+      "delete" : false,
+      "identifier" : "CKTQsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "A retirada só é possível na cidade de Jequié, você reside onde atualmente?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 15:06:44",
+      "delete" : false,
+      "identifier" : "CLzQsbcGIABIAZABAA==",
+      "msg" : "Sou de São Paulo capital",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 15:07:18",
+      "delete" : false,
+      "identifier" : "CN7QsbcGIABIAZABAA==",
+      "msg" : "Mesmo colocando o CEP estava mostrando a opção, então preferi a retirada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 15:07:27",
+      "delete" : false,
+      "identifier" : "COfQsbcGIABIAZABAA==",
+      "msg" : "Como q podemos fazer agora?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:09:55",
+      "delete" : false,
+      "mediaName" : "da255e62-c236-4647-acb3-f79d8bb7b25f.opus",
+      "localPath" : "media\/3503c5ff5af9898d3dd70a31989a6e9119a9f0ff.opus",
+      "mediaSize" : "32 KB",
+      "identifier" : "CPvRsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 15:14:50",
+      "delete" : false,
+      "identifier" : "CKLUsbcGIABIAZABAA==",
+      "msg" : "Pode sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:19:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CMLWsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:19:53",
+      "delete" : false,
+      "identifier" : "CNHWsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O cupom vai ser: modooff9",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 15:46:32",
+      "delete" : false,
+      "identifier" : "CJDjsbcGIABIAZABAA==",
+      "msg" : "Blz",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 15:50:33",
+      "delete" : false,
+      "mediaName" : "7beb5827-4905-4bb3-9a44-84188112457e.jpg",
+      "localPath" : "media\/b014684fea30a691c8a391768aca94882511c182.jpg",
+      "mediaSize" : "46 KB",
+      "identifier" : "CIHlsbcGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/fa00926ea61b4c5ff9ad43c1d33970a124b3b431"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:54:24",
+      "delete" : false,
+      "identifier" : "COjmsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, Vitor! Obrigada pelo pagamento, estaremos realizando seu envio em breve! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 15:54:37",
+      "delete" : false,
+      "identifier" : "CPXmsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Assim que enviar, te mando o código de rastreio!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/19 16:12:46",
+      "delete" : false,
+      "identifier" : "CLbvsbcGIABIAJABAA==",
+      "msg" : "beleza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 14:39:56",
+      "delete" : false,
+      "identifier" : "CPSK9rcGIABIAZABAA==",
+      "msg" : "Olá, boa tarde. Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 14:41:16",
+      "delete" : false,
+      "identifier" : "CMSL9rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, Vitor, boa tarde! Como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 14:53:47",
+      "delete" : false,
+      "identifier" : "CLOR9rcGIABIAZABAA==",
+      "msg" : "Gostaria de saber sobre o envio do envelope que comprei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 14:54:05",
+      "delete" : false,
+      "identifier" : "CMWR9rcGIABIAZABAA==",
+      "msg" : "Se já foi feito ou não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 14:54:19",
+      "delete" : false,
+      "mediaName" : "1895113a-7ee6-4ba5-b6a9-c29697bfa88c.opus",
+      "localPath" : "media\/b7cdbb8719793955c6c82ef2580945f9d0845ab7.opus",
+      "mediaSize" : "42 KB",
+      "identifier" : "CNOR9rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 14:58:04",
+      "delete" : false,
+      "identifier" : "CLST9rcGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 14:58:51",
+      "delete" : false,
+      "identifier" : "COOT9rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Desde já peço perdão pelo atraso e agradeço sua compreensão ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 14:59:58",
+      "delete" : false,
+      "identifier" : "CKaU9rcGIABIAZABAA==",
+      "msg" : "Tudo bem, sem problemas ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 09:41:56",
+      "delete" : false,
+      "identifier" : "CJyi+rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: AV025954944BR",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 14:33:54",
+      "delete" : false,
+      "identifier" : "CIqr+7cGIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 14:35:51",
+      "delete" : false,
+      "identifier" : "CP+r+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estou a disposição! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/27 20:49:37",
+      "delete" : false,
+      "identifier" : "CJmj+7gGIABIAJABAA==",
+      "msg" : "Quero ganhar indicando a Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/27 20:49:42",
+      "delete" : false,
+      "identifier" : "CJ6j+7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Opa! Vai ser um prazer ter você como parceiro 🔺\nPara solicitar sua afiliação basta seguir o passo a passo do vídeo abaixo ⬇️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/27 20:49:45",
+      "mediaSize" : "5 MB",
+      "mediaName" : "bd850599-37a9-4a3d-a19a-06c3a5eba9df.mp4",
+      "localPath" : "media\/b0dfe18e3cd9685c00af0eacc8d045c3c7b8d9d7.mp4",
+      "delete" : false,
+      "identifier" : "CKGj+7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/27 20:49:54",
+      "delete" : false,
+      "identifier" : "CKqj+7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Os links de acesso mostrados na aula estão aqui 👇🏻\n\n1 - Cadastro na plataforma:\n_https:\/\/dash.ticto.com.br\/signup?referrer=PIT33323D35_\n\n2 - Solicite sua afiliação:\n_https:\/\/dash.ticto.com.br\/invitation\/affiliation\/P1B997F97_\n\n3 - Material de apoio:\n_https:\/\/drive.google.com\/drive\/u\/2\/folders\/1lY3ueZwVwO6gEl3M3PywJC9_rMEgz9wg_\n\n4 - Grupo do WhatsApp:\n_https:\/\/chat.whatsapp.com\/Kdy3gXPLNOO03CnmQzpmIc_\n\n5 - Aulas exclusivas:\n_https:\/\/iurimeira.com\/inst-af\/_",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/27 20:50:03",
+      "delete" : false,
+      "identifier" : "CLOj+7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Após solicitar sua afiliação, basta me enviar seu e-mail e aguardar a aprovação! 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 20:49:46",
+      "delete" : false,
+      "identifier" : "CKLGgLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não exite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/31 20:49:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK2vkLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

@@ -1,0 +1,128 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 93376-9554",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 12:37:59",
+      "delete" : false,
+      "identifier" : "CN+AkLgGIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 12:38:02",
+      "delete" : false,
+      "identifier" : "COOAkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 12:38:02",
+      "delete" : false,
+      "identifier" : "COOAkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 12:38:18",
+      "delete" : false,
+      "mediaName" : "e9278ce2-312d-41db-8cd6-3ae834254aa4.jpg",
+      "localPath" : "media\/7f214ed3fb0693001902b4737e9d4dbd145c39fb.jpg",
+      "mediaSize" : "70 KB",
+      "identifier" : "CPKAkLgGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/46287154f0c01e1f96dde5d6e35d45430a5af602"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 14:14:52",
+      "delete" : false,
+      "mediaName" : "58bb6369-b869-4c39-a948-a3fff2ceabed.opus",
+      "localPath" : "media\/4045fadfbe3e2719e834188e823fdc5e37d794b1.opus",
+      "mediaSize" : "30 KB",
+      "identifier" : "CJSukLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 14:16:41",
+      "delete" : false,
+      "identifier" : "CIGvkLgGIABIAZABAA==",
+      "msg" : "Oi bruna boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 14:16:48",
+      "delete" : false,
+      "mediaName" : "0eb5883d-c69e-4ce4-8f8c-9dee6dff70b4.jpg",
+      "localPath" : "media\/2add0ea643c010a74bdadc33c1bccc65129f4889.jpg",
+      "mediaSize" : "31 KB",
+      "identifier" : "CIivkLgGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/d927218f0abfadd533743b6b209ac1009d99bc66"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 14:18:42",
+      "delete" : false,
+      "identifier" : "CPqvkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, obrigada pelo pagamento, estaremos realizando seu envio em breve! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 14:19:06",
+      "delete" : false,
+      "mediaName" : "b7f7f83f-f373-4e1f-9693-4cedb5e75203.opus",
+      "localPath" : "media\/ff61e7a14ccea65c2ce4f97a1195a712d59b03d0.opus",
+      "mediaSize" : "15 KB",
+      "identifier" : "CJKwkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 14:21:57",
+      "delete" : false,
+      "identifier" : "CL2xkLgGIABIAZABAA==",
+      "msg" : "Tá bom obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 14:22:45",
+      "delete" : false,
+      "identifier" : "CO2xkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida pode me mandar mensagem! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 14:49:27",
+      "delete" : false,
+      "identifier" : "CK+noLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: AV026749961BR",
+      "type" : "text"
+    }
+  ]
+})

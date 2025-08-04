@@ -1,0 +1,30 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "socio lista 1 _97",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 08:37:20",
+      "mediaSize" : "4 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/907b3a9e9d9a2454e4d28478432f659561b181ad"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 08:37:26",
+      "mediaSize" : "4 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/aebe46e8ead39b2cbbed12bcdec90e5a7874150e"
+    }
+  ]
+})

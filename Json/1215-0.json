@@ -1,0 +1,964 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99169-0366",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 16:28:28",
+      "delete" : false,
+      "identifier" : "COTYzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Lucas\nNúmero do Lead: +553899520141",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 22:11:35",
+      "delete" : false,
+      "identifier" : "CM\/5z7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Amanda\nNúmero do Lead: +5511983724350",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/13 01:55:40",
+      "delete" : false,
+      "identifier" : "CNTi0LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Victor\nNúmero do Lead: +5511995551723",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/13 09:08:46",
+      "delete" : false,
+      "mediaName" : "46f832c9-f37f-4967-9dbb-dcddf3be2ed8.opus",
+      "localPath" : "media\/00028d57f0f4425d847e85beadb7b3ecf9193f53.opus",
+      "mediaSize" : "8 KB",
+      "identifier" : "CNat0rkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:04"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 15:57:36",
+      "delete" : false,
+      "identifier" : "CKiQ2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Thiago\nNúmero do Lead: +559292380392",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 16:25:26",
+      "delete" : false,
+      "identifier" : "CK6d2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Daniel\nNúmero do Lead: +5511942321411",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/15 14:32:18",
+      "delete" : false,
+      "identifier" : "CKqL3rkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Paulo\nNúmero do Lead: +5511953920381",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/17 15:50:41",
+      "delete" : false,
+      "identifier" : "CIn26LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Caio\nNúmero do Lead: +553498026374",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 07:55:37",
+      "delete" : false,
+      "identifier" : "CLG67LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: eriksonfarias.ee@gmail.com\nNúmero do Lead: +5519994100656",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 12:52:37",
+      "delete" : false,
+      "identifier" : "CM3F7bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Anderson\nNúmero do Lead: +556192514926",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 14:46:21",
+      "delete" : false,
+      "identifier" : "CPX67bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Albert\nNúmero do Lead: +553198188965",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 18:00:59",
+      "delete" : false,
+      "identifier" : "CJPW7rkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: antonio junior\nNúmero do Lead: +5522997801188",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 20:36:10",
+      "delete" : false,
+      "identifier" : "CPKe77kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Helal\nNúmero do Lead: +556892339757",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 03:07:32",
+      "delete" : false,
+      "identifier" : "CKzW8LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Samuel\nNúmero do Lead: +557184264435",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 22:50:11",
+      "delete" : false,
+      "identifier" : "CNuA9bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: João Vitor\nNúmero do Lead: +5511940655676",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/21 13:24:23",
+      "delete" : false,
+      "identifier" : "CL+9\/bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Felipe\nNúmero do Lead: +5517992823783",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/22 10:53:39",
+      "delete" : false,
+      "identifier" : "COuZgroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: João Gilberto\nNúmero do Lead: +5521970790078",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/22 11:03:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "msg" : "Fabricio Hochmuller - Gerente de Afiliados",
+      "identifier" : "CK2egroGIABIAZABAA==",
+      "type" : "contact"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/27 01:42:02",
+      "delete" : false,
+      "identifier" : "CKLGmroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Tiago\nNúmero do Lead: +5511974150940",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/27 13:57:44",
+      "delete" : false,
+      "identifier" : "CJCfnboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Anne\nNúmero do Lead: +5511940787269",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 08:36:57",
+      "delete" : false,
+      "identifier" : "COGroboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: José\nNúmero do Lead: +558181625977",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 09:56:37",
+      "delete" : false,
+      "identifier" : "CI3RoboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Lead quer o Modo Caverna\n\nNome do Lead: Depois eu volto\nNúmero do Lead: +557391262227",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 08:41:46",
+      "delete" : false,
+      "identifier" : "CILdu7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Mateus\nNúmero do Lead: +558182374545",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 10:46:23",
+      "delete" : false,
+      "identifier" : "CLeXvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Antônio Júnior Peixoto Rangel\nNúmero do Lead: +5522997801188",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 11:52:04",
+      "delete" : false,
+      "identifier" : "CJy2vLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Juarez\nNúmero do Lead: +553192152002",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:50:53",
+      "delete" : false,
+      "identifier" : "COXRvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Vanessa Mutielle\nNúmero do Lead: +556285445395",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:13:29",
+      "delete" : false,
+      "identifier" : "CNGUvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: foi comprado \n28 de nov. de 2024\nNúmero do Lead: +558399497290",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 20:19:27",
+      "delete" : false,
+      "identifier" : "CIekvroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Matheus Heinig\nNúmero do Lead: +554791660098",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 20:32:09",
+      "delete" : false,
+      "identifier" : "CIHNw7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte para Financeiro\n\nNome do Lead: Bruno\nNúmero do Lead: +557399661634",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:56:26",
+      "delete" : false,
+      "identifier" : "CJLixroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Wagner\nNúmero do Lead: +558191265741",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 13:29:28",
+      "delete" : false,
+      "identifier" : "CPDMzLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte para Financeiro\n\nNome do Lead: Gabriella\nNúmero do Lead: +559284459418",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 15:53:16",
+      "delete" : false,
+      "mediaName" : "79a16244-a354-4510-8841-6a8753bf2bc3.jpg",
+      "localPath" : "media\/8e403b9e5622a440e90061c182e4b118aa3c53df.jpg",
+      "mediaSize" : "497 KB",
+      "identifier" : "CKSQzboGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/2e87b92e3453219d81b9bfc4f0f3c7daeeefc0c0"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 16:46:24",
+      "delete" : false,
+      "mediaName" : "Checklist Pré Caverna.pdf",
+      "localPath" : "media\/5af6ff4dcf891ff3c1f1680bdcf27db7039842cd.pdf",
+      "mediaSize" : "271 KB",
+      "identifier" : "CJipzboGIABIAJABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/89a667a928711d94cf79d54d4e6956d24c8532fd"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 17:59:02",
+      "delete" : false,
+      "identifier" : "CJ7LzboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Rodolfo\nNúmero do Lead: +557183872182",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/07 19:43:37",
+      "delete" : false,
+      "identifier" : "CKGf07oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte para Financeiro\n\nNome do Lead: Não consigo acessar os módulos do modo caverna\nNúmero do Lead: +554498034430",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 09:39:01",
+      "delete" : false,
+      "identifier" : "CO3J27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte para Financeiro\n\nNome do Lead: Ronaldo\nNúmero do Lead: +5521981060087",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 16:47:19",
+      "delete" : false,
+      "identifier" : "CM+S3boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: pablo\nNúmero do Lead: +553192899154",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/10 13:33:11",
+      "delete" : false,
+      "identifier" : "CM\/a4boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Felipe\nNúmero do Lead: +553591041102",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/10 13:56:32",
+      "delete" : false,
+      "identifier" : "CMjl4boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Já adiquiri o a quebra da Matrix e também o modo caverna\nNúmero do Lead: +554195340861",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/11 12:44:17",
+      "delete" : false,
+      "identifier" : "CNnm5roGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Do *\nNúmero do Lead: +258860811593",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/11 20:26:15",
+      "delete" : false,
+      "identifier" : "CJ+\/6LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Igor\nNúmero do Lead: +5524998736922",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:31:14",
+      "delete" : false,
+      "identifier" : "CJqv67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Eliézer\nNúmero do Lead: +5518997983088",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/13 19:20:35",
+      "delete" : false,
+      "identifier" : "CLvm8roGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Bruno\nNúmero do Lead: +553798420545",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/14 01:35:30",
+      "delete" : false,
+      "identifier" : "CJqW9LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte para Financeiro\n\nNome do Lead: Roberto\nNúmero do Lead: +5521997759271",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/14 18:28:02",
+      "delete" : false,
+      "identifier" : "COrw97oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: eduardo\nNúmero do Lead: +558491489766",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 20:23:24",
+      "delete" : false,
+      "mediaName" : "bb74466f-fe94-411e-b8e4-7fd753e7aa4a.jpg",
+      "localPath" : "media\/b8dac3de9efeceebefbcd1848e7532a144385b40.jpg",
+      "mediaSize" : "69 KB",
+      "identifier" : "CPTsgrsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/80a75d0c2ae763510bf4b3bd7f2d7ad721692483"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 11:52:57",
+      "delete" : false,
+      "identifier" : "CNHmkLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Gabriel\nNúmero do Lead: +559891351522",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/21 09:21:13",
+      "delete" : false,
+      "identifier" : "CMHlmrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verificar pagamento Envelope\n\nNome do Lead: Harrison\nNúmero do Lead: +558699649382",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 10:57:46",
+      "delete" : false,
+      "identifier" : "COLYpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: David Ortega Gómez\nCorreo: davigocol@gmail.com\nNúmero do Lead: +573215824730",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 16:58:13",
+      "delete" : false,
+      "identifier" : "CN2Bp7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Brendo\nNúmero do Lead: +557381264242",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 12:07:01",
+      "delete" : false,
+      "mediaName" : "379409c7-2f15-4f80-b11c-47f6b07867cc.opus",
+      "localPath" : "media\/5d244ad5176816fd316f2afc7ad405af2d63b895.opus",
+      "mediaSize" : "2 KB",
+      "identifier" : "CJ3itbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:04"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 12:07:26",
+      "delete" : false,
+      "mediaName" : "51e2a6e8-0d71-4319-9613-3af3f8e02090.opus",
+      "localPath" : "media\/76d4015b5ae646a33ec8e5c68c9315f77cd3e6dc.opus",
+      "mediaSize" : "7 KB",
+      "identifier" : "CLbitbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:05"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:58:05",
+      "delete" : false,
+      "identifier" : "CIWBu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte para Financeiro\n\nNome do Lead: Alesson Alves\nNúmero do Lead: +558487211301",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/28 01:08:02",
+      "delete" : false,
+      "identifier" : "CKrzvbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Iriel\nNúmero do Lead: +558499618365",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/28 13:42:29",
+      "delete" : false,
+      "identifier" : "CP3UwLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte para Financeiro\n\nNome do Lead: Sthefany Souza\nNúmero do Lead: +556296890296",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 10:47:57",
+      "delete" : false,
+      "identifier" : "CJWmxbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Ingrid\nNúmero do Lead: +558496823551",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 21:00:54",
+      "delete" : false,
+      "identifier" : "CL7Fx7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verificar pagamento Envelope\n\nNome do Lead: Comprei\nNúmero do Lead: +558195977745",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 10:18:04",
+      "delete" : false,
+      "mediaName" : "1fd4ee82-1634-41e0-a8ad-39be279915f2.opus",
+      "localPath" : "media\/63c5765a77230ae44bf1e3dfc9e5eb8494ca3dd0.opus",
+      "mediaSize" : "4 KB",
+      "identifier" : "CJS7yrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 10:45:27",
+      "delete" : false,
+      "identifier" : "CP\/HyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Flávio\nNúmero do Lead: +553187678400",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 10:51:24",
+      "delete" : false,
+      "mediaName" : "b4f4d648-b5e7-4460-9dc8-6ca183cfd204.mp4",
+      "localPath" : "media\/0c25c98051ffebf19472e8e5aa0c5421d769516b.mp4",
+      "mediaSize" : "1,8 MB",
+      "identifier" : "COTKyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/d9503629d920230b430c351f92996f49b0b74d02"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 18:59:01",
+      "delete" : false,
+      "identifier" : "CK2vzLsGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 18:59:04",
+      "delete" : false,
+      "identifier" : "CLCvzLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 18:59:10",
+      "delete" : false,
+      "identifier" : "CLavzLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/31 09:30:52",
+      "delete" : false,
+      "mediaName" : "aa7ebd6b-697b-45d2-8f5c-c96c263349a6.mp4",
+      "localPath" : "media\/09d3bbbcf2cc07b32dc84720b42d7dd35620aa34.mp4",
+      "mediaSize" : "2,6 MB",
+      "identifier" : "CITIz7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/41213d4ebdac1abb87b24cd963cdaca71803e0b4"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/31 11:07:30",
+      "delete" : false,
+      "identifier" : "CKr1z7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Felipe\nNúmero do Lead: +553175137488",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 14:09:27",
+      "delete" : false,
+      "identifier" : "CM\/t1bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Dayvson\nNúmero do Lead: +558194133855",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 15:51:08",
+      "delete" : false,
+      "identifier" : "CKSd1rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte para Financeiro\n\nNome do Lead: Michelle\nNúmero do Lead: +5511998604686",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 08:12:10",
+      "delete" : false,
+      "identifier" : "CJKM37sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: isabelle\nNúmero do Lead: +557197391455",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/04 08:06:59",
+      "delete" : false,
+      "identifier" : "CNus5LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Nicholas\nNúmero do Lead: +556696282006",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/04 14:45:44",
+      "delete" : false,
+      "identifier" : "CNDn5bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Douglas\nNúmero do Lead: +554584013242",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/05 09:19:49",
+      "delete" : false,
+      "identifier" : "CO3x6bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Rafa\nNúmero do Lead: +554599170289",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 08:30:46",
+      "delete" : false,
+      "identifier" : "CO797rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Lucas\nNúmero do Lead: +559185529607",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:00:57",
+      "delete" : false,
+      "identifier" : "CJGo77sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Gil\nNúmero do Lead: +559193539364",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 14:48:33",
+      "delete" : false,
+      "mediaName" : "dd516832-c941-46b7-b8d9-66cff2c8cd18.opus",
+      "localPath" : "media\/13bc13c057e23748d91a2a4ca7c2cf9cd874b584.opus",
+      "mediaSize" : "4 KB",
+      "identifier" : "CPmu8LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/06 14:51:43",
+      "delete" : false,
+      "identifier" : "CLew8LsGIABIAJABAA==",
+      "msg" : "samuel.ig.ferreira@gmail.com- erro nos cálculos do financeiro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/06 14:52:28",
+      "delete" : false,
+      "mediaName" : "520af5d5-a648-4ad0-a7a7-942d814131dc.mp4",
+      "localPath" : "media\/7da55f6b8b991902eecbf3cb125115b706f7ecbd.mp4",
+      "mediaSize" : "9,7 MB",
+      "identifier" : "COSw8LsGIABIAJABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/15b6bd9420b221d9a3fd0c3633ff0a168d52395c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 14:49:15",
+      "delete" : false,
+      "identifier" : "CKPS9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Douglas\nNúmero do Lead: +557591092963",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/08 11:04:42",
+      "delete" : false,
+      "identifier" : "CIKM+rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Breno\nNúmero do Lead: +558898265380",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/08 11:30:18",
+      "delete" : false,
+      "identifier" : "CIKY+rsGIABIAJABAA==",
+      "msg" : "https:\/\/drive.google.com\/file\/d\/1mv2LyMZyLLbsSTRzuCJT8Sd-ePSX9mAS\/view?usp=sharing",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/08 15:00:45",
+      "delete" : false,
+      "mediaName" : "000c86c7-e1b1-499f-8cdb-f311a2b59d35.jpg",
+      "localPath" : "media\/ff5f50cd5c19f210277e8ce65c1b7d1c35a67ae4.jpg",
+      "mediaSize" : "63 KB",
+      "identifier" : "CNX6+rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/016a65c60f503b0e086b4dc46e51cde59e9e9e98"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/08 16:13:26",
+      "delete" : false,
+      "identifier" : "CN6c+7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: Thalys\nNúmero do Lead: +5524993121616",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/08 18:32:38",
+      "delete" : false,
+      "identifier" : "CP7d+7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Suporte da área de membros\n\nNome do Lead: paguei o curso do Iuri meira vitalício e ta falando la que acaba dia 13 desse mês\nNúmero do Lead: +553198414922",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 09:00:02",
+      "delete" : false,
+      "identifier" : "CMr0\/rsGIABIAZABAA==",
+      "msg" : "Fala pessoal,\n\nEstamos atualizando nossos canais de comunicação para atender vocês ainda melhor! 🚀\n\n🔄 O número de contato foi alterado!\nA partir de agora, vocês devem utilizar o seguinte número para entrar em contato com a equipe: (73) 982446098\n\nQualquer dúvida ou necessidade, estamos à disposição! 💬",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 09:07:51",
+      "delete" : false,
+      "identifier" : "CJ\/4\/rsGIABIAZABAA==",
+      "msg" : "🚨 Afiliados, atenção! 🚨\n\nEstamos preparando uma live imperdível para vocês! 🎥🔥 Será uma oportunidade para aprender estratégias incríveis e tirar todas as dúvidas.\n\n📲 Mais tarde volto com mais informações sobre a data, horário e o que vamos abordar! Fiquem atentos no grupo e se preparem para turbinar suas vendas! 🚀💥",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 10:39:22",
+      "delete" : false,
+      "mediaName" : "e6edbeb3-1386-4462-8e00-928adb813c6f.jpg",
+      "localPath" : "media\/30607b38ab086656f52e66c49b31e0726bd97a1e.jpg",
+      "mediaSize" : "31 KB",
+      "identifier" : "CJKj\/7sGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/6858b0f7c19666201e36bfc33ca012d856803d62"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 15:09:08",
+      "delete" : false,
+      "identifier" : "CMyhgLwGIABIAJABAA==",
+      "msg" : "Na próxima segunda-feira, teremos uma live imperdível!\n🗓 Tema: Como fazer sua primeira venda + Criativos validados\n⏰ Horário: 19:00\n\nPrepare-se para aprender estratégias práticas e sair na frente!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:09:18",
+      "delete" : false,
+      "identifier" : "CNahgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:09:24",
+      "delete" : false,
+      "identifier" : "CNyhgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:24:20",
+      "delete" : false,
+      "identifier" : "CNyogLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/10 09:34:45",
+      "delete" : false,
+      "mediaName" : "Registro_de_sonhos.pdf",
+      "localPath" : "media\/c658bc342145c8eeaf62823afd5af077d0a792d8.pdf",
+      "mediaSize" : "263 KB",
+      "identifier" : "CO2nhLwGIABIAZABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/e48f99dc656845757c8a60118a6f2dbfce24bf21"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/10 09:34:45",
+      "delete" : false,
+      "mediaName" : "DOC04_VÍDEO_DE_REGISTRO.pdf",
+      "localPath" : "media\/4f45d51371a7e19740d62053463fa359d6a02493.pdf",
+      "mediaSize" : "138 KB",
+      "identifier" : "CO2nhLwGIABIAZABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/42f00418758940e9059a9aadcc4aa0a621a32f8b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/10 09:48:36",
+      "delete" : false,
+      "identifier" : "CKyuhLwGIABIAZABAA==",
+      "msg" : "Olá Alvaro, é um prazer ter você como parceiro do modo caverna. Me chamo Lara, estou aqui para te ajudar em todo o processo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/10 09:48:40",
+      "delete" : false,
+      "identifier" : "CLCuhLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Oiii de novo! 😊*\nQual é o seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/10 10:01:31",
+      "mediaSize" : "2 KB",
+      "mediaName" : "a98a5ab6-5bcf-409b-927d-023e9576f56a.thumb",
+      "localPath" : "media\/b81d9a23f9dd788f50c815be2836a75745f5d8ff.thumb",
+      "delete" : false,
+      "identifier" : "CLO0hLwGIABIAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/10 10:01:38",
+      "delete" : false,
+      "identifier" : "CLq0hLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Você pode se cadastrar na plataforma por esse link: https:\/\/dash.ticto.com.br\/signup?referrer=PIT33323D35*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/10 10:01:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMC0hLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 09:54:41",
+      "delete" : false,
+      "mediaName" : "732dd919-b0a2-4f6d-a365-088c77578905.mp4",
+      "localPath" : "media\/429503b544fd8515d6b4bd677fbc1d8f911d032b.mp4",
+      "mediaSize" : "5,8 MB",
+      "identifier" : "CJm9mbwGIABIAJABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/c9c1ae74305fb90ec6db106fea4343b350bb4919"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 09:16:22",
+      "delete" : false,
+      "mediaName" : "c5541f16-8969-4ab0-9f51-f010bb262b89.jpg",
+      "localPath" : "media\/512ff42f047e89d9f94949866bd6fb71abfaa751.jpg",
+      "mediaSize" : "187 KB",
+      "identifier" : "CJ7xo7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/8d2ecf3cfaf6dc2634c9b392d6484c355bfcf366"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 17:56:18",
+      "delete" : false,
+      "identifier" : "CPrkpbwGIABIAZABAA==",
+      "msg" : "*Falta 1 Hora para nossa Live* 🚀\n\nHoje você vai aprender a como realizar sua primeira venda e terá acesso aos criativos *VALIDADOS!* 🔺\n\nPara acessar, clique no link abaixo:\n🔗 https:\/\/bit.ly\/liveaf-1601",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 21:02:30",
+      "delete" : false,
+      "identifier" : "CJ68prwGIABIAJABAA==",
+      "msg" : "https:\/\/loja.iurimeira.com\/produto\/modocaverna-envelope\/",
+      "type" : "text"
+    }
+  ]
+})

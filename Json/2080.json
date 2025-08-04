@@ -1,0 +1,74 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 54 99168-5339",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 12:48:12",
+      "delete" : false,
+      "identifier" : "CMSFkLgGIABIAZABAA==",
+      "msg" : "O psf modo caverna express ta cheio de imagem bugada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 12:49:00",
+      "delete" : false,
+      "mediaName" : "8ce5e519-2f2e-49d8-bc51-26f51ab04139.jpg",
+      "localPath" : "media\/80eb084488c28414725492d675a530e60bb00da8.jpg",
+      "mediaSize" : "22 KB",
+      "identifier" : "CPSFkLgGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/95c0fb3fce9d40596daa7366b80d8a093e2a8151"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 14:17:04",
+      "delete" : false,
+      "mediaName" : "61803914-1a46-48b7-984d-9d612bc5de6e.opus",
+      "localPath" : "media\/640f2d8915c238272d70141d3fa07337688ecf1a.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CJivkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 14:17:15",
+      "delete" : false,
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/c3279b82e954c24fa288bf01d4f7548e7b3ac401.pdf",
+      "mediaSize" : "25,7 MB",
+      "identifier" : "CKOvkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/cb8b90b61dd40bb6452ce957fad268f57f43eb41"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 14:19:35",
+      "delete" : false,
+      "mediaName" : "a6b1d2b5-032b-4e2b-8c92-d1b68aa0c0cb.opus",
+      "localPath" : "media\/8945eb837d8c627161e18063fccb3bb18ab6c1c7.opus",
+      "mediaSize" : "7 KB",
+      "identifier" : "CK+wkLgGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 14:22:40",
+      "delete" : false,
+      "identifier" : "COixkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida pode me mandar mensagem! ☺️",
+      "type" : "text"
+    }
+  ]
+})

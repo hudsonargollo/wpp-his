@@ -1,0 +1,440 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 61 98168-3254",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 17:09:46",
+      "delete" : false,
+      "identifier" : "CJLagLwGIABIAJABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 17:09:57",
+      "delete" : false,
+      "identifier" : "CJ3agLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 17:10:03",
+      "delete" : false,
+      "identifier" : "CKPagLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 17:10:19",
+      "delete" : false,
+      "identifier" : "CLPagLwGIABIAZABAA==",
+      "msg" : "Marcos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 17:10:21",
+      "delete" : false,
+      "identifier" : "CLXagLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Marcos*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 17:10:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLvagLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 17:10:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CMXagLwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 17:10:44",
+      "delete" : false,
+      "identifier" : "CMzagLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 17:10:48",
+      "delete" : false,
+      "identifier" : "CNDagLwGIABIAZABAA==",
+      "msg" : "Área de membros",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 17:10:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNHagLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 17:10:56",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CNjagLwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 17:10:58",
+      "delete" : false,
+      "identifier" : "CNragLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 10:01:40",
+      "delete" : false,
+      "identifier" : "CLydlLwGIABIAZABAA==",
+      "msg" : "Olá bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 10:01:51",
+      "delete" : false,
+      "identifier" : "CMedlLwGIABIAZABAA==",
+      "msg" : "Preciso de ajuda com a área de membros",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 10:23:30",
+      "delete" : false,
+      "identifier" : "CNqnlLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 10:30:45",
+      "delete" : false,
+      "identifier" : "CI2rlLwGIABIAZABAA==",
+      "msg" : "Olá na área de membros do Iuri diz que vai ser desativada e não chegou nenhuma nova no email",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 11:25:29",
+      "delete" : false,
+      "identifier" : "COHElLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual curso você tem acesso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:21:57",
+      "delete" : false,
+      "identifier" : "CJ3flLwGIABIAZABAA==",
+      "msg" : "Método caverna e marketing pra iniciantes",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 12:36:50",
+      "delete" : false,
+      "mediaName" : "b25f3efb-a069-4e1b-84c0-5ea8d4c6e106.opus",
+      "localPath" : "media\/52bade8c217738b3fdbcf967caf085eff5c9bb32.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CJrmlLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:49:31",
+      "delete" : false,
+      "identifier" : "CJPslLwGIABIAZABAA==",
+      "msg" : "E quando meu plano acabar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:49:42",
+      "delete" : false,
+      "identifier" : "CJ7slLwGIABIAZABAA==",
+      "msg" : "Comprei o o vitalício do marketing pra iniciantes",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 13:02:36",
+      "delete" : false,
+      "mediaName" : "f98cad10-88b1-4f4c-bafb-f877809a0470.opus",
+      "localPath" : "media\/1e7ea658b8e08f27465d35e653a1805ca4bada29.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "CKTylLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 14:28:23",
+      "delete" : false,
+      "identifier" : "CL+albwGIABIAZABAA==",
+      "msg" : "Pode ser",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 14:44:01",
+      "delete" : false,
+      "identifier" : "COmhlbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 14:44:06",
+      "delete" : false,
+      "identifier" : "CO6hlbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 14:45:11",
+      "delete" : false,
+      "identifier" : "CK+ilbwGIABIAZABAA==",
+      "msg" : "Somente isso msm pois estava com medo de perder os conteúdos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 15:03:39",
+      "delete" : false,
+      "identifier" : "CIOrlbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 13:14:38",
+      "delete" : false,
+      "identifier" : "CPbx\/sMGIABIAZABAA==",
+      "msg" : "Opa bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 13:14:51",
+      "delete" : false,
+      "identifier" : "CIPy\/sMGIABIAZABAA==",
+      "msg" : "Meu plano acabou consegue liberar as aulas pra mim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 13:57:10",
+      "delete" : false,
+      "identifier" : "CO6F\/8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem? me passa seu e-mail, por favor\n\n\n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:14:26",
+      "delete" : false,
+      "identifier" : "CPqN\/8MGIABIAZABAA==",
+      "msg" : "youngmk2005@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 14:27:31",
+      "delete" : false,
+      "identifier" : "CIuU\/8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Infelizmente não conseguimos liberar as aulas sem o plano ativo. \nMas se você realmente tá comprometido com sua evolução, dá pra garantir agora o Modo Caverna completo por apenas R$199 e desbloquear todos os benefícios da plataforma: desafios, ferramentas, conteúdos exclusivos e muito mais.\nEssa é a hora de provar que você leva sua transformação a sério. \nPosso te enviar o link? \n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:36:51",
+      "delete" : false,
+      "identifier" : "CLuY\/8MGIABIAZABAA==",
+      "msg" : "Não pera aí eu comprei o acesso vitalício ao curso, você em áudio me prometeu as aulas e agora simplesmente não podem me liberar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:37:02",
+      "delete" : false,
+      "identifier" : "CMaY\/8MGIABIAZABAA==",
+      "msg" : "Quero acesso aos meus direitos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:38:08",
+      "delete" : false,
+      "identifier" : "CIiZ\/8MGIABIAZABAA==",
+      "msg" : "Sempre comprei as coisas do Iuri e agora terei que pagar por algo que já comprei? Só pode ser brincadeira",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 14:44:02",
+      "delete" : false,
+      "mediaName" : "03c4969b-a31f-46f7-b2c4-b648acf045dd.png",
+      "localPath" : "media\/32e4688eb4e6f01747536eff4bdd9b0f506fd82a.png",
+      "mediaSize" : "31 KB",
+      "identifier" : "COqb\/8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/2295a897d93ececf9045ce78fd8f76fa3c8305bb"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:46:49",
+      "delete" : false,
+      "mediaName" : "94df372d-fce9-4fdb-941b-3d5c8fe6929c.jpg",
+      "localPath" : "media\/d5c61cac87343da9f67073630e9f3222cd32b4d0.jpg",
+      "mediaSize" : "53 KB",
+      "identifier" : "CJGd\/8MGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/22aaef10fa8818b80fd3dcb76260a3e40cfd94f3"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:47:09",
+      "delete" : false,
+      "identifier" : "CKWd\/8MGIABIAZABAA==",
+      "msg" : "Paguei esse valor pq o clube na época era 49,99",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:47:49",
+      "delete" : false,
+      "identifier" : "CM2d\/8MGIAA6IEUyNDFGMEZFQjAyREM4OUM5NTU4MTM1Q0IzMDUxNjI3QOzZ\/5mDM0gBeOz0w5+DM5ABAA==",
+      "msg" : "Agora que foi apagado das plataformas antigas pq aparecia meu acesso vitalício",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 14:47:59",
+      "delete" : false,
+      "identifier" : "CNed\/8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Quanto ao Clube da Luta eu consigo liberar um drive com os materiais para você. \n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:48:16",
+      "delete" : false,
+      "identifier" : "COid\/8MGIABIAZABAA==",
+      "msg" : "Eu só gostaria do clube da luta mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 14:49:48",
+      "delete" : false,
+      "identifier" : "CMSe\/8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "certo, irei te enviar, um momento, por favor\n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 14:50:27",
+      "mediaSize" : "400 bytes",
+      "mediaName" : "9e2f75a6-4427-47d0-bab5-c21aa404c7f9.thumb",
+      "localPath" : "media\/145c7c53f22a839fa96b0c080675542f24ff37d4.thumb",
+      "delete" : false,
+      "identifier" : "COue\/8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:53:54",
+      "delete" : false,
+      "identifier" : "CLqg\/8MGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 14:54:10",
+      "delete" : false,
+      "identifier" : "CMqg\/8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! Te ajudo em algo mais?\n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 14:58:20",
+      "delete" : false,
+      "identifier" : "CMSi\/8MGIABIAZABAA==",
+      "msg" : "Somente isso mesmo",
+      "type" : "text"
+    }
+  ]
+})

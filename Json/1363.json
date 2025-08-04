@@ -1,0 +1,213 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 12 99252-4743",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 15:28:16",
+      "delete" : false,
+      "identifier" : "CMiqgLwGIABIAZABAA==",
+      "msg" : "Olá, sou aluno dos produtos do Iuri. Preciso de ajuda!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:28:28",
+      "delete" : false,
+      "identifier" : "CNSqgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:28:34",
+      "delete" : false,
+      "identifier" : "CNqqgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 15:28:39",
+      "delete" : false,
+      "identifier" : "CN+qgLwGIABIAZABAA==",
+      "msg" : "Alex",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:28:46",
+      "delete" : false,
+      "identifier" : "COaqgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Alex*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:28:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COyqgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 15:29:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CPWqgLwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:29:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPeqgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 15:29:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CP6qgLwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:29:12",
+      "delete" : false,
+      "identifier" : "CICrgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 15:29:33",
+      "delete" : false,
+      "identifier" : "CJWrgLwGIABIAZABAA==",
+      "msg" : "davilukasdiasnunesdasilva@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 15:38:32",
+      "delete" : false,
+      "identifier" : "CLCvgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 15:39:14",
+      "delete" : false,
+      "identifier" : "CNqvgLwGIABIAZABAA==",
+      "msg" : "Eu queria o acesso da mentoria matriz",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 15:39:17",
+      "delete" : false,
+      "identifier" : "CN2vgLwGIABIAZABAA==",
+      "msg" : "Matrix",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 15:39:27",
+      "delete" : false,
+      "identifier" : "COevgLwGIABIAZABAA==",
+      "msg" : "Eu fui aluno das 2 últimas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 16:29:58",
+      "delete" : false,
+      "mediaName" : "523c9196-9d2e-4242-97c3-976b54f01a25.opus",
+      "localPath" : "media\/b90e25735c75b6b26a292fef96075b220f0e7130.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CL7HgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 16:30:32",
+      "delete" : false,
+      "identifier" : "CODHgLwGIABIAZABAA==",
+      "msg" : "Pode ser por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 16:49:58",
+      "delete" : false,
+      "identifier" : "CO7QgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O acesso foi liberado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 16:50:07",
+      "delete" : false,
+      "identifier" : "CPfQgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você vai receber no e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 16:51:16",
+      "delete" : false,
+      "identifier" : "CLzRgLwGIABIAZABAA==",
+      "msg" : "Já recebi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/09 16:51:18",
+      "delete" : false,
+      "identifier" : "CL7RgLwGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 16:52:23",
+      "delete" : false,
+      "identifier" : "CP\/RgLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha.",
+      "type" : "text"
+    }
+  ]
+})

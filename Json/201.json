@@ -1,0 +1,239 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 12 97410-0857",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/12 20:37:21",
+      "delete" : false,
+      "identifier" : "CLnjy8MGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 09:31:58",
+      "delete" : false,
+      "identifier" : "CMbx08MGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 10:26:22",
+      "delete" : false,
+      "identifier" : "CIaL1MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, como vai?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 10:45:50",
+      "delete" : false,
+      "identifier" : "CJaU1MMGIABIAZABAA==",
+      "msg" : "Gostaria de pedir reembolso, assinei a um ano a central caverna e ontem renovou automaticamente mas não queria renovar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 11:25:17",
+      "delete" : false,
+      "identifier" : "CNWm1MMGIABIAZABAA==",
+      "msg" : "Como devo proceder?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 14:32:10",
+      "delete" : false,
+      "identifier" : "CKL+1MMGIABIAZABAA==",
+      "msg" : "??",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 15:33:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJOb1cMGIAA=",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 15:35:27",
+      "delete" : false,
+      "identifier" : "CPeb1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O que levou você a tomar essa decisão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 15:36:02",
+      "delete" : false,
+      "identifier" : "CJqc1cMGIABIAZABAA==",
+      "msg" : "Problemas financeiros",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 15:36:27",
+      "delete" : false,
+      "identifier" : "CLOc1cMGIABIAZABAA==",
+      "msg" : "Estou precisando do limite para fazer compras no mercado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 15:37:33",
+      "delete" : false,
+      "identifier" : "CPWc1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Humm, entendo. Sinto muito por isso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 15:37:43",
+      "delete" : false,
+      "identifier" : "CP+c1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me passa seu e-mail, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 15:38:01",
+      "delete" : false,
+      "identifier" : "CJGd1cMGIABIAZABAA==",
+      "msg" : "josepedromartinette@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 15:39:47",
+      "delete" : false,
+      "identifier" : "CPud1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, irei iniciar o procedimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 15:40:58",
+      "delete" : false,
+      "identifier" : "CMKe1cMGIABIAZABAA==",
+      "msg" : "Obrigado, estou no aguardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 15:42:02",
+      "delete" : false,
+      "identifier" : "CIKf1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso já foi solicitado, você pode estar acompanhando por e-mail, irá chegar para você.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 15:42:17",
+      "delete" : false,
+      "mediaName" : "9f81df9c-1129-48d8-be8c-01d84012418d.jpg",
+      "localPath" : "media\/301455a736534a2a3ce5b57477b1267ede1af1c8.jpg",
+      "mediaSize" : "56 KB",
+      "identifier" : "CJGf1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/3b2f96eb13ce72e9d0e52e22f5e42de5d0fddf05"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 15:42:53",
+      "delete" : false,
+      "identifier" : "CLWf1cMGIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 15:57:48",
+      "delete" : false,
+      "identifier" : "CLSm1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 08:26:40",
+      "delete" : false,
+      "identifier" : "CPje6MMGIABIAZABAA==",
+      "msg" : "Olá, bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 08:27:06",
+      "delete" : false,
+      "identifier" : "CJLf6MMGIABIAZABAA==",
+      "msg" : "Ainda não consta o estorno no meu cartão de credito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 08:27:14",
+      "delete" : false,
+      "identifier" : "CJrf6MMGIABIAZABAA==",
+      "msg" : "Como está o andamento?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 08:30:28",
+      "delete" : false,
+      "identifier" : "CNzg6MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? você pode estar entrando em contato com o suporte da Ticto para verificar.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 08:30:58",
+      "delete" : false,
+      "identifier" : "CPrg6MMGIABIAZABAA==",
+      "msg" : "Qual seria o número?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 08:33:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "msg" : "Ticto Brasil - Relacionamento",
+      "identifier" : "CPvh6MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : "contact"
+    }
+  ]
+})

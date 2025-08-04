@@ -1,0 +1,608 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 74 98104-9412",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 18:24:27",
+      "delete" : false,
+      "identifier" : "CJOlqL4GIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 18:24:42",
+      "delete" : false,
+      "identifier" : "CKKlqL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 18:24:48",
+      "delete" : false,
+      "identifier" : "CKilqL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 18:39:43",
+      "delete" : false,
+      "identifier" : "CKesqL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 22:14:28",
+      "delete" : false,
+      "identifier" : "CPyQqb4GIABIAZABAA==",
+      "msg" : "É vitalício?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 22:14:31",
+      "delete" : false,
+      "identifier" : "CP+Qqb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Oiii de novo! 😊*\nQual é o seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 22:14:37",
+      "delete" : false,
+      "identifier" : "CIWRqb4GIABIAZABAA==",
+      "msg" : "Wemerlon",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 22:14:44",
+      "delete" : false,
+      "identifier" : "CIyRqb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Wemerlon*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 22:14:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJKRqb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 22:14:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJuRqb4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 22:15:07",
+      "delete" : false,
+      "identifier" : "CKORqb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 22:15:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKiRqb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 22:15:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CLORqb4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 22:15:25",
+      "delete" : false,
+      "identifier" : "CLWRqb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 22:15:53",
+      "delete" : false,
+      "identifier" : "CNGRqb4GIABIAZABAA==",
+      "msg" : "A compra que fiz é vitalícia?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 22:15:57",
+      "delete" : false,
+      "identifier" : "CNWRqb4GIABIAZABAA==",
+      "msg" : "Wemerlon@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/07 09:06:16",
+      "delete" : false,
+      "identifier" : "CMDCq74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Wemwelon! Tudo bem?\nA sua compra foi referente a assinatura anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 10:08:53",
+      "delete" : false,
+      "identifier" : "CO3fq74GIABIAZABAA==",
+      "msg" : "Mas é vitalício?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 10:09:04",
+      "delete" : false,
+      "identifier" : "CPjfq74GIABIAZABAA==",
+      "msg" : "Ou existe possibilidade vitalícia?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/07 12:30:45",
+      "delete" : false,
+      "identifier" : "CK2irL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não somente assinatura anual ou mensal",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 13:08:39",
+      "delete" : false,
+      "identifier" : "CI+0rL4GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 13:08:54",
+      "delete" : false,
+      "mediaName" : "3c9c8d1d-a0ad-44b3-95b0-577adcb71dd4.opus",
+      "localPath" : "media\/297bfb720983ba4c2e0e3d7f8600e607d1b53216.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CJ60rL4GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/07 14:00:33",
+      "delete" : false,
+      "mediaName" : "e679df8e-b2a4-46f4-8083-0e63496bad70.opus",
+      "localPath" : "media\/014778199296698e58f05e147a608017b85880a3.opus",
+      "mediaSize" : "54 KB",
+      "identifier" : "CLnMrL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:26"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/08 05:08:44",
+      "delete" : false,
+      "mediaName" : "e0a19f07-f0a0-45b5-acd8-d3b6845b2317.opus",
+      "localPath" : "media\/dc86f95f3439ab0830d7f28f07ea4b60023262f8.opus",
+      "mediaSize" : "20 KB",
+      "identifier" : "CJT2r74GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/08 05:08:53",
+      "delete" : false,
+      "mediaName" : "010a4e6f-c2c5-4434-92d8-47c6d9626f89.opus",
+      "localPath" : "media\/e9b7b7e6289859f9bec75db42b02e46d9960f0f2.opus",
+      "mediaSize" : "16 KB",
+      "identifier" : "CJ32r74GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/08 05:09:37",
+      "delete" : false,
+      "mediaName" : "160ba4fa-467b-44fe-bb0b-94d8e697a83c.opus",
+      "localPath" : "media\/311b22c89e8940120d895661b7659176ad1e3f94.opus",
+      "mediaSize" : "96 KB",
+      "identifier" : "CMn2r74GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:40"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:16:52",
+      "delete" : false,
+      "mediaName" : "4a2b7189-6b1c-4b61-a315-d3a07cef3d46.opus",
+      "localPath" : "media\/dd7ee9cedc333ac2f00abb00aa731de5fce9a4b8.opus",
+      "mediaSize" : "58 KB",
+      "identifier" : "CKzOsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:28"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:17:22",
+      "delete" : false,
+      "mediaName" : "OS-MANDAMENTOS-CAVERNA-2.pdf",
+      "localPath" : "media\/5d4321207d5bf8065d4bb2126ad758432b6dec80.pdf",
+      "mediaSize" : "27,1 MB",
+      "identifier" : "CMrOsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/ce6de2cc2b0c441c536c4306c49cd96194debc3c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:17:24",
+      "mediaSize" : "8,8 MB",
+      "mediaName" : "EBOOK-MANUAL-DE-CRIACAO-DE-BONS-HABITOS-.pdf",
+      "localPath" : "media\/f463e60c9df86917b5b958aaf169f29b88ef74ea.pdf",
+      "delete" : false,
+      "identifier" : "CMzOsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:17:24",
+      "mediaSize" : "10,1 MB",
+      "mediaName" : "EBOOK-PROTOCOLO-ANTI-PROCRASTINACAO.pdf",
+      "localPath" : "media\/81a5547e8cdc1e735a81c3386411eed3499af61f.pdf",
+      "delete" : false,
+      "identifier" : "CMzOsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:17:25",
+      "mediaSize" : "14,3 MB",
+      "mediaName" : "EBOOK-DETOX-DIGITAL.pdf",
+      "localPath" : "media\/5e3fa27b985a7b60451beec04763939f7c70f058.pdf",
+      "delete" : false,
+      "identifier" : "CM3OsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:17:29",
+      "mediaSize" : "61,8 MB",
+      "mediaName" : "EBOOK-DESAFIO-MODO-CAVERNA-1.pdf",
+      "localPath" : "media\/e9c03a5a091a830f36bd2b0fa7f60717e55bb9b3.pdf",
+      "delete" : false,
+      "identifier" : "CNHOsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:17:29",
+      "mediaSize" : "50 MB",
+      "mediaName" : "EBOOK-OS-SEGREDOS-DA-LEIDAATRACAO.pdf",
+      "localPath" : "media\/e900f6fe74e42dc6ee8e82370a01aab71ae8f195.pdf",
+      "delete" : false,
+      "identifier" : "CNHOsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:17:29",
+      "mediaSize" : "1,1 MB",
+      "mediaName" : "PLANNER-MODOCAVERNA.pdf",
+      "localPath" : "media\/2eaa76eab6d17aee67ff72d7ac62f6bfce1d884c.pdf",
+      "delete" : false,
+      "identifier" : "CNHOsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:17:29",
+      "mediaSize" : "18,3 MB",
+      "mediaName" : "EBOOK-GUIA-PRATICO-PARA-DEFINICAO-DE-METAS.pdf",
+      "localPath" : "media\/8a827da6179aa3a2afb1c70216f228701caa7044.pdf",
+      "delete" : false,
+      "identifier" : "CNHOsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/08 08:28:59",
+      "delete" : false,
+      "mediaName" : "14c2aeac-ec47-4cb4-a916-3a1ae02858e5.opus",
+      "localPath" : "media\/cc644aac6f03bf9941911cce9bc281c57d02b4f4.opus",
+      "mediaSize" : "73 KB",
+      "identifier" : "CIPUsL4GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 08:33:46",
+      "delete" : false,
+      "mediaName" : "643ac5f7-d486-471f-97dc-8b30618d1a7a.opus",
+      "localPath" : "media\/db4cc8827a5ac97eb879162fe865ecd7ce44a516.opus",
+      "mediaSize" : "28 KB",
+      "identifier" : "CKLWsL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/08 09:39:33",
+      "delete" : false,
+      "mediaName" : "09eb8246-86f6-4b00-86b9-3423c317815d.opus",
+      "localPath" : "media\/93fe607bab81d9b2053cc3a270c172832e290ad6.opus",
+      "mediaSize" : "14 KB",
+      "identifier" : "CI31sL4GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:05"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/08 11:42:25",
+      "delete" : false,
+      "identifier" : "CNmusb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pode salvar como suporte mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/08 11:50:12",
+      "delete" : false,
+      "identifier" : "CKyysb4GIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/08 11:50:17",
+      "delete" : false,
+      "identifier" : "CLGysb4GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/08 11:50:42",
+      "delete" : false,
+      "identifier" : "CMqysb4GIABIAZABAA==",
+      "msg" : "Pronto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 04:38:08",
+      "delete" : false,
+      "mediaName" : "c37bd4fd-7467-47f8-b9d0-afc60c0a3be1.opus",
+      "localPath" : "media\/264996b2b052b60fb0b1bcd43bf7b3f38e015116.opus",
+      "mediaSize" : "86 KB",
+      "identifier" : "COitur4GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:37"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 08:30:03",
+      "delete" : false,
+      "mediaName" : "ceb88fd9-e363-4b6b-b1c2-0338967e5f3d.opus",
+      "localPath" : "media\/1a62b638d041225c9f38d767f25c561f179a2230.opus",
+      "mediaSize" : "16 KB",
+      "identifier" : "CMOau74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 10:47:13",
+      "delete" : false,
+      "identifier" : "COnau74GIABIAZABAA==",
+      "msg" : "wemerlon@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 11:17:27",
+      "delete" : false,
+      "mediaName" : "9a4dd261-30b1-4b6c-b384-aca83e177f3a.opus",
+      "localPath" : "media\/72408c8ddf2842ac11ef681eb83e57e3828fc86a.opus",
+      "mediaSize" : "14 KB",
+      "identifier" : "CP\/ou74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 11:59:08",
+      "delete" : false,
+      "identifier" : "CMT8u74GIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 14:29:35",
+      "delete" : false,
+      "identifier" : "CIfDvL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! Conseguiu assistir?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 14:35:11",
+      "delete" : false,
+      "mediaName" : "1d42a4b1-af26-4248-99a0-20c5451720f6.opus",
+      "localPath" : "media\/d80d817fb8a88a3ec455eeb7cc30a6335962e8d9.opus",
+      "mediaSize" : "34 KB",
+      "identifier" : "CNfFvL4GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 14:49:45",
+      "delete" : false,
+      "identifier" : "CMHMvL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tranquilo, muito obrigada! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/15 07:28:00",
+      "delete" : false,
+      "identifier" : "CLis1b4GIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/15 07:28:11",
+      "delete" : false,
+      "identifier" : "CMOs1b4GIABIAZABAA==",
+      "msg" : "Eu gostaria de estornar o modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/15 07:28:15",
+      "delete" : false,
+      "identifier" : "CMes1b4GIABIAZABAA==",
+      "msg" : "É possível?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/15 08:24:34",
+      "delete" : false,
+      "identifier" : "CPrG1b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Wemerlon! Tudo bem?\nNão é possível pois já se passou o período de 7 dias de reembolso, sua compra foi realizad no dia 06\/03\/2025, só seria possível até o dia 13\/03\/2025",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/15 08:25:15",
+      "delete" : false,
+      "identifier" : "CKPH1b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Mas caso tenha interesse, consigo cancelar a renovação automática, para que não cobre novamente quando sua assinatura finalizar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/15 08:30:25",
+      "delete" : false,
+      "identifier" : "CNnJ1b4GIABIAZABAA==",
+      "msg" : "Faça, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/15 08:30:52",
+      "delete" : false,
+      "identifier" : "CPTJ1b4GIABIAZABAA==",
+      "msg" : "Mas eu n usei nos 7 dias, ainda assim n consta?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/15 08:31:57",
+      "delete" : false,
+      "identifier" : "CLXK1b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Infelizmente não, pois como é uma assinatura virtual, conta a partir da data de compra realizada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/15 08:32:27",
+      "delete" : false,
+      "identifier" : "CNPK1b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Prontinho, verifica se chegou a confirmação no seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/15 08:34:27",
+      "delete" : false,
+      "identifier" : "CMvL1b4GIABIAZABAA==",
+      "msg" : "Faz ssntido",
+      "type" : "text"
+    }
+  ]
+})

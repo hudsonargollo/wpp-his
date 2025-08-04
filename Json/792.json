@@ -1,0 +1,768 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 99126-5741",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:15:29",
+      "delete" : false,
+      "identifier" : "CPnOxroGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:15:47",
+      "delete" : false,
+      "identifier" : "CIvPxroGIABIAZABAA==",
+      "msg" : "Olá, sou aluno do Clube da Luta e gostaria de falar com o treinador marcos e ter acesso ao mapa do progresso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:16:08",
+      "delete" : false,
+      "identifier" : "CKDPxroGIAA6FDNBQkNDOTczMEUxRUI3OEM5NDlFQKjW3Le5MkgBeMCI1ai9MpABAA==",
+      "msg" : "gostaria de saber se posso alterar o email de acesso a plataforma da área de membro e da central caverna, o email que usei estou parando de usar\n\nalem disso, queria saber ate quando sao as minhas assinaturas \n\ne tbm, procurei os cursos de instrucao e passo a passo para usar a central caverna, eles foram removidos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:53:50",
+      "delete" : false,
+      "identifier" : "CPbgxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:54:18",
+      "delete" : false,
+      "identifier" : "CJLhxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail de acesso por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:55:06",
+      "delete" : false,
+      "identifier" : "CMLhxroGIABIAZABAA==",
+      "msg" : "altusdigital.adm@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:55:15",
+      "delete" : false,
+      "identifier" : "CMvhxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:55:21",
+      "delete" : false,
+      "identifier" : "CNHhxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:55:36",
+      "delete" : false,
+      "identifier" : "CODhxroGIABIAZABAA==",
+      "msg" : "Wagner",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:55:42",
+      "delete" : false,
+      "identifier" : "CObhxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Wagner*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:55:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COzhxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:56:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta",
+      "delete" : false,
+      "identifier" : "CInixroGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:56:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIrixroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:56:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CJDixroGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:56:26",
+      "delete" : false,
+      "identifier" : "CJLixroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:56:52",
+      "delete" : false,
+      "identifier" : "CKzixroGIABIAZABAA==",
+      "msg" : "Olá, sou aluno do Clube da Luta e gostaria de falar com o treinador marcos e ter acesso ao mapa do progresso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:56:52",
+      "delete" : false,
+      "identifier" : "CKzixroGIABIAZABAA==",
+      "msg" : "gostaria de saber se posso alterar o email de acesso a plataforma da área de membro e da central caverna, o email que usei estou parando de usar\n\nalem disso, queria saber ate quando sao as minhas assinaturas \n\ne tbm, procurei os cursos de instrucao e passo a passo para usar a central caverna, eles foram removidos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:56:52",
+      "delete" : false,
+      "identifier" : "CKzixroGIABIAZABAA==",
+      "msg" : "altusdigital.adm@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 11:13:00",
+      "delete" : false,
+      "identifier" : "CPTpxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Um momento, vou verificar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 11:30:27",
+      "delete" : false,
+      "identifier" : "CIvyxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMDQzNTA0N0M5NDI1RUUzMTNAnvTuubkySAB45JDVqL0ykAEA",
+      "msg" : "Você ja tem o outro e-mail para realizar a alteração?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 11:31:44",
+      "delete" : false,
+      "mediaName" : "4957d036-d3df-41ec-8ff9-904a4c3ec7f6.opus",
+      "localPath" : "media\/bd934449aa1398ace9b8091beac7762238cb7f0c.opus",
+      "mediaSize" : "17 KB",
+      "identifier" : "CNjyxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 11:51:37",
+      "delete" : false,
+      "identifier" : "CIH8xroGIABIAJABAA==",
+      "msg" : "sim, segue abaixo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 11:51:49",
+      "delete" : false,
+      "identifier" : "CI38xroGIABIAJABAA==",
+      "msg" : "wagner.guerra.98@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 11:52:10",
+      "delete" : false,
+      "identifier" : "CKL8xroGIABIAJABAA==",
+      "msg" : "com essa mudanca eu n perco o progresso nos cursos e os registros na central n correto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 11:52:32",
+      "delete" : false,
+      "identifier" : "CLj8xroGIABIAJABAA==",
+      "msg" : "tanto a area de membros como a central caverna premium, correto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 13:13:33",
+      "delete" : false,
+      "mediaName" : "e935bc65-8a37-4a83-b1eb-1a8342ee65bb.opus",
+      "localPath" : "media\/6bb7eb400d453bf94bc5b2d47cfef8e1016ea87c.opus",
+      "mediaSize" : "32 KB",
+      "identifier" : "CLWix7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 13:13:53",
+      "delete" : false,
+      "identifier" : "CMmix7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 13:26:29",
+      "delete" : false,
+      "identifier" : "CL2ox7oGIABIAJABAA==",
+      "msg" : "pronto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 13:26:34",
+      "delete" : false,
+      "identifier" : "CMKox7oGIABIAJABAA==",
+      "msg" : "sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 13:26:50",
+      "delete" : false,
+      "identifier" : "CNKox7oGIABIAJABAA==",
+      "msg" : "procurei os cursos de instrucao e passo a passo para usar a central caverna, eles foram removidos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 13:27:37",
+      "delete" : false,
+      "identifier" : "CIGpx7oGIABIAJABAA==",
+      "msg" : "no primeiro modulo do clube da luta o iuri pede para entrarmos em contato com o suporte e pedir para falar com o treinador marcos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 13:27:45",
+      "delete" : false,
+      "identifier" : "CImpx7oGIABIAJABAA==",
+      "msg" : "pode me ajudar com esses dois pontos acima?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 13:46:57",
+      "delete" : false,
+      "mediaName" : "f0a03d60-e2e2-4824-9612-9f5c334cbcec.opus",
+      "localPath" : "media\/ed1c96631f4ac9d53801cb7db228ac737e8d6ee3.opus",
+      "mediaSize" : "51 KB",
+      "identifier" : "CImyx7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:26"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 15:22:58",
+      "delete" : false,
+      "identifier" : "CIrfx7oGIABIAJABAA==",
+      "msg" : "ok, compreendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 15:26:52",
+      "delete" : false,
+      "identifier" : "CPTgx7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo contato! 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 15:27:09",
+      "delete" : false,
+      "identifier" : "CIXhx7oGIABIAJABAA==",
+      "msg" : "uma ultima duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 15:27:53",
+      "delete" : false,
+      "identifier" : "CLHhx7oGIABIAJABAA==",
+      "msg" : "quero faturar sendo afiliado do iuri, estou no grupo, mas ainda nao entendi como faço",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 15:27:58",
+      "delete" : false,
+      "identifier" : "CLbhx7oGIABIAJABAA==",
+      "msg" : "pode me ajudar com isso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 15:34:08",
+      "delete" : false,
+      "mediaName" : "286fba85-8fc9-4dc9-83a0-32956854a6e5.opus",
+      "localPath" : "media\/f3475491a1ce6aa7b80dbac0c7191970222eb4b2.opus",
+      "mediaSize" : "19 KB",
+      "identifier" : "CKjkx7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 15:36:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "msg" : "Fabricio Hochmuller - Gerente de Afiliados",
+      "identifier" : "CJjlx7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "contact"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 09:47:18",
+      "delete" : false,
+      "identifier" : "CN7ky7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? \nSeu e-mai foi alterado! Poderia sair e logar novamente por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:37:24",
+      "delete" : false,
+      "identifier" : "COzx3LoGIABIAJABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 15:37:55",
+      "delete" : false,
+      "identifier" : "CIvy3LoGIABIAJABAA==",
+      "msg" : "ainda terei acesso aos cursos rapidos e ao modo caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:54:08",
+      "delete" : false,
+      "identifier" : "CNj53LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 15:55:01",
+      "delete" : false,
+      "identifier" : "CI363LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sim, pela plataforma Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 16:14:14",
+      "delete" : false,
+      "identifier" : "CI6D3boGIABIAJABAA==",
+      "msg" : "aproveitando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 16:14:36",
+      "delete" : false,
+      "identifier" : "CKSD3boGIABIAJABAA==",
+      "msg" : "quando estara disponivel a etapa mentalidade do modo caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 16:39:24",
+      "delete" : false,
+      "identifier" : "CPSO3boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode assistir dentro do Modo Caverna, as aulas foram reformuladas.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 16:40:20",
+      "delete" : false,
+      "identifier" : "CKyP3boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antiga Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 16:52:22",
+      "delete" : false,
+      "identifier" : "CP6U3boGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 16:55:38",
+      "delete" : false,
+      "identifier" : "CMKW3boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/18 12:00:17",
+      "delete" : false,
+      "identifier" : "CInHi7sGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/18 12:01:07",
+      "delete" : false,
+      "identifier" : "CLvHi7sGIABIAZABAA==",
+      "msg" : "Criei o meu infoproduto seguindo a metodologia do clube da luta, e gostaria de tirar uma dúvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/18 12:02:14",
+      "delete" : false,
+      "mediaName" : "5a248c7f-2027-43bf-a7da-de7fa1325e18.opus",
+      "localPath" : "media\/d52bace8e82e0662ce997b03684929c8079910a3.opus",
+      "mediaSize" : "106 KB",
+      "identifier" : "CP7Hi7sGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:45"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/18 14:23:54",
+      "delete" : false,
+      "mediaName" : "eb190e0c-07ec-4263-ae9d-d6fb8d78b15a.opus",
+      "localPath" : "media\/50ea9075ed8160bef44e6c2c9592378ccab73043.opus",
+      "mediaSize" : "16 KB",
+      "identifier" : "CLKKjLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/18 15:07:53",
+      "delete" : false,
+      "identifier" : "CIGfjLsGIABIAJABAA==",
+      "msg" : "ok bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 17:10:02",
+      "delete" : false,
+      "identifier" : "CKKdgMAGIABIAJABAA==",
+      "msg" : "boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:10:11",
+      "delete" : false,
+      "identifier" : "CKudgMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:10:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKydgMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 17:31:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "3️⃣ Programa de Afiliados",
+      "delete" : false,
+      "identifier" : "CKCngMAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:31:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKGngMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 17:31:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Quero me afiliar.*",
+      "delete" : false,
+      "identifier" : "CKqngMAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:31:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKungMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 17:31:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Sim, adquiri o Desafio Modo Caverna*",
+      "delete" : false,
+      "identifier" : "CLingMAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:31:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLqngMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 17:31:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "✅ Sim! Já tenho conta.",
+      "delete" : false,
+      "identifier" : "CMCngMAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:31:54",
+      "delete" : false,
+      "identifier" : "CMKngMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito! Para se afiliar ao Desafio Modo Caverna basta acessar o link abaixo ⬇️\n\nhttps:\/\/dash.ticto.com.br\/invitation\/affiliation\/PBD94F0EA",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:31:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMOngMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 17:46:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "✅ Sim! Tudo certo.",
+      "delete" : false,
+      "identifier" : "CLeugMAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:46:42",
+      "delete" : false,
+      "identifier" : "CLqugMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ótimo!\nEstamos à disposição para qualquer dúvida ou necessidade.\nObrigado pelo seu contato! 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 17:46:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Sim, adquiri o Aplicativo Modo Caverna*",
+      "delete" : false,
+      "identifier" : "CMSugMAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:46:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMmugMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 17:47:02",
+      "mediaSize" : "1 byte",
+      "mediaName" : "✅ Sim! Já tenho conta.",
+      "delete" : false,
+      "identifier" : "CM6ugMAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:47:04",
+      "delete" : false,
+      "identifier" : "CNCugMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito! Para se afiliar ao Modo Caverna basta acessar o link abaixo ⬇️\n\nhttps:\/\/dash.ticto.com.br\/invitation\/affiliation\/P1B997F97",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 17:47:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNGugMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 10:23:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Já sou afiliado e preciso de ajuda.*",
+      "delete" : false,
+      "identifier" : "CMqNmcAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/21 10:23:17",
+      "delete" : false,
+      "identifier" : "CM2NmcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "🛠️ _Para que eu possa te ajudar da melhor forma, por favor, me envie:_\n\n_1._ *Seu nome*\n2. *E-mail de compra*\n_3.*_ Descreva brevemente como posso te ajudar*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 10:24:44",
+      "delete" : false,
+      "identifier" : "CKSOmcAGIABIAJABAA==",
+      "msg" : "- Wagner\n- wagner.guerra.98@gmail.com\n- Queria solicitar os conteúdos disponibilizados para a estratégia de perfis dark, não está anexado na parte de baixo da aula conforme mencionado no conteudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/21 10:24:52",
+      "delete" : false,
+      "identifier" : "CKyOmcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/21 10:24:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK2OmcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

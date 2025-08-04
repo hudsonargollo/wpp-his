@@ -1,0 +1,161 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 46 99972-5066",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 12:31:14",
+      "delete" : false,
+      "identifier" : "CMq5v8MGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 15:40:46",
+      "delete" : false,
+      "identifier" : "CLaSwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, Everton! Tudo bem? Em que posso lhe ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 15:56:54",
+      "delete" : false,
+      "identifier" : "CP6ZwMMGIABIAZABAA==",
+      "msg" : "Quero cancelar a renovação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 15:59:27",
+      "delete" : false,
+      "identifier" : "CJebwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia informar qual o motivo dessa decisão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 16:52:33",
+      "delete" : false,
+      "identifier" : "CIm0wMMGIABIAZABAA==",
+      "msg" : "Não uso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 17:30:46",
+      "delete" : false,
+      "identifier" : "CP7FwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me passa seu e-mail, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 17:31:24",
+      "delete" : false,
+      "identifier" : "CKTGwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você teve alguma dificuldade para acessar ou algo do tipo, que levou a não utilização?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 17:41:27",
+      "delete" : false,
+      "identifier" : "CP\/KwMMGIABIAZABAA==",
+      "msg" : "evertonjosefelix2000@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 17:41:37",
+      "delete" : false,
+      "identifier" : "CInLwMMGIABIAZABAA==",
+      "msg" : "Não, só não me adaptei mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 17:47:09",
+      "delete" : false,
+      "identifier" : "CNXNwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vi que você adquiriu hoje, não quer tentar utilizar com suporte? Posso estar te auxiliando.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 17:50:06",
+      "delete" : false,
+      "identifier" : "CIbPwMMGIABIAZABAA==",
+      "msg" : "Eu n adquiri hoje",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 17:50:10",
+      "delete" : false,
+      "identifier" : "CIrPwMMGIABIAZABAA==",
+      "msg" : "Faz um ano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 17:50:11",
+      "delete" : false,
+      "identifier" : "CIvPwMMGIABIAZABAA==",
+      "msg" : "Foi renovado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 17:58:12",
+      "delete" : false,
+      "identifier" : "COzSwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ah tudo bem. Sinto muito, mas respeito sua decisão.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 17:58:28",
+      "delete" : false,
+      "identifier" : "CPzSwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estarei fazendo o procedimento, ok ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 18:02:43",
+      "delete" : false,
+      "identifier" : "CPvUwMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pronto, seu reembolso já foi solicitado. Observe seu e-mail até amanhã. Caso não receba nada, você pode estar entrando em contato novamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 18:07:20",
+      "delete" : false,
+      "identifier" : "CJDXwMMGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    }
+  ]
+})

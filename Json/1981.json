@@ -1,0 +1,26 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 47 99192-7207",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 07:26:16",
+      "delete" : false,
+      "identifier" : "CNCe47gGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 09:36:13",
+      "delete" : false,
+      "identifier" : "CMXb47gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Como posso te ajudar?",
+      "type" : "text"
+    }
+  ]
+})

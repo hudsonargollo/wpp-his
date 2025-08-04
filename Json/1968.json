@@ -1,0 +1,114 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 79 99931-3682",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 19:43:44",
+      "delete" : false,
+      "identifier" : "CKj45bgGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 19:46:23",
+      "delete" : false,
+      "identifier" : "CMf55bgGIABIAZABAA==",
+      "msg" : "Então o link que me mandaram não dá para acessar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 09:57:49",
+      "delete" : false,
+      "identifier" : "CNWI6bgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Poderia me dar mais detalhes? Você tentou acessar por onde, por algum link específico e por qual aparelho telefônico?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/24 12:01:27",
+      "delete" : false,
+      "identifier" : "CM\/C6bgGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/24 12:02:02",
+      "delete" : false,
+      "identifier" : "CPLC6bgGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/24 12:02:07",
+      "delete" : false,
+      "identifier" : "CPfC6bgGIABIAZABAA==",
+      "msg" : "Fabricia Santos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 14:18:55",
+      "delete" : false,
+      "identifier" : "CIeD6rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Você poderia fornecer mais detalhes, por favor? Gostaria de saber por qual meio você tentou acessar, se foi por qual aparelho (celular ou outro dispositivo) utilizou.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/24 15:16:48",
+      "delete" : false,
+      "identifier" : "CJie6rgGIABIAZABAA==",
+      "msg" : "Celular",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 16:36:22",
+      "delete" : false,
+      "mediaName" : "6b21bf46-3806-4863-800c-a9742710256e.opus",
+      "localPath" : "media\/17c457aebda71639fb807730ae4f00bacb74cde8.opus",
+      "mediaSize" : "64 KB",
+      "identifier" : "CL7D6rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:31"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 16:37:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CPrD6rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/24 16:37:47",
+      "delete" : false,
+      "mediaName" : "eff8df05-754b-4a71-b08d-ae166b1ae9a9.jpg",
+      "localPath" : "media\/435dfd6cbc47b45b96707009454099553b2ed685.jpg",
+      "mediaSize" : "16 KB",
+      "identifier" : "CJPE6rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/138886df844012ead7218c15230f00e7565c9be8"
+    }
+  ]
+})

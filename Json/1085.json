@@ -1,0 +1,326 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 49 93380-9728",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/22 09:13:38",
+      "delete" : false,
+      "mediaName" : "811082c7-b501-48d7-a520-86028e3429a4.opus",
+      "localPath" : "media\/93374f7871664628b0cdea164ca1b00b740651e5.opus",
+      "mediaSize" : "71 KB",
+      "identifier" : "CPr+5r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:35"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/22 09:15:04",
+      "delete" : false,
+      "mediaName" : "04652090-f046-47fb-b05c-af02afea9de8.opus",
+      "localPath" : "media\/50318dba20b8189ac2be7c68c8f906fe46dd34ca.opus",
+      "mediaSize" : "57 KB",
+      "identifier" : "CND\/5r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:27"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 12:13:13",
+      "delete" : false,
+      "identifier" : "CJGZ8r0GIABIAZABAA==",
+      "msg" : "Bom dia Rafaela tudo bem, poderia me dizer como vai ficar o sistema financeiro após a atualização?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 12:13:40",
+      "delete" : false,
+      "identifier" : "CKyZ8r0GIABIAZABAA==",
+      "msg" : "As melhorias até mesmo como vai ficar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 12:17:28",
+      "delete" : false,
+      "identifier" : "CJCb8r0GIAA6FDNBMEE3QzI1OTNFQTM2OTA1QjExQOekpsTTMkgBeLDR0tLUMpABAA==",
+      "msg" : "E claro se possível as outras melhorias que vão ser implementadas. Como disse no feedback, achei uma ideia incrível, mas ainda limitado, principalmente na parte financeira. Acredito fielmente que a plataforma vai melhorar porque o projeto é muito bom",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 12:34:23",
+      "delete" : false,
+      "mediaName" : "9afad132-51be-4116-9f64-8f1837b8dd7b.jpg",
+      "localPath" : "media\/67de3c2b53988b41d83024bdaad6071ae7452c8a.jpg",
+      "mediaSize" : "181 KB",
+      "identifier" : "CIej8r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/afb7482c3cc084fbe20dddcef8528a2e4b88c96c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 12:34:23",
+      "delete" : false,
+      "mediaName" : "948dacc7-0f46-4395-b853-7e1ed7b7d26c.jpg",
+      "localPath" : "media\/04a7a6070a29771bfdf42c1f8c1e6a2ea97cd00e.jpg",
+      "mediaSize" : "505 KB",
+      "identifier" : "CIej8r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/b24022c7990e5ec64c68ed16a6d99cdc7ae60087"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 12:34:45",
+      "delete" : false,
+      "mediaName" : "bd140c6e-32ed-4dcd-8ed8-8fcfba8e287f.opus",
+      "localPath" : "media\/29893f8c6e0eae971f02de953b76bba26171e692.opus",
+      "mediaSize" : "35 KB",
+      "identifier" : "CJ2j8r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 12:39:58",
+      "delete" : false,
+      "identifier" : "CNal8r0GIABIAZABAA==",
+      "msg" : "Uma questão que gostaria que tivesse e nao encontrei seria o controle do cartão de crédito. Vai ser emplementado Nessa atualização ou ainda não tem previsto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 12:41:24",
+      "delete" : false,
+      "identifier" : "CKym8r0GIABIAZABAA==",
+      "msg" : "Essa seria a nova parte do resumo do dia? Correto…",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 12:41:46",
+      "delete" : false,
+      "identifier" : "CMKm8r0GIABIAZABAA==",
+      "msg" : "As outras atualizações que você comentou comigo seria quais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 12:42:22",
+      "delete" : false,
+      "identifier" : "COam8r0GIABIAZABAA==",
+      "msg" : "Muito obrigado pelo esforço realmente vai ficar melhor a parte financeira",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 14:42:56",
+      "delete" : false,
+      "identifier" : "CKjf8r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso, essa é a nova interface do resumo do dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 14:43:27",
+      "delete" : false,
+      "identifier" : "CMff8r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Consegue detalhar mais? Posso estar passando para o time de desenvolvimento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 14:44:01",
+      "delete" : false,
+      "mediaName" : "823e1a96-5f99-4648-b825-7e13d9d9ad52.jpg",
+      "localPath" : "media\/70db5ab22936d32d8f74d48a1b5f9e7748fa7269.jpg",
+      "mediaSize" : "426 KB",
+      "identifier" : "COnf8r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/78428da80ab16539418ba15bc63aebf93e0e4615"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 14:44:01",
+      "delete" : false,
+      "mediaName" : "b68ffc46-c13e-4de7-aa6a-36bb78e393b7.jpg",
+      "localPath" : "media\/ed1e5118feee2d0c8a3010605d8a67f20df846e8.jpg",
+      "mediaSize" : "348 KB",
+      "identifier" : "COnf8r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/10647e7359a797b74b98a1bfb232b37a9fa2017e"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 14:44:01",
+      "delete" : false,
+      "mediaName" : "9679cb9a-bcdd-4c72-8db6-7a28bd1c5f1b.jpg",
+      "localPath" : "media\/607b2644899e518e58ea4a011196ef2ab7e801d5.jpg",
+      "mediaSize" : "505 KB",
+      "identifier" : "COnf8r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/a011db0f041d0fe7d7747247a6d91130b5c761f7"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 14:48:46",
+      "delete" : false,
+      "mediaName" : "982fc5a9-fe16-42ea-bd80-fc48129a0852.opus",
+      "localPath" : "media\/d8c63f0acaf73f593a5a8542d46c398c645cd1b9.opus",
+      "mediaSize" : "230 KB",
+      "identifier" : "CIbi8r0GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "01:38"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 14:49:02",
+      "delete" : false,
+      "identifier" : "CJbi8r0GIABIAIoBBAgAEACQAQA=",
+      "msg" : "https:\/\/meuplannerfinanceiro.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 14:49:46",
+      "delete" : false,
+      "identifier" : "CMLi8r0GIABIAZABAA==",
+      "msg" : "Essas atualizações vão entrar em vigor já na virada do mês?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 14:52:44",
+      "delete" : false,
+      "mediaName" : "71214b0a-cd80-40d7-b84b-89bab81754e0.opus",
+      "localPath" : "media\/dfd565b2c32548ad1c9690771cb3cf3256fb21ad.opus",
+      "mediaSize" : "62 KB",
+      "identifier" : "CPTj8r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 14:52:46",
+      "delete" : false,
+      "mediaName" : "5d0b171f-50ce-4f51-89f1-667f5fddb51a.opus",
+      "localPath" : "media\/f4207774f02f8735627ec7c02b86189473325c57.opus",
+      "mediaSize" : "136 KB",
+      "identifier" : "CPbj8r0GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:58"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 15:46:00",
+      "delete" : false,
+      "mediaName" : "3ed86b0d-8d5c-47d5-ae2e-66fd6bb70d0d.opus",
+      "localPath" : "media\/7041c895f5b7d044af05b9aaf854c4c86d3bd6b6.opus",
+      "mediaSize" : "68 KB",
+      "identifier" : "CPD88r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:33"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 18:54:19",
+      "delete" : false,
+      "identifier" : "CJPV870GIABIAIoBBAgAEACQAQA=",
+      "msg" : "sim gostaria de continuar o cancelamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/25 08:33:37",
+      "delete" : false,
+      "identifier" : "CJnV9r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Leo! Solicita novamente pela plataforma através do email de negação de reembolso, por gentileza\nSeja aprovado imediatamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/25 09:09:39",
+      "delete" : false,
+      "identifier" : "CIvm9r0GIABIAIoBBAgAEACQAQA=",
+      "msg" : "bom dia, tudo bem contigo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/25 09:09:47",
+      "delete" : false,
+      "identifier" : "CJPm9r0GIABIAIoBBAgAEACQAQA=",
+      "msg" : "aqui está parecendo esta informação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/25 09:10:01",
+      "delete" : false,
+      "mediaName" : "55d83793-c995-4913-9e36-24d3e832e562.jpg",
+      "localPath" : "media\/5000802962320564ff4d5742b3c8ab687f973c3c.jpg",
+      "mediaSize" : "51 KB",
+      "identifier" : "CKHm9r0GIABIAIoBBAgAEACQAQA=",
+      "type" : "photo",
+      "thumbPath" : "media\/04a1b70307188f54e4bc272710c45eee0e1f3d9b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/25 09:11:04",
+      "delete" : false,
+      "identifier" : "CODm9r0GIABIAIoBBAgAEACQAQA=",
+      "msg" : "Como posso estar fazendo agora?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/25 09:13:20",
+      "delete" : false,
+      "identifier" : "COjn9r0GIABIAIoBBAgAEACQAQA=",
+      "msg" : "Acabou de confirmar em minha conta o pagamento. Quero agradecer a você e toda sua equipe pelo excelente projeto de todos os envolvidos e do seu suporte. Muito obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/25 09:51:05",
+      "delete" : false,
+      "identifier" : "CMH59r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, Leo! Muito obrigada pelo contato ☺️",
+      "type" : "text"
+    }
+  ]
+})

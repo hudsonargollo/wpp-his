@@ -1,0 +1,93 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 98404-2001",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/14 15:01:04",
+      "delete" : false,
+      "identifier" : "COjd0b4GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/14 15:01:08",
+      "delete" : false,
+      "identifier" : "COzd0b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/14 15:01:14",
+      "delete" : false,
+      "identifier" : "CPLd0b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/14 15:01:14",
+      "delete" : false,
+      "mediaName" : "b5ac9dac-486b-4c57-a91e-5a70eefde9e3.jpg",
+      "localPath" : "media\/dfb2ff483a1a3b29ed06fc25cf5c9ccd3aa32a3e.jpg",
+      "mediaSize" : "81 KB",
+      "identifier" : "CPLd0b4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/984eb457e4051ce9446750865f1a3e9d4410436f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/14 15:01:36",
+      "delete" : false,
+      "identifier" : "CIje0b4GIABIAZABAA==",
+      "msg" : "Comprei agora aceso por onde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/14 15:04:40",
+      "delete" : false,
+      "identifier" : "CMDf0b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Eduardo! Tudo bem?\nVou te enviar o link para você acessar!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/14 15:04:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CM\/f0b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/14 15:38:47",
+      "delete" : false,
+      "identifier" : "CL\/v0b4GIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/14 15:38:52",
+      "delete" : false,
+      "identifier" : "CMTv0b4GIABIAZABAA==",
+      "msg" : "Ansioso",
+      "type" : "text"
+    }
+  ]
+})

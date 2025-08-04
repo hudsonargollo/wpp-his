@@ -1,0 +1,107 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99103-5481",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 14:38:38",
+      "delete" : false,
+      "identifier" : "CKaB1cMGIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 14:38:48",
+      "delete" : false,
+      "identifier" : "CLCB1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 14:38:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLGB1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 14:41:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLaC1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:16:12",
+      "mediaSize" : "548 KB",
+      "mediaName" : "Suporte Geral.pdf",
+      "localPath" : "media\/a673615f57c02fb899572a158d86c59eb7c085cd.pdf",
+      "delete" : false,
+      "identifier" : "COSmqcQGIABIAJABAA==",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:16:41",
+      "delete" : false,
+      "mediaName" : "a3345af8-f1d6-43c2-8d60-74ff79104c78.mp4",
+      "localPath" : "media\/8dbf1aa4bc0bcfc07ec01aca5c63f0064a3385ac.mp4",
+      "mediaSize" : "2,1 MB",
+      "identifier" : "CIGnqcQGIABIAJABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/36c24cb8adbc812cf710aedffc5954ca9b78e918"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 16:13:04",
+      "delete" : false,
+      "identifier" : "CMjdqcQGIABIAJABAA==",
+      "msg" : "https:\/\/docs.google.com\/document\/d\/1HLXm39KgivFy5C6l2R0Z9GuO7IiVn0wh\/edit",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 16:13:21",
+      "mediaSize" : "5 KB",
+      "mediaName" : "462523c1-a467-4f04-b1e5-9e1a4511de44.thumb",
+      "localPath" : "media\/76f923031c2a9c8957d709d8bb7b082fda2e81e7.thumb",
+      "delete" : false,
+      "identifier" : "CNndqcQGIABIAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 16:13:44",
+      "delete" : false,
+      "identifier" : "CPDdqcQGIABIAJABAA==",
+      "msg" : "https:\/\/docs.google.com\/document\/d\/1-ykOpJOg8eOkTRiEQKYbfsj_3sCqqBr_w-TTeIp7YIs\/edit?tab=t.0",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 16:13:44",
+      "delete" : false,
+      "identifier" : "CPDdqcQGIABIAJABAA==",
+      "msg" : "https:\/\/docs.google.com\/document\/d\/11IrfT_JmbtlZ5fbWJAgUFPyok9Mt0G7Yf7goy2XhxQo\/edit?tab=t.0#heading=h.426oqnw5khwx",
+      "type" : "text"
+    }
+  ]
+})

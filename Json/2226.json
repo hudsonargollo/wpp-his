@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 96 98120-6244",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/14 11:21:28",
+      "delete" : false,
+      "identifier" : "CPC3lrcGIABIAZABAA==",
+      "msg" : "Olá, Sou afiliado da Central Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 11:24:03",
+      "delete" : false,
+      "identifier" : "CIu5lrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/16 09:10:10",
+      "delete" : false,
+      "identifier" : "CKrAoLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia! Como posso te ajudar?",
+      "type" : "text"
+    }
+  ]
+})

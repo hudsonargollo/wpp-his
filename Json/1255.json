@@ -1,0 +1,76 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 83 99636-1365",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/22 07:59:47",
+      "delete" : false,
+      "identifier" : "CKufw7wGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/22 07:59:58",
+      "delete" : false,
+      "identifier" : "CLafw7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/22 08:00:04",
+      "delete" : false,
+      "identifier" : "CLyfw7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/22 08:00:23",
+      "delete" : false,
+      "identifier" : "CM+fw7wGIABIAZABAA==",
+      "msg" : "Como abaixar o aplicativo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/22 09:08:28",
+      "delete" : false,
+      "mediaName" : "499eb48c-4907-46e9-b7e7-34b5771cb38f.opus",
+      "localPath" : "media\/84139b2aae7c76c2d103e00b365d84b8d057cba5.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "CMS\/w7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/22 13:02:25",
+      "delete" : false,
+      "identifier" : "CJmtxLwGIABIAZABAA==",
+      "msg" : "Mande o link por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/22 14:09:31",
+      "mediaSize" : "14 KB",
+      "mediaName" : "4809fdfc-97b3-4935-9397-7274643ae94e.thumb",
+      "localPath" : "media\/4844d15d2986abe6e5f3cb77a2fb967e7538d2fb.thumb",
+      "delete" : false,
+      "identifier" : "CNPMxLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

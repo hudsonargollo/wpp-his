@@ -1,0 +1,92 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 14 99127-4605",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/11 19:53:31",
+      "delete" : false,
+      "identifier" : "CPPsi7wGIABIAJABAA==",
+      "msg" : "Olá, vim do Modo Caverna e desejo solicitar o cancelamento do meu plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/11 19:53:36",
+      "delete" : false,
+      "identifier" : "CPjsi7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 🔺\nEntendi que você deseja cancelar seu plano no Modo Caverna. Poderia me contar o que o levou a essa decisão? Iremos sempre melhorar e, se possível, ajudar a resolver qualquer situação. 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/11 21:02:13",
+      "delete" : false,
+      "identifier" : "CI2NjLwGIABIAJABAA==",
+      "msg" : "identifiquei alguns bugs na plataforma, por exemplo, não consegui acessar os cursos, equando entra em modo de descanso no flow nao consigo mutar o audio.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 09:52:41",
+      "delete" : false,
+      "mediaName" : "20a97493-3cad-4d9d-9950-e5bd9613191f.opus",
+      "localPath" : "media\/c0c662c3d09de7aeef6e0e3a97de57a7b6d5c27d.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CKGZlLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 14:53:52",
+      "delete" : false,
+      "identifier" : "CLimlbwGIABIAJABAA==",
+      "msg" : "infelizmente meu período de teste ja finalizou, mas basicamente tentei acessar o curso pela plataforma, e me parece que o botão apenas atualiza a mesma página. Normalmente o que soluciona esse problema é adicionar um event.preventDefault(), espero que ajude a solucionar esse problema. um forte abraço.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 15:21:16",
+      "delete" : false,
+      "identifier" : "CKSzlbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 17:01:38",
+      "delete" : false,
+      "identifier" : "CKrilbwGIABIAJABAA==",
+      "msg" : "eu@massaaki.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 08:34:06",
+      "delete" : false,
+      "identifier" : "CLaXmbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 08:34:34",
+      "delete" : false,
+      "identifier" : "CNKXmbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "A compra que você realizou não tem renovação, não precisa de cancelamento☺️",
+      "type" : "text"
+    }
+  ]
+})

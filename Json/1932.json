@@ -1,0 +1,278 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 65 99809-2129",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:00:53",
+      "delete" : false,
+      "identifier" : "CN3FhLkGIABIAJABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:01:10",
+      "delete" : false,
+      "identifier" : "CO7FhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!*\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:01:16",
+      "delete" : false,
+      "identifier" : "CPTFhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:02:07",
+      "delete" : false,
+      "identifier" : "CKfGhLkGIABIAJABAA==",
+      "msg" : "Ricardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:02:07",
+      "delete" : false,
+      "identifier" : "CKfGhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:02:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK3GhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:02:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta",
+      "delete" : false,
+      "identifier" : "CLfGhLkGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:02:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLnGhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:03:45",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CInHhLkGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:03:47",
+      "delete" : false,
+      "identifier" : "CIvHhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 09:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 09:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:04:58",
+      "delete" : false,
+      "identifier" : "CNLHhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Eu sou a Júlia, do suporte Iuri Meira, e estou aqui para te ajudar da melhor maneira possível! 😊\n\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:05:13",
+      "delete" : false,
+      "identifier" : "COHHhLkGIABIAJABAA==",
+      "msg" : "Consigo acessar a área de membro do Club da Luta, mas não aparece para assistir",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:05:16",
+      "delete" : false,
+      "identifier" : "COTHhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:05:18",
+      "delete" : false,
+      "identifier" : "CObHhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:05:28",
+      "delete" : false,
+      "identifier" : "CPDHhLkGIABIAJABAA==",
+      "msg" : "eu comprei o vitalício",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:05:35",
+      "delete" : false,
+      "identifier" : "CPfHhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, eu comprei o vitalício.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:05:38",
+      "delete" : false,
+      "identifier" : "CPrHhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual seu e-mail?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:05:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPrHhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:06:12",
+      "delete" : false,
+      "identifier" : "CJzIhLkGIABIAJABAA==",
+      "msg" : "ricardomellim@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:09:45",
+      "delete" : false,
+      "identifier" : "CPHJhLkGIABIAJABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:13:19",
+      "delete" : false,
+      "identifier" : "CMfLhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada! Só um momento!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:14:36",
+      "delete" : false,
+      "mediaName" : "2c085dfe-f132-497c-ae6d-55ec88789e34.opus",
+      "localPath" : "media\/44dc1e5ae14281fd0b19d6ace89f2b31acd71d87.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "CJTMhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:20:57",
+      "delete" : false,
+      "identifier" : "CJHPhLkGIABIAJABAA==",
+      "msg" : "vou verificar no meu email",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:21:00",
+      "delete" : false,
+      "identifier" : "CJTPhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:21:02",
+      "delete" : false,
+      "identifier" : "CJbPhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:21:53",
+      "delete" : false,
+      "identifier" : "CMnPhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tranquilo! No aguardo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 15:55:56",
+      "delete" : false,
+      "identifier" : "CMTfhLkGIABIAJABAA==",
+      "msg" : "Deu certo. Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:56:02",
+      "delete" : false,
+      "identifier" : "CMrfhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Deu certo. Obrigado.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 15:56:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM3fhLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

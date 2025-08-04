@@ -1,0 +1,72 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99661-3533",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 20:11:11",
+      "delete" : false,
+      "identifier" : "CJe2usQGIABIAZABAA==",
+      "msg" : "Boa noite!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 20:11:14",
+      "delete" : false,
+      "identifier" : "CJq2usQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 20:11:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJu2usQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 20:12:15",
+      "delete" : false,
+      "identifier" : "CNe2usQGIABIAZABAA==",
+      "msg" : "Me foi cobrado em meu cartão de crédito, um produto referente ao modo do caverna sem minha autorização!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 20:12:56",
+      "delete" : false,
+      "identifier" : "CIC3usQGIABIAZABAA==",
+      "msg" : "Há tempos atrás comprei o curso do Modo Caverna, mas desde então não acesso nada referente ao conteúdo de vcs",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 20:13:54",
+      "delete" : false,
+      "identifier" : "CLq3usQGIABIAZABAA==",
+      "msg" : "E agora pouco me foi notificado a compra de um produto de R$ 182,43 em 12x de vcs",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 20:14:25",
+      "delete" : false,
+      "identifier" : "CNm3usQGIABIAZABAA==",
+      "msg" : "Aguardo o retorno de vcs para que isso possa ser resolvido",
+      "type" : "text"
+    }
+  ]
+})

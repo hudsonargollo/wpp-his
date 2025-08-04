@@ -1,0 +1,123 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 99860-4686",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 15:46:42",
+      "delete" : false,
+      "identifier" : "CJqb1rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 15:46:53",
+      "delete" : false,
+      "mediaName" : "eb8fd30c-91f2-4594-b95a-c3fe97c34bbb.jpg",
+      "localPath" : "media\/2a5dafb6617cb4be72576a159146b9158f273e99.jpg",
+      "mediaSize" : "127 KB",
+      "identifier" : "CKWb1rsGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/f8009c5bc1f98a9524fc10ea0adbd349ae7c9577"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 15:47:00",
+      "delete" : false,
+      "identifier" : "CKyb1rsGIABIAJABAA==",
+      "msg" : "Michelle",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 15:47:07",
+      "delete" : false,
+      "identifier" : "CLOb1rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Michelle*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 15:47:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLmb1rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 15:48:18",
+      "delete" : false,
+      "identifier" : "CPqb1rsGIABIAJABAA==",
+      "msg" : "Já resolveu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 15:48:31",
+      "delete" : false,
+      "identifier" : "CIec1rsGIABIAJABAA==",
+      "msg" : "Mas não sei porque meu quadro de fotos sumiu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 15:48:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJqc1rsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 15:48:57",
+      "delete" : false,
+      "identifier" : "CKGc1rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 15:49:02",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKac1rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 15:51:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com dificuldade em uma das seções",
+      "delete" : false,
+      "identifier" : "CKGd1rsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 15:51:08",
+      "delete" : false,
+      "identifier" : "CKSd1rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Certo!* Me conta aqui qual a sua dúvida, se puder me mande uma captura de tela para eu possa te auxiliar da melhor maneira! 😊\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,89 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 87 99613-0619",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 20:11:32",
+      "delete" : false,
+      "identifier" : "CKzovLsGIABIAJABAA==",
+      "msg" : "Olá, vim da Central Caverna e desejo solicitar o cancelamento do meu plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 20:11:36",
+      "delete" : false,
+      "identifier" : "CLDovLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 🔺\nEntendi que você deseja cancelar seu plano no Modo Caverna. Poderia me contar o que o levou a essa decisão? Iremos sempre melhorar e, se possível, ajudar a resolver qualquer situação. 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/28 12:10:16",
+      "delete" : false,
+      "identifier" : "COCpwLsGIABIAZABAA==",
+      "msg" : "bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/28 12:10:27",
+      "delete" : false,
+      "identifier" : "COupwLsGIABIAZABAA==",
+      "msg" : "acredito que não vou usar mt a plataforma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/28 12:10:31",
+      "delete" : false,
+      "identifier" : "CO+pwLsGIABIAZABAA==",
+      "msg" : "e ela ta cheia de bug",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/28 12:10:43",
+      "delete" : false,
+      "identifier" : "CPupwLsGIABIAZABAA==",
+      "msg" : "ate falei pra o outro numero de suporte, mas ngm respondeu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 08:41:57",
+      "delete" : false,
+      "identifier" : "CI2OyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 08:42:15",
+      "delete" : false,
+      "identifier" : "CJ+OyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você quer cancelar a renovação automática, correto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 08:42:34",
+      "delete" : false,
+      "identifier" : "CLKOyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia detalhar melhor?",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,47 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 98647-9223",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 15:41:54",
+      "delete" : false,
+      "identifier" : "CPrAoMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala,Nilma! Tudo bem?\nAqui é a equipe de Suporte do Modo Caverna, estamos passando para te avisar que o produto do Desafio Caverna que você está afiliado será descontinuado.\n\nMas não se preocupe, já estamos te afiliando ao novo produto!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 15:42:00",
+      "delete" : false,
+      "identifier" : "CIDBoMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Na sua área de afiliado da Ticto você encontrará seus novos links de afiliado 🫡",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 15:42:01",
+      "delete" : false,
+      "mediaName" : "862a248a-e257-4769-8a42-37fbbceb8b2d.jpg",
+      "localPath" : "media\/920c3b038fa7384a982ff73c591ddf7e18aa2ede.jpg",
+      "mediaSize" : "22 KB",
+      "identifier" : "CIHBoMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/80f9b9ee13cef966d23eafbb803aaa9a7c5462da"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 15:42:07",
+      "delete" : false,
+      "identifier" : "CIfBoMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Caso esteja com seu link de afiliado antigo vinculado à alguma postagem, lembre-se de atualizá-lo. Qualquer dúvida estamos à disposição. 🫡",
+      "type" : "text"
+    }
+  ]
+})

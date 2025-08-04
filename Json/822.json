@@ -1,0 +1,254 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94982-6989",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:51:30",
+      "delete" : false,
+      "identifier" : "CMqQ+b8GIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:51:39",
+      "delete" : false,
+      "identifier" : "CNOQ+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:51:45",
+      "delete" : false,
+      "identifier" : "CNmQ+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:52:20",
+      "delete" : false,
+      "identifier" : "CPyQ+b8GIABIAZABAA==",
+      "msg" : "Vinícius",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:52:27",
+      "delete" : false,
+      "identifier" : "CIOR+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Vinícius*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:52:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CImR+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:52:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJCR+b8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:52:41",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJGR+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:52:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar o conteúdo",
+      "delete" : false,
+      "identifier" : "CJ2R+b8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:52:55",
+      "delete" : false,
+      "identifier" : "CJ+R+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Para acessar o conteúdo do Desafio Modo Caverna, clique no link abaixo ⬇️*\n\n*https:\/\/desafio.modocaverna.com\/material*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:52:56",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKCR+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:53:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não, preciso de ajuda",
+      "delete" : false,
+      "identifier" : "CLCR+b8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:53:14",
+      "delete" : false,
+      "identifier" : "CLKR+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:53:47",
+      "delete" : false,
+      "identifier" : "CNOR+b8GIABIAZABAA==",
+      "msg" : "O Login e senha consta que não existe.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 10:12:01",
+      "delete" : false,
+      "identifier" : "CKm2+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nSou a Brenda, responsável pelo suporte do Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 10:12:40",
+      "delete" : false,
+      "identifier" : "CNC2+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você adquiriu os nossos produtos ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:15:53",
+      "delete" : false,
+      "identifier" : "CJG4+b8GIABIAZABAA==",
+      "msg" : "Adquiri o Desafio tem alguns meses.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:16:04",
+      "delete" : false,
+      "identifier" : "CJy4+b8GIABIAZABAA==",
+      "msg" : "Hoje fui acessar diz que não consta.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:18:43",
+      "delete" : false,
+      "mediaName" : "45c9381d-8262-4350-a634-8a3f7512764e.jpg",
+      "localPath" : "media\/49ac5e5da53651b4a7faea77a4ed4e4e3c1aab31.jpg",
+      "mediaSize" : "140 KB",
+      "identifier" : "CLu5+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/54755cdb60f1f9861b3b4f2a60384e6347f4227c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 11:18:56",
+      "delete" : false,
+      "identifier" : "CNjV+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "poderia me enviar seu e-mail e uma print do problema por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 11:25:48",
+      "delete" : false,
+      "mediaName" : "f2c23ede-25fa-444c-ac44-6e5eaec902ca.jpg",
+      "localPath" : "media\/c9500f9ee8a3413b14870211bdc73b4f5d57ec44.jpg",
+      "mediaSize" : "69 KB",
+      "identifier" : "CPTY+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4eb2a6114d6635061d791917f8e4c8347eace516"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 11:25:57",
+      "delete" : false,
+      "identifier" : "CP3Y+b8GIABIAZABAA==",
+      "msg" : "vsoares890928@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 11:28:05",
+      "delete" : false,
+      "identifier" : "CP3Z+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você consegue acessar por um desktop ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 11:31:19",
+      "delete" : false,
+      "identifier" : "CL\/b+b8GIABIAZABAA==",
+      "msg" : "No momento não.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 13:05:33",
+      "delete" : false,
+      "identifier" : "CNWH+r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não estamos disponibilizando o sistema para mobile, nosso aplicativo está sendo atualizando e logo estará disponivel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 13:07:16",
+      "delete" : false,
+      "identifier" : "CLyI+r8GIABIAZABAA==",
+      "msg" : "Entendi.",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,91 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99444-4555",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 21:36:07",
+      "delete" : false,
+      "identifier" : "CP\/wwsIGIABIAJABAA==",
+      "msg" : "Olá, preciso de ajuda!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 21:36:13",
+      "delete" : false,
+      "identifier" : "CIXxwsIGIABIAJABAA==",
+      "msg" : "Vai ter reposição de alguns modelos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 21:36:15",
+      "delete" : false,
+      "identifier" : "CIfxwsIGIABIAJABAA==",
+      "msg" : "A branca vai voltar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 21:36:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ Loja Caverna",
+      "delete" : false,
+      "identifier" : "CJDxwsIGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 21:36:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "*8️⃣ Como falo com um atendente?*",
+      "delete" : false,
+      "identifier" : "CKvxwsIGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/17 09:59:40",
+      "delete" : false,
+      "identifier" : "CMTNxcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/17 10:00:01",
+      "delete" : false,
+      "identifier" : "CNnNxcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Em breve vamos fazer a reposição de todo o estoque e você será notificada! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/17 10:03:50",
+      "delete" : false,
+      "identifier" : "CL7PxcIGIAA6FDNBRjY4MjVDMUEyMDlFMDNFNTdEQO\/V9O\/3MkgBeIK33439MpABAA==",
+      "msg" : "Qual a tabela de medidas do moletom?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/17 10:03:57",
+      "delete" : false,
+      "identifier" : "CMXPxcIGIABIAZABAA==",
+      "msg" : "Bom dia, obrigada",
+      "type" : "text"
+    }
+  ]
+})

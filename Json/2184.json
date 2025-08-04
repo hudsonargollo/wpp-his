@@ -1,0 +1,386 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 91135-3392",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 13:06:12",
+      "delete" : false,
+      "identifier" : "CPy6trcGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 13:06:14",
+      "delete" : false,
+      "identifier" : "CP66trcGIABIAZABAA==",
+      "msg" : "Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 13:06:15",
+      "delete" : false,
+      "identifier" : "CP+6trcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 13:06:15",
+      "delete" : false,
+      "identifier" : "CP+6trcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 13:06:16",
+      "delete" : false,
+      "identifier" : "CIC7trcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 13:06:18",
+      "delete" : false,
+      "identifier" : "CIK7trcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 13:06:25",
+      "delete" : false,
+      "identifier" : "CIm7trcGIABIAZABAA==",
+      "msg" : "Carlos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 13:06:32",
+      "delete" : false,
+      "identifier" : "CJC7trcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Carlos.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 13:06:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJO7trcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 13:06:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "A Quebra da Matrix Digital",
+      "delete" : false,
+      "identifier" : "CJy7trcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 13:06:47",
+      "delete" : false,
+      "identifier" : "CJ+7trcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, A Quebra da Matrix Digital. Agora selecione uma opção que corresponde a sua dúvida\/problema.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 13:06:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKC7trcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 13:06:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Outros",
+      "delete" : false,
+      "identifier" : "CKe7trcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 13:06:57",
+      "delete" : false,
+      "identifier" : "CKm7trcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o seu problema... enquanto isso, vou te direcionar para um atendente. \n\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 09:00 às 18:00 de segunda à sexta, e \n das 09:00 às 12:00 aos sábados.\n\nAgora é só aguardar alguns minutos.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 13:07:13",
+      "delete" : false,
+      "identifier" : "CLm7trcGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:11:28",
+      "delete" : false,
+      "identifier" : "CMjZtrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:15:12",
+      "delete" : false,
+      "identifier" : "CKjbtrcGIABIAZABAA==",
+      "msg" : "Gostaria de saber",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:15:26",
+      "delete" : false,
+      "identifier" : "CLbbtrcGIABIAZABAA==",
+      "msg" : "Quando será a próxima turma da quebra da matrix?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:15:29",
+      "delete" : false,
+      "identifier" : "CLnbtrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:15:31",
+      "delete" : false,
+      "identifier" : "CLvbtrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:15:38",
+      "delete" : false,
+      "identifier" : "CMLbtrcGIABIAZABAA==",
+      "msg" : "Quando será a próxima turma da quebra da matrix?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:15:44",
+      "delete" : false,
+      "identifier" : "CMjbtrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Quando será a próxima turma da quebra da matrix?.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:15:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMzbtrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:15:53",
+      "delete" : false,
+      "identifier" : "CNHbtrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perdão pelo BOT",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:18:57",
+      "delete" : false,
+      "identifier" : "CIndtrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ainda não temos uma data definida, mas já temos uma lista de espera, você tem interesse?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:20:04",
+      "delete" : false,
+      "identifier" : "CMzdtrcGIABIAZABAA==",
+      "msg" : "Mas será esse ano?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:20:34",
+      "delete" : false,
+      "identifier" : "COrdtrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Acredito que não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:31:34",
+      "delete" : false,
+      "identifier" : "CP7itrcGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:31:38",
+      "delete" : false,
+      "identifier" : "CILjtrcGIABIAZABAA==",
+      "msg" : "Mas assim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:31:48",
+      "delete" : false,
+      "identifier" : "CIzjtrcGIABIAZABAA==",
+      "msg" : "Fazendo o curso e aplicando tudo que nele é ministrado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:31:55",
+      "delete" : false,
+      "identifier" : "CJPjtrcGIABIAZABAA==",
+      "msg" : "Consigo viver de internet?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:32:04",
+      "delete" : false,
+      "identifier" : "CJzjtrcGIABIAZABAA==",
+      "msg" : "Pois vi que já formou mais de 1000 milionários",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:32:23",
+      "delete" : false,
+      "identifier" : "CK\/jtrcGIABIAZABAA==",
+      "msg" : "Não digo isso, mas apenas viver de internet tendo uma renda mensal acima de 3,4 mil",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:39:34",
+      "delete" : false,
+      "identifier" : "CN7mtrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Consegue sim, inclusive é um dos objetivos da quebra da matrix, te ajudar nessa independência para conseguir viver das oportunidades que a internet te oferece!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:41:12",
+      "delete" : false,
+      "mediaName" : "e6ab932f-68a2-44ad-947e-f7624181f54a.opus",
+      "localPath" : "media\/3c69a0818c3197475df1cb2af4840b95d7b6ba32.opus",
+      "mediaSize" : "54 KB",
+      "identifier" : "CMDntrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:26"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:41:19",
+      "delete" : false,
+      "identifier" : "CMfntrcGIABIAZABAA==",
+      "msg" : "Poderia me informar o valor por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:41:27",
+      "delete" : false,
+      "identifier" : "CM\/ntrcGIABIAZABAA==",
+      "msg" : "Para que eu possa já me programar, pra assim que sair?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:41:38",
+      "delete" : false,
+      "identifier" : "CNrntrcGIABIAZABAA==",
+      "msg" : "Não precisa ser exato",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/20 14:41:43",
+      "delete" : false,
+      "identifier" : "CN\/ntrcGIABIAZABAA==",
+      "msg" : "Mas +\\-",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:42:19",
+      "delete" : false,
+      "identifier" : "CIPotrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Em relação ao próximo ticket, ainda não temos um valor definido, mas vou estar entrando em contato com o Iuri para ver melhor pra você!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/20 14:42:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJPotrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

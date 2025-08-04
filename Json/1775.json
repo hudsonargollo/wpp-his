@@ -1,0 +1,132 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94065-5676",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 22:49:11",
+      "delete" : false,
+      "identifier" : "CJ+A9bkGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 22:49:21",
+      "delete" : false,
+      "identifier" : "CKmA9bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 22:49:25",
+      "delete" : false,
+      "identifier" : "CK2A9bkGIABIAZABAA==",
+      "msg" : "Queria saber como pedir placa de faturamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 22:49:27",
+      "delete" : false,
+      "identifier" : "CK+A9bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 22:49:35",
+      "delete" : false,
+      "identifier" : "CLeA9bkGIABIAZABAA==",
+      "msg" : "João Vitor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 22:49:42",
+      "delete" : false,
+      "identifier" : "CL6A9bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *João Vitor*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 22:49:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMSA9bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 22:49:58",
+      "mediaSize" : "1 byte",
+      "mediaName" : "A Quebra da Matrix Digital",
+      "delete" : false,
+      "identifier" : "CM6A9bkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 22:50:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNCA9bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 22:50:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CNiA9bkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 22:50:10",
+      "delete" : false,
+      "identifier" : "CNqA9bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 09:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 09:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 22:50:18",
+      "delete" : false,
+      "identifier" : "COKA9bkGIABIAZABAA==",
+      "msg" : "Queria saber como pedir placa de faturamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/21 09:33:45",
+      "delete" : false,
+      "mediaName" : "fcaa9cdf-08a0-4309-b1d8-3acfdae7527f.opus",
+      "localPath" : "media\/9e035fc8341ce5609ef7b94f01d02571272b99ee.opus",
+      "mediaSize" : "14 KB",
+      "identifier" : "CLHR\/LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    }
+  ]
+})

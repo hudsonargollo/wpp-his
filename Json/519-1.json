@@ -1,0 +1,409 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98880-3228",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 10:33:10",
+      "delete" : false,
+      "identifier" : "CJ76y7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Elvis! Quando puder, me envia o vídeo, por gentileza ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 10:37:47",
+      "delete" : false,
+      "mediaName" : "82397a8f-9705-421c-aac2-d0fee6825148.opus",
+      "localPath" : "media\/33a71849d1d5d51f68bd283bb08833307c6c0556.opus",
+      "mediaSize" : "29 KB",
+      "identifier" : "CLP8y7oGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 10:48:34",
+      "delete" : false,
+      "identifier" : "CLqBzLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso mesmo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 13:55:37",
+      "delete" : false,
+      "mediaName" : "ELVIS - Termo de Cessão de Direitos para Uso de Imagem e de Voz.pdf",
+      "localPath" : "media\/ce2f97d99a58986dec710905d363b061c5b9d704.pdf",
+      "mediaSize" : "123 KB",
+      "identifier" : "CJHZzLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/0c5e5b2a4e60eae7825c07d2ff6417de0318b122"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 14:05:11",
+      "delete" : false,
+      "mediaName" : "185e2e21-25de-4473-9db2-25e6ce990bdc.mp4",
+      "localPath" : "media\/8c4c47a5b039ecc466adfca8609d7404088d5d96.mp4",
+      "mediaSize" : "1,9 MB",
+      "identifier" : "CM\/dzLoGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/5ec00a7e23c49f60a9b451cd00a77b299318f7f1"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 14:11:31",
+      "delete" : false,
+      "mediaName" : "ELVIS_-_Termo_de_Cessao_de_Direitos_para_Uso_de_Imagem_e_de_Voz_assinado.pdf",
+      "localPath" : "media\/f7574cffdc62d77cbe038354caf56b4bf4c18d2f.pdf",
+      "mediaSize" : "153 KB",
+      "identifier" : "CMvgzLoGIABIAZABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/ec0bf7bdf0be2cdab789c20e80106c7a898863b0"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 14:18:50",
+      "delete" : false,
+      "mediaName" : "2e4499d4-63d8-437f-a015-49a703827405.opus",
+      "localPath" : "media\/d4295912daaafb6e2e31f8d064fa5ff8fd53c295.opus",
+      "mediaSize" : "51 KB",
+      "identifier" : "CILkzLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:25"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 14:19:41",
+      "delete" : false,
+      "mediaName" : "288e8537-e01b-4856-abb3-36aeff6275ae.opus",
+      "localPath" : "media\/82c8bb8aed7d9b28119aca1d5895795219af540a.opus",
+      "mediaSize" : "57 KB",
+      "identifier" : "CLXkzLoGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 14:21:05",
+      "delete" : false,
+      "mediaName" : "80afd353-9425-4e09-8ca6-0f03b85bcdae.opus",
+      "localPath" : "media\/375879987a44c9ee0ab3c6d64402abbcb9848153.opus",
+      "mediaSize" : "33 KB",
+      "identifier" : "CInlzLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 16:28:20",
+      "delete" : false,
+      "identifier" : "CNygzboGIABIAZABAA==",
+      "msg" : "Oii",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 16:28:32",
+      "delete" : false,
+      "identifier" : "COigzboGIABIAZABAA==",
+      "msg" : "Tem como me enviar o link da live de ontem \n?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 19:53:21",
+      "delete" : false,
+      "identifier" : "COmAzroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa noite, tudo bem?\nA live vai ficar salva no Modo Caverna, mas, não foi disponibilizada ainda ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/07 15:26:27",
+      "delete" : false,
+      "identifier" : "CNum0roGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/07 15:27:02",
+      "delete" : false,
+      "mediaName" : "dc0b254f-892d-42f2-9228-39169036c321.jpg",
+      "localPath" : "media\/74ea7fd22e697f97a567b7f4a6fdd04569cbd97d.jpg",
+      "mediaSize" : "160 KB",
+      "identifier" : "CP6m0roGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/86e22a8f89192b69930500c4090d8ddd31ef00f7"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 08:30:43",
+      "delete" : false,
+      "identifier" : "COup27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Elvis! Verifica novamente, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 08:30:52",
+      "delete" : false,
+      "identifier" : "CPSp27oGIABIAZABAA==",
+      "msg" : "Oiii",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 08:32:08",
+      "delete" : false,
+      "identifier" : "CMCq27oGIABIAZABAA==",
+      "msg" : "Me tira uma dúvida \nQuando eu comprei a quebra da Matrix, foi em fevereiro desse ano \nO Iuri havia informado que teria validade por 1 ano \nMas tá aparecendo que vai sumir em 4 dias",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 09:16:28",
+      "delete" : false,
+      "mediaName" : "ccc3bb49-f464-48f8-ac09-0a9234d81c26.opus",
+      "localPath" : "media\/3b78645cad59c2e5e9e96d0699c4b0166b2ddcff.opus",
+      "mediaSize" : "60 KB",
+      "identifier" : "CKS\/27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:29"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 10:08:01",
+      "delete" : false,
+      "identifier" : "CLnX27oGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/13 14:18:47",
+      "delete" : false,
+      "identifier" : "CP\/Y8boGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/13 14:29:03",
+      "delete" : false,
+      "identifier" : "COfd8boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/13 14:29:11",
+      "delete" : false,
+      "identifier" : "CO\/d8boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/13 14:54:55",
+      "delete" : false,
+      "identifier" : "CPfp8boGIABIAZABAA==",
+      "msg" : "Minha afiliação foi cancelada \nO iure falou q nao ia mais cancelar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/13 14:57:10",
+      "delete" : false,
+      "identifier" : "CP7q8boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifica novamente, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/13 14:57:55",
+      "delete" : false,
+      "identifier" : "CKvr8boGIABIAZABAA==",
+      "msg" : "Voltouuuu 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/13 14:59:00",
+      "delete" : false,
+      "identifier" : "COzr8boGIABIAZABAA==",
+      "msg" : "O iure falou na live q tem o link com o modo gratis, que a pessoa usa e quando ela quiser comprar, vamos ganhar a comissão tbm \nOnde acha esse link pro pessoal q quer testar antes ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/13 15:27:18",
+      "delete" : false,
+      "identifier" : "CI758boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Na área de links de divulgações. Tem um link que é para cadastro e ja vai com seu código de afiliado☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 13:44:11",
+      "delete" : false,
+      "identifier" : "COPYkcIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 13:44:21",
+      "delete" : false,
+      "identifier" : "CO3YkcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 13:44:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO7YkcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 13:44:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPbYkcIGIABIAYoBBAgAEACQAQA=",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 13:44:38",
+      "delete" : false,
+      "identifier" : "CP7YkcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 13:44:43",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIPZkcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 13:44:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CInZkcIGIABIAYoBBAgAEACQAQA=",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 13:44:52",
+      "delete" : false,
+      "identifier" : "CIzZkcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 13:45:03",
+      "delete" : false,
+      "identifier" : "CJfZkcIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Elvis Michael \noliveiraelvis2507@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 13:45:06",
+      "delete" : false,
+      "identifier" : "CJrZkcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 13:45:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJvZkcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 13:45:19",
+      "delete" : false,
+      "identifier" : "CKfZkcIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Nenhuma delas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 13:46:15",
+      "delete" : false,
+      "identifier" : "CN\/ZkcIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Meu dados estão desatualizados \nNo celular aparece uma coisa \nNo pc outra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 20:30:09",
+      "delete" : false,
+      "identifier" : "CImXk8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Atualmente, a versão mobile ainda tem algumas limitações e por isso, recomendamos que você acesse pelo computador para uma experiência mais completa e estável.\n\nA boa notícia é que o nosso app oficial já está em fase final e será lançado ainda este mês!\n\nQualquer outra duvida, estou aqui! 🐺",
+      "type" : "text"
+    }
+  ]
+})

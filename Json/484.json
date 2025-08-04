@@ -1,0 +1,80 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 95317-8986",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/11 12:46:33",
+      "delete" : false,
+      "identifier" : "COHJpsIGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/11 12:46:42",
+      "delete" : false,
+      "identifier" : "COrJpsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/11 12:46:48",
+      "delete" : false,
+      "identifier" : "CPDJpsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/11 12:47:07",
+      "delete" : false,
+      "identifier" : "CIPKpsIGIABIAZABAA==",
+      "msg" : "Como obter o modo caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/11 14:20:24",
+      "delete" : false,
+      "identifier" : "COD1psIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso, tudo certo?🐺\n\nPara agilizar o seu antendimento, me informe o seu email de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/11 15:11:22",
+      "delete" : false,
+      "identifier" : "CNKNp8IGIABIAZABAA==",
+      "msg" : "Comprar o curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/11 15:15:39",
+      "delete" : false,
+      "identifier" : "CNOPp8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "redirect.lifs.app\/ativeagora\n\nTenta acessar por esse link e efetuar a compra!\nW",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/11 15:15:42",
+      "delete" : false,
+      "identifier" : "CNaPp8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer outro problema, me avisa 🐺",
+      "type" : "text"
+    }
+  ]
+})

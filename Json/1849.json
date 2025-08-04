@@ -1,0 +1,356 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 19 97810-7008",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/03 17:55:00",
+      "delete" : false,
+      "identifier" : "CKzGn7kGIABIAJABAA==",
+      "msg" : "Olá, boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/03 17:55:03",
+      "delete" : false,
+      "identifier" : "CK\/Gn7kGIABIAJABAA==",
+      "msg" : "tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/03 17:55:07",
+      "delete" : false,
+      "identifier" : "CLPGn7kGIABIAJABAA==",
+      "msg" : "Poderiam me ajudar por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 17:55:11",
+      "delete" : false,
+      "identifier" : "CLfGn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!*\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 17:55:17",
+      "delete" : false,
+      "identifier" : "CL3Gn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/03 17:55:25",
+      "delete" : false,
+      "identifier" : "CMXGn7kGIABIAJABAA==",
+      "msg" : "Gustavo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 17:55:32",
+      "delete" : false,
+      "identifier" : "CMzGn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Gustavo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 17:55:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNLGn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/03 17:55:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "COHGn7kGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 17:56:01",
+      "delete" : false,
+      "identifier" : "COnGn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre a Central Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 17:56:06",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO7Gn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/03 17:56:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CPzGn7kGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 17:56:23",
+      "delete" : false,
+      "identifier" : "CP\/Gn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 09:00 às 18:00 de segunda à sexta, e   das 09:00 às 12:00 aos sábados.\n\nAgora é só aguardar alguns minutos. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/03 17:58:46",
+      "delete" : false,
+      "identifier" : "CI7In7kGIABIAJABAA==",
+      "msg" : "Há alguns minutos atrás comprei o seu produto, e fui na página de cadastro da CENTRAL CAVERNA, mas aparece um erro, impedindo a conclusão da minha conta. O erro que aparece está localizado na Etapa 5\/7(Adicionar uma foto-opcional-), onde após eu clicar no botão \"Continuar\", mesmo colocando a foto ou não, aparece uma mensagem com o seguinte texto: \"Notiflix Failure\".",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 17:58:48",
+      "delete" : false,
+      "identifier" : "CJDIn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 17:58:50",
+      "delete" : false,
+      "identifier" : "CJLIn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/03 17:59:56",
+      "delete" : false,
+      "identifier" : "CNTIn7kGIABIAJABAA==",
+      "msg" : "Gustavo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 18:00:02",
+      "delete" : false,
+      "identifier" : "CNrIn7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Gustavo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/03 18:00:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN3In7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/03 18:00:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPHIn7kGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 14:39:13",
+      "delete" : false,
+      "identifier" : "CMmNpLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Eu sou a Júlia, do suporte Iuri Meira, e estou aqui para te ajudar da melhor maneira possível! 😊\n\nNosso time de desenvolvedores estão modificando a interface da Central para trazer melhorias para vocês!\n\nJá passei seu caso a nosso time de desenvolvedores!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 15:59:27",
+      "delete" : false,
+      "identifier" : "CJezpLkGIABIAZABAA==",
+      "msg" : "Obrigado, Júlia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 15:59:58",
+      "delete" : false,
+      "identifier" : "CLazpLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 11:47:18",
+      "delete" : false,
+      "identifier" : "CP7IuLkGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Olá, bom dia. Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 11:47:30",
+      "delete" : false,
+      "identifier" : "CIrJuLkGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Gostaria de reembolsar minha compra, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 14:15:48",
+      "delete" : false,
+      "mediaName" : "fc43c314-5500-4f87-bf88-72bc5920f43d.opus",
+      "localPath" : "media\/6c4fcdd5f3f50a387d68954206ef4e2032343b74.opus",
+      "mediaSize" : "33 KB",
+      "identifier" : "CMyOubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 14:31:28",
+      "delete" : false,
+      "identifier" : "CPiVubkGIABIAZABAA==",
+      "msg" : "Boa tarde, Bruna. Tudo bem e contigo? O motivo é que o produto não foi como eu esperei, não estou falando mal dele, mas não atendeu as minhas expectativas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 15:47:23",
+      "delete" : false,
+      "mediaName" : "f564b728-0bee-4d6d-8b84-b98e8c95b54d.opus",
+      "localPath" : "media\/bcae46e37f9adb80ad9f7fa8e369e57fba820c0d.opus",
+      "mediaSize" : "101 KB",
+      "identifier" : "CMO5ubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:49"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 17:01:29",
+      "delete" : false,
+      "identifier" : "CKHcubkGIABIAIoBBAgAEACQAQA=",
+      "msg" : "O produto é muito bom, só que no momento não é o que eu estou precisando.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 17:01:40",
+      "delete" : false,
+      "identifier" : "CKzcubkGIABIAIoBBAgAEACQAQA=",
+      "msg" : "E eu recuso a oferta, agradeço gentilmente pela oportunidade",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 17:02:13",
+      "delete" : false,
+      "identifier" : "CM3cubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo perfeitamente, pode me enviar seu email, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 17:02:26",
+      "delete" : false,
+      "identifier" : "CNrcubkGIABIAJABAA==",
+      "msg" : "posso sim: yotrucoloherebab@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 17:06:52",
+      "delete" : false,
+      "mediaName" : "3ec1756c-ff30-48e1-93bf-ebb8208636ba.opus",
+      "localPath" : "media\/57a2c20c84892e0cccd27d871121a86334d8877b.opus",
+      "mediaSize" : "13 KB",
+      "identifier" : "COTeubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 17:07:53",
+      "delete" : false,
+      "identifier" : "CKHfubkGIABIAJABAA==",
+      "msg" : "Recebi aqui, muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 17:08:46",
+      "delete" : false,
+      "identifier" : "CNbfubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço o contato, qualquer dúvida estou a disposição!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 17:08:54",
+      "delete" : false,
+      "identifier" : "CN7fubkGIABIAJABAA==",
+      "msg" : "tenha uma ótima tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 17:09:08",
+      "delete" : false,
+      "identifier" : "COzfubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você também! ☺️",
+      "type" : "text"
+    }
+  ]
+})

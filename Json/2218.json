@@ -1,0 +1,107 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 35 99899-7419",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/16 11:34:58",
+      "delete" : false,
+      "identifier" : "CJqEobcGIABIAJABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/16 11:35:00",
+      "delete" : false,
+      "identifier" : "CJ2EobcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/16 11:35:55",
+      "delete" : false,
+      "identifier" : "CNOEobcGIAA6FDNFQjA1OThDMkM3QzFBRTlEQjAzQPSSjdqfMkgAeMymjdqfMpABAA==",
+      "msg" : "Ola, me chamo Vinícius, e a minha dúvida é por quanto tempo vou ter acesso a ferramenta central caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/16 12:01:43",
+      "delete" : false,
+      "mediaName" : "0fc21e7a-9d30-45b8-8ff6-467449e615ec.opus",
+      "localPath" : "media\/c4925f9345a879486873ea4f3c96fd5ca47804f8.opus",
+      "mediaSize" : "46 KB",
+      "identifier" : "CN+QobcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:22"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/16 12:01:51",
+      "delete" : false,
+      "mediaName" : "5e93e20f-b57a-443b-bd32-8dd609f3e5a9.opus",
+      "localPath" : "media\/ca084b5af9b2528c42593b20f1b5dea8df6bd2e3.opus",
+      "mediaSize" : "5 KB",
+      "identifier" : "COeQobcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/16 12:02:38",
+      "delete" : false,
+      "identifier" : "CJaRobcGIABIAZABAA==",
+      "msg" : "Sim, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/16 12:03:00",
+      "delete" : false,
+      "identifier" : "CKyRobcGIABIAZABAA==",
+      "msg" : "Eu comprei um ebook e tive acesso desse modo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/16 12:03:43",
+      "delete" : false,
+      "identifier" : "CNeRobcGIABIAZABAA==",
+      "msg" : "Então quando eu for renovar o acesso irei pagar somente R$48 ou tenho q ativar o acesso mesmo no valor que estava no site?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/16 12:05:38",
+      "delete" : false,
+      "mediaName" : "dab86c3c-47ee-4283-91ac-677fec1a67f7.opus",
+      "localPath" : "media\/b840ddf22a2e5702ae40bd3aee497199ed7c5626.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CMqSobcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/16 12:05:58",
+      "delete" : false,
+      "identifier" : "CN6SobcGIABIAZABAA==",
+      "msg" : "Ok, obgdo",
+      "type" : "text"
+    }
+  ]
+})

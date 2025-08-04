@@ -1,0 +1,283 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 98368-2223",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 09:18:05",
+      "delete" : false,
+      "identifier" : "CIX3orkGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 09:18:39",
+      "delete" : false,
+      "identifier" : "CKf3orkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Eu sou a Júlia, do suporte Iuri Meira, e estou aqui para te ajudar da melhor maneira possível! 😊\n\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 09:23:33",
+      "delete" : false,
+      "identifier" : "CM35orkGIABIAZABAA==",
+      "msg" : "Oi Júlia, então, depois da atualização da central, eu não consigo mais iniciar o Flow caverna e nem configurar o pomodoro.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 09:23:36",
+      "delete" : false,
+      "identifier" : "CND5orkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 09:23:38",
+      "delete" : false,
+      "identifier" : "CNL5orkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 09:23:55",
+      "delete" : false,
+      "identifier" : "COP5orkGIABIAZABAA==",
+      "msg" : "João Marcos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 09:24:02",
+      "delete" : false,
+      "identifier" : "COr5orkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, João Marcos.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 09:24:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO35orkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 09:26:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "COD6orkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 09:30:21",
+      "delete" : false,
+      "mediaName" : "98dc42b2-d5ad-41c1-8fd2-9345dcf154b9.opus",
+      "localPath" : "media\/121f580d3e342271c1b87a6cf6eac5398e306601.opus",
+      "mediaSize" : "32 KB",
+      "identifier" : "COX8orkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 09:34:05",
+      "delete" : false,
+      "mediaName" : "1efeaa1c-87f6-4e16-b92b-d541a5d5cb2b.mp4",
+      "localPath" : "media\/0c211833509c586768e2295d6439899da9d4d9ef.mp4",
+      "mediaSize" : "7,7 MB",
+      "identifier" : "CMX+orkGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/1cc3cba645a3b839f313205889870dafb3dde811"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 09:41:01",
+      "delete" : false,
+      "mediaName" : "9cf6dc8b-7ea4-4c7e-8816-b88926d79a9f.opus",
+      "localPath" : "media\/76d584da0bd21278a4d9aafd9a5515764292c665.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "COWBo7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 09:44:00",
+      "delete" : false,
+      "identifier" : "CJiDo7kGIABIAZABAA==",
+      "msg" : "Muito obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 09:44:43",
+      "delete" : false,
+      "identifier" : "CMODo7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 14:06:24",
+      "delete" : false,
+      "identifier" : "CJihqbkGIABIAJABAA==",
+      "msg" : "Boa tarde! Tudo bem? \n\nO pomodoro e as informações voltaram ao normal. Apenas o checklist para iniciar o flow caverna que não. Ele vai deixar de existir nessa nova atualização?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:06:27",
+      "delete" : false,
+      "identifier" : "CJuhqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:06:29",
+      "delete" : false,
+      "identifier" : "CJ2hqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 14:07:55",
+      "delete" : false,
+      "identifier" : "CPOhqbkGIABIAJABAA==",
+      "msg" : "João Marcos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:08:01",
+      "delete" : false,
+      "identifier" : "CPmhqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, João Marcos.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:08:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPyhqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 14:08:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CIOiqbkGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:10:41",
+      "delete" : false,
+      "identifier" : "CJmjqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem? Exatamente! Nossos desenvolvedores mudaram a interface! Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 14:12:13",
+      "delete" : false,
+      "identifier" : "CPWjqbkGIABIAJABAA==",
+      "msg" : "Ah certo, entendi! \nNo momento é apenas essa dúvida mesmo, mas vejam a possibilidade de retornar com o checklist, ajuda muito na hora de iniciar o flow caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:12:16",
+      "delete" : false,
+      "identifier" : "CPijqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:12:18",
+      "delete" : false,
+      "identifier" : "CPqjqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 14:12:22",
+      "delete" : false,
+      "identifier" : "CP6jqbkGIABIAJABAA==",
+      "msg" : "Muito obrigado pelo retorno.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:12:28",
+      "delete" : false,
+      "identifier" : "CISkqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Muito obrigado pelo retorno..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:12:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIekqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 14:14:10",
+      "delete" : false,
+      "identifier" : "COqkqbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Obrigada pelo feedback! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    }
+  ]
+})

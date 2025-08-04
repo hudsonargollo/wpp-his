@@ -1,0 +1,207 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 88 99845-0016",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/25 19:20:47",
+      "delete" : false,
+      "identifier" : "CMfH1bwGIABIAZABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/25 19:20:57",
+      "delete" : false,
+      "identifier" : "CNHH1bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/25 19:21:03",
+      "delete" : false,
+      "identifier" : "CNfH1bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/25 19:21:10",
+      "delete" : false,
+      "identifier" : "CN7H1bwGIABIAZABAA==",
+      "msg" : "João Davi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/25 19:21:16",
+      "delete" : false,
+      "identifier" : "COTH1bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *João Davi*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/25 19:21:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COrH1bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/25 19:21:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPTH1bwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/25 19:21:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPXH1bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/25 19:21:45",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CIHI1bwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/25 19:21:48",
+      "delete" : false,
+      "identifier" : "CITI1bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/25 19:22:43",
+      "delete" : false,
+      "identifier" : "CLvI1bwGIABIAZABAA==",
+      "msg" : "O desafio modo caverna dá acesso apenas aos ebooks? Paguei também pelo acesso vitalício, achando que ia ter vídeo aulas também, mas se não tem qual o benefício de ter acesso vitalício?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 09:33:23",
+      "delete" : false,
+      "identifier" : "CJv63bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 09:33:44",
+      "delete" : false,
+      "identifier" : "CLD63bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você tem acesso a plataforma durante o período avaliativo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 09:34:14",
+      "delete" : false,
+      "identifier" : "CM763bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vitalício é o acesso aos ebooks",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 09:36:11",
+      "delete" : false,
+      "identifier" : "CMP73bwGIABIAZABAA==",
+      "msg" : "N caso a plataforma é o aplicativo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 09:45:43",
+      "delete" : false,
+      "mediaName" : "46c7db42-68f0-4707-ae37-0057eeba8e89.opus",
+      "localPath" : "media\/0534d67365e92e245b1091348d45e68ba8a813b8.opus",
+      "mediaSize" : "17 KB",
+      "identifier" : "CP\/\/3bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:20:08",
+      "delete" : false,
+      "identifier" : "CLDI3rwGIABIAZABAA==",
+      "msg" : "Ah, entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:20:53",
+      "delete" : false,
+      "identifier" : "CN3I3rwGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 12:24:34",
+      "delete" : false,
+      "mediaName" : "91b6bfb5-9e09-411e-a45d-c2ce8f315664.opus",
+      "localPath" : "media\/a3a7ffa8c545841b74f44606439755f33b797a81.opus",
+      "mediaSize" : "6 KB",
+      "identifier" : "CLrK3rwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:03"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:25:20",
+      "delete" : false,
+      "identifier" : "COjK3rwGIABIAZABAA==",
+      "msg" : "Novos ebooks serão lançados no site?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 12:25:53",
+      "delete" : false,
+      "identifier" : "CInL3rwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não, somente esses que você baixou",
+      "type" : "text"
+    }
+  ]
+})

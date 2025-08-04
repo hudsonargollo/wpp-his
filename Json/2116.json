@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 84 98182-0947",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 09:49:04",
+      "delete" : false,
+      "identifier" : "CMjf77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia! Faço parte do suporte de Afiliações do Iuri Meira, gostaria de informar que sua afiliação foi aprovada! 🤩\nPoderia verificar por gentileza.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 09:59:19",
+      "delete" : false,
+      "identifier" : "CK\/k77cGIABIAJABAA==",
+      "msg" : "PERFEITO",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:00:39",
+      "delete" : false,
+      "identifier" : "CP\/k77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você já conseguiu visualizar o PDF com acessos materiais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 10:26:10",
+      "delete" : false,
+      "mediaName" : "a9df1096-8439-446c-8165-66b845e66827.opus",
+      "localPath" : "media\/87278a71f68688b396b71a5b6de33488e3628652.opus",
+      "mediaSize" : "16 KB",
+      "identifier" : "CPrw77cGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:29:54",
+      "delete" : false,
+      "identifier" : "CNry77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso mesmo! Qualquer dúvida pode me mandar mensagem",
+      "type" : "text"
+    }
+  ]
+})

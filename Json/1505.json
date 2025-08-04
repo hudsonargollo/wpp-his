@@ -1,0 +1,213 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 84 98721-1301",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:56:42",
+      "delete" : false,
+      "identifier" : "CLKAu7sGIABIAJABAA==",
+      "msg" : "bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:56:56",
+      "delete" : false,
+      "identifier" : "CMCAu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:57:02",
+      "delete" : false,
+      "identifier" : "CMaAu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:57:10",
+      "delete" : false,
+      "identifier" : "CM6Au7sGIABIAJABAA==",
+      "msg" : "Alesson Alves",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:57:16",
+      "delete" : false,
+      "identifier" : "CNSAu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Alesson Alves*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:57:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNqAu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:57:42",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CO6Au7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:57:50",
+      "delete" : false,
+      "identifier" : "CPaAu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:57:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPuAu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:58:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com dificuldade em uma das seções",
+      "delete" : false,
+      "identifier" : "CIOBu7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:58:05",
+      "delete" : false,
+      "identifier" : "CIWBu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Certo!* Me conta aqui qual a sua dúvida, se puder me mande uma captura de tela para eu possa te auxiliar da melhor maneira! 😊\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:58:36",
+      "delete" : false,
+      "mediaName" : "6e09331b-7afb-4233-b887-14584d1f3d1e.jpg",
+      "localPath" : "media\/d0af0d232b05ba805172997c32e021921528c61a.jpg",
+      "mediaSize" : "108 KB",
+      "identifier" : "CKSBu7sGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c413454425624acfb50250eba39162911aa04a0d"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:58:43",
+      "delete" : false,
+      "identifier" : "CKuBu7sGIABIAJABAA==",
+      "msg" : "não estou conseguindo acessar a etapa 1",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 13:42:57",
+      "delete" : false,
+      "identifier" : "CJmyu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 13:43:06",
+      "delete" : false,
+      "identifier" : "CKKyu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:43:26",
+      "delete" : false,
+      "identifier" : "CLayu7sGIABIAZABAA==",
+      "msg" : "Alesson.alves@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:00:53",
+      "delete" : false,
+      "identifier" : "CM26u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para a compra que você realizou é liberado o módulo Manual de sobrevivência",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:01:56",
+      "delete" : false,
+      "identifier" : "CIy7u7sGIABIAZABAA==",
+      "msg" : "Ou seja, fui enrrolado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:02:03",
+      "delete" : false,
+      "identifier" : "CJO7u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "E algumas funcionalidades do Modo Caverna, durante um período avaliativo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:02:14",
+      "delete" : false,
+      "identifier" : "CJ67u7sGIABIAZABAA==",
+      "msg" : "Desejo cancelar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:07:38",
+      "delete" : false,
+      "identifier" : "COK9u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De forma alguma, todas as informações são disponibilizadas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:08:02",
+      "delete" : false,
+      "identifier" : "CPq9u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode solicitar pelo Ticto",
+      "type" : "text"
+    }
+  ]
+})

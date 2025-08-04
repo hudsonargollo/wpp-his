@@ -1,0 +1,490 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99898-8822",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/14 09:54:05",
+      "delete" : false,
+      "identifier" : "CPWOlrcGIABIAZABAA==",
+      "msg" : "Olá, Sou afiliado da Central Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 09:56:08",
+      "delete" : false,
+      "identifier" : "CPCPlrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi! Espero que seu dia esteja indo bem. 😊\n\nSou a Júlia, faço parte da equipe do Iuri Meira, e estou aqui para garantir que você se sinta bem acolhido(a). \n\nComo posso te ajudar? Vamos resolver qualquer coisa juntos, ok? Conte comigo! 🤝",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 09:56:21",
+      "delete" : false,
+      "identifier" : "CP2PlrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/14 10:06:09",
+      "delete" : false,
+      "identifier" : "CMmUlrcGIABIAZABAA==",
+      "msg" : "Vcs tem um app?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/14 10:06:21",
+      "delete" : false,
+      "identifier" : "CNWUlrcGIABIAZABAA==",
+      "msg" : "Como faço para acessar no celular?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 10:06:39",
+      "delete" : false,
+      "identifier" : "COeUlrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "a Central? Temos sim!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 10:11:02",
+      "delete" : false,
+      "identifier" : "CO6WlrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Está disponível na Apple store e Play store",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/14 10:12:40",
+      "delete" : false,
+      "identifier" : "CNCXlrcGIABIAZABAA==",
+      "msg" : "Pode me passar o link por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/14 10:12:58",
+      "delete" : false,
+      "mediaName" : "70a30590-bb6f-4593-9505-f4e0ba203f1c.opus",
+      "localPath" : "media\/c31d21e03d733dee214546ada8ea6b64ea7cbc46.opus",
+      "mediaSize" : "38 KB",
+      "identifier" : "COKXlrcGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 10:13:59",
+      "delete" : false,
+      "identifier" : "CJ+YlrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Claro! 🤩🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 10:15:11",
+      "delete" : false,
+      "mediaName" : "8f13ad7a-a9de-4c72-ac16-326eeaa5bd6a.jpg",
+      "localPath" : "media\/4dedb9335dd9d2ff274bec2d81550826f1a21340.jpg",
+      "mediaSize" : "111 KB",
+      "identifier" : "COeYlrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/7f06435ccba569d27f5de3a4d9b93ca19279ff3c"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/14 10:17:16",
+      "mediaSize" : "56 KB",
+      "mediaName" : "cb48483f-03f3-412b-a55f-d7a45b6d5acd.webp",
+      "localPath" : "media\/cb48483f-03f3-412b-a55f-d7a45b6d5acd.png.webp",
+      "delete" : false,
+      "identifier" : "COSZlrcGIABIAZABAA==",
+      "type" : "photo"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 10:18:27",
+      "delete" : false,
+      "identifier" : "CKualrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "😄🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 10:18:54",
+      "delete" : false,
+      "mediaName" : "564ddb2e-5c67-498f-8146-5d6601527c5d.opus",
+      "localPath" : "media\/6a0c1fcd4d9bd57fc2c9096b2dc3d743e4cfb3c9.opus",
+      "mediaSize" : "46 KB",
+      "identifier" : "CMaalrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:22"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/14 10:23:15",
+      "delete" : false,
+      "mediaName" : "9b31e997-8670-4389-a34d-eb7d83c41af3.opus",
+      "localPath" : "media\/af50af87248380227cb72046d96f1839f64008ff.opus",
+      "mediaSize" : "15 KB",
+      "identifier" : "CMuclrcGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 10:30:28",
+      "delete" : false,
+      "mediaName" : "5bd9240e-fa4e-489d-8143-a2757ff10f24.opus",
+      "localPath" : "media\/5366df13bcfc07736cf559377c2cfc6ccbf45868.opus",
+      "mediaSize" : "96 KB",
+      "identifier" : "CPyflrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:47"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 10:30:42",
+      "delete" : false,
+      "mediaName" : "d78c005c-5d9d-44c0-9932-ed60c0c4df07.mp4",
+      "localPath" : "media\/18926c6759c3fafd74edb40bcde2b427cf77136e.mp4",
+      "mediaSize" : "3,3 MB",
+      "identifier" : "CIqglrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/d3f01c37a506f747413d39b683b67d39ca3ef88b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/14 10:33:20",
+      "delete" : false,
+      "mediaName" : "b2774f2b-512c-479f-809a-aa5397e5bb4d.opus",
+      "localPath" : "media\/5af4481d9cb26041773f6f9667b131fe8dab950f.opus",
+      "mediaSize" : "17 KB",
+      "identifier" : "CKihlrcGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 10:40:15",
+      "delete" : false,
+      "mediaName" : "bb163e05-06a2-4071-be8d-b69ff1a66bcc.opus",
+      "localPath" : "media\/d0825393f7ea7d9e74f8be31ec0b53b6b2f26b3d.opus",
+      "mediaSize" : "126 KB",
+      "identifier" : "CMeklrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:01"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 10:48:16",
+      "delete" : false,
+      "identifier" : "CKjtrMEGIABIAZABAA==",
+      "msg" : "Olá, Sou afiliado da Central Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 10:48:26",
+      "delete" : false,
+      "identifier" : "CLLtrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 10:48:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLPtrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 10:48:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CL7trMEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 10:48:45",
+      "delete" : false,
+      "identifier" : "CMXtrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 10:48:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMrtrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 10:49:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CNTtrMEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 10:49:03",
+      "delete" : false,
+      "identifier" : "CNftrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 10:49:22",
+      "delete" : false,
+      "identifier" : "COrtrMEGIABIAZABAA==",
+      "msg" : "Camila Paiva da Cunha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 10:49:25",
+      "delete" : false,
+      "identifier" : "CO3trMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 10:49:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO7trMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 10:49:41",
+      "delete" : false,
+      "identifier" : "CP3trMEGIABIAZABAA==",
+      "msg" : "camilapaiva.adm@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 10:49:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CIfurMEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 10:58:02",
+      "delete" : false,
+      "identifier" : "CPLxrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Camilla! 🐺\n\nMe responde uma coisa, por onde você está tentando acessar a plataforma? por um smartphone ou um notebook\/desktop?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:10:19",
+      "delete" : false,
+      "identifier" : "CNP3rMEGIABIAZABAA==",
+      "msg" : "Smartphone",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 11:10:59",
+      "delete" : false,
+      "identifier" : "CPv3rMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Atualmente, o uso em dispositivos móveis ainda tem algumas limitações, por isso, recomendamos acessar pelo computador para ter uma experiência mais completa.\n\nMesmo após os ajustes na responsividade, em alguns aparelhos o problema ainda pode acontecer.\n\nA boa notícia é que o nosso app oficial para iOS e Android já está quase pronto e será lançado em breve!\n\nQualquer outra duvida, estou aqui! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:12:07",
+      "delete" : false,
+      "identifier" : "CL\/4rMEGIABIAZABAA==",
+      "msg" : "Até hoje não tem app???",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:12:28",
+      "delete" : false,
+      "identifier" : "CNT4rMEGIABIAZABAA==",
+      "msg" : "Vomitei ano passado e falaram que já estariam com app em breve",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:12:46",
+      "delete" : false,
+      "identifier" : "COb4rMEGIABIAZABAA==",
+      "msg" : "Já tem 9 meses",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:13:02",
+      "delete" : false,
+      "identifier" : "CPb4rMEGIABIAZABAA==",
+      "msg" : "Pq acessar pelo pc não é nada prático",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 11:15:47",
+      "delete" : false,
+      "identifier" : "CJv6rMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo sua frustração e lamento pela demora. 🐺\n\nRealmente, o app oficial está em fase final de produção os testes estão sendo finalizados e ele será lançado em breve tanto para Android quanto iOS.\n\nMas é importante reforçar uma coisa: mesmo com o app disponível, a experiência completa e otimizada da plataforma continuará sendo no desktop. O Modo Caverna foi pensado pra ser uma ferramenta de imersão, e por isso, o uso no computador sempre será mais prático pra absorver todo o conteúdo e aproveitar as ferramentas de forma estruturada.\n\nQualquer outra duvida, estarei aqui! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:16:29",
+      "delete" : false,
+      "identifier" : "CMX6rMEGIABIAZABAA==",
+      "msg" : "Esse em breve está desde agosto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:16:34",
+      "delete" : false,
+      "identifier" : "CMr6rMEGIABIAZABAA==",
+      "msg" : "Qual a data?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:16:44",
+      "delete" : false,
+      "identifier" : "CNT6rMEGIABIAZABAA==",
+      "msg" : "Pq pelo pc não consigo acompanhar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:17:21",
+      "delete" : false,
+      "identifier" : "CPn6rMEGIABIAZABAA==",
+      "msg" : "E só comprei pq tenha essa opção",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 11:17:45",
+      "delete" : false,
+      "identifier" : "CJH7rMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ainda não temos uma data exata, mas a previsão é que o app seja lançado ainda este mês. \n\nEle já está na fase final de testes e ajustes com os desenvolvedores.\n\nAssim que estiver disponível, vamos avisar por aqui. 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 11:18:19",
+      "delete" : false,
+      "identifier" : "CLP7rMEGIABIAZABAA==",
+      "msg" : "Ok\nVou aguardar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 11:18:51",
+      "delete" : false,
+      "identifier" : "CNP7rMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Beleza!\n\nQualquer outra dúvida, to aqui! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 13:57:43",
+      "delete" : false,
+      "identifier" : "CI\/fkcIGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 13:57:52",
+      "delete" : false,
+      "identifier" : "CJjfkcIGIABIAZABAA==",
+      "msg" : "O app está pronto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 20:38:10",
+      "delete" : false,
+      "identifier" : "COqak8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Camilla, Beleza?\n\nEntão, a previsão é que saia no meio desse mês!\n\nEstamos com um pequeno atraso na produção. 🐺",
+      "type" : "text"
+    }
+  ]
+})

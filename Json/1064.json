@@ -1,0 +1,120 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 99596-4085",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 16:57:13",
+      "delete" : false,
+      "identifier" : "CKGHg74GIABIAZABAA==",
+      "msg" : "Boa tarde, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 16:57:22",
+      "delete" : false,
+      "identifier" : "CKqHg74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 16:57:28",
+      "delete" : false,
+      "identifier" : "CLCHg74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 16:57:39",
+      "delete" : false,
+      "identifier" : "CLuHg74GIABIAZABAA==",
+      "msg" : "Douglas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 16:57:45",
+      "delete" : false,
+      "identifier" : "CMGHg74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Perfeito, *Douglas*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 16:57:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMiHg74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 16:58:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CNCHg74GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 16:58:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNGHg74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 16:58:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CN2Hg74GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 16:58:15",
+      "delete" : false,
+      "identifier" : "CN+Hg74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 16:59:36",
+      "delete" : false,
+      "identifier" : "CLCIg74GIABIAZABAA==",
+      "msg" : "Entao, na verdade minha duvida é simples. Voces me passaram contato de um fornecedor de perfil uma vez, agencia fox, mas acho que eles acabaram mudando o numero! Voce tem o contato? Ou poderia passar o numero de outro fornecedor de perfis de confiança?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 09:20:50",
+      "delete" : false,
+      "identifier" : "CKrUhr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia! Tudo bem?\nNo momento estamos sem agencias para indicação",
+      "type" : "text"
+    }
+  ]
+})

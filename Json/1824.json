@@ -1,0 +1,225 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 12 98180-2941",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 14:48:56",
+      "delete" : false,
+      "identifier" : "CJCqzrkGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 14:49:12",
+      "delete" : false,
+      "identifier" : "CKCqzrkGIABIAZABAA==",
+      "msg" : "Não estou conseguindo acessar as demais aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:49:12",
+      "delete" : false,
+      "identifier" : "CKCqzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:49:18",
+      "delete" : false,
+      "identifier" : "CKaqzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 14:49:36",
+      "delete" : false,
+      "identifier" : "CLiqzrkGIABIAZABAA==",
+      "msg" : "Raphael",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:49:43",
+      "delete" : false,
+      "identifier" : "CL+qzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Raphael*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:49:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMWqzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 14:50:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "COGqzrkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:50:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COKqzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 14:50:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CO+qzrkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:50:33",
+      "delete" : false,
+      "identifier" : "CPGqzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Você recebeu o login e senha no seu e-mail de compra.* \n\nProcure por \"CADEMI\" ou \"Iuri Meira\" na sua caixa de entrada, spam ou lixeira.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:50:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPKqzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 14:50:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não, preciso de ajuda",
+      "delete" : false,
+      "identifier" : "CIKrzrkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:50:53",
+      "delete" : false,
+      "identifier" : "CIWrzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 09:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 09:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 14:51:43",
+      "delete" : false,
+      "identifier" : "CLerzrkGIABIAZABAA==",
+      "msg" : "Não estou conseguindo acessar as demais aulas, somente o \"COMECE POR AQUI\"",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:23:32",
+      "delete" : false,
+      "identifier" : "CKy6zrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna, vou continuar com seu atendimento 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:23:44",
+      "delete" : false,
+      "identifier" : "CLi6zrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:24:13",
+      "delete" : false,
+      "identifier" : "CNW6zrkGIABIAZABAA==",
+      "msg" : "Phael.fernandes89@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:30:53",
+      "delete" : false,
+      "mediaName" : "fbad8e80-5bb8-488b-bdc6-08155facb6be.opus",
+      "localPath" : "media\/e3200028fae1b953ac9f1fd5f2a64eb18f5abfa9.opus",
+      "mediaSize" : "37 KB",
+      "identifier" : "COW9zrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:42:31",
+      "delete" : false,
+      "identifier" : "CJ\/DzrkGIABIAZABAA==",
+      "msg" : "Não tem nada aberto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:42:40",
+      "delete" : false,
+      "identifier" : "CKjDzrkGIABIAZABAA==",
+      "msg" : "Tudo com cadeado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:42:53",
+      "delete" : false,
+      "identifier" : "CLXDzrkGIABIAZABAA==",
+      "msg" : "Onde fica os e-books na plataforma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:44:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJrEzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Eldegario Klauberg CDL",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/19 13:59:14",
+      "delete" : false,
+      "identifier" : "COrKz7gGIABIAJABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/01 14:48:01",
+      "delete" : false,
+      "identifier" : "CNmolLkGIABIAZABAA==",
+      "msg" : "opa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/01 15:04:45",
+      "delete" : false,
+      "identifier" : "CMWwlLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Eu sou a Júlia, do suporte Iuri Meira, e estou aqui para te ajudar da melhor maneira possível! 😊\n\nComo posso te ajudar?",
+      "type" : "text"
+    }
+  ]
+})

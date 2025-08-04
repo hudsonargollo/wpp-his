@@ -1,0 +1,55 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 96768-4166",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:15:19",
+      "delete" : false,
+      "identifier" : "CN\/Mh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:15:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CODMh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:15:52",
+      "delete" : false,
+      "identifier" : "CIDNh8EGIABIAZABAA==",
+      "msg" : "Eu solicitei um reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:16:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJvNh8EGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:28:46",
+      "delete" : false,
+      "identifier" : "CIbTh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Cavernoso, blz? Capitão aqui pra te ajudar!🐺 \n\nComo posso te ajudar?",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,243 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 95211-8322",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 17:04:14",
+      "delete" : false,
+      "identifier" : "CMaGm7wGIABIAJABAA==",
+      "msg" : "Boa tarde, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 17:04:23",
+      "delete" : false,
+      "identifier" : "CM+Gm7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 17:04:29",
+      "delete" : false,
+      "identifier" : "CNWGm7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 17:04:34",
+      "delete" : false,
+      "identifier" : "CNqGm7wGIABIAJABAA==",
+      "msg" : "Rodrigo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 17:04:40",
+      "delete" : false,
+      "identifier" : "COCGm7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Rodrigo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 17:04:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COaGm7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:27:47",
+      "delete" : false,
+      "identifier" : "CMu\/3L0GIABIAJABAA==",
+      "msg" : "Opa! Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:28:03",
+      "delete" : false,
+      "identifier" : "CNu\/3L0GIABIAJABAA==",
+      "msg" : "Uma dúvida, quando puder me responder por favor.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:29:09",
+      "delete" : false,
+      "identifier" : "CJ3A3L0GIABIAJABAA==",
+      "msg" : "Tem algum tutorial de como colocar meu link de checkout de afiliado na página de vendas? Porque já subi a página para o Elementor, mas já deixei chegar ao final da vsl 3 vezes, não aparece o botão para eu colocar o meu link.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:29:42",
+      "delete" : false,
+      "identifier" : "CL7A3L0GIABIAJABAA==",
+      "msg" : "Li também toda a HTML do vídeo e não encontrei onde eu poderia colocar o link.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:30:00",
+      "delete" : false,
+      "identifier" : "CNDA3L0GIABIAJABAA==",
+      "msg" : "É da página de vendas do APP Modo Caverna, ok?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:30:08",
+      "delete" : false,
+      "identifier" : "CNjA3L0GIABIAJABAA==",
+      "msg" : "Fico no aguardo, obrigado.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:31:56",
+      "delete" : false,
+      "identifier" : "CMTB3L0GIABIAJABAA==",
+      "msg" : "Ah! Só pra avisar que eu já procurei no app, vi que tem um tutorial lá mas é da página antiga, não tinha o delay de aparecer só depois do vídeo terminar.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:31:59",
+      "delete" : false,
+      "identifier" : "CMfB3L0GIABIAJABAA==",
+      "msg" : "Grato",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/20 09:37:17",
+      "delete" : false,
+      "identifier" : "CIXE3L0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Rodrigo! Na parte direita do elementor aparece os elementos da sua página, basta selecionar o botão e colocar seu link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:49:37",
+      "delete" : false,
+      "identifier" : "COnJ3L0GIABIAZABAA==",
+      "msg" : "Aaaaaaaaaah! Na estrutura! Show!! Muito obrigado 🙏🏻🙌🏻",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:52:25",
+      "delete" : false,
+      "identifier" : "CJHL3L0GIABIAJABAA==",
+      "msg" : "Agora uma outra dúvida rs...  na estrutura só tem 1 botão, mas na Ticto eu tenho dois links de checkout (comissão única e Anual)...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 09:52:39",
+      "delete" : false,
+      "identifier" : "CJ\/L3L0GIABIAJABAA==",
+      "msg" : "Como faço nesse caso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/20 09:56:50",
+      "delete" : false,
+      "identifier" : "CJrN3L0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você está utilizando a página com ou sem vsl?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 10:14:05",
+      "delete" : false,
+      "identifier" : "CKXV3L0GIABIAZABAA==",
+      "msg" : "Com vsl",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/20 10:15:28",
+      "delete" : false,
+      "identifier" : "CPjV3L0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Na página de VSL sugerimos que use o anual, pois a probabilidade de conversão é maior",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 10:16:56",
+      "delete" : false,
+      "identifier" : "CNDW3L0GIABIAZABAA==",
+      "msg" : "Ah!! Blz então!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 10:16:58",
+      "delete" : false,
+      "identifier" : "CNLW3L0GIABIAZABAA==",
+      "msg" : "Valeu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 10:17:46",
+      "delete" : false,
+      "identifier" : "CILX3L0GIABIAZABAA==",
+      "msg" : "Obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/20 10:19:14",
+      "delete" : false,
+      "identifier" : "CNrX3L0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida pode me mandar mensagem ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/20 10:20:28",
+      "delete" : false,
+      "identifier" : "CKTY3L0GIABIAJABAA==",
+      "msg" : "Show, gratidão!",
+      "type" : "text"
+    }
+  ]
+})

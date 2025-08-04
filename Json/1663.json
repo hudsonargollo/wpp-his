@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 38 98865-0359",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 09:40:21",
+      "delete" : false,
+      "identifier" : "CL34u7oGIABIAZABAA==",
+      "msg" : "Quero ganhar indicando a Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 09:40:25",
+      "delete" : false,
+      "identifier" : "CMH4u7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Opa! Vai ser um prazer ter você como parceiro 🤝\n\nSolicite sua afiliação no link abaixo e *me envie seu email* ⬇️\nhttps:\/\/dash.ticto.com.br\/invitation\/affiliation\/P1B997F97",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 09:40:34",
+      "delete" : false,
+      "identifier" : "CMr4u7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Após solicitar sua afiliação, basta me enviar seu e-mail e aguardar a aprovação! 😊",
+      "type" : "text"
+    }
+  ]
+})

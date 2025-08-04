@@ -1,0 +1,29 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98825-1737",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 11:25:40",
+      "delete" : false,
+      "identifier" : "COzR47wGIABIAJABAA==",
+      "msg" : "oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 14:35:57",
+      "delete" : false,
+      "mediaName" : "411fd545-8d4d-4979-9151-d2b8a6b8c2bc.mp4",
+      "localPath" : "media\/f53ca64c4f694cd6579225c1a73acd6c050a54eb.mp4",
+      "mediaSize" : "13,5 MB",
+      "identifier" : "CIbO6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : "video",
+      "thumbPath" : "media\/63128d33a69afdabc096521cf20f6264b0b0eb30"
+    }
+  ]
+})

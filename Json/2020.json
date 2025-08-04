@@ -1,0 +1,83 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 49 99906-7411",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 14:50:27",
+      "delete" : false,
+      "identifier" : "COvWurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 14:50:58",
+      "delete" : false,
+      "mediaName" : "4285722e-64ad-462e-960c-a17b1c9708dc.opus",
+      "localPath" : "media\/4bf808ee481957aa58a15a6a27881a5854481f17.opus",
+      "mediaSize" : "38 KB",
+      "identifier" : "CIrXurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 14:51:13",
+      "delete" : false,
+      "identifier" : "CJnXurgGIABIAZABAA==",
+      "msg" : "Olá, tudo bem sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 14:51:33",
+      "delete" : false,
+      "identifier" : "CK3XurgGIABIAZABAA==",
+      "msg" : "Eu acabei me enganando com o pedido de reembolso, não era para este produto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 14:52:42",
+      "delete" : false,
+      "identifier" : "CPLXurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi, seria para algum produto do Iuri Meira?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 19:27:10",
+      "delete" : false,
+      "identifier" : "CMbYu7gGIABIAZABAA==",
+      "msg" : "Não, outro produto distinto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 19:27:12",
+      "delete" : false,
+      "identifier" : "CMjYu7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/16 09:17:32",
+      "delete" : false,
+      "identifier" : "COTdvrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Vinicius! ☺️\nTranquilo então, qualquer dúvida pode entrar em contato!",
+      "type" : "text"
+    }
+  ]
+})

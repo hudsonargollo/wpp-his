@@ -1,0 +1,30 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Rogério Filho",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 10:37:52",
+      "mediaSize" : "946 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/8c95998cd68e87f46d2cffd27f1cbc98b6a792cc"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 10:38:01",
+      "mediaSize" : "1 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c56f3951820408318f8c7f2ed0da307134821a53"
+    }
+  ]
+})

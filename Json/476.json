@@ -1,0 +1,72 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 98876-9400",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 15:24:49",
+      "delete" : false,
+      "identifier" : "CPm2rMIGIABIAJABAA==",
+      "msg" : "Olá quero cancelar minha renovação automática.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 15:25:04",
+      "delete" : false,
+      "identifier" : "CIi3rMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 15:25:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIm3rMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 15:28:55",
+      "delete" : false,
+      "identifier" : "CO+4rMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso, tudo certo?🐺\n\nPara agilizar o seu antendimento, me informe o seu email de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 15:34:00",
+      "delete" : false,
+      "identifier" : "CKC7rMIGIABIAJABAA==",
+      "msg" : "rodolphoaureliano@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 15:44:18",
+      "delete" : false,
+      "identifier" : "CIrArMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado.\nO valor será devolvido em até 7 dias úteis, direto na forma de pagamento que você usou.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 15:45:44",
+      "delete" : false,
+      "identifier" : "CODArMIGIABIAJABAA==",
+      "msg" : "ok, muito obrigado",
+      "type" : "text"
+    }
+  ]
+})

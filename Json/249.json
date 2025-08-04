@@ -1,0 +1,64 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 83 99644-1765",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 19:19:28",
+      "delete" : false,
+      "identifier" : "CPibxsMGIABIAJABAA==",
+      "msg" : "Não estou conseguindo acessar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 19:19:37",
+      "delete" : false,
+      "identifier" : "CIGcxsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 19:19:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIKcxsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 19:20:12",
+      "delete" : false,
+      "identifier" : "CKScxsMGIABIAJABAA==",
+      "msg" : "Estou pelo WhatsApp web",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 19:24:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJeexsMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 14:15:35",
+      "delete" : false,
+      "identifier" : "CL\/21MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Felipe! Tudo bem? Em que posso te ajudar?",
+      "type" : "text"
+    }
+  ]
+})

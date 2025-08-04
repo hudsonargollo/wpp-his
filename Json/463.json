@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 51 99918-4899",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 10:39:48",
+      "delete" : false,
+      "identifier" : "CKzUsMIGIABIAZABAA==",
+      "msg" : "Bom. Dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 10:40:02",
+      "delete" : false,
+      "identifier" : "CLrUsMIGIABIAZABAA==",
+      "msg" : "Recebi uma compra no meu cartão de vocês, contestei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 10:40:24",
+      "delete" : false,
+      "identifier" : "CNDUsMIGIABIAZABAA==",
+      "msg" : "Eu não comprei isso, cancelem por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 10:41:09",
+      "delete" : false,
+      "identifier" : "CP3UsMIGIABIAZABAA==",
+      "msg" : "95185402091",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 10:41:39",
+      "delete" : false,
+      "identifier" : "CJvVsMIGIABIAZABAA==",
+      "msg" : "Entrou ontem no meu cartão, eu não quero isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 10:42:08",
+      "delete" : false,
+      "identifier" : "CLjVsMIGIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    }
+  ]
+})

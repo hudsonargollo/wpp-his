@@ -1,0 +1,144 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 71 98902-0320",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 02:16:25",
+      "delete" : false,
+      "identifier" : "CLG\/zb8GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 02:16:40",
+      "delete" : false,
+      "identifier" : "CMC\/zb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 02:16:46",
+      "delete" : false,
+      "identifier" : "CMa\/zb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 02:26:18",
+      "delete" : false,
+      "identifier" : "CILEzb8GIABIAZABAA==",
+      "msg" : "Wemeson",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 02:26:25",
+      "delete" : false,
+      "identifier" : "CInEzb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Wemeson*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 02:26:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CI\/Ezb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 13:27:12",
+      "delete" : false,
+      "identifier" : "COj5z78GIABIAJABAA==",
+      "msg" : "boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 13:27:34",
+      "delete" : false,
+      "identifier" : "CP75z78GIABIAJABAA==",
+      "msg" : "quero fazer o cancelamento do produto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 09:20:18",
+      "delete" : false,
+      "identifier" : "CIqp1L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nSou a Brenda faço parte do suporte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 15:30:51",
+      "delete" : false,
+      "identifier" : "COPW1b8GIABIAJABAA==",
+      "msg" : "boa tarde brenda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 15:30:57",
+      "delete" : false,
+      "identifier" : "COnW1b8GIABIAJABAA==",
+      "msg" : "tudo bem sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/08 15:34:38",
+      "delete" : false,
+      "identifier" : "CMbY1b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual produto você deseja cancelar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 15:38:02",
+      "delete" : false,
+      "identifier" : "CJLa1b8GIABIAJABAA==",
+      "msg" : "Desafio Caverna IG",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 09:16:14",
+      "delete" : false,
+      "identifier" : "CJbK2b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você poderia, por gentileza, me explicar de forma mais detalhada o motivo do seu pedido de reembolso? Assim, poderei entender melhor e ajudar da melhor forma possível.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 17:20:01",
+      "delete" : false,
+      "identifier" : "CPms278GIABIAJABAA==",
+      "msg" : "eu fiz a compra antes da data prevista  que eu deveria comprar, eu iria deixar para o final do mês, pra me seria melhor por conta da fatura quando eu for pagar",
+      "type" : "text"
+    }
+  ]
+})

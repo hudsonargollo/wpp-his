@@ -1,0 +1,380 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 75 99120-7162",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 14:55:30",
+      "delete" : false,
+      "identifier" : "CJq6wL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Rotinas e treinos estão em rituais e os módulos estão em networking",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 15:18:22",
+      "delete" : false,
+      "identifier" : "CPbEwL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você tem disponibilidade para uma call com a equipe de desenvolvedores ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 15:22:16",
+      "delete" : false,
+      "identifier" : "CODGwL8GIABIAZABAA==",
+      "msg" : "Quando ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 15:32:15",
+      "delete" : false,
+      "identifier" : "CLfLwL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Amanhâ às 09:00 hrs ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/04 15:39:34",
+      "delete" : false,
+      "identifier" : "CO7OwL8GIABIAZABAA==",
+      "msg" : "10:00 é melhor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/04 15:42:11",
+      "delete" : false,
+      "identifier" : "CIvQwL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, marcado então",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 18:37:40",
+      "delete" : false,
+      "identifier" : "CKzGgMAGIABIAJABAA==",
+      "msg" : "oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 18:38:59",
+      "delete" : false,
+      "mediaName" : "2d918943-9d77-4098-aa78-d9100d05ceea.mp4",
+      "localPath" : "media\/b08e20dc47bb3a46331089d237d1e378527fa028.mp4",
+      "mediaSize" : "5,1 MB",
+      "identifier" : "CPvGgMAGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/e5def0953d5707f39d68925109dfddbd3539e51d"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 10:08:10",
+      "delete" : false,
+      "identifier" : "CML6g8AGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:20:30",
+      "delete" : false,
+      "mediaName" : "10159256-8fa2-4ff0-83e9-7f6de60bc164.opus",
+      "localPath" : "media\/f940b3abf9c45981eaa2c9b81e564d6e8d746d8c.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CPaMhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:04"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:41:15",
+      "delete" : false,
+      "identifier" : "CNOWhcAGIABIAZABAA==",
+      "msg" : "👍",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:41:39",
+      "delete" : false,
+      "mediaName" : "8f22a7e8-57ec-4b58-8ab5-a4b1bbbf554b.opus",
+      "localPath" : "media\/9afb1cff4308a6d443381dfc1991187718f33259.opus",
+      "mediaSize" : "31 KB",
+      "identifier" : "COuWhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:05"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:44:52",
+      "delete" : false,
+      "identifier" : "CKyYhcAGIABIAZABAA==",
+      "msg" : "pehenrique.xxt@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:44:56",
+      "delete" : false,
+      "identifier" : "CLCYhcAGIABIAZABAA==",
+      "msg" : "Conferir pra que ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:45:16",
+      "delete" : false,
+      "identifier" : "CMSYhcAGIABIAZABAA==",
+      "msg" : "O mal funcionamento do sistema ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:50:39",
+      "delete" : false,
+      "identifier" : "CIebhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 12:59:52",
+      "delete" : false,
+      "identifier" : "CID6nsAGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 12:59:59",
+      "delete" : false,
+      "identifier" : "CIf6nsAGIABIAZABAA==",
+      "msg" : "O problema vai ser resolvido ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 14:42:20",
+      "delete" : false,
+      "identifier" : "CISqn8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0Y0RjlFQjgzN0I1NENFMzEzNzJAwN3g9OUySAB44tqXvuYykAEA",
+      "msg" : "me passa seu cpf por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 15:12:32",
+      "delete" : false,
+      "identifier" : "CJi4n8AGIABIAZABAA==",
+      "msg" : "05258342573",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 16:02:00",
+      "delete" : false,
+      "mediaName" : "71c013e9-ac09-4b07-b00c-2728c58d29fc.opus",
+      "localPath" : "media\/227297a9eecc7e985c2cbddb63f015687b755cc4.opus",
+      "mediaSize" : "157 KB",
+      "identifier" : "CLDPn8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:26"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:30:47",
+      "delete" : false,
+      "identifier" : "CO\/cn8AGIABIAZABAA==",
+      "msg" : "Meu irmão,mudo de navegador e continua a mesma coisa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:32:04",
+      "delete" : false,
+      "identifier" : "CLzdn8AGIABIAZABAA==",
+      "msg" : "E outra coisa,vai pra 60 dias que estou sem o acesso 100% ao painel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:32:33",
+      "delete" : false,
+      "identifier" : "CNndn8AGIABIAZABAA==",
+      "msg" : "Mudou o painel e continua o mesmo problema !",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:32:56",
+      "delete" : false,
+      "identifier" : "CPDdn8AGIABIAZABAA==",
+      "msg" : "Então não é processo de resolução",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 17:08:45",
+      "delete" : false,
+      "mediaName" : "a6066ebb-8d99-4f1b-88b9-ecc01d6838a7.opus",
+      "localPath" : "media\/a2c0d29420ca38573b633d5d4c67a02ec0398e6d.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CNXun8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 18:01:33",
+      "delete" : false,
+      "identifier" : "CLWHoMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala irmão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 18:02:51",
+      "delete" : false,
+      "identifier" : "CIOIoMAGIABIAZABAA==",
+      "msg" : "Seu áudio não saiu nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 18:03:35",
+      "delete" : false,
+      "identifier" : "CK+IoMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "posso te mandar um link de uma call agora?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 18:04:22",
+      "delete" : false,
+      "identifier" : "CN6IoMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "para nós podermos te ajudar a resolver o problema",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 18:04:37",
+      "delete" : false,
+      "identifier" : "CO2IoMAGIABIAZABAA==",
+      "msg" : "Agora não estou em casa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 18:04:45",
+      "delete" : false,
+      "identifier" : "CPWIoMAGIABIAZABAA==",
+      "msg" : "Vamos agendar pra amanhã às 08:00",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 18:07:32",
+      "delete" : false,
+      "mediaName" : "ac466314-d5b7-46cb-b3e9-e7b99fcd15e4.opus",
+      "localPath" : "media\/00efa6e1cc29e009169f4923cc7255c5cd7559f6.opus",
+      "mediaSize" : "125 KB",
+      "identifier" : "CJyKoMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:22"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/23 08:32:53",
+      "delete" : false,
+      "identifier" : "CO2fo8AGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/23 08:33:03",
+      "delete" : false,
+      "identifier" : "CPefo8AGIABIAZABAA==",
+      "msg" : "Tudo funcionando normalmente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/23 08:33:39",
+      "delete" : false,
+      "identifier" : "CJugo8AGIABIAZABAA==",
+      "msg" : "Vamos alterar a data do meu plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/23 08:34:03",
+      "delete" : false,
+      "identifier" : "CLOgo8AGIABIAZABAA==",
+      "msg" : "Porque desde o dia que comprei o modo caverna,hoje é a primeira vez que tenho acesso sem erros",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/23 08:34:17",
+      "delete" : false,
+      "mediaName" : "a7830145-6383-4eae-a378-0038f89626c3.jpg",
+      "localPath" : "media\/09f7b48dbf304af9529d9a04f786de7b7169889e.jpg",
+      "mediaSize" : "966 KB",
+      "identifier" : "CMGgo8AGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/9934fd94b6cfffeabba828e68fbd253284ed3625"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/23 08:51:59",
+      "delete" : false,
+      "identifier" : "COeoo8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Agradecemos muito pelo seu retorno e por continuar com a gente no Modo Caverna. 🔺🐺\n\nQueremos te fazer uma proposta especial como forma de reconhecimento pelo seu tempo e pela sua sinceridade com o nosso time.\n\nSe você topar gravar um vídeo curto, mostrando alguma funcionalidade do app que você curte e agradecendo pelo suporte que recebeu, vamos te presentear com +3 meses de acesso adicionados à sua assinatura anual — totalmente por nossa conta.\n\nÉ algo simples, mas que nos ajuda muito a inspirar outros usuários e mostrar que, mesmo com desafios, seguimos comprometidos em evoluir o sistema e atender cada caverna da melhor forma.\n\nSe topar, é só nos avisar por aqui e podemos combinar direitinho. 💪🐺\n\nContamos com você!",
+      "type" : "text"
+    }
+  ]
+})

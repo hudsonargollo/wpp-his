@@ -1,0 +1,98 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 44 99709-0130",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 16:27:15",
+      "delete" : false,
+      "identifier" : "CJuQ870GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 16:27:20",
+      "delete" : false,
+      "identifier" : "CKCQ870GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 16:27:26",
+      "delete" : false,
+      "identifier" : "CKaQ870GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 16:27:37",
+      "delete" : false,
+      "identifier" : "CLGQ870GIABIAZABAA==",
+      "msg" : "O aplicativo é somente pago ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 16:34:25",
+      "delete" : false,
+      "identifier" : "CMmT870GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Gabriel! Tudo bem? \nMe chamo Rafaella, vou prosseguir com seu atendimento ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 16:35:13",
+      "delete" : false,
+      "mediaName" : "1055d3a1-b758-47e9-ba98-9c29bc3a2e3c.opus",
+      "localPath" : "media\/8f0be22638e4f53b785c3b55ccee6374188c4162.opus",
+      "mediaSize" : "61 KB",
+      "identifier" : "CPmT870GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:29"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/24 16:36:54",
+      "delete" : false,
+      "identifier" : "CN6U870GIABIAZABAA==",
+      "msg" : "Qual o valor dos planos mensais e anual?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 16:40:15",
+      "delete" : false,
+      "mediaName" : "5cefdc6a-7692-4c46-8cc4-73cd630a87aa.opus",
+      "localPath" : "media\/164a3a98391a90ca247595ecae19e8698d65b59a.opus",
+      "mediaSize" : "59 KB",
+      "identifier" : "CKeW870GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:29"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/24 16:40:31",
+      "delete" : false,
+      "mediaName" : "222a7996-8c28-4250-8db6-bbae8da1373c.opus",
+      "localPath" : "media\/ac64c97c1e9da8b7d86b59b5e8ac63925cf9f34a.opus",
+      "mediaSize" : "30 KB",
+      "identifier" : "CLeW870GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    }
+  ]
+})

@@ -1,0 +1,129 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98547-8118",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 11:47:18",
+      "delete" : false,
+      "identifier" : "CP660r0GIABIAZABAA==",
+      "msg" : "Fala blz?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 11:47:27",
+      "delete" : false,
+      "identifier" : "CIe70r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 11:47:33",
+      "delete" : false,
+      "identifier" : "CI270r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 11:48:03",
+      "delete" : false,
+      "identifier" : "CKu70r0GIABIAZABAA==",
+      "msg" : "Bruno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 11:48:10",
+      "delete" : false,
+      "identifier" : "CLK70r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Perfeito, *Bruno*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 11:48:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLi70r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 11:48:42",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNK70r0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 11:48:49",
+      "delete" : false,
+      "identifier" : "CNm70r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 11:48:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN670r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 11:49:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "COi70r0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 11:49:07",
+      "delete" : false,
+      "identifier" : "COu70r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 11:49:43",
+      "delete" : false,
+      "identifier" : "CI+80r0GIABIAZABAA==",
+      "msg" : "Os afiliados anuncia via Google ads? Se sim, tenho uma conta com 1.200’de crédito e gostaria de disponibilizar pra venda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 14:05:16",
+      "delete" : false,
+      "identifier" : "CNT70r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Bruno! Tudo bem?\nOs afiliados não anunciam pelo google ads",
+      "type" : "text"
+    }
+  ]
+})

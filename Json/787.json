@@ -1,0 +1,279 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99977-8788",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 19:38:52",
+      "delete" : false,
+      "identifier" : "CISd9r8GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:39:01",
+      "delete" : false,
+      "identifier" : "CI2d9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:39:07",
+      "delete" : false,
+      "identifier" : "CJOd9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 19:39:43",
+      "delete" : false,
+      "identifier" : "CLed9r8GIABIAZABAA==",
+      "msg" : "Israel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:39:53",
+      "delete" : false,
+      "identifier" : "CMGd9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Israel*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:39:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMed9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 19:40:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "COid9r8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:40:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COmd9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 20:32:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar o conteúdo",
+      "delete" : false,
+      "identifier" : "CIy29r8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 20:32:23",
+      "delete" : false,
+      "identifier" : "CI+29r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Para acessar o conteúdo do Desafio Modo Caverna, clique no link abaixo ⬇️*\n\n*https:\/\/desafio.modocaverna.com\/material*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 20:32:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJC29r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 20:37:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não, preciso de ajuda",
+      "delete" : false,
+      "identifier" : "CN249r8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 20:37:59",
+      "delete" : false,
+      "identifier" : "CN+49r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 20:38:35",
+      "delete" : false,
+      "identifier" : "CIO59r8GIABIAZABAA==",
+      "msg" : "Preciso do acesso ao aplicativo do modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:32:25",
+      "delete" : false,
+      "identifier" : "CNGH+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nSou a Brenda, responsável pelo Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:32:48",
+      "delete" : false,
+      "identifier" : "COiH+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você já realizou a compra ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:33:17",
+      "delete" : false,
+      "identifier" : "CIWI+b8GIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:33:23",
+      "delete" : false,
+      "identifier" : "CIuI+b8GIABIAZABAA==",
+      "msg" : "Do desafio sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:47:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "COuq+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:48:41",
+      "delete" : false,
+      "identifier" : "CLGr+b8GIABIAZABAA==",
+      "msg" : "Tem que fazer o cadastro ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:50:55",
+      "delete" : false,
+      "mediaName" : "01c73f34-f469-47f4-b8a0-300457c849fb.jpg",
+      "localPath" : "media\/04a0d6eab3d5492fd667729e11f3d139b29d97f6.jpg",
+      "mediaSize" : "66 KB",
+      "identifier" : "CLes+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c3c0b32ca37bc89fd22c9bf344258afb3be92d3b"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:54:36",
+      "delete" : false,
+      "identifier" : "CJSu+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia utilizar um desktop, por gentileza?\nNo momento, o sistema não está disponível para acesso via celular.\n\nNosso aplicativo para dispositivos móveis estará disponível em breve e, assim que estiver funcional, avisaremos todos os usuários.\n\nAgradecemos a compreensão e estamos à disposição para qualquer dúvida!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:56:20",
+      "delete" : false,
+      "identifier" : "CPyu+b8GIABIAZABAA==",
+      "msg" : "Mas eu não consigo saber o meu login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:56:28",
+      "delete" : false,
+      "identifier" : "CISv+b8GIABIAZABAA==",
+      "msg" : "Até pelo desktop",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:56:31",
+      "delete" : false,
+      "identifier" : "CIev+b8GIABIAZABAA==",
+      "msg" : "Não quer entrar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:56:51",
+      "delete" : false,
+      "identifier" : "CJuv+b8GIABIAZABAA==",
+      "msg" : "Não chegou nada pra mim para acesso até agora",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 10:37:47",
+      "delete" : false,
+      "identifier" : "CLPC+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "entao israel, para acessar o sistema.\n\nClique no link abaixo\n\nmodocaverna.com\n\nutilize o seu email de compra como login e o seu CPF como senha.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 10:37:51",
+      "delete" : false,
+      "identifier" : "CLfC+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "verifica se consegue",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 08:36:44",
+      "delete" : false,
+      "identifier" : "CNT+ncAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Israel, conseguiu resolver seu problema?",
+      "type" : "text"
+    }
+  ]
+})

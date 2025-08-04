@@ -1,0 +1,350 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94888-3085",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:17:04",
+      "delete" : false,
+      "identifier" : "CIiJtcMGIABIAJABAA==",
+      "msg" : "Boa tarde !",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:17:08",
+      "delete" : false,
+      "identifier" : "CIyJtcMGIABIAJABAA==",
+      "msg" : "Tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:17:15",
+      "delete" : false,
+      "identifier" : "CJOJtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:17:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJSJtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:17:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLmJtcMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:18:00",
+      "delete" : false,
+      "identifier" : "CMCJtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:18:06",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMaJtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:18:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CNSJtcMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:18:23",
+      "delete" : false,
+      "identifier" : "CNeJtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:18:55",
+      "delete" : false,
+      "identifier" : "CPeJtcMGIABIAZABAA==",
+      "msg" : "Gustavo Humberto Rivero Garcia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:18:58",
+      "delete" : false,
+      "identifier" : "CPqJtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:19:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPyJtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:19:09",
+      "delete" : false,
+      "identifier" : "CIWKtcMGIABIAZABAA==",
+      "msg" : "Guriga@outlook.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:19:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CIyKtcMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:21:34",
+      "delete" : false,
+      "identifier" : "CJaLtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Gustavo! Tudo bem?\nQuais problemas você está tendo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:22:07",
+      "delete" : false,
+      "identifier" : "CLeLtcMGIABIAZABAA==",
+      "msg" : "Boa tarde, na verdade gostaria de Falalar sobre a renovação da minha assinatura",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:22:14",
+      "delete" : false,
+      "identifier" : "CL6LtcMGIABIAZABAA==",
+      "msg" : "Que vence amanhã !",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:22:36",
+      "delete" : false,
+      "identifier" : "CNSLtcMGIABIAZABAA==",
+      "msg" : "Pode me ajudar ou me direcionar para o responsável",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:28:07",
+      "delete" : false,
+      "identifier" : "CJ+OtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Claro! Me envia seu email, por gentileza, vou verificar pra você",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:28:23",
+      "delete" : false,
+      "identifier" : "CK+OtcMGIABIAJABAA==",
+      "msg" : "guriga@outlook.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:29:33",
+      "delete" : false,
+      "identifier" : "CPWOtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você deseja cancelar a renovação automática?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:30:05",
+      "delete" : false,
+      "identifier" : "CJWPtcMGIABIAJABAA==",
+      "msg" : "Gostaria de saber o valor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:43:11",
+      "delete" : false,
+      "identifier" : "CKeVtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O valor da sua renovação será de R$ 147,00\nO sistema atualmente está custando 299, porém como você comprou anteriormente, não alteramos o valor ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:43:49",
+      "delete" : false,
+      "identifier" : "CM2VtcMGIABIAJABAA==",
+      "msg" : "como façõ para renovar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:44:36",
+      "delete" : false,
+      "identifier" : "CPyVtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "A renovação ocorre de forma automática no cartão que você realizou a compra!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 13:46:55",
+      "delete" : false,
+      "identifier" : "CIeXtcMGIABIAJABAA==",
+      "msg" : "preciso mudar o cartão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 13:57:13",
+      "delete" : false,
+      "identifier" : "CPGbtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tranquilo! Vou cancelar sua renovação automática no cartão que está cadastrado e te mando um link com cupom para que você consiga manter sua assinatura com o mesmo valor de antes, pode ser? ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 14:07:01",
+      "delete" : false,
+      "identifier" : "CL2gtcMGIABIAJABAA==",
+      "msg" : "claro pode sim fico no aguardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 14:10:06",
+      "delete" : false,
+      "identifier" : "CPahtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/payment.ticto.app\/O57A7ACB5?utm_source=rafa&coupon=offgh",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 14:10:37",
+      "delete" : false,
+      "identifier" : "CJWitcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Basta acessar por esse link, você pode parcelar também ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 14:14:30",
+      "delete" : false,
+      "identifier" : "CP6jtcMGIABIAJABAA==",
+      "msg" : "Esta falando que já assinei anteriormente e que o valor sera de R$ 299",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 14:16:15",
+      "delete" : false,
+      "mediaName" : "195a1a4d-b3e2-4052-bf01-e99e7df8601f.jpg",
+      "localPath" : "media\/e690d1306d381c03f6d3c82bb808980cbbdbfc7c.jpg",
+      "mediaSize" : "96 KB",
+      "identifier" : "COektcMGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c97ddd532cf0c0405b601cd61c632ce305272d94"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 14:25:24",
+      "delete" : false,
+      "identifier" : "CIyptcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tenta por esse: https:\/\/payment.ticto.app\/O6439F777?utm_source=rafa&coupon=offgh\n\nMudei a oferta para garantir seu desconto!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 14:26:52",
+      "delete" : false,
+      "identifier" : "COSptcMGIABIAJABAA==",
+      "msg" : "Esta cobrando o valor de  R$ 299,00",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 14:34:08",
+      "delete" : false,
+      "identifier" : "CJittcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "utiliza outro email\/CPF, provavelmente é por seus dados já estarem vinculados a Ticto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/08 14:34:31",
+      "delete" : false,
+      "identifier" : "CK+ttcMGIABIAJABAA==",
+      "msg" : "Deu Certo obrigado !!!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/08 15:47:50",
+      "delete" : false,
+      "identifier" : "CN7PtcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "ótimo! ☺️\nConseguiu acessar a plataforma?",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,180 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 51 99930-1410",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 07:21:22",
+      "delete" : false,
+      "identifier" : "CKq7o7wGIABIAZABAA==",
+      "msg" : "Está dizendo que meu email está errado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 07:21:30",
+      "delete" : false,
+      "identifier" : "CLK7o7wGIABIAZABAA==",
+      "msg" : "Não consigo entrar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 07:21:32",
+      "delete" : false,
+      "identifier" : "CLS7o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 07:21:38",
+      "delete" : false,
+      "identifier" : "CLq7o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 07:22:02",
+      "delete" : false,
+      "identifier" : "CNK7o7wGIABIAZABAA==",
+      "msg" : "José",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 07:22:08",
+      "delete" : false,
+      "identifier" : "CNi7o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *José*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 07:22:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN67o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 07:22:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "COu7o7wGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 07:22:35",
+      "delete" : false,
+      "identifier" : "CPO7o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 07:22:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPi7o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 07:22:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CIG8o7wGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 07:22:51",
+      "delete" : false,
+      "identifier" : "CIO8o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 07:23:15",
+      "delete" : false,
+      "identifier" : "CJu8o7wGIABIAZABAA==",
+      "msg" : "Não estou conseguindo fazer o login para entrar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 07:23:35",
+      "delete" : false,
+      "identifier" : "CK+8o7wGIABIAZABAA==",
+      "msg" : "dr.especialista_rogeriofreirecosta@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 09:31:30",
+      "delete" : false,
+      "mediaName" : "3b636e16-4087-4ca8-a88b-00c6eba852b0.opus",
+      "localPath" : "media\/e306918a901e4f911faad06105f06f859a7033ec.opus",
+      "mediaSize" : "20 KB",
+      "identifier" : "CKr4o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 10:09:51",
+      "delete" : false,
+      "identifier" : "CKeKpLwGIABIAZABAA==",
+      "msg" : "Fiz isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 10:10:05",
+      "delete" : false,
+      "identifier" : "CLWKpLwGIABIAZABAA==",
+      "msg" : "Mas está dando que meu email\/ senha estão errados",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 11:11:23",
+      "delete" : false,
+      "mediaName" : "81bc5415-ae01-4326-a7e9-fd0b4dff2e54.opus",
+      "localPath" : "media\/95ec681bd8d31b1799915398470b4a9cbf7d335a.opus",
+      "mediaSize" : "17 KB",
+      "identifier" : "CJOnpLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    }
+  ]
+})

@@ -1,0 +1,248 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+351 912 530 964",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/05 14:29:19",
+      "delete" : false,
+      "identifier" : "CPfQxb8GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/05 14:29:28",
+      "delete" : false,
+      "identifier" : "CIDRxb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/05 14:29:34",
+      "delete" : false,
+      "identifier" : "CIbRxb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/05 14:29:41",
+      "delete" : false,
+      "identifier" : "CI3Rxb8GIABIAZABAA==",
+      "msg" : "Deisson",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/05 14:29:47",
+      "delete" : false,
+      "identifier" : "CJPRxb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Deisson*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/05 14:29:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJnRxb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/05 14:30:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CKjRxb8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/05 14:30:15",
+      "delete" : false,
+      "identifier" : "CK\/Rxb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/05 14:30:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLTRxb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/05 14:30:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Como faço para acessar pela primeira vez o sistema?",
+      "delete" : false,
+      "identifier" : "CL7Rxb8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/05 14:30:32",
+      "delete" : false,
+      "identifier" : "CMDRxb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para realizar seu primeiro acesso, coloque seu e-mail de compra e sua senha será seu CPF! Acesse no link abaixo: ⬇️\n\nhttps:\/\/modocaverna.com\/login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/05 14:30:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMHRxb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/05 14:31:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não! Ainda preciso de ajuda.",
+      "delete" : false,
+      "identifier" : "COfRxb8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/05 14:31:13",
+      "delete" : false,
+      "identifier" : "COnRxb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/05 14:31:50",
+      "delete" : false,
+      "identifier" : "CI7Sxb8GIABIAZABAA==",
+      "msg" : "Não tenho CPF. A compra foi internacional. \nO meu email é Deissonsequeira@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 08:03:11",
+      "delete" : false,
+      "identifier" : "CPfhzr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nSou a Brenda e faço da parte do suporte, como posso te ajudar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 08:21:11",
+      "delete" : false,
+      "identifier" : "CK\/qzr8GIABIAJABAA==",
+      "msg" : "Olá Brenda, tudo bem e voce ?\n\nNão consigo fazer o primeiro login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 08:21:45",
+      "delete" : false,
+      "identifier" : "CNHqzr8GIABIAJABAA==",
+      "msg" : "Tentei usar o código de acesso e o email registrado, mas dá-me a informação que as credenciais estão incorrectas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 08:26:54",
+      "delete" : false,
+      "identifier" : "CIbtzr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O login é seu e-mail e sua senha, você já tentou dessa maneira ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 08:51:33",
+      "delete" : false,
+      "identifier" : "CM34zr8GIABIAZABAA==",
+      "msg" : "Olha Brenda, tentei pela email e senha, não deu a primeira",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 08:51:44",
+      "delete" : false,
+      "identifier" : "CNj4zr8GIABIAZABAA==",
+      "msg" : "Mas fiz por recuperar senha, e funcionou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 08:51:47",
+      "delete" : false,
+      "identifier" : "CNv4zr8GIABIAZABAA==",
+      "msg" : "Obrigado pela atenção",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 08:55:58",
+      "delete" : false,
+      "identifier" : "CNb6zr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Que Maravilha, Deysson",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 08:56:18",
+      "delete" : false,
+      "identifier" : "COr6zr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer dúvida é só entrar em contato! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 08:56:33",
+      "delete" : false,
+      "identifier" : "CPn6zr8GIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 08:56:47",
+      "delete" : false,
+      "identifier" : "CIf7zr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! ☺️",
+      "type" : "text"
+    }
+  ]
+})

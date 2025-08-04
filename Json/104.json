@@ -1,0 +1,143 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 67 99676-3048",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 11:55:29",
+      "delete" : false,
+      "identifier" : "COnBo8QGIABIAZABAA==",
+      "msg" : "Bom dia, estou tentando cancelar minha assinatura e vocês continuam me cobrando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/29 11:55:52",
+      "delete" : false,
+      "identifier" : "CIDCo8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/29 11:55:58",
+      "delete" : false,
+      "identifier" : "CIbCo8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual o seu e-mail, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 11:56:06",
+      "delete" : false,
+      "identifier" : "CI7Co8QGIABIAZABAA==",
+      "msg" : "borgatobeatriz@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/29 11:56:20",
+      "delete" : false,
+      "identifier" : "CJzCo8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "o que te motivou a tomar essa decisão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 11:57:02",
+      "delete" : false,
+      "identifier" : "CMbCo8QGIABIAZABAA==",
+      "msg" : "Eu não utilizo o serviço",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 11:57:27",
+      "delete" : false,
+      "mediaName" : "8a58b465-cc6b-426f-a92a-6f84690ea5e9.jpg",
+      "localPath" : "media\/7f04e30bbe3478c946cfc0556d20d12fdcb8abb1.jpg",
+      "mediaSize" : "12 KB",
+      "identifier" : "CN\/Co8QGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/1bf08ee8e64ccab1d6148bcdcae381d857ccca04"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 11:57:36",
+      "delete" : false,
+      "mediaName" : "5688a6e6-8dfe-4bf3-8928-0766c9317095.jpg",
+      "localPath" : "media\/607cc7e25a4999e33894f06eea05e378b6fab724.jpg",
+      "mediaSize" : "68 KB",
+      "identifier" : "COjCo8QGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/5dda66be76ff2b09da4f7db9f484e8781417bbde"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/29 11:57:47",
+      "delete" : false,
+      "identifier" : "CPPCo8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "um moento, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/29 11:59:28",
+      "delete" : false,
+      "mediaName" : "8bbd5c68-738d-438a-8d4d-18dc8453dd9d.jpg",
+      "localPath" : "media\/8fda84c48bbddb8917008ac29325910426c20b8f.jpg",
+      "mediaSize" : "46 KB",
+      "identifier" : "CNjDo8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/e39e428ce55ce30f9084fc28d3b896e5e6298245"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/29 11:59:42",
+      "delete" : false,
+      "identifier" : "CObDo8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "seu reembolso foi solicitado e não haverá mais cobranças.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/29 11:59:47",
+      "delete" : false,
+      "identifier" : "COvDo8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 12:00:23",
+      "delete" : false,
+      "identifier" : "CI\/Eo8QGIABIAZABAA==",
+      "msg" : "Apenas isso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/29 12:00:30",
+      "delete" : false,
+      "identifier" : "CJbEo8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "tenha um ótimo dia",
+      "type" : "text"
+    }
+  ]
+})

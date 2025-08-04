@@ -1,0 +1,163 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99114-1256",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/15 18:27:40",
+      "delete" : false,
+      "identifier" : "CNST\/boGIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/15 18:27:54",
+      "delete" : false,
+      "identifier" : "COKT\/boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/15 18:28:01",
+      "delete" : false,
+      "identifier" : "COmT\/boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/15 18:28:15",
+      "delete" : false,
+      "identifier" : "CPeT\/boGIABIAJABAA==",
+      "msg" : "gostaria de solicitar o link de afiliacao",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/15 18:28:22",
+      "delete" : false,
+      "identifier" : "CP6T\/boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *gostaria de solicitar o link de afiliacao*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/15 18:28:28",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CISU\/boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/15 18:28:31",
+      "delete" : false,
+      "identifier" : "CIeU\/boGIABIAJABAA==",
+      "msg" : "Deivid Freitas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 09:16:34",
+      "delete" : false,
+      "identifier" : "CKq0gLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 15:06:06",
+      "delete" : false,
+      "identifier" : "CJbYgbsGIABIAZABAA==",
+      "msg" : "estou tentando afiliar ao produto mas quando solicito o link volta pra pagina de login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 15:16:52",
+      "delete" : false,
+      "identifier" : "CJzdgbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 15:17:06",
+      "delete" : false,
+      "identifier" : "CKrdgbsGIABIAZABAA==",
+      "msg" : "deivid.f12@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 15:19:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CKvegbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 16:58:40",
+      "delete" : false,
+      "identifier" : "CPiMgrsGIABIAZABAA==",
+      "msg" : "quanto tempo demora para contabilizar as vendas no dashboard ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 17:09:26",
+      "delete" : false,
+      "identifier" : "CP6RgrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Deivid! Geralmente em até 3 dias as vendas aparecem no dash!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 17:22:50",
+      "delete" : false,
+      "identifier" : "CKKYgrsGIABIAZABAA==",
+      "msg" : "ja fiz a primeira",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 17:46:41",
+      "delete" : false,
+      "identifier" : "CLmjgrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, parabéns!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 17:47:08",
+      "delete" : false,
+      "identifier" : "CNSjgrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode estar acompanhando pela seção Indique e Ganhe do Modo Caverna",
+      "type" : "text"
+    }
+  ]
+})

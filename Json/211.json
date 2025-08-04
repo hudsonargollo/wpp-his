@@ -1,0 +1,122 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 16 98858-3610",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:53:15",
+      "delete" : false,
+      "identifier" : "COPKxMMGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:53:26",
+      "delete" : false,
+      "identifier" : "CO7KxMMGIABIAZABAA==",
+      "msg" : "Foi feito uma cobrança sem meu consentimento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:53:35",
+      "delete" : false,
+      "identifier" : "CPfKxMMGIABIAZABAA==",
+      "msg" : "Eu gostaria de solicitar o cancelamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 15:45:00",
+      "delete" : false,
+      "identifier" : "CLS3xcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Matheus! Tudo bem? Este é um procedimento padrão ao adquirir o plano.\nPor qual motivo você gostaria de prosseguir com o cancelamento? Está com alguma dificuldade no acesso? Posso estar te auxiliando.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:43:22",
+      "delete" : false,
+      "mediaName" : "b686c847-014d-4164-a40c-d65fd7ac8c73.opus",
+      "localPath" : "media\/f38568ac7e4fb43a9a99844e6ed3bf04b14f81d3.opus",
+      "mediaSize" : "175 KB",
+      "identifier" : "COLSxcMGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "01:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:43:53",
+      "delete" : false,
+      "mediaName" : "251ee1a7-19b8-42aa-b745-39066bcb355d.opus",
+      "localPath" : "media\/755a5bc4ae064473e43e02c2170dc3aa3da77f5e.opus",
+      "mediaSize" : "58 KB",
+      "identifier" : "CIHTxcMGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:51:03",
+      "delete" : false,
+      "identifier" : "CK\/WxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo, Você não gostaria de tentar acessar novamente mas com uma orientação e suporte?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 19:00:56",
+      "delete" : false,
+      "identifier" : "CKCTxsMGIABIAZABAA==",
+      "msg" : "Não, eu gostaria de cancelar mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 11:44:17",
+      "delete" : false,
+      "identifier" : "CMmv1MMGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 11:44:25",
+      "delete" : false,
+      "identifier" : "CNGv1MMGIABIAZABAA==",
+      "msg" : "Alguma resposta sobre o cancelamento?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 20:09:23",
+      "delete" : false,
+      "identifier" : "CKvi4MMGIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/17 10:08:23",
+      "delete" : false,
+      "identifier" : "CM\/r48MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, você pode estar procurando o seu e-mail de compra aprovada pela ticto, e no rodapé do e-mail tem a opção de pedir reembolso, aí você pode estar solicitando.",
+      "type" : "text"
+    }
+  ]
+})

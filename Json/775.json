@@ -1,0 +1,72 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99852-3174",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:12:36",
+      "delete" : false,
+      "identifier" : "CKzUn8AGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:12:39",
+      "delete" : false,
+      "identifier" : "CK\/Un8AGIABIAZABAA==",
+      "msg" : "Sou técnico da Claro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:12:46",
+      "delete" : false,
+      "identifier" : "CLbUn8AGIABIAZABAA==",
+      "msg" : "Temos uma retirada em nome de Felipe",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 16:12:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLfUn8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 16:12:47",
+      "delete" : false,
+      "identifier" : "CLfUn8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:12:55",
+      "delete" : false,
+      "identifier" : "CL\/Un8AGIABIAZABAA==",
+      "msg" : "Rua major Deocleciano 25",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:13:02",
+      "delete" : false,
+      "identifier" : "CMbUn8AGIABIAZABAA==",
+      "msg" : "Tem alguém no local pois estou em frente à residência",
+      "type" : "text"
+    }
+  ]
+})

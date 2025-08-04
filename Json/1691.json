@@ -1,0 +1,46 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98897-5449",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 18:47:07",
+      "delete" : false,
+      "identifier" : "COPsqLoGIABIAZABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 18:47:37",
+      "delete" : false,
+      "identifier" : "CIHtqLoGIABIAZABAA==",
+      "msg" : "Meu link de afiliado não está ativo, paguei a central caverna na promoção de Iuri de afiliados basicamente 30 dias atrás",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 18:47:43",
+      "delete" : false,
+      "identifier" : "CIftqLoGIABIAZABAA==",
+      "msg" : "E assinei o plano anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 18:48:26",
+      "mediaSize" : "905 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLLtqLoGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/5ebee804d94cbf2395d9c0a9acd6c09a49325fc6"
+    }
+  ]
+})

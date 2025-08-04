@@ -1,0 +1,212 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 86 98854-6786",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:41:25",
+      "delete" : false,
+      "identifier" : "CJ3+ubgGIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 11:41:27",
+      "delete" : false,
+      "identifier" : "CKD+ubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 11:43:12",
+      "delete" : false,
+      "identifier" : "CIj\/ubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:50:12",
+      "delete" : false,
+      "mediaName" : "9893c986-df86-4a6c-af83-d8412592ae51.jpg",
+      "localPath" : "media\/3ddb82cb257fe6b6670a9cfe6d4258b1a820eaf3.jpg",
+      "mediaSize" : "136 KB",
+      "identifier" : "CKyCurgGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/430426e24220d54cbd63c0313b20278d02aac0fc"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:50:20",
+      "delete" : false,
+      "identifier" : "CLSCurgGIABIAZABAA==",
+      "msg" : "nos falamos por site",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:50:47",
+      "delete" : false,
+      "identifier" : "CM+CurgGIABIAZABAA==",
+      "msg" : "ja comprei e preciso só cadastrar a conta que ja tinha criado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 11:53:45",
+      "delete" : false,
+      "mediaName" : "4dec8277-46c5-4e33-aeda-945719f0ed2e.opus",
+      "localPath" : "media\/c05afa55b9c22f6dd8a932290bdf843dbeba63e7.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CIGEurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:54:13",
+      "delete" : false,
+      "identifier" : "CJ2EurgGIABIAZABAA==",
+      "msg" : "pode ser",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 11:54:16",
+      "delete" : false,
+      "mediaName" : "1bc9c9fa-7858-41b1-849f-642062032b1a.opus",
+      "localPath" : "media\/a3e0b20402485e3004895d359e49cce67ad5874a.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CKCEurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:55:07",
+      "delete" : false,
+      "mediaName" : "251b0672-0f0c-4579-8a0c-cac2cff84a01.opus",
+      "localPath" : "media\/decf274131928b89f4e74eccc4641f66ad2855f9.opus",
+      "mediaSize" : "73 KB",
+      "identifier" : "CNOEurgGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:31"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 11:56:58",
+      "delete" : false,
+      "mediaName" : "34fb0d31-dbe3-4c89-9830-5d05fc7ba5c6.opus",
+      "localPath" : "media\/c6ce870d73b2ac362a4c91006199bd9bde08fe8d.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CMKFurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 11:57:01",
+      "delete" : false,
+      "identifier" : "CMWFurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "deivesdbr5@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:57:10",
+      "delete" : false,
+      "identifier" : "CM6FurgGIABIAZABAA==",
+      "msg" : "ta ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:57:15",
+      "delete" : false,
+      "identifier" : "CNOFurgGIABIAZABAA==",
+      "msg" : "este email mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:57:20",
+      "delete" : false,
+      "identifier" : "CNiFurgGIABIAZABAA==",
+      "msg" : "entao ta tudo certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 11:57:35",
+      "delete" : false,
+      "identifier" : "COeFurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Está sim! Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:58:03",
+      "delete" : false,
+      "identifier" : "CIOGurgGIABIAZABAA==",
+      "msg" : "so isso mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 11:58:05",
+      "delete" : false,
+      "identifier" : "CIWGurgGIABIAZABAA==",
+      "msg" : "obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 11:58:34",
+      "delete" : false,
+      "identifier" : "CKKGurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida pode me mandar mensagem! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 12:03:18",
+      "delete" : false,
+      "identifier" : "CL6IurgGIABIAZABAA==",
+      "msg" : "obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 14:21:24",
+      "delete" : false,
+      "identifier" : "CJzJurgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    }
+  ]
+})

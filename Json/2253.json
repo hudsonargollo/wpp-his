@@ -1,0 +1,27 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Mentoria 3.0",
+    "member" : [
+      "+557382446098",
+      "+557391777871"
+    ]
+  },
+  "body" : [
+    {
+      "time" : "2022\/05\/24 13:42:34",
+      "avatar" : "",
+      "msg" : "+557382446098 created group \"\"",
+      "identifier" : "CIKWtJQGIAA=",
+      "position" : "conter",
+      "delete" : false
+    },
+    {
+      "time" : "2022\/05\/24 13:42:34",
+      "avatar" : "",
+      "msg" : "CIKWtJQGIAA= was added to this group",
+      "identifier" : "CIKWtJQGIAA=",
+      "position" : "conter",
+      "delete" : false
+    }
+  ]
+})

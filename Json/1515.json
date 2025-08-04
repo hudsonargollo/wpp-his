@@ -1,0 +1,270 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 35 99871-8374",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/25 08:47:08",
+      "delete" : false,
+      "identifier" : "CMThr7sGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/25 08:47:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMfhr7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/25 08:48:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Quero acessar o conteúdo do Desafio 5 em 30!",
+      "delete" : false,
+      "identifier" : "CIPir7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/25 08:48:14",
+      "delete" : false,
+      "identifier" : "CIbir7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para acessar seus materiais basta clicar no link abaixo ⬇️ \n\nhttps:\/\/redirect.lifs.app\/desafio5em30",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/25 08:48:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIfir7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/25 08:48:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Sim, ainda preciso de ajuda!",
+      "delete" : false,
+      "identifier" : "CKfir7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/25 08:48:50",
+      "delete" : false,
+      "identifier" : "CKrir7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 09:00 às 18:00 de segunda à sexta, e   das 09:00 às 12:00 aos sábados.\n\nAgora é só aguardar alguns minutos. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/25 08:49:04",
+      "delete" : false,
+      "identifier" : "CLjir7sGIABIAZABAA==",
+      "msg" : "Não consegui fazer download",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:04:04",
+      "delete" : false,
+      "identifier" : "CLyMtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 09:11:53",
+      "delete" : false,
+      "identifier" : "CJGQtbsGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 09:11:56",
+      "delete" : false,
+      "identifier" : "CJSQtbsGIABIAZABAA==",
+      "msg" : "Tudo e vc?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 09:12:09",
+      "delete" : false,
+      "identifier" : "CKGQtbsGIABIAZABAA==",
+      "msg" : "Não consegui fazer o download",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:12:31",
+      "delete" : false,
+      "identifier" : "CLeQtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De que?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 09:12:41",
+      "delete" : false,
+      "identifier" : "CMGQtbsGIABIAZABAA==",
+      "msg" : "De todos os pdf",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:13:01",
+      "delete" : false,
+      "identifier" : "CNWQtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 09:13:17",
+      "delete" : false,
+      "identifier" : "COWQtbsGIABIAZABAA==",
+      "msg" : "gustavoasousa@protonmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:34:09",
+      "delete" : false,
+      "identifier" : "CMmatbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiu realizar o cadastro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:34:25",
+      "delete" : false,
+      "identifier" : "CNmatbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMEJFMjc5MDVDQzBGMTIyQzRA35fdl8AySAB45NifmMAykAEA",
+      "msg" : "Vou te encaminhar os pdfs aqui ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:35:44",
+      "mediaSize" : "56,7 MB",
+      "mediaName" : "Ebook - Defina seus objetivos e metas.pdf",
+      "localPath" : "media\/49351fd49ecec61a13644605f58909e4771d3236.pdf",
+      "delete" : false,
+      "identifier" : "CKibtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:35:46",
+      "mediaSize" : "2,9 MB",
+      "mediaName" : "Ebook - Guia Prático para definição de um plano de ação.pdf",
+      "localPath" : "media\/9e0003a384dfcb764ccf24b77151bde922574884.pdf",
+      "delete" : false,
+      "identifier" : "CKqbtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:35:49",
+      "mediaSize" : "2,7 MB",
+      "mediaName" : "Ebook - O manual para a criação de bons hábitos.pdf",
+      "localPath" : "media\/f6453917cb447d5e7e69a4db560699217cc9980c.pdf",
+      "delete" : false,
+      "identifier" : "CK2btbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:35:51",
+      "mediaSize" : "3,3 MB",
+      "mediaName" : "Ebook - Os pilares da rotina adaptativa.pdf",
+      "localPath" : "media\/66bab3295d540e2791d032b265ee3dc68bef7cdd.pdf",
+      "delete" : false,
+      "identifier" : "CK+btbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:35:54",
+      "mediaSize" : "8,3 MB",
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/b84398a4878735437093483de4380dbfb4852d25.pdf",
+      "delete" : false,
+      "identifier" : "CLKbtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:35:55",
+      "mediaSize" : "740 KB",
+      "mediaName" : "Ebook - Produtivo burro x produtivo inteligente.pdf",
+      "localPath" : "media\/2363587cde32cdc5efdcb9048376fed871e99f38.pdf",
+      "delete" : false,
+      "identifier" : "CLObtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:35:56",
+      "delete" : false,
+      "mediaName" : "Planner - Desafio 5 anos em 30 dias.pdf",
+      "localPath" : "media\/57560864761ee2cc9d7e0e12b4dccc287c51ddf7.pdf",
+      "mediaSize" : "1,7 MB",
+      "identifier" : "CLSbtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/7a4d0d4634e7349531572efe2dfa8170c2d3da3f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 09:37:31",
+      "delete" : false,
+      "identifier" : "CJOctbsGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:40:19",
+      "delete" : false,
+      "identifier" : "CLudtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estamos à disposição ☺️",
+      "type" : "text"
+    }
+  ]
+})

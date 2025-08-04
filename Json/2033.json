@@ -1,0 +1,132 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 22 99727-4155",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 16:42:39",
+      "delete" : false,
+      "identifier" : "CLe5m7gGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 16:42:50",
+      "delete" : false,
+      "identifier" : "CMK5m7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 16:44:08",
+      "delete" : false,
+      "identifier" : "CJC6m7gGIABIAZABAA==",
+      "msg" : "José Vítor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 16:44:27",
+      "delete" : false,
+      "identifier" : "CKO6m7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem? Como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 16:44:42",
+      "delete" : false,
+      "identifier" : "CLK6m7gGIABIAZABAA==",
+      "msg" : "Queria auxílio na minha encomenda do kit cavernas com as pulseiras e tal",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 16:45:01",
+      "delete" : false,
+      "identifier" : "CMW6m7gGIABIAZABAA==",
+      "msg" : "Pq ela retornou para remete",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 16:45:14",
+      "delete" : false,
+      "identifier" : "CNK6m7gGIABIAZABAA==",
+      "msg" : "Queria saber como fazer para o reenvio ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 16:47:13",
+      "delete" : false,
+      "mediaName" : "da5ceb40-e3ce-45c1-8402-e68ec2e17da3.opus",
+      "localPath" : "media\/a3553a9e253df8e144906cb112260301f02adffe.opus",
+      "mediaSize" : "47 KB",
+      "identifier" : "CMm7m7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/14 14:27:11",
+      "delete" : false,
+      "mediaName" : "15be8635-99c1-4c97-b9cc-15047a6fafeb.opus",
+      "localPath" : "media\/46ebe69fa294767d594043ae197a18d76b64e014.opus",
+      "mediaSize" : "110 KB",
+      "identifier" : "CPeotbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:54"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/14 14:38:12",
+      "delete" : false,
+      "identifier" : "CIyutbgGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/14 14:38:17",
+      "delete" : false,
+      "identifier" : "CJGutbgGIABIAZABAA==",
+      "msg" : "Te interesse sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/14 14:39:28",
+      "delete" : false,
+      "identifier" : "CNiutbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, vou criar um cupom para você e já te mando!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/14 14:41:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CMCvtbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

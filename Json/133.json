@@ -1,0 +1,55 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 32 99991-0621",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 12:56:33",
+      "delete" : false,
+      "mediaName" : "061747f8-96df-47c9-bfbe-b2ebcc13cbd1.jpg",
+      "localPath" : "media\/85e8dbdbae06e4061231b7b4c0756c2dee9b86a6.jpg",
+      "mediaSize" : "70 KB",
+      "identifier" : "CLnsicAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/59909166bec649f3b998e43d721b2a662de55048"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 08:08:59",
+      "delete" : false,
+      "mediaName" : "daee4662-20fd-4c0b-8824-93258aec04d9.jpg",
+      "localPath" : "media\/cb2e41e02e337a6b13150ed786734d3f125d721c.jpg",
+      "mediaSize" : "63 KB",
+      "identifier" : "CNPOmMAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/03d643fda4bc83de694fa6e06a4b7de6f7bca925"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 06:17:55",
+      "delete" : false,
+      "mediaName" : "520cbd84-f4ad-4811-9b10-569340b8ac64.jpg",
+      "localPath" : "media\/97700dbca9a7617a25e9fc448aaec8de9914a0b5.jpg",
+      "mediaSize" : "59 KB",
+      "identifier" : "CMu9ncAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/5281bbcab208ba4e73f352ad1b75bdc441085b01"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/25 19:46:33",
+      "mediaSize" : "122 KB",
+      "mediaName" : "Ver Minha Fatura Claro AQUI",
+      "localPath" : "media\/6d9a2947ac4bd8be69f6662786bb9381581155d4.pdf",
+      "delete" : false,
+      "identifier" : "CNGSkMQGIABIAZABAA==",
+      "type" : "document"
+    }
+  ]
+})

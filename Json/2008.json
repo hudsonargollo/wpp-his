@@ -1,0 +1,83 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 34 99245-0830",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/18 09:21:12",
+      "delete" : false,
+      "identifier" : "CMClybgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/18 09:22:04",
+      "delete" : false,
+      "identifier" : "CPSlybgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vi que você entrou em contato pelo email sobre o reembolso da sua compra, poderia descrever melhor seu motivo para solicitação?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/18 09:24:06",
+      "delete" : false,
+      "identifier" : "CO6mybgGIABIAZABAA==",
+      "msg" : "Bom dia Bruna tudo sim e vc? \nEntão após assistir o vídeo e entrar eu imaginava outra coisa com o curso, vi que é bem estruturado e organizado, mas decidi não fazê-lo. Poderia me auxiliar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/18 09:28:12",
+      "delete" : false,
+      "mediaName" : "bc272c01-d09b-46a3-a22b-f8523add405a.opus",
+      "localPath" : "media\/cecea59b79d988735e5fcabb6cfdd8e04efaad34.opus",
+      "mediaSize" : "58 KB",
+      "identifier" : "COSoybgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:28"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/18 09:56:00",
+      "delete" : false,
+      "identifier" : "COi1ybgGIABIAZABAA==",
+      "msg" : "Consegui sim, acessei todos os produtos e realmente não vou querer continuar com a compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/18 10:03:11",
+      "delete" : false,
+      "identifier" : "CJe5ybgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo, você pode me enviar seu email, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/18 10:09:14",
+      "delete" : false,
+      "identifier" : "CIK8ybgGIABIAZABAA==",
+      "msg" : "lopeshiago04@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/18 10:38:41",
+      "delete" : false,
+      "identifier" : "COnJybgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar por gentileza?",
+      "type" : "text"
+    }
+  ]
+})

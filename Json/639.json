@@ -1,0 +1,27 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 3255-5962",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/15 10:09:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJjPl8EGIABIAZABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/15 10:33:02",
+      "delete" : false,
+      "identifier" : "CJbal8EGIABIAZABAA==",
+      "msg" : "Maria Natalia Farias: \n Olá, bom dia! Meu nome é Natália, faço parte da equipe de assessoria da Meireles e Freitas, representando a UNIMED NACIONAL. Falo com: FELIPE ALMEIDA SANTOS?",
+      "type" : "text"
+    }
+  ]
+})

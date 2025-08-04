@@ -1,0 +1,452 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 88 99339-0930",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/08 14:40:59",
+      "delete" : false,
+      "identifier" : "CLO017oGIABIAJABAA==",
+      "msg" : "Olá, vim da Central Caverna e desejo solicitar o cancelamento do meu plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/08 14:41:02",
+      "delete" : false,
+      "identifier" : "CLa017oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 🔺\nEntendi que você deseja cancelar seu plano na Central Caverna. Poderia me contar o que o levou a essa decisão? Iremos sempre melhorar e, se possível, ajudar a resolver qualquer situação. 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/08 14:41:42",
+      "delete" : false,
+      "identifier" : "CN6017oGIABIAJABAA==",
+      "msg" : "Comprei o acesso por apenas R$ 29, em uma compra única, não sabia que teria que pagar R$ 299 por ano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 08:44:22",
+      "delete" : false,
+      "mediaName" : "2a07a5c3-c504-48ad-b95c-5c859c205dc2.opus",
+      "localPath" : "media\/2ed15b32281c204722eb71cf781678eef873115a.opus",
+      "mediaSize" : "53 KB",
+      "identifier" : "CJ6w27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:27"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 08:45:18",
+      "delete" : false,
+      "identifier" : "CNaw27oGIABIAZABAA==",
+      "msg" : "Ah sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 08:45:28",
+      "delete" : false,
+      "identifier" : "COCw27oGIABIAZABAA==",
+      "msg" : "Gostaria de cancelar, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 09:02:32",
+      "delete" : false,
+      "mediaName" : "bba5b4c3-423e-4638-a712-9283077a374a.opus",
+      "localPath" : "media\/9c0430a23576591730decfc032d8d9354312d8be.opus",
+      "mediaSize" : "14 KB",
+      "identifier" : "COC427oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 09:10:22",
+      "delete" : false,
+      "identifier" : "CLa827oGIABIAZABAA==",
+      "msg" : "Consegui sim, tive acesso sim, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 09:10:31",
+      "delete" : false,
+      "identifier" : "CL+827oGIABIAZABAA==",
+      "msg" : "Como faço para cancelar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 09:41:00",
+      "delete" : false,
+      "identifier" : "COTK27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode solicitar pela Ticto 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 09:56:19",
+      "delete" : false,
+      "identifier" : "CPvR27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 10:03:06",
+      "delete" : false,
+      "mediaName" : "025d3175-e695-45b4-8436-974dd542649e.opus",
+      "localPath" : "media\/4f1f58925fc492d713b964d34d2a6096aa9699d5.opus",
+      "mediaSize" : "23 KB",
+      "identifier" : "CJLV27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 10:32:59",
+      "delete" : false,
+      "mediaName" : "fc33469b-2ded-427b-bac5-a71abc0c84ff.opus",
+      "localPath" : "media\/1d01049866cb82b0ff10649fa64b7ed686a4d492.opus",
+      "mediaSize" : "63 KB",
+      "identifier" : "CJPj27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:33"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 10:34:07",
+      "delete" : false,
+      "identifier" : "CNfj27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estamos à disposição",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 10:34:33",
+      "delete" : false,
+      "identifier" : "CPHj27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "São 7 dias o período avaliativo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 10:34:44",
+      "delete" : false,
+      "identifier" : "CPzj27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "os ebooks que são vitalícios",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 10:35:28",
+      "delete" : false,
+      "identifier" : "CKjk27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 11:00:44",
+      "delete" : false,
+      "identifier" : "CJTw27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vi sua solicitação de reembolso pela Ticto, você vai querer prosseguir?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 11:07:08",
+      "delete" : false,
+      "identifier" : "CJTz27oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você poderia detalhar melhor o motivo da sua solicitação?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 11:19:48",
+      "delete" : false,
+      "mediaName" : "1d4e2e81-a156-4b1b-8dde-475168c0970b.opus",
+      "localPath" : "media\/6439bff7823e318d1f36c9e32de3818e2f8bc59b.opus",
+      "mediaSize" : "33 KB",
+      "identifier" : "CIz527oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 11:26:07",
+      "delete" : false,
+      "identifier" : "CIf827oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo, vou prosseguir com seu reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 11:27:54",
+      "delete" : false,
+      "identifier" : "CPL827oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 11:29:42",
+      "delete" : false,
+      "identifier" : "CN7927oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:01",
+      "delete" : false,
+      "identifier" : "CP2qhrsGIABIAZABAA==",
+      "msg" : "No caso, eu quero cancelar é o plano de R$ 299, e isso é somente pela plataforma de vocês",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "daniellimacontato88@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Eu não assinei esse plano, e lá na minha conta está aparecendo “Plano atual R$ 299”",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Apenas confirmando: o acesso à plataforma vai ser cancelado em breve, certo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Não tenho interesse, mas obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Fiquei preocupado por ter aparecido isso para mim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "E eu não tinha contratado mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Achei que precisaria pagar esse valor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "mediaName" : "7d469ed1-2d5b-46eb-b0f1-58878529a7ef.jpg",
+      "localPath" : "media\/9a29b6b62b0682312c24dedbacb8e9d61bccc71b.jpg",
+      "mediaSize" : "1,1 MB",
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/43335df28d83ebb4a1414d38a51fbae66111416b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "No dia 15, no caso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Ufa, que bom",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Então senti que não me ajudou muito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Sim, sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Claro!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Acredito que eu não seja exatamente o público-alvo de vocês. Senti que, para o meu perfil, as coisas eram básicas, onde a maior parte das estratégias eu já aplico.\n\nO produto é ótimo, porém foi feito para pessoas que ainda precisam mudar muito, e esse não é o meu caso, pois já aplico muitas coisas ditas na minha vida.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Por esse motivo gostaria de solicitar o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Vou sim, obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "mediaName" : "5d0308cb-cf5e-460f-a6a5-11505e59a97f.jpg",
+      "localPath" : "media\/3e16c111d7ce02d99413ae7e993bba6aeb3c9bb6.jpg",
+      "mediaSize" : "1,2 MB",
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ec66336b37440f781befc6bc5b7b776aff39a010"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Ok, obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Consegui acessar sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Gostaria de solicitar o reembolso, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 12:15:02",
+      "delete" : false,
+      "identifier" : "CP6qhrsGIABIAZABAA==",
+      "msg" : "Deu certo, obrigado!",
+      "type" : "text"
+    }
+  ]
+})

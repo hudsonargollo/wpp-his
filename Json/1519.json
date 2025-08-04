@@ -1,0 +1,225 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+33 7 65 23 02 04",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 15:27:05",
+      "delete" : false,
+      "identifier" : "CIHXprsGIABIAZABAA==",
+      "msg" : "Olá, tudo bem?\nMeu nome é Stephanie Marques, estou entrando em contato para dar seguimento à solicitação de reembolso. Em anexo, segue a foto do comprovante com os dados necessários para o processo.\n\nAguardo a confirmação do recebimento.\n\nDesde já, agradeço pela atenção.\nStephanie Marques",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 15:27:13",
+      "delete" : false,
+      "mediaName" : "2e113c95-e8b5-451b-9949-4ec332372868.jpg",
+      "localPath" : "media\/8b55ca6d87a63ffeaa7b613602c0ad2edd4c6de0.jpg",
+      "mediaSize" : "88 KB",
+      "identifier" : "CInXprsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/3b6f3d484e7a41f90431ad9b99263fe79db34e3e"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:27:15",
+      "delete" : false,
+      "identifier" : "CIvXprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:27:21",
+      "delete" : false,
+      "identifier" : "CJHXprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 15:27:37",
+      "delete" : false,
+      "identifier" : "CKHXprsGIABIAZABAA==",
+      "msg" : "Stephanie",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:27:44",
+      "delete" : false,
+      "identifier" : "CKjXprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Stephanie*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:27:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK\/XprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 15:28:02",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLrXprsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:28:10",
+      "delete" : false,
+      "identifier" : "CMLXprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:28:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMfXprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 15:28:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CODXprsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:28:42",
+      "delete" : false,
+      "identifier" : "COLXprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 15:29:12",
+      "delete" : false,
+      "identifier" : "CIDYprsGIABIAZABAA==",
+      "msg" : "Olá, tudo bem?\nMeu nome é Stephanie Marques, estou entrando em contato para dar seguimento à solicitação de reembolso. Em anexo, segue a foto do comprovante com os dados necessários para o processo.\n\nAguardo a confirmação do recebimento.\n\nDesde já, agradeço pela atenção.\nStephanie Marques",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 15:29:26",
+      "delete" : false,
+      "identifier" : "CI7YprsGIABIAZABAA==",
+      "msg" : "E-mails e compra: sm6.marques@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:31:29",
+      "delete" : false,
+      "identifier" : "CInZprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:31:49",
+      "delete" : false,
+      "identifier" : "CJ3ZprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 15:32:25",
+      "delete" : false,
+      "identifier" : "CMHZprsGIABIAZABAA==",
+      "msg" : "Olá, Bruna:) \nEu não me identifique com a plataforma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 15:56:11",
+      "delete" : false,
+      "mediaName" : "b7b47691-3fde-43b5-97c9-8fffa8c18c2f.opus",
+      "localPath" : "media\/1fd0caf480cbf0cef6269ce4b86cd3894b140399.opus",
+      "mediaSize" : "32 KB",
+      "identifier" : "CNPkprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 16:07:27",
+      "delete" : false,
+      "identifier" : "CPfpprsGIABIAZABAA==",
+      "msg" : "Sim, acessei o conteúdo e não tenho dúvidas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 16:35:03",
+      "delete" : false,
+      "identifier" : "CO\/2prsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 16:36:16",
+      "delete" : false,
+      "identifier" : "CLj3prsGIABIAZABAA==",
+      "msg" : "Recebido!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 16:36:22",
+      "delete" : false,
+      "identifier" : "CL73prsGIABIAZABAA==",
+      "msg" : "Obrigada, Bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 16:50:18",
+      "delete" : false,
+      "identifier" : "CIL+prsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo contato! 😉",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,122 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 61 99219-4048",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 11:02:21",
+      "delete" : false,
+      "identifier" : "CPWe378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nVerifiquei na ticto que você pediu reembolso do produto.\nPoderia me explicar o motivo detalhadamente para que eu possa te ajudar, estamos sempre buscando as melhores experiência para nossos usuários.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 11:30:33",
+      "delete" : false,
+      "mediaName" : "d5173e96-8912-4bcf-a005-f25103909124.opus",
+      "localPath" : "media\/59d64b59a8e14301692d24f0f3d38b9a7283b1f5.opus",
+      "mediaSize" : "119 KB",
+      "identifier" : "CJGs378GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:51"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 11:42:16",
+      "delete" : false,
+      "identifier" : "CNCx378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos com uma nova versão mais otimizada que acabará com erros, estaremos lançando ar em breve, deseja aguardar para você verificar a nova versão ou deseja fazer o cancelamento ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 11:48:45",
+      "delete" : false,
+      "mediaName" : "91a4b1b2-7908-4b8b-b7b7-3ceeab401ee8.opus",
+      "localPath" : "media\/d6db29012c366c88ad851242c034ede33ca602ee.opus",
+      "mediaSize" : "38 KB",
+      "identifier" : "CNW0378GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 11:51:42",
+      "delete" : false,
+      "identifier" : "CIa2378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, tudo bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 11:52:17",
+      "delete" : false,
+      "identifier" : "CKm2378GIABIAZABAA==",
+      "msg" : "Tem previsão pra sair ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 11:52:25",
+      "delete" : false,
+      "identifier" : "CLG2378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 11:52:31",
+      "delete" : false,
+      "identifier" : "CLe2378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 11:53:54",
+      "delete" : false,
+      "identifier" : "CIq3378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Semana que vem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 12:07:29",
+      "delete" : false,
+      "identifier" : "CLm9378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 11:25:13",
+      "delete" : false,
+      "identifier" : "CNG53MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Cavernoso, blz?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 11:25:27",
+      "delete" : false,
+      "identifier" : "CN+53MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "recebemos a sua solicitação de reembolso, poderia nos explicar melhor o motivo?",
+      "type" : "text"
+    }
+  ]
+})

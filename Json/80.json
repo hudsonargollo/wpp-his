@@ -1,0 +1,30 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "socios lista 1 _124",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 22:48:13",
+      "mediaSize" : "2 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a1c26be09de1857d9d44e94fb8d91534dfda12bb"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 12:14:47",
+      "mediaSize" : "2 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/db223ae81ca70f47ce38c7c31bcb365c19698931"
+    }
+  ]
+})

@@ -1,0 +1,26 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 54 99618-6157",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 10:43:29",
+      "delete" : false,
+      "identifier" : "CIm0n7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Sou a Bruna, do time do Iuri Meira, e estou aqui para ajudar com qualquer dúvida ou necessidade que você tenha. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre a sua experiência e o motivo pelo qual está solicitando o reembolso? Quero muito entender para poder ajudar da melhor forma possível. Obrigada! 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/11 20:25:29",
+      "delete" : false,
+      "identifier" : "CPHnprgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nRecebi sua solicitação de reembolso, e como parte de nossa política de tratativa, aguardamos um período de 24 horas para receber uma resposta antes de dar continuidade ao processo. Como não tivemos retorno desde nossa última conversa, consideramos que você optou por não seguir com o reembolso, e por isso o processo foi suspenso temporariamente.",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,281 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 27 99790-3121",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 20:26:51",
+      "delete" : false,
+      "identifier" : "CMPClrwGIABIAZABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 20:26:59",
+      "delete" : false,
+      "identifier" : "CMvClrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 20:27:06",
+      "delete" : false,
+      "identifier" : "CNLClrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 20:27:20",
+      "delete" : false,
+      "identifier" : "CODClrwGIABIAZABAA==",
+      "msg" : "Rubens",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 20:27:26",
+      "delete" : false,
+      "identifier" : "CObClrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Rubens*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 20:27:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COzClrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 20:27:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CIXDlrwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 20:28:05",
+      "delete" : false,
+      "identifier" : "CI3DlrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 20:28:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJLDlrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 20:28:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Como faço para acessar pela primeira vez o sistema?",
+      "delete" : false,
+      "identifier" : "CKnDlrwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 20:28:36",
+      "delete" : false,
+      "identifier" : "CKzDlrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para realizar seu primeiro acesso, coloque seu e-mail de compra e sua senha será seu CPF! Acesse no link abaixo: ⬇️\n\nhttps:\/\/modocaverna.com\/login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 20:28:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK3DlrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 20:31:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não! Ainda preciso de ajuda.",
+      "delete" : false,
+      "identifier" : "CNHElrwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 20:31:23",
+      "delete" : false,
+      "identifier" : "CNPElrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 20:34:12",
+      "delete" : false,
+      "identifier" : "CPzFlrwGIABIAZABAA==",
+      "msg" : "Eu não estou conseguindo acessar os conteúdos do curso pois está dizendo que vai ser liberado no dia 13\/01\/2025 sendo que essa data é hoje e não estou conseguindo fazer o login com o meu próprio email , pois está informado que esse email já está sendo usado mas a pessoa que usa esse email sou eu e foi com esse email que eu fiz a compra do curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 20:34:34",
+      "delete" : false,
+      "identifier" : "CJLGlrwGIABIAZABAA==",
+      "msg" : "Email de compra: rubensmelo762@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 09:20:52",
+      "delete" : false,
+      "mediaName" : "27c6e493-49d1-4503-b6af-545ba46c00fa.opus",
+      "localPath" : "media\/654eb99fb928317e55c854f2dbf253f898fd3328.opus",
+      "mediaSize" : "19 KB",
+      "identifier" : "CKytmbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 12:44:01",
+      "delete" : false,
+      "identifier" : "CMmMmrwGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 12:44:05",
+      "delete" : false,
+      "identifier" : "CM2MmrwGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 12:45:16",
+      "delete" : false,
+      "identifier" : "CJSNmrwGIABIAZABAA==",
+      "msg" : "Mas o meu problema é que eu não estou conseguindo acessar o conteúdo do curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 12:48:17",
+      "delete" : false,
+      "mediaName" : "01698b40-1de5-4c48-8a1f-f4fc195f6fad.jpg",
+      "localPath" : "media\/54a4fd9f59870d9d43ca3bac9569b63935362197.jpg",
+      "mediaSize" : "54 KB",
+      "identifier" : "CMmOmrwGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/7ef65a8dc109fd81008419382ae10c0bcaa7965b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 12:48:47",
+      "delete" : false,
+      "identifier" : "COeOmrwGIABIAZABAA==",
+      "msg" : "Estou me referindo a isso que está acima",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 12:52:29",
+      "delete" : false,
+      "mediaName" : "c2aecd67-68a3-429c-9e9e-aa6a4f1a1f38.opus",
+      "localPath" : "media\/6a311a3a2e53fdd978a7b8fb4f9dd3e9fed240c9.opus",
+      "mediaSize" : "20 KB",
+      "identifier" : "CMWQmrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 12:52:46",
+      "delete" : false,
+      "mediaName" : "55f86a95-df6f-4d5f-b399-d8872022cc7a.opus",
+      "localPath" : "media\/874e09ba88efa62a12d8de36646a3c11ff97dd98.opus",
+      "mediaSize" : "26 KB",
+      "identifier" : "CNaQmrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 12:54:49",
+      "delete" : false,
+      "identifier" : "CNGRmrwGIABIAZABAA==",
+      "msg" : "Tenho o acesso a esses e-books",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 12:56:42",
+      "delete" : false,
+      "identifier" : "CMKSmrwGIABIAZABAA==",
+      "msg" : "Como eu faço para ter o clube da luta ,  e a quebra da Matrix , também queria saber o preço de cada um",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 13:18:55",
+      "delete" : false,
+      "mediaName" : "36bdd2a3-c795-4836-a563-9ae626d2c661.opus",
+      "localPath" : "media\/4063c0914f84f1ac65ab6c1d79908adaf35f975c.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CPecmrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 16:39:52",
+      "delete" : false,
+      "identifier" : "CJD7mrwGIABIAZABAA==",
+      "msg" : "👍",
+      "type" : "text"
+    }
+  ]
+})

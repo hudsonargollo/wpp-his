@@ -1,0 +1,288 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 99597-7745",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 20:59:55",
+      "delete" : false,
+      "identifier" : "CIPFx7sGIABIAZABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 21:00:05",
+      "delete" : false,
+      "identifier" : "CI3Fx7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 21:00:11",
+      "delete" : false,
+      "identifier" : "CJPFx7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 21:00:14",
+      "delete" : false,
+      "mediaName" : "dd76f3ae-53cc-4104-b0d5-df5619f8a6d0.jpg",
+      "localPath" : "media\/eacf7c1a18a9cee066c8959c050c1db863a62b50.jpg",
+      "mediaSize" : "71 KB",
+      "identifier" : "CJbFx7sGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/6dd86f77e3382d138d5a9d69c875b0d00097593b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 21:00:14",
+      "delete" : false,
+      "mediaName" : "d1fef62f-43d2-4aaf-bff7-78830cc12fb5.jpg",
+      "localPath" : "media\/582d21a0ead3e642af5da7f78c16b5f30759bbd2.jpg",
+      "mediaSize" : "71 KB",
+      "identifier" : "CJbFx7sGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/e1def6c9b7676c7ee62382a4983a58f4ea2bcca2"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 21:00:15",
+      "delete" : false,
+      "mediaName" : "377adbb1-f3f3-4c22-a10b-0aebf641fe12.jpg",
+      "localPath" : "media\/afb442abff7f2991483d93a218de22d78fffc2bb.jpg",
+      "mediaSize" : "108 KB",
+      "identifier" : "CJfFx7sGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/57086e94abd74845b02b1621ab25e57a19277eb2"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 21:00:21",
+      "delete" : false,
+      "identifier" : "CJ3Fx7sGIABIAZABAA==",
+      "msg" : "Comprei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 21:00:27",
+      "delete" : false,
+      "identifier" : "CKPFx7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Comprei*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 21:00:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKnFx7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 21:00:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Envelope dos escolhidos",
+      "delete" : false,
+      "identifier" : "CLDFx7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 21:00:42",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLLFx7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 21:00:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Enviei meu comprovante de pagamento ✅",
+      "delete" : false,
+      "identifier" : "CLvFx7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 21:00:54",
+      "delete" : false,
+      "identifier" : "CL7Fx7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Muito obrigada pelo pagamento! Assim que seu envelope for postado te mandaremos o código de rastreio para que você possa acompanhar a entrega 😊*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 21:00:59",
+      "delete" : false,
+      "mediaName" : "d2a65635-1890-4f7e-90ae-bf1e315ad4bb.jpg",
+      "localPath" : "media\/e0eb9cccd5b58b4f3cde9ef81763cdc47fc662dd.jpg",
+      "mediaSize" : "71 KB",
+      "identifier" : "CMPFx7sGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/65655430cf35c09de28ee73501f6059736aabef5"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 09:47:51",
+      "delete" : false,
+      "identifier" : "CP+syrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada, assim que for enviado mando aqui o código de rastreio☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 09:50:36",
+      "delete" : false,
+      "identifier" : "CKSuyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O pedido está em nome de quem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 11:21:17",
+      "delete" : false,
+      "identifier" : "COXYyrsGIABIAZABAA==",
+      "msg" : "Pedro Pires",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 11:26:02",
+      "delete" : false,
+      "identifier" : "CILbyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/03 15:29:34",
+      "delete" : false,
+      "identifier" : "CJaWhL0GIABIAZABAA==",
+      "msg" : "Está chegando??",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 15:29:42",
+      "delete" : false,
+      "identifier" : "CJ6WhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 15:29:48",
+      "delete" : false,
+      "identifier" : "CKSWhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/03 15:29:55",
+      "delete" : false,
+      "identifier" : "CKuWhL0GIABIAZABAA==",
+      "msg" : "Pedro Pires",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 15:30:01",
+      "delete" : false,
+      "identifier" : "CLGWhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Pedro Pires*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 15:30:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLiWhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/03 15:30:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Envelope dos escolhidos",
+      "delete" : false,
+      "identifier" : "CMWWhL0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 15:30:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMaWhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/03 15:35:06",
+      "delete" : false,
+      "identifier" : "COKYhL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Pedro, tivemos um problema com a postagem dos envelopes, mas já foi resolvido e será enviado novamente essa semana!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/03 15:35:35",
+      "delete" : false,
+      "identifier" : "CP+YhL0GIABIAZABAA==",
+      "msg" : "Obrigado!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/10 12:06:38",
+      "delete" : false,
+      "identifier" : "CIasqL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: AV040082246BR",
+      "type" : "text"
+    }
+  ]
+})

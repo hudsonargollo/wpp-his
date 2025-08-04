@@ -1,0 +1,26 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 27 99521-5435",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/11 11:10:43",
+      "delete" : false,
+      "identifier" : "COv3ibwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 12:03:56",
+      "delete" : false,
+      "identifier" : "COTWlLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nRecebi sua solicitação de reembolso, e como parte de nossa política de tratativa, aguardamos um período de 24 horas para receber uma resposta antes de dar continuidade ao processo. Como não tivemos retorno desde nossa última conversa, consideramos que você optou por não seguir com o reembolso, e por isso o processo foi suspenso temporariamente.",
+      "type" : "text"
+    }
+  ]
+})

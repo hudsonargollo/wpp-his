@@ -1,0 +1,167 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98763-9410",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/01 19:45:35",
+      "delete" : false,
+      "identifier" : "CJe0lbkGIABIAZABAA==",
+      "msg" : "Boa noite tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/01 19:45:44",
+      "delete" : false,
+      "identifier" : "CKC0lbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!*\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/01 19:45:50",
+      "delete" : false,
+      "identifier" : "CKa0lbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/01 19:46:11",
+      "delete" : false,
+      "mediaName" : "4a1e9d96-0e1a-4d7a-9d0a-9ba5a42bfdad.jpg",
+      "localPath" : "media\/6d1424a7d9752e0f8f04ff2bbc2d618d1c9d748b.jpg",
+      "mediaSize" : "133 KB",
+      "identifier" : "CLu0lbkGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/05506a62bb4dcb48e5924e093553b1f8a4bd3091"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/01 19:46:11",
+      "delete" : false,
+      "mediaName" : "88deab9b-17aa-40bb-9df9-0bdc45ea6d47.jpg",
+      "localPath" : "media\/5e34a8fc280edff2e9d1caadac1864cb8d926e73.jpg",
+      "mediaSize" : "66 KB",
+      "identifier" : "CLu0lbkGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/57e79fd2b7a6a972c38631a7dd8aa859977f0e24"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/01 19:46:11",
+      "delete" : false,
+      "mediaName" : "b0120749-c692-4484-a005-f384f8384b42.jpg",
+      "localPath" : "media\/1e8e30ce148a7c2b793cbec2018364e654f25831.jpg",
+      "mediaSize" : "88 KB",
+      "identifier" : "CLu0lbkGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/6a7653f9d619a97484037364fcd16d4b6d4682da"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/01 19:46:25",
+      "delete" : false,
+      "identifier" : "CMm0lbkGIABIAZABAA==",
+      "msg" : "Alisson",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/01 19:46:31",
+      "delete" : false,
+      "identifier" : "CM+0lbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Alisson*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/01 19:46:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNa0lbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/01 19:46:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "A Quebra da Matrix Digital",
+      "delete" : false,
+      "identifier" : "COC0lbkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/01 19:46:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COG0lbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/01 19:47:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CPe0lbkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/01 19:47:13",
+      "delete" : false,
+      "identifier" : "CPm0lbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Você recebeu o login e senha no seu e-mail de compra.* \n\nProcure por \"CADEMI\" ou \"Iuri Meira\" na sua caixa de entrada, spam ou lixeira.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/01 19:47:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPq0lbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/01 19:47:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não, preciso de ajuda",
+      "delete" : false,
+      "identifier" : "CIG1lbkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/01 19:47:24",
+      "delete" : false,
+      "identifier" : "CIS1lbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 09:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 09:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    }
+  ]
+})

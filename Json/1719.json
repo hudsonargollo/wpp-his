@@ -1,0 +1,47 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 18 99817-0273",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/27 15:29:33",
+      "delete" : false,
+      "identifier" : "CJXKnboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 10:25:35",
+      "delete" : false,
+      "identifier" : "CNfeoboGIABIAZABAA==",
+      "msg" : "Olá, tudo bem?\n\nNão consegui me adaptar ao método, está um pouco \"complexo\"",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 10:27:23",
+      "delete" : false,
+      "mediaName" : "2021d234-364c-4ff8-8e2c-a1ef58d05f9e.opus",
+      "localPath" : "media\/9b54620e413b08d33275d08c26a4c0f525cdf5be.opus",
+      "mediaSize" : "40 KB",
+      "identifier" : "CMPfoboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 17:27:14",
+      "delete" : false,
+      "identifier" : "CKqko7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nRecebi sua solicitação de reembolso, e como parte de nossa política de tratativa, aguardamos um período de 24 horas para receber uma resposta antes de dar continuidade ao processo. Como não tivemos retorno desde nossa última conversa, consideramos que você optou por não seguir com o reembolso, e por isso o processo foi suspenso temporariamente.",
+      "type" : "text"
+    }
+  ]
+})

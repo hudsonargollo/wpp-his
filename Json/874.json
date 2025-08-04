@@ -1,0 +1,108 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 91018-7704",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/06 16:57:24",
+      "delete" : false,
+      "identifier" : "CKy5y78GIABIAJABAA==",
+      "msg" : "olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/06 16:57:34",
+      "delete" : false,
+      "identifier" : "CLa5y78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/06 16:57:40",
+      "delete" : false,
+      "identifier" : "CLy5y78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/06 16:58:13",
+      "delete" : false,
+      "identifier" : "CN25y78GIABIAJABAA==",
+      "msg" : "Gabriel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/06 16:58:19",
+      "delete" : false,
+      "identifier" : "COO5y78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Gabriel*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/06 16:58:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COm5y78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 08:33:13",
+      "delete" : false,
+      "identifier" : "CIHwzr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Gabriel\nSou a Brenda e faço parte do suporte, vi que você pediu reembolso do produto Modo Caverna. Poderia descrever o motivo do seu reembolso, buscando sempre trazer as melhores experiências aos nossos usúarios.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 08:35:59",
+      "delete" : false,
+      "identifier" : "CKfxzr8GIABIAJABAA==",
+      "msg" : "Bom dia!\n\narrependimento de compra mesmo... tive a curiosidade de ver por dentro, mas não atende as minhas necessidades. agradeço a atenção",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 08:46:05",
+      "delete" : false,
+      "identifier" : "CIX2zr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMDFENzJGQzdBQThEMzM4NTBAstfRgOEySAB4yPrYgOEykAEA",
+      "msg" : "Entendo Gabriel, Mas estamos com um novo sistema para ser lançado, mais atualizado. Não tem interesse em esperar e usar durante alguns dias para ver se te agrada ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 09:43:58",
+      "delete" : false,
+      "identifier" : "CJaRz78GIABIAJABAA==",
+      "msg" : "não, agradeço",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 09:45:39",
+      "delete" : false,
+      "identifier" : "CPuRz78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, tudo bem",
+      "type" : "text"
+    }
+  ]
+})

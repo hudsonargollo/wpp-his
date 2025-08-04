@@ -1,0 +1,432 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 22 99844-7082",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:17:49",
+      "delete" : false,
+      "mediaName" : "7a4f65af-e880-422e-bd7b-190d0ecf7e38.opus",
+      "localPath" : "media\/dd05a2fac181ac155747a34e4a784fdb505f4141.opus",
+      "mediaSize" : "68 KB",
+      "identifier" : "CNWWvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:33"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 16:00:53",
+      "delete" : false,
+      "identifier" : "CO2qvboGIABIAZABAA==",
+      "msg" : "Eu aceito sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 16:02:34",
+      "delete" : false,
+      "identifier" : "CNKrvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Que ótimo! ☺️ \nVou te mandar as instruções",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 16:03:13",
+      "delete" : false,
+      "identifier" : "CPmrvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*INSTRUÇÕES PARA DEPOIMENTO*\n- Gravar na horizontal (celular deitado) \n- Detalhe: Mencionar *MODO CAVERNA* invés de Central Caverna\n- Não precisa ser engessado, basta se basear nas questões abaixo:\n- há quanto tempo você utiliza o modo caverna?\n- ⁠qual era sua maior dificuldade (procrastinação, ansiedade, desorganização)?\n- ⁠o que te chamou atenção para começar o modo caverna?\n- ⁠cite as principais mudanças emocionais, pessoais e profissionais que você notou após ativar o modo caverna  (como você se sente agora em relação as dificuldades de antes?)\n- ⁠você recomendaria o modo caverna para outras pessoas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 16:03:50",
+      "delete" : false,
+      "mediaName" : "92bcc72c-f42b-4967-ae74-32955e4e2379.opus",
+      "localPath" : "media\/7409333c8acc0c849d26fe1303819a1d2122f24e.opus",
+      "mediaSize" : "59 KB",
+      "identifier" : "CJ6svboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:28"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 19:56:40",
+      "delete" : false,
+      "mediaName" : "b5e8630c-4285-4b8b-8ef7-5eec9fa8c652.mp4",
+      "localPath" : "media\/43e7bf5021f5e14234c23f44d8535649458782ff.mp4",
+      "mediaSize" : "7 MB",
+      "identifier" : "CLCZvroGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/269de53f2092dab910a935439decac599e9d4694"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 19:56:50",
+      "delete" : false,
+      "mediaName" : "e25a9f39-7c0b-4bbe-9da0-fdcd8271d7d3.mp4",
+      "localPath" : "media\/5a19cae5b6a1000365e5a153b69592a268f85dbd.mp4",
+      "mediaSize" : "2,3 MB",
+      "identifier" : "CLqZvroGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/604ce2bd09f81e65d521476cd3c10fe692fb47d1"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 19:57:23",
+      "delete" : false,
+      "mediaName" : "1158d1ff-355a-4992-b6f1-5ee6b9879509.mp4",
+      "localPath" : "media\/64c4b28807f1b58b14bdf83f85b69f1c9583481a.mp4",
+      "mediaSize" : "6,8 MB",
+      "identifier" : "CNuZvroGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/c7e7a9abf5598a7dc91c186b6de510664e0e8c8f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 19:57:40",
+      "delete" : false,
+      "mediaName" : "0ad6134c-ece2-45ca-876e-82a82901c216.mp4",
+      "localPath" : "media\/748216dd28e82366f0b16b99c3edb8317439a556.mp4",
+      "mediaSize" : "3,6 MB",
+      "identifier" : "COyZvroGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/aa110d885f009543eaf91ae3e81a35a94504c8a7"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 19:57:53",
+      "delete" : false,
+      "identifier" : "CPmZvroGIAA6IDM3MTRDNEYxQzc3NjVBOTkyMUZBODc4Njg5MUQ0Q0NDQJW6gfa4MkgBeMeqvYu5MpABAA==",
+      "msg" : "Qualquer coisa meu endereço aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 19:59:25",
+      "delete" : false,
+      "identifier" : "CNWavroGIABIAZABAA==",
+      "msg" : "Quissamã-RJ \nRua Antônio Cleto de Azevedo-214\nBairro-Centro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 08:29:50",
+      "delete" : false,
+      "mediaName" : "905d6a40-add7-4b7f-85ee-e4d1fd62b674.opus",
+      "localPath" : "media\/132838f894c4e3649de5f0227cf2a51a23597055.opus",
+      "mediaSize" : "34 KB",
+      "identifier" : "CLb6wLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 08:30:45",
+      "delete" : false,
+      "identifier" : "CO36wLoGIABIAZABAA==",
+      "msg" : "Bom dia, tudo ótimo. Tamanho GG",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 08:31:12",
+      "delete" : false,
+      "mediaName" : "53dc4e6c-b6b8-4755-ac65-2f2e46607405.opus",
+      "localPath" : "media\/272071caed5790a0998c468d172db4f3398e7382.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CIj7wLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 08:31:45",
+      "delete" : false,
+      "identifier" : "CKn7wLoGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 08:31:49",
+      "delete" : false,
+      "identifier" : "CK37wLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda o cep também, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 08:32:06",
+      "delete" : false,
+      "identifier" : "CL77wLoGIABIAZABAA==",
+      "msg" : "28736008",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 08:32:24",
+      "delete" : false,
+      "identifier" : "CND7wLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 08:47:53",
+      "delete" : false,
+      "identifier" : "CPGCwboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Acabei de receber o feedback que o vídeo acabou ficando um pouco escuro, poderia regravá-lo agora pela manhã?\nComo sugestão recomendamos gravar perto de uma janela ou fonte de luz, mas o Iuri gostou do seu depoimento 😍",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 09:27:09",
+      "delete" : false,
+      "mediaName" : "34605b54-7fec-45fb-97ad-cfce6af97828.mp4",
+      "localPath" : "media\/e6d9b4aa620d57d79083fd585e7b6afe32c37efc.mp4",
+      "mediaSize" : "501 KB",
+      "identifier" : "CKWVwboGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/79b989a4adf6f06e87dc074b0d86e0f2b83663e4"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 09:27:55",
+      "delete" : false,
+      "mediaName" : "3deec032-904b-4939-9332-afaa5e0045d2.mp4",
+      "localPath" : "media\/10dec67d1fe6ad3760779f97f07e176bacc688c0.mp4",
+      "mediaSize" : "10,3 MB",
+      "identifier" : "CNOVwboGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/502e75d31f3251166cc6b5a62780a91cd813dc6a"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 09:28:13",
+      "delete" : false,
+      "mediaName" : "8662df04-fb59-48e4-97df-ef0ebee069cb.mp4",
+      "localPath" : "media\/1f21cafeca8efa159d4a29a9a0cd98d09145e5d5.mp4",
+      "mediaSize" : "4,8 MB",
+      "identifier" : "COWVwboGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/adaa1e886da1c660c1ec26f3ce2d770f63c8aae5"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 09:29:02",
+      "delete" : false,
+      "identifier" : "CJaWwboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeitooo! Muito obrigada ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 09:29:43",
+      "delete" : false,
+      "identifier" : "CL+WwboGIABIAZABAA==",
+      "msg" : "De nada☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/18 18:11:52",
+      "delete" : false,
+      "identifier" : "CKD1jLsGIABIAJABAA==",
+      "msg" : "olá,tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/18 18:12:10",
+      "delete" : false,
+      "identifier" : "CLL1jLsGIABIAJABAA==",
+      "msg" : "como está o andamento da minha blusa?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 09:13:59",
+      "delete" : false,
+      "identifier" : "CI+ckLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 09:14:17",
+      "delete" : false,
+      "identifier" : "CKGckLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só a partir de janeiro☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 09:38:11",
+      "delete" : false,
+      "identifier" : "CLuf47wGIABIAZABAA==",
+      "msg" : "Olá, Bom dia. Como tá o andamento da minha blusa?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 09:38:19",
+      "delete" : false,
+      "identifier" : "CMOf47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 09:38:25",
+      "delete" : false,
+      "identifier" : "CMmf47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 09:38:35",
+      "delete" : false,
+      "identifier" : "CNOf47wGIABIAZABAA==",
+      "msg" : "Webberson Souza Ribeiro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 09:38:43",
+      "delete" : false,
+      "identifier" : "CNuf47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Webberson Souza Ribeiro*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 09:38:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COGf47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 09:39:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPOf47wGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 09:39:14",
+      "delete" : false,
+      "identifier" : "CPqf47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 09:39:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CP+f47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 09:39:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CI2g47wGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 09:39:35",
+      "delete" : false,
+      "identifier" : "CI+g47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 09:41:22",
+      "delete" : false,
+      "identifier" : "CPqg47wGIABIAZABAA==",
+      "msg" : "Fiz uns vídeos avaliando a plataforma do modo caverna. Como prêmio,eu iria ganhar uma blusa,e até agora eu não tive atualização de como tá o andamento dela.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 09:41:26",
+      "delete" : false,
+      "identifier" : "CP6g47wGIABIAZABAA==",
+      "msg" : "webbersonsouza70@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 09:46:48",
+      "delete" : false,
+      "identifier" : "CMCj47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 09:47:52",
+      "delete" : false,
+      "identifier" : "CICk47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Primeiro, quero agradecer por você ter dedicado seu tempo e esforço para avaliar a plataforma do Modo Caverna. A sua contribuição significa muito para nós!\n\nInfelizmente, dessa vez, o seu vídeo não foi utilizado na campanha, mas quero que saiba que valorizamos muito sua dedicação.",
+      "type" : "text"
+    }
+  ]
+})

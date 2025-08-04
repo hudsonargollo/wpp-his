@@ -1,0 +1,166 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 42 99917-6300",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 10:00:32",
+      "delete" : false,
+      "identifier" : "CPjY2rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Gabriel, você solicitou um suporte via WhatsApp.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 10:01:33",
+      "delete" : false,
+      "identifier" : "CLXZ2rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sou a Júlia, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/27 11:11:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLH62rcGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:58"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 11:25:07",
+      "delete" : false,
+      "mediaName" : "AFILIADOS-CENTRAL (1).pdf",
+      "localPath" : "media\/55c3aa2615b645bb5f7dc9f756654a0f0ba1bbfa.pdf",
+      "mediaSize" : "1,2 MB",
+      "identifier" : "CMuA27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/d9a75d003745322024aa0eb77b8b7153fbcf6d88"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 11:26:17",
+      "delete" : false,
+      "mediaName" : "7b9646d3-5628-4b48-8aaa-e2b7e3ecbcea.opus",
+      "localPath" : "media\/f1e70d4a27f303f2e0f9256de236acc2b79706a7.opus",
+      "mediaSize" : "32 KB",
+      "identifier" : "CJGB27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/27 11:30:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPCC27cGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 11:40:38",
+      "delete" : false,
+      "mediaName" : "b678576d-9832-43af-8b72-3756184d8aad.opus",
+      "localPath" : "media\/840c92765912d01cd66bc7a9859235176b600a85.opus",
+      "mediaSize" : "83 KB",
+      "identifier" : "CO6H27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:40"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 11:40:43",
+      "delete" : false,
+      "mediaName" : "81300709-cd36-4a49-b653-3132ba2ff1fe.jpg",
+      "localPath" : "media\/d2290f2deb73b18981497b494feb6ea2280bd85c.jpg",
+      "mediaSize" : "227 KB",
+      "identifier" : "CPOH27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/7c462a06b92ddd2cf1c918cce38f9e0e323fada9"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 11:41:22",
+      "delete" : false,
+      "mediaName" : "c1043d40-5d38-4db8-9c62-d5d70eeee283.jpg",
+      "localPath" : "media\/055f135362139980a743805918e1418297e23dee.jpg",
+      "mediaSize" : "37 KB",
+      "identifier" : "CJqI27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/3c9cfa36bc7c4048c16a279e0bfbe5eac35a2615"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/27 11:43:10",
+      "delete" : false,
+      "identifier" : "CIaJ27cGIABIAJABAA==",
+      "msg" : "Era isso mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/27 11:43:18",
+      "delete" : false,
+      "identifier" : "CI6J27cGIABIAJABAA==",
+      "msg" : "agora eu so fico no aguardo do notion",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 11:43:59",
+      "delete" : false,
+      "identifier" : "CLeJ27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 11:44:24",
+      "delete" : false,
+      "identifier" : "CNCJ27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada pela compreensão! Assim que eu tiver, mando para você!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 14:02:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CKfK27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 14:20:40",
+      "delete" : false,
+      "mediaName" : "9d4ebbef-16a5-4347-9f5b-9c8e5451556b.opus",
+      "localPath" : "media\/5be2735ec63ca50c4a56bad71f195b0ec597699d.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CPDS27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    }
+  ]
+})

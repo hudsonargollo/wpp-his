@@ -1,0 +1,91 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 16 99711-5564",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 17:50:57",
+      "delete" : false,
+      "identifier" : "CLmS17cGIABIAJABAA==",
+      "msg" : "pedido3654",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 17:50:59",
+      "delete" : false,
+      "identifier" : "CL2S17cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 17:51:44",
+      "mediaSize" : "468 bytes",
+      "mediaName" : "sicredi_1727383787.pdf",
+      "delete" : false,
+      "identifier" : "COiS17cGIABIAZABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/11cde85ee9805f9b88edd62c69de22bd57edb261"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 09:19:31",
+      "delete" : false,
+      "identifier" : "CNvF2rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Douglas! Obrigada pelo pagamento, estaremos realizando seu envio em breve! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 09:40:59",
+      "delete" : false,
+      "identifier" : "COOh+rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: AV025954961BR",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 10:43:00",
+      "delete" : false,
+      "identifier" : "COy++rcGIABIAZABAA==",
+      "msg" : "AV025954961BR",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 10:43:48",
+      "delete" : false,
+      "identifier" : "CJy\/+rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso, Douglas!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 10:43:54",
+      "delete" : false,
+      "identifier" : "CKK\/+rcGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 10:44:31",
+      "delete" : false,
+      "identifier" : "CMe\/+rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida pode me mandar mensagem! ☺️",
+      "type" : "text"
+    }
+  ]
+})

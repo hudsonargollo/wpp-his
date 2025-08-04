@@ -1,0 +1,155 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99117-8284",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 10:30:34",
+      "delete" : false,
+      "identifier" : "CILQ6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Vamos fazer as solicitações das placas solicitadas. Você poderia me confirmar essas informações?\n\nPlacas solicitadas: 50k\nCPF: 45086851882\nCEP: 45345000\nCidade: Jaguaquara\nEstado: Bahia \nBairro: São Jorge \nRua e Número: Rua Valdemar José Queiroz 21\n\nMe mande seu nome completo, por favor!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 10:30:58",
+      "delete" : false,
+      "identifier" : "CJrQ6rcGIABIAZABAA==",
+      "msg" : "Gabriel da Silva Almeida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 10:36:27",
+      "delete" : false,
+      "identifier" : "COPS6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada pelo envio! Poderia me confirmar se as informações estão corretas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 10:36:41",
+      "delete" : false,
+      "identifier" : "CPHS6rcGIABIAZABAA==",
+      "msg" : "Sim estão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 10:37:50",
+      "delete" : false,
+      "mediaName" : "2ec802f7-f344-455b-af5a-06d1d0e8a91a.opus",
+      "localPath" : "media\/3c04b706402ad6ff3235b66e1093d39765f09a17.opus",
+      "mediaSize" : "14 KB",
+      "identifier" : "CLbT6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 10:38:38",
+      "delete" : false,
+      "identifier" : "CObT6rcGIABIAZABAA==",
+      "msg" : "Comprovando o faturamento?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 10:38:46",
+      "delete" : false,
+      "identifier" : "CO7T6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 10:47:44",
+      "delete" : false,
+      "mediaName" : "a92f708c-771c-4bf6-a759-43d10bdf28a8.jpg",
+      "localPath" : "media\/99e84010c1379015e9f40be4458f6e77edbc191b.jpg",
+      "mediaSize" : "198 KB",
+      "identifier" : "CIjY6rcGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/0ef09daa1268be6517f9b7c72afe0dac1913206c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 11:19:55",
+      "delete" : false,
+      "identifier" : "CJPn6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada! 😉😁",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 10:55:38",
+      "delete" : false,
+      "identifier" : "COLQj7gGIABIAZABAA==",
+      "msg" : "Bom dia, tem previsão de quando chegará a placa de premiação?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 11:10:58",
+      "delete" : false,
+      "mediaName" : "32fbbe83-dfad-46f4-92ec-1033aacabafe.opus",
+      "localPath" : "media\/99ba54afc788d03fc89b3c639e602648aae71053.opus",
+      "mediaSize" : "90 KB",
+      "identifier" : "CPrXj7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:43"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 15:47:00",
+      "delete" : false,
+      "identifier" : "CKyiybkGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 15:47:14",
+      "delete" : false,
+      "identifier" : "CLqiybkGIABIAZABAA==",
+      "msg" : "Gostaria de solicitar a placa de 100k de faturamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 15:54:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COulybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 15:55:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CI2mybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

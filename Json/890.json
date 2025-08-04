@@ -1,0 +1,220 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 61 99557-7036",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/29 14:04:49",
+      "delete" : false,
+      "identifier" : "CLnQoL8GIABIAZABAA==",
+      "msg" : "Olá, boa tarde!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/29 14:05:00",
+      "delete" : false,
+      "identifier" : "CMTQoL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/29 14:05:06",
+      "delete" : false,
+      "identifier" : "CMrQoL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/29 14:05:13",
+      "delete" : false,
+      "identifier" : "CNHQoL8GIABIAZABAA==",
+      "msg" : "Victor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/29 14:05:20",
+      "delete" : false,
+      "identifier" : "CNjQoL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Victor*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/29 14:05:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN7QoL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/29 14:05:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "COjQoL8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/29 14:05:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COnQoL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/29 14:05:45",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CPHQoL8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/29 14:05:47",
+      "delete" : false,
+      "identifier" : "CPPQoL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/29 14:06:33",
+      "delete" : false,
+      "identifier" : "CKHRoL8GIABIAZABAA==",
+      "msg" : "Eu gostaria de saber se seria possível vocês liberarem a página para podermos trabalhar com nossa estrutura própria?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/29 14:06:54",
+      "delete" : false,
+      "identifier" : "CLbRoL8GIABIAZABAA==",
+      "msg" : "Colocar o meu pixel, código de UTMs",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 08:50:42",
+      "delete" : false,
+      "identifier" : "CJqDqr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 08:50:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CKSDqr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/31 08:52:15",
+      "delete" : false,
+      "identifier" : "CPeDqr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMDlFMUIwNTFDQkY3NDI0NENAp52w4N4ySAB4go7a4N4ykAEA",
+      "msg" : "Você encontrará neste link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 11:23:42",
+      "delete" : false,
+      "identifier" : "CPaQtb8GIABIAJABAA==",
+      "msg" : "Olá bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 11:24:01",
+      "delete" : false,
+      "identifier" : "CImRtb8GIABIAJABAA==",
+      "msg" : "O produto tem orderbum, upsell, downsell?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 14:38:05",
+      "delete" : false,
+      "identifier" : "CIXstb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem ?\nSou a Brenda e faço parte do suporte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 14:38:36",
+      "delete" : false,
+      "identifier" : "CKTstb8GIABIAJABAA==",
+      "msg" : "Olá!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 14:39:12",
+      "delete" : false,
+      "identifier" : "CMjstb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Irei contactar a parte comercial e te dou um retorno.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 14:39:26",
+      "delete" : false,
+      "identifier" : "CNbstb8GIABIAJABAA==",
+      "msg" : "ok, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 14:50:44",
+      "delete" : false,
+      "identifier" : "CPzxtb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "No momento, as estratégias como orderbum, upsell e downsell não estão disponíveis para os afiliados. Porém, já temos essa ideia em mente e, futuramente, pretendemos implementá-las para otimizar ainda mais os resultados.\n\nObrigado pelo seu interesse e, qualquer dúvida, estou à disposição! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 14:51:08",
+      "delete" : false,
+      "identifier" : "CJTytb8GIABIAJABAA==",
+      "msg" : "ok obrigado",
+      "type" : "text"
+    }
+  ]
+})

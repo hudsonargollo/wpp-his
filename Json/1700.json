@@ -1,0 +1,47 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 16 99190-5989",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 11:41:22",
+      "delete" : false,
+      "identifier" : "CJqlp7oGIABIAZABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 11:41:44",
+      "delete" : false,
+      "identifier" : "CLClp7oGIABIAZABAA==",
+      "msg" : "Não estava presente na live, vi que a afiliação foi descontinuada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 11:42:09",
+      "delete" : false,
+      "identifier" : "CMmlp7oGIABIAZABAA==",
+      "msg" : "Mudou a plataforma, ou não será possível mais trabalhar com esse infoproduto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 11:57:58",
+      "delete" : false,
+      "mediaName" : "8918ed23-1987-4aff-b5eb-b3ee572a1fa6.opus",
+      "localPath" : "media\/440029facfc925086651a181b918c82ae112fa77.opus",
+      "mediaSize" : "50 KB",
+      "identifier" : "CP6sp7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    }
+  ]
+})

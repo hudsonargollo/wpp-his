@@ -1,0 +1,26 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "#102 1 MILHAO EM 12 MESES",
+    "member" : [
+      "+557382446098"
+    ]
+  },
+  "body" : [
+    {
+      "time" : "2022\/11\/01 11:59:34",
+      "avatar" : "",
+      "msg" : "+557382446098 created group \"\"",
+      "identifier" : "CN7ohJsGIAA=",
+      "position" : "conter",
+      "delete" : false
+    },
+    {
+      "time" : "2022\/11\/01 11:59:34",
+      "avatar" : "",
+      "msg" : "CN7ohJsGIAA= was added to this group",
+      "identifier" : "CN7ohJsGIAA=",
+      "position" : "conter",
+      "delete" : false
+    }
+  ]
+})

@@ -1,0 +1,759 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "socio lista 1 _228",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 10:37:41",
+      "delete" : false,
+      "identifier" : "CK3e6LwGIABIAJABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 10:37:50",
+      "delete" : false,
+      "identifier" : "CLbe6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 10:37:56",
+      "delete" : false,
+      "identifier" : "CLze6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 10:38:05",
+      "delete" : false,
+      "identifier" : "CMXe6LwGIABIAJABAA==",
+      "msg" : "Saulo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 10:38:12",
+      "delete" : false,
+      "identifier" : "CMze6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Saulo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 10:38:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNLe6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 10:38:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CNre6LwGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 10:38:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNve6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 10:38:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "COPe6LwGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 10:38:37",
+      "delete" : false,
+      "identifier" : "COXe6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 10:38:47",
+      "delete" : false,
+      "identifier" : "CO\/e6LwGIABIAJABAA==",
+      "msg" : "saulomroch@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:43:23",
+      "delete" : false,
+      "identifier" : "CJP96LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:43:33",
+      "delete" : false,
+      "identifier" : "CJ396LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual curso você tinha acesso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:47:17",
+      "delete" : false,
+      "identifier" : "CP3+6LwGIABIAJABAA==",
+      "msg" : "A quebra da matrix e o clube da luta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:53:33",
+      "delete" : false,
+      "mediaName" : "0f33ff80-0455-4503-a807-8fe4c0e9cf75.opus",
+      "localPath" : "media\/601eee4936b47bc82cbdb1778682cf61ac021bd5.opus",
+      "mediaSize" : "33 KB",
+      "identifier" : "CPWB6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:54:23",
+      "delete" : false,
+      "identifier" : "CKeC6bwGIABIAJABAA==",
+      "msg" : "Olha, eu acho que não tenho mais o comprovante",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:54:42",
+      "delete" : false,
+      "identifier" : "CLqC6bwGIABIAJABAA==",
+      "msg" : "Consegue me mandar o acesso da Quebra da Matrix?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 13:23:11",
+      "delete" : false,
+      "identifier" : "CPer6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Geralmente chega no e-mail também",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 13:23:33",
+      "delete" : false,
+      "identifier" : "CI2s6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifica por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 13:31:49",
+      "delete" : false,
+      "identifier" : "CP2v6bwGIABIAJABAA==",
+      "msg" : "Eu não adquiri ele agora, já tem um tempo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 13:32:26",
+      "delete" : false,
+      "mediaName" : "77f9fe11-849b-4c96-8e1f-8115550b97dc.jpg",
+      "localPath" : "media\/27cd8f02f8b4dd42b98878143a54e5fde356e24a.jpg",
+      "mediaSize" : "74 KB",
+      "identifier" : "CKKw6bwGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/bf07e61acfd6c1babf1fafd2d1f10088e777fdaf"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 13:56:54",
+      "delete" : false,
+      "identifier" : "CN676bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você lembra em que ano comprou?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 13:59:28",
+      "delete" : false,
+      "identifier" : "CPi86bwGIABIAZABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 13:59:56",
+      "delete" : false,
+      "identifier" : "CJS96bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Esse foi seu e-mail de compra?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 14:00:26",
+      "delete" : false,
+      "identifier" : "CLK96bwGIABIAZABAA==",
+      "msg" : "Isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 14:00:32",
+      "delete" : false,
+      "identifier" : "CLi96bwGIABIAZABAA==",
+      "msg" : "Ou esse aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 14:00:47",
+      "delete" : false,
+      "identifier" : "CMe96bwGIABIAZABAA==",
+      "msg" : "saulommrocha@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 14:17:15",
+      "delete" : false,
+      "mediaName" : "c00076b3-bb6a-4438-952e-f8cba07d8dbd.opus",
+      "localPath" : "media\/0a5b3a4cf1352430c5850d3f7a3ec158a572a532.opus",
+      "mediaSize" : "23 KB",
+      "identifier" : "CKPF6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 14:18:23",
+      "delete" : false,
+      "identifier" : "COfF6bwGIABIAJABAA==",
+      "msg" : "Não encontrei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 14:18:40",
+      "delete" : false,
+      "identifier" : "CPjF6bwGIABIAJABAA==",
+      "msg" : "Geralmente eu limpo a minha caixa de entrada, então devo ter excluido",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 14:45:59",
+      "delete" : false,
+      "mediaName" : "61f8f057-158a-484e-86b9-2ba2dbeda273.opus",
+      "localPath" : "media\/9f5ed6499c0912c95ca270b691e42668cbe86e35.opus",
+      "mediaSize" : "13 KB",
+      "identifier" : "CN\/S6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 15:21:20",
+      "delete" : false,
+      "identifier" : "CKjj6bwGIABIAJABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 15:45:47",
+      "delete" : false,
+      "mediaName" : "472a7a61-348b-4d8c-83d5-b0f3cd12311d.opus",
+      "localPath" : "media\/b52a95a4e6a4d636ac62f40efa103b3d782f20cd.opus",
+      "mediaSize" : "11 KB",
+      "identifier" : "COPu6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 15:46:22",
+      "delete" : false,
+      "mediaName" : "24d4fbaa-755f-4322-8622-1308b309842b.opus",
+      "localPath" : "media\/be8cdd353e5bfaaf7621072057e2572825962e57.opus",
+      "mediaSize" : "25 KB",
+      "identifier" : "CIbv6bwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 15:47:16",
+      "delete" : false,
+      "mediaName" : "9efb44f0-f214-43be-9e45-7ceb982627ab.opus",
+      "localPath" : "media\/dceb1f128497e1bd52ca29c200a1d2a86c6f5bad.opus",
+      "mediaSize" : "25 KB",
+      "identifier" : "CLzv6bwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 15:55:39",
+      "delete" : false,
+      "mediaName" : "778b98e8-5304-48f9-8152-8279a6100fad.opus",
+      "localPath" : "media\/3b012dd2d695d9c9f8f116fb46d2fdaa04e93441.opus",
+      "mediaSize" : "30 KB",
+      "identifier" : "CLPz6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 16:00:06",
+      "delete" : false,
+      "identifier" : "CL716bwGIABIAJABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 16:35:21",
+      "delete" : false,
+      "mediaName" : "dd2edc6b-d0a5-4dea-a9c1-eeb4f3beca1b.opus",
+      "localPath" : "media\/1e736e26c460af49f41263df5c88d4951c153c58.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "CIGG6rwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 11:26:45",
+      "delete" : false,
+      "identifier" : "CK2Qwb4GIABIAZABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 12:52:46",
+      "delete" : false,
+      "identifier" : "CNa4wb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia!\nComo posso ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 12:54:41",
+      "delete" : false,
+      "identifier" : "CMm5wb4GIABIAJABAA==",
+      "msg" : "Qual o link de acesso a Quebra da Matrix?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 12:59:08",
+      "delete" : false,
+      "mediaName" : "5c8b7e2e-5fb1-4e82-973a-4b066a1780b7.opus",
+      "localPath" : "media\/2c4b7ff7594d70d34b0e529f156ace2b64894e02.opus",
+      "mediaSize" : "82 KB",
+      "identifier" : "CNS7wb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:39"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:03:35",
+      "delete" : false,
+      "identifier" : "CN+9wb4GIABIAZABAA==",
+      "msg" : "Eu fiz essa compra em 2022",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:03:42",
+      "delete" : false,
+      "identifier" : "COa9wb4GIABIAZABAA==",
+      "msg" : "Esses documentos eu não tenho mais como ter",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:03:48",
+      "delete" : false,
+      "identifier" : "COy9wb4GIABIAZABAA==",
+      "msg" : "Alguma outra forma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 13:06:58",
+      "delete" : false,
+      "mediaName" : "6c5f334a-618d-40ab-a8b3-bdacb49af455.opus",
+      "localPath" : "media\/7d29865e26756493c8b6cd8eff1e445921d17b5e.opus",
+      "mediaSize" : "67 KB",
+      "identifier" : "CKq\/wb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:32"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:09:53",
+      "delete" : false,
+      "identifier" : "CNnAwb4GIABIAZABAA==",
+      "msg" : "Eu realmente não tenho",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:10:16",
+      "delete" : false,
+      "identifier" : "CPDAwb4GIABIAZABAA==",
+      "msg" : "Já verifiquei, como limpo semanalmente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:12:02",
+      "delete" : false,
+      "mediaName" : "b2df9324-3a3c-406a-90c1-9fd5cbe0cf96.jpg",
+      "localPath" : "media\/5b31a656102c808d8f2a8c0cfb39b033f4c2f401.jpg",
+      "mediaSize" : "48 KB",
+      "identifier" : "CNrBwb4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/8d773deffffa0b66974db89cb91c1d55cae8ef80"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:12:23",
+      "delete" : false,
+      "identifier" : "CO\/Bwb4GIABIAZABAA==",
+      "msg" : "Eu consigo ter o comprovante, que comprei via cartão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:12:28",
+      "delete" : false,
+      "identifier" : "CPTBwb4GIABIAZABAA==",
+      "msg" : "Ai encontrei aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:13:42",
+      "delete" : false,
+      "mediaName" : "06935f3e-4824-4b04-b9e5-607ce35e304b.jpg",
+      "localPath" : "media\/3098ee81531bc8104ab4fff0ea592d274cacffe2.jpg",
+      "mediaSize" : "32 KB",
+      "identifier" : "CL7Cwb4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/8bb3e240028ec1669485905f5d3f6cee0d7ba16d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 13:22:23",
+      "delete" : false,
+      "identifier" : "CMfGwb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!!\nMe envia um email do google para que eu possa liberar seu acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:24:14",
+      "delete" : false,
+      "identifier" : "CLbHwb4GIABIAJABAA==",
+      "msg" : "saulommrocha@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 13:29:32",
+      "delete" : false,
+      "identifier" : "CPTJwb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifica se chegou a notificação de acesso no seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:31:33",
+      "delete" : false,
+      "identifier" : "CO3Kwb4GIABIAJABAA==",
+      "msg" : "Maravilha, chegou sim!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:31:48",
+      "delete" : false,
+      "identifier" : "CPzKwb4GIABIAJABAA==",
+      "msg" : "Área de membros não tem mais, né?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 13:32:45",
+      "delete" : false,
+      "mediaName" : "29514b37-638c-40d5-807d-8f3783593e57.opus",
+      "localPath" : "media\/2b17875fe682c3ed3536de7028f6bd7a58aa9ac9.opus",
+      "mediaSize" : "91 KB",
+      "identifier" : "CLXLwb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:44"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:35:27",
+      "delete" : false,
+      "identifier" : "CNfMwb4GIABIAZABAA==",
+      "msg" : "Maravilha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 13:35:54",
+      "delete" : false,
+      "identifier" : "CPLMwb4GIABIAZABAA==",
+      "msg" : "Pra quem foi aluno dos cursos anteriores, tem algum desconto no modo caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 13:50:25",
+      "delete" : false,
+      "mediaName" : "a2fc513c-33e3-4057-a772-3e94d4278d65.opus",
+      "localPath" : "media\/097f6bfabfe3c54f39605d8cb4809623636eb002.opus",
+      "mediaSize" : "50 KB",
+      "identifier" : "CNnTwb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 14:01:33",
+      "delete" : false,
+      "identifier" : "CPXYwb4GIABIAZABAA==",
+      "msg" : "Quais são os benefícios, consegue me passar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 14:03:36",
+      "delete" : false,
+      "mediaName" : "48ecdb44-fe2d-47fa-b55c-b724072eb0db.opus",
+      "localPath" : "media\/75cb259b4f8d8276e13841fdccfc008a8ab63898.opus",
+      "mediaSize" : "142 KB",
+      "identifier" : "CPDZwb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 14:03:48",
+      "delete" : false,
+      "mediaName" : "fd9e0574-ff59-4afa-ab72-139ba7ed2668.mp4",
+      "localPath" : "media\/b55cf4482d61c876805ff9bb0f6da2db8f28dc71.mp4",
+      "mediaSize" : "21 MB",
+      "identifier" : "CPzZwb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/a7313910522c5cc22526bd2f6ed769d6d276fbbc"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 14:04:08",
+      "delete" : false,
+      "mediaName" : "3d1a7420-6108-4aa3-9eb7-4270b80600d8.jpg",
+      "localPath" : "media\/cf85b197eec687aedd56e88141fed6fc13a28387.jpg",
+      "mediaSize" : "181 KB",
+      "identifier" : "CJDawb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/4dcd175539b7d274958379237bd064ee4395c24d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 14:04:09",
+      "delete" : false,
+      "mediaName" : "ca0c0bbf-5ea3-4d22-9611-8ed3a65067a6.jpg",
+      "localPath" : "media\/5a481f1eec93931a30da67ad53927533ef93f147.jpg",
+      "mediaSize" : "356 KB",
+      "identifier" : "CJHawb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/72fca7ac509c10f8411f80eee47e4ac9204734c9"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 14:04:09",
+      "delete" : false,
+      "mediaName" : "398edfbe-30d6-4198-a527-703f759fb12e.jpg",
+      "localPath" : "media\/4c615e1377cc89cb3ddc3df0ae1aaac02784aeec.jpg",
+      "mediaSize" : "210 KB",
+      "identifier" : "CJHawb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/ca7e33ed3612945d29dc48c585f1147c3ac9627c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 14:05:04",
+      "delete" : false,
+      "mediaName" : "f889fba3-52e7-4cdb-b3a3-34ce986881d8.opus",
+      "localPath" : "media\/8ca9fb58c85084c5f8838971888aeca02963b8ce.opus",
+      "mediaSize" : "105 KB",
+      "identifier" : "CMjawb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:51"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 14:08:03",
+      "delete" : false,
+      "identifier" : "CPvbwb4GIABIAZABAA==",
+      "msg" : "Ta bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 14:47:46",
+      "delete" : false,
+      "mediaName" : "291fc8a9-a38d-42ef-ae20-d1ff8498d92a.opus",
+      "localPath" : "media\/a9c0b85ff4de046e50ae34f7801a3820e8034e0f.opus",
+      "mediaSize" : "42 KB",
+      "identifier" : "CMruwb4GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 14:54:38",
+      "delete" : false,
+      "mediaName" : "f0d0afcf-88cb-4552-992a-46ed97f6b3d4.opus",
+      "localPath" : "media\/054b58a5f163947d27dd42c05180b625cab5ba9b.opus",
+      "mediaSize" : "128 KB",
+      "identifier" : "CObxwb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 15:06:17",
+      "delete" : false,
+      "identifier" : "CKH3wb4GIABIAZABAA==",
+      "msg" : "Sim sim, entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 15:06:19",
+      "delete" : false,
+      "identifier" : "CKP3wb4GIABIAZABAA==",
+      "msg" : "Maravilha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 15:51:39",
+      "delete" : false,
+      "mediaName" : "858aec01-0e53-4518-abed-62f8d45795ae.opus",
+      "localPath" : "media\/0ab6b87e02d9886fbbe0214a31184691cda91e96.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CMOMwr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 15:59:36",
+      "delete" : false,
+      "identifier" : "CKCQwr4GIABIAZABAA==",
+      "msg" : "Ta bem",
+      "type" : "text"
+    }
+  ]
+})

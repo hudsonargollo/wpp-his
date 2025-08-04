@@ -1,0 +1,219 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+351 968 109 695",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 15:08:26",
+      "delete" : false,
+      "identifier" : "CKKcgb8GIABIAJABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna. Não estou conseguindo acessar minha conta.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 15:08:40",
+      "delete" : false,
+      "identifier" : "CLCcgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 15:08:46",
+      "delete" : false,
+      "identifier" : "CLacgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 15:08:50",
+      "delete" : false,
+      "identifier" : "CLqcgb8GIABIAJABAA==",
+      "msg" : "Marcos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 15:08:56",
+      "delete" : false,
+      "identifier" : "CMCcgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Marcos*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 15:09:02",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMacgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 15:09:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNecgb8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 15:09:26",
+      "delete" : false,
+      "identifier" : "CN6cgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 15:09:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COOcgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 15:09:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CPCcgb8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 15:09:47",
+      "delete" : false,
+      "identifier" : "CPOcgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 15:10:29",
+      "delete" : false,
+      "identifier" : "CJ2dgb8GIABIAJABAA==",
+      "msg" : "Não consigo acessar as aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 15:19:20",
+      "delete" : false,
+      "identifier" : "CLChgb8GIABIAJABAA==",
+      "msg" : "Fiz a compra mas não consegui receber acesso de nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 15:26:08",
+      "delete" : false,
+      "identifier" : "CMikgb8GIABIAJABAA==",
+      "msg" : "Agora consegui acessar a minha conta mas quando chego na parte do WhatsApp simplesmente não avança porque meu número é estrangeiro...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 15:36:25",
+      "delete" : false,
+      "identifier" : "CLGpgb8GIABIAJABAA==",
+      "msg" : "Acessei a plataforma mas não tem o conteúdo que eu procuro. Quero ser reembolsado da compra.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/24 08:55:04",
+      "delete" : false,
+      "identifier" : "CKCQhb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Marcos! Tudo bem?\nMe chamo Rafaella, vou prosseguir com seu atendimento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/24 08:55:34",
+      "delete" : false,
+      "identifier" : "CL6Qhb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pode colocar um número fictício que altero pra você no sistema ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/24 13:02:44",
+      "delete" : false,
+      "identifier" : "CKyEhr8GIABIAZABAA==",
+      "msg" : "Bom dia, Rafaela! Vou querer o reembolso porque acho que o produto não é para mim.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/24 13:05:46",
+      "delete" : false,
+      "identifier" : "COKFhr8GIABIAJABAA==",
+      "msg" : "Como podemos proceder?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/24 15:42:00",
+      "delete" : false,
+      "identifier" : "CIDPhr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Marcos!\nMe envia seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/24 15:42:24",
+      "delete" : false,
+      "identifier" : "CJjPhr8GIABIAZABAA==",
+      "msg" : "eujuninhofrancisco@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/25 13:54:43",
+      "delete" : false,
+      "identifier" : "CNu\/i78GIABIAJABAA==",
+      "msg" : "Boa tarde, como ficou a questão do reembolso? estou no aguardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/27 13:14:46",
+      "delete" : false,
+      "identifier" : "CP7ylb8GIABIAZABAA==",
+      "msg" : "Boa tarde, se vocês não derem uma resposta e fazer o reembolso vou ter que abrir uma reclamação.",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,47 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 95942-1654",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 11:42:55",
+      "delete" : false,
+      "identifier" : "CPe8l7oGIABIAZABAA==",
+      "msg" : "Bom dia \nOntem entrei no grupo e a partir de que dia já pode usar o central caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 11:47:56",
+      "delete" : false,
+      "mediaName" : "73e75f2e-bbfd-4d4b-b4a9-09386db2ac4c.opus",
+      "localPath" : "media\/cdabfe4dbea39f1b5ecaf42430d8b5237d6a4861.opus",
+      "mediaSize" : "52 KB",
+      "identifier" : "CKS\/l7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:25"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 11:48:31",
+      "delete" : false,
+      "identifier" : "CMe\/l7oGIABIAZABAA==",
+      "msg" : "Obrigado 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 11:49:11",
+      "delete" : false,
+      "identifier" : "CO+\/l7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estamos à disposição!☺️",
+      "type" : "text"
+    }
+  ]
+})

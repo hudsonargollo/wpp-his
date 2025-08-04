@@ -1,0 +1,181 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 98509-8031",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 16:18:12",
+      "delete" : false,
+      "identifier" : "CPyy4L8GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 16:18:26",
+      "delete" : false,
+      "identifier" : "CIqz4L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 16:18:32",
+      "delete" : false,
+      "identifier" : "CJCz4L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 16:18:37",
+      "delete" : false,
+      "identifier" : "CJWz4L8GIABIAZABAA==",
+      "msg" : "Kelven",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 16:18:44",
+      "delete" : false,
+      "identifier" : "CJyz4L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Kelven*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 16:18:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKKz4L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 16:19:30",
+      "delete" : false,
+      "identifier" : "CMqz4L8GIABIAZABAA==",
+      "msg" : "Nenhum",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 16:19:35",
+      "delete" : false,
+      "identifier" : "CM+z4L8GIABIAZABAA==",
+      "msg" : "Quero falar com atendente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 16:19:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CN2z4L8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 16:24:48",
+      "delete" : false,
+      "identifier" : "CIi24L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem ?\nSou a Brenda, responsável pelo suporte, como posso ajudar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 16:25:08",
+      "delete" : false,
+      "identifier" : "CJy24L8GIABIAZABAA==",
+      "msg" : "Queria cancelar o modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 16:35:37",
+      "delete" : false,
+      "identifier" : "CJG74L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual é o seu e-mail ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 16:37:17",
+      "delete" : false,
+      "identifier" : "CPW74L8GIABIAZABAA==",
+      "msg" : "kelvenc217@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 16:51:39",
+      "delete" : false,
+      "identifier" : "CNPC4L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia me explicar mais detalhadamente o motivo do seu cancelamento ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 16:54:19",
+      "delete" : false,
+      "identifier" : "CPPD4L8GIABIAZABAA==",
+      "msg" : "Motivos financeiros mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 07:28:23",
+      "delete" : false,
+      "identifier" : "CM\/d478GIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 07:28:29",
+      "delete" : false,
+      "identifier" : "CNXd478GIABIAZABAA==",
+      "msg" : "Quero cancelar o meu modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 07:28:31",
+      "delete" : false,
+      "identifier" : "CNfd478GIABIAZABAA==",
+      "msg" : "Por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 14:52:17",
+      "delete" : false,
+      "identifier" : "CNmt5b8GIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    }
+  ]
+})

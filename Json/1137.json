@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 99778-0927",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 18:10:10",
+      "delete" : false,
+      "identifier" : "CLqctL0GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 18:10:18",
+      "delete" : false,
+      "identifier" : "CMKctL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 18:10:24",
+      "delete" : false,
+      "identifier" : "CMictL0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 18:10:35",
+      "delete" : false,
+      "identifier" : "CNOctL0GIABIAZABAA==",
+      "msg" : "Quero reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 18:10:48",
+      "delete" : false,
+      "identifier" : "COCctL0GIABIAZABAA==",
+      "msg" : "Danieln.ramos@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 11:34:53",
+      "delete" : false,
+      "identifier" : "CJWGuL0GIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    }
+  ]
+})

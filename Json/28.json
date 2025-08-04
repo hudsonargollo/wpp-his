@@ -1,0 +1,92 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 71 99622-3738",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 06:44:41",
+      "delete" : false,
+      "identifier" : "CJG8t8QGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Desafio Caverna e quero resgatar meu presente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 06:44:56",
+      "delete" : false,
+      "identifier" : "CKC8t8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 06:44:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKG8t8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 06:45:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CMO8t8QGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 06:45:38",
+      "delete" : false,
+      "identifier" : "CMq8t8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 06:45:43",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM+8t8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 08:28:49",
+      "delete" : false,
+      "identifier" : "CPnst8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "opa bom dia tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 08:29:06",
+      "delete" : false,
+      "identifier" : "CIrtt8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você ganhou 7 dias de testes grátis a todas as ferramentas  da central caverna ,para reivindicar o seu presente basta fazer login no nosso sistema através de um computador  e logo na tela inicial na parte superior você vai clicar em \"ativar acesso \"",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 08:42:52",
+      "delete" : false,
+      "identifier" : "CMTzt8QGIABIAZABAA==",
+      "msg" : "Certo, obrigado",
+      "type" : "text"
+    }
+  ]
+})

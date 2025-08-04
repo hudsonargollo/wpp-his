@@ -1,0 +1,116 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 43 99925-5075",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:05:38",
+      "delete" : false,
+      "identifier" : "CJqosMIGIABIAJABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:05:48",
+      "delete" : false,
+      "identifier" : "CKSosMIGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:06:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "COaosMIGIABIAYoBBAgAEACQAQA=",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:07:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CPuosMIGIABIAYoBBAgAEACQAQA=",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:07:33",
+      "delete" : false,
+      "identifier" : "CI2psMIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Caio Giovani Malavazi Dariva \ncgmalavazidariva@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:07:57",
+      "delete" : false,
+      "identifier" : "CKWpsMIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Nao",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:08:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CLypsMIGIABIAYoBBAgAEACQAQA=",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:11:49",
+      "delete" : false,
+      "identifier" : "CI2rsMIGIABIAJABAA==",
+      "msg" : "Eu cancelei a renovação do central caverna e mesmo assim foi cobrado, quero o estorno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:11:53",
+      "delete" : false,
+      "mediaName" : "d6e7be69-b30c-44f4-836a-1c41b46feb7c.jpg",
+      "localPath" : "media\/4bd8a4ab146db0c95919ec77ead972af6ac7175e.jpg",
+      "mediaSize" : "37 KB",
+      "identifier" : "CJGrsMIGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/13e1ee5751e1d2bda7f74565b06ab2eedff73c8f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:12:38",
+      "delete" : false,
+      "mediaName" : "a54ca1c7-2421-40f6-87c2-1009839d945a.jpg",
+      "localPath" : "media\/6ef1e889f3ce18650d9b9e5e2c5701209ce0308d.jpg",
+      "mediaSize" : "46 KB",
+      "identifier" : "CL6rsMIGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ccb5d3e2c1dab98d42403a1f5b67607fe348a97d"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:15:28",
+      "delete" : false,
+      "identifier" : "COissMIGIABIAJABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    }
+  ]
+})

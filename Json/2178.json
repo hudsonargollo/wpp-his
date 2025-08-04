@@ -1,0 +1,322 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99878-0612",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:36:42",
+      "delete" : false,
+      "identifier" : "COLBxbcGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:36:46",
+      "delete" : false,
+      "identifier" : "CObBxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:36:47",
+      "delete" : false,
+      "identifier" : "COfBxbcGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:36:48",
+      "delete" : false,
+      "identifier" : "COjBxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:36:55",
+      "delete" : false,
+      "identifier" : "CO\/BxbcGIABIAZABAA==",
+      "msg" : "Natanael Alcântara",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:37:01",
+      "delete" : false,
+      "identifier" : "CPXBxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Natanael Alcântara.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:37:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPjBxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:37:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "CIHCxbcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:37:16",
+      "delete" : false,
+      "identifier" : "CITCxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, Central Caverna. Agora selecione uma opção que corresponda a sua dúvida\/problema.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:37:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIXCxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:37:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente! 🔺",
+      "delete" : false,
+      "identifier" : "CJHCxbcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:39:20",
+      "delete" : false,
+      "identifier" : "CIDDxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:40:29",
+      "delete" : false,
+      "identifier" : "CMXDxbcGIABIAZABAA==",
+      "msg" : "Olá Bruna bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:40:54",
+      "delete" : false,
+      "identifier" : "CN7DxbcGIABIAZABAA==",
+      "msg" : "Eu comprei os ebook 5 anos em 1 algo assim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:41:12",
+      "delete" : false,
+      "identifier" : "CPDDxbcGIABIAZABAA==",
+      "msg" : "E tive o acesso da central liberada porém agr não tenho mais",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:41:14",
+      "delete" : false,
+      "identifier" : "CPLDxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:41:16",
+      "delete" : false,
+      "identifier" : "CPTDxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:41:39",
+      "delete" : false,
+      "identifier" : "CIvExbcGIABIAZABAA==",
+      "msg" : "Natanael",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:41:46",
+      "delete" : false,
+      "identifier" : "CJLExbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Natanael.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:41:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJXExbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:42:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "CKDExbcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:42:02",
+      "delete" : false,
+      "identifier" : "CKLExbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, Central Caverna. Agora selecione uma opção que corresponda a sua dúvida\/problema.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:42:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKPExbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:42:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente! 🔺",
+      "delete" : false,
+      "identifier" : "CKfExbcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:47:30",
+      "delete" : false,
+      "identifier" : "COrGxbcGIABIAZABAA==",
+      "msg" : "??",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:50:48",
+      "delete" : false,
+      "identifier" : "CLDIxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:51:19",
+      "delete" : false,
+      "identifier" : "CM\/IxbcGIABIAZABAA==",
+      "msg" : "Bruna dessa vez não vai cair o chat não né ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:51:39",
+      "delete" : false,
+      "identifier" : "COPIxbcGIABIAZABAA==",
+      "msg" : "Eu realizei a compra dos ebooks 5 anos em 30 dias",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:51:50",
+      "delete" : false,
+      "identifier" : "CO7IxbcGIABIAZABAA==",
+      "msg" : "Tive a central caverna liberada e agora travada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:52:46",
+      "delete" : false,
+      "identifier" : "CKbJxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O Desafio 5 anos em 30 dias libera seu uso a Central Caverna de forma gratuita durante o período de 7 dias",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:53:36",
+      "delete" : false,
+      "identifier" : "CNjJxbcGIABIAZABAA==",
+      "msg" : "🤦🏾",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:53:45",
+      "delete" : false,
+      "identifier" : "COHJxbcGIABIAZABAA==",
+      "msg" : "E como faz para fazer o upgrade",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:54:40",
+      "delete" : false,
+      "identifier" : "CJjKxbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou passar seu contato para o nosso representante comercial que ele irá te explicar melhor e até consegue um desconto para você, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:54:52",
+      "delete" : false,
+      "identifier" : "CKTKxbcGIABIAZABAA==",
+      "msg" : "Ok obrigado",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,219 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 62 98544-5395",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 00:21:56",
+      "delete" : false,
+      "identifier" : "CNzyuboGIABIAZABAA==",
+      "msg" : "olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 09:20:41",
+      "delete" : false,
+      "identifier" : "CKHvu7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? \nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:49:44",
+      "delete" : false,
+      "identifier" : "CKDRvLoGIABIAZABAA==",
+      "msg" : "comprei um ebook ontem, quero cancelar essa compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:49:48",
+      "delete" : false,
+      "identifier" : "CKTRvLoGIABIAZABAA==",
+      "msg" : "como faço ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:49:52",
+      "delete" : false,
+      "identifier" : "CKjRvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:49:58",
+      "delete" : false,
+      "identifier" : "CK7RvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:50:06",
+      "delete" : false,
+      "identifier" : "CLbRvLoGIABIAZABAA==",
+      "msg" : "Vanessa Mutielle",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:50:13",
+      "delete" : false,
+      "identifier" : "CL3RvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Vanessa Mutielle*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:50:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMPRvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:50:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio 5 em 30",
+      "delete" : false,
+      "identifier" : "CNXRvLoGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:50:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNfRvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:50:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "COLRvLoGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:50:53",
+      "delete" : false,
+      "identifier" : "COXRvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:51:41",
+      "delete" : false,
+      "identifier" : "CJXSvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:52:06",
+      "delete" : false,
+      "identifier" : "CK7SvLoGIABIAZABAA==",
+      "msg" : "eu quero cancelar uma compra que fiz ontem, tentei ontem mesmo mas não consegui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:52:18",
+      "delete" : false,
+      "identifier" : "CLrSvLoGIAA6FDNBQzU1MzlENEE0RTlDNTg2MDBBQLrw5Om4MkgBeLL0hvK4MpABAA==",
+      "msg" : "ebook e um planner",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:52:50",
+      "delete" : false,
+      "mediaName" : "fc6976e9-12a4-46ac-aa36-b92ed1328de1.opus",
+      "localPath" : "media\/54befaf604fd5ce5e388be9b71f18e6d43f53588.opus",
+      "mediaSize" : "17 KB",
+      "identifier" : "CNrSvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:54:12",
+      "delete" : false,
+      "identifier" : "CKzTvLoGIABIAZABAA==",
+      "msg" : "eu pensei que era um “curso” e não um plano de organização",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:54:56",
+      "delete" : false,
+      "identifier" : "CNjTvLoGIABIAZABAA==",
+      "msg" : "eu não preciso de um planner como esse no momento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 13:04:14",
+      "delete" : false,
+      "mediaName" : "c012e757-f0bf-46c0-8386-9b10b7f2065c.opus",
+      "localPath" : "media\/4be58275897ca3d730827a13c77bd616aa001198.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CIbYvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 13:04:37",
+      "delete" : false,
+      "mediaName" : "e7209f86-84b5-4e98-b6bc-e632c33cbf1a.opus",
+      "localPath" : "media\/3e43b516b64242372b1b8a0081ec1835a6b7190d.opus",
+      "mediaSize" : "11 KB",
+      "identifier" : "CJ3YvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 13:05:01",
+      "delete" : false,
+      "identifier" : "CLXYvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiu entrar na Central?",
+      "type" : "text"
+    }
+  ]
+})

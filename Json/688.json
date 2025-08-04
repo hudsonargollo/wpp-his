@@ -1,0 +1,64 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 99797-7490",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 20:00:44",
+      "delete" : false,
+      "identifier" : "CKSp6sAGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 20:01:02",
+      "delete" : false,
+      "identifier" : "CLap6sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 20:01:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLep6sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 20:01:04",
+      "delete" : false,
+      "identifier" : "CLip6sAGIABIAZABAA==",
+      "msg" : "Eu tô tentando entrar mas não vai",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 20:01:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CL+p6sAGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/07 12:09:25",
+      "delete" : false,
+      "identifier" : "CK3v7cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Cavernoso, blz? Capitão aqui pra te ajudar!🐺 \n\nPara agilizar o seu antendimento, me informe o seu email de cadastro por favor.\n\n Já vou te ajudar com alta prioridade!",
+      "type" : "text"
+    }
+  ]
+})

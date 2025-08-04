@@ -1,0 +1,204 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 97233-5490",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:53:21",
+      "delete" : false,
+      "identifier" : "CNn\/hr4GIABIAJABAA==",
+      "msg" : "ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:53:32",
+      "delete" : false,
+      "identifier" : "COT\/hr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:53:38",
+      "delete" : false,
+      "identifier" : "COr\/hr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:53:45",
+      "delete" : false,
+      "identifier" : "CPH\/hr4GIABIAJABAA==",
+      "msg" : "Luiz",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:53:51",
+      "delete" : false,
+      "identifier" : "CPf\/hr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Luiz*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:53:58",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CP7\/hr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:54:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CJGAh74GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:54:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJOAh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:54:42",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CKqAh74GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:54:44",
+      "delete" : false,
+      "identifier" : "CKyAh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:55:06",
+      "delete" : false,
+      "identifier" : "CMKAh74GIABIAJABAA==",
+      "msg" : "luiz.paulo2002@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 11:01:56",
+      "delete" : false,
+      "mediaName" : "35bdf62e-8b9b-41ed-8396-97e39656f179.opus",
+      "localPath" : "media\/5ef009046538849bef5d7d63d205a7f8e4b922e4.opus",
+      "mediaSize" : "19 KB",
+      "identifier" : "CNyDh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 11:46:26",
+      "delete" : false,
+      "identifier" : "CMqYh74GIABIAJABAA==",
+      "msg" : "A Quebra da Matrix",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 11:49:49",
+      "delete" : false,
+      "identifier" : "CJWah74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, consigo liberar um drive com as aulas e materiais pra você!\nPode me enviar o comprovante de compra que chegou no seu email, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 11:50:18",
+      "delete" : false,
+      "identifier" : "CLKah74GIABIAJABAA==",
+      "msg" : "Envio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 11:51:19",
+      "delete" : false,
+      "identifier" : "CO+ah74GIABIAJABAA==",
+      "msg" : "mas não chegou nada nesse e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 11:51:25",
+      "delete" : false,
+      "identifier" : "CPWah74GIABIAJABAA==",
+      "msg" : "pode enviar novamente?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 14:35:36",
+      "delete" : false,
+      "identifier" : "CPDnh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não temos acesso, foi o comprovante de quanto você realizou a compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:11:33",
+      "delete" : false,
+      "identifier" : "CJ23xMMGIABIAJABAA==",
+      "msg" : "Ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:11:50",
+      "delete" : false,
+      "identifier" : "CK63xMMGIABIAJABAA==",
+      "msg" : "saiu do ar a área de membros nova?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:11:56",
+      "delete" : false,
+      "identifier" : "CLS3xMMGIABIAJABAA==",
+      "msg" : "gostaria de acessas AQDM",
+      "type" : "text"
+    }
+  ]
+})

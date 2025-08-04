@@ -1,0 +1,282 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 47 99737-5803",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:24:56",
+      "delete" : false,
+      "identifier" : "CKCt574GIABIAJABAA==",
+      "msg" : "ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:25:11",
+      "delete" : false,
+      "identifier" : "CK+t574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:25:17",
+      "delete" : false,
+      "identifier" : "CLWt574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:25:31",
+      "delete" : false,
+      "identifier" : "CMOt574GIABIAJABAA==",
+      "msg" : "Gustavo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:25:38",
+      "delete" : false,
+      "identifier" : "CMqt574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Gustavo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:25:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNCt574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:26:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CP2t574GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:26:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CP6t574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:26:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CIWu574GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:26:39",
+      "delete" : false,
+      "identifier" : "CIeu574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:27:19",
+      "delete" : false,
+      "identifier" : "CK+u574GIABIAZABAA==",
+      "msg" : "Não consigo acessar as aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:27:34",
+      "delete" : false,
+      "identifier" : "CL6u574GIABIAZABAA==",
+      "msg" : "Tava vendo ontem não tenho mais o link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:27:47",
+      "delete" : false,
+      "identifier" : "CMuu574GIABIAZABAA==",
+      "msg" : "Não sei como chegar lá na sala aonde tem as aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:34:42",
+      "delete" : false,
+      "identifier" : "COqx574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Gustavo. Infelizmente nossa área de membros foi desativada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:34:59",
+      "delete" : false,
+      "identifier" : "CPux574GIABIAJABAA==",
+      "msg" : "ai fica como",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:35:21",
+      "delete" : false,
+      "identifier" : "CJGy574GIABIAJABAA==",
+      "msg" : "comprei o negcio so por causa dos cursos e tiram ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:35:35",
+      "delete" : false,
+      "identifier" : "CJ+y574GIABIAJABAA==",
+      "msg" : "e agora não posso pegar o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:35:38",
+      "delete" : false,
+      "identifier" : "CKKy574GIABIAJABAA==",
+      "msg" : "fica como ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:43:37",
+      "delete" : false,
+      "identifier" : "CIG2574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua compra foi realizada quando e referente a qual produto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:49:00",
+      "delete" : false,
+      "identifier" : "CMS4574GIABIAJABAA==",
+      "msg" : "nao tem como ver ai ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:49:19",
+      "delete" : false,
+      "identifier" : "CNe4574GIABIAJABAA==",
+      "msg" : "tava dizendo q tava na promoção de 300 por 40 tudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:49:49",
+      "delete" : false,
+      "identifier" : "CPW4574GIABIAJABAA==",
+      "msg" : "eu tinha o acesso agora vieram cobrar de novo 300 pra liberar tudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:50:31",
+      "delete" : false,
+      "identifier" : "CJ+5574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pagou novamente quando, Gustavo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:50:42",
+      "delete" : false,
+      "identifier" : "CKq5574GIABIAJABAA==",
+      "msg" : "nao paguei novamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:50:55",
+      "delete" : false,
+      "identifier" : "CLe5574GIABIAJABAA==",
+      "msg" : "ate hj de manha eu tinha acesso aos curso as aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:51:07",
+      "delete" : false,
+      "identifier" : "CMO5574GIABIAJABAA==",
+      "msg" : "agora de tarde so tenho os pdfs",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:55:25",
+      "delete" : false,
+      "identifier" : "CMW7574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 17:58:33",
+      "delete" : false,
+      "identifier" : "CIG9574GIABIAJABAA==",
+      "msg" : "gustavoantunesslap@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 18:02:32",
+      "delete" : false,
+      "identifier" : "CPC+574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "A única compra que consta no seu email é do Desafio Caverna, que é o materiasl em pdf que você recebeu. \nSe você tinha acesso aos cursos clube da luta ou quebra da matrix, já estão vencidos e foram retirados do ar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 18:19:15",
+      "delete" : false,
+      "identifier" : "CNvG574GIABIAJABAA==",
+      "msg" : "deu aqui",
+      "type" : "text"
+    }
+  ]
+})

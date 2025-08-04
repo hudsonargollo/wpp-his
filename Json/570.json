@@ -1,0 +1,82 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 87 99137-0446",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 05:09:43",
+      "delete" : false,
+      "identifier" : "CM\/m1cEGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 05:10:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPfm1cEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 05:10:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "CJLn1cEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 05:11:08",
+      "delete" : false,
+      "identifier" : "CKTn1cEGIABIAZABAA==",
+      "msg" : "omodocristao@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 05:11:30",
+      "delete" : false,
+      "identifier" : "CLrn1cEGIABIAZABAA==",
+      "msg" : "Olá, tudo bem?\n\nGostaria de solicitar o reembolso da minha compra realizada no dia [26\/05\/2025],\n\nO motivo é que o produto não atendeu às minhas expectativas e, conforme o Código de Defesa do Consumidor, estou exercendo meu direito de arrependimento dentro do prazo de 7 dias.\n\nAguardo a confirmação do cancelamento e o estorno do valor pago.\n\nDesde já, agradeço a atenção e fico no aguardo de um retorno.\n\nAtenciosamente,\n[Mateus]",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 11:04:29",
+      "delete" : false,
+      "identifier" : "CPWM18EGIABIAZABAA==",
+      "msg" : "Sim, quero desistir",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 11:11:54",
+      "delete" : false,
+      "identifier" : "CLKQ18EGIABIAZABAA==",
+      "msg" : "Não, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 11:15:22",
+      "delete" : false,
+      "identifier" : "CIKS18EGIABIAZABAA==",
+      "msg" : "Valeu",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,74 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 97556-5312",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 16:36:13",
+      "delete" : false,
+      "mediaName" : "455ca6f2-5a1a-4ab1-b75b-84d7b3c30704.opus",
+      "localPath" : "media\/1268de642175ede4220f4fb1c64c6139e02d1b68.opus",
+      "mediaSize" : "34 KB",
+      "identifier" : "CLXQubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/17 10:04:36",
+      "delete" : false,
+      "identifier" : "COzT57kGIABIAZABAA==",
+      "msg" : "Iuriepersonal@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/17 10:05:14",
+      "delete" : false,
+      "mediaName" : "48a41739-1edb-4150-acff-4fd8cc6e84e0.jpg",
+      "localPath" : "media\/e033aebd7929b6f07b38e01abcef1c69ea6726c3.jpg",
+      "mediaSize" : "152 KB",
+      "identifier" : "CJLU57kGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/31326d41bcf6dcfe21438b1f91ef0938b7dec851"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/17 10:05:27",
+      "delete" : false,
+      "mediaName" : "fa11e931-7ac4-4ff7-b302-2536e3454721.jpg",
+      "localPath" : "media\/35398384b7f306ee8db8c53907648cc1cc7deafa.jpg",
+      "mediaSize" : "141 KB",
+      "identifier" : "CJ\/U57kGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/0ffc8c65bb14ecf9ffed067e4d807cb4e4b4873d"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/17 10:05:35",
+      "delete" : false,
+      "identifier" : "CKfU57kGIABIAZABAA==",
+      "msg" : "Tudo com cadeado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/18 09:42:37",
+      "delete" : false,
+      "mediaName" : "7a2e6440-aff1-46b6-bf19-6272c0586b90.opus",
+      "localPath" : "media\/ca3cb907b0c852f7782416c85c42f7d80357a6fa.opus",
+      "mediaSize" : "41 KB",
+      "identifier" : "CMXs7LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:22"
+    }
+  ]
+})

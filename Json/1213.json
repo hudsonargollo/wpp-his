@@ -1,0 +1,85 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 61 98404-6743",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 15:25:59",
+      "delete" : false,
+      "identifier" : "CL\/C5LwGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 15:38:55",
+      "delete" : false,
+      "identifier" : "CMfI5LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 15:56:21",
+      "delete" : false,
+      "identifier" : "CN3Q5LwGIABIAJABAA==",
+      "msg" : "eu não estou conseguindo logar no aplicativo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 15:56:26",
+      "delete" : false,
+      "identifier" : "COLQ5LwGIABIAJABAA==",
+      "msg" : "Boa tarde, Bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 15:57:09",
+      "delete" : false,
+      "mediaName" : "ba849496-c712-4921-8367-65e32af8d257.opus",
+      "localPath" : "media\/a4ad0c85b870cd891f0c22c4f62e5c188712b230.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CI3R5LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 16:11:47",
+      "delete" : false,
+      "identifier" : "CPvX5LwGIABIAZABAA==",
+      "msg" : "O aplicativo modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 16:16:41",
+      "delete" : false,
+      "identifier" : "CKHa5LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou te enviar aqui o link de acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 16:17:08",
+      "mediaSize" : "14 KB",
+      "mediaName" : "2d87e49a-e0eb-478b-b7c2-b69c3347f60d.thumb",
+      "localPath" : "media\/501048f43d1a150f87cdb0dfbbc08a7b8fe85e0a.thumb",
+      "delete" : false,
+      "identifier" : "CLza5LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

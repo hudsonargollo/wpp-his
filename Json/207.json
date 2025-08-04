@@ -1,0 +1,251 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 33 98729-2355",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 08:31:51",
+      "delete" : false,
+      "identifier" : "CK\/V08MGIABIAJABAA==",
+      "msg" : "bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 08:33:59",
+      "delete" : false,
+      "identifier" : "CK\/W08MGIABIAJABAA==",
+      "msg" : "fiz uma compra ontem, de um produto de vocês achando que era o central Caverna, porém era o modo caverna!\nquero cancelar esse pra eu renovar o Central Caverna..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 09:02:28",
+      "delete" : false,
+      "identifier" : "CNzj08MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia Antoniel, tudo bem? Me informa seu email de compra?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 09:03:22",
+      "delete" : false,
+      "identifier" : "CJLk08MGIABIAJABAA==",
+      "msg" : "acho que não irá precisar mais!\ndescontaram esse valor pra mim..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 09:23:50",
+      "delete" : false,
+      "identifier" : "CN7t08MGIABIAJABAA==",
+      "msg" : "Muito obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 09:51:28",
+      "delete" : false,
+      "mediaName" : "9d08d33f-d41b-416e-a95f-b79ec4111635.jpg",
+      "localPath" : "media\/82bdb5e4c361e7679f4bbe0e28c470ba632e74f3.jpg",
+      "mediaSize" : "30 KB",
+      "identifier" : "CNj608MGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c89e1fb186de74f45e3a4502d3e5976c3200096f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 10:04:21",
+      "delete" : false,
+      "identifier" : "CN2A1MMGIABIAJABAA==",
+      "msg" : "to tomando uma surra desse app aqui!\nonde coloco os Hábitos, e como faço pra eles aparecerem na agenda do dia?\ncoloquei um ritual e apareceu, mas e os outros de acordo o horário como faz?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 10:22:49",
+      "delete" : false,
+      "identifier" : "CLGJ1MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia Antoniel!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 10:23:15",
+      "delete" : false,
+      "identifier" : "CMuJ1MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O nosso app está sendo aprovado pelo Google, por enquanto não está funcionando a integração, mas já estamos trabalhando nisso, ok?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 10:24:48",
+      "delete" : false,
+      "identifier" : "CKiK1MMGIABIAJABAA==",
+      "msg" : "entendi..\nme responde sobre os hábitos agora",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 10:24:55",
+      "delete" : false,
+      "identifier" : "CK+K1MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode adicionar diretamante na sua agenda. Os hábitos dos seus rituais aparecem na agenda do dia quando você clica neles",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 10:25:16",
+      "delete" : false,
+      "identifier" : "CMSK1MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "e você também pode visualizar no widget logo ao lado da agenda do dia na aba Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 10:26:36",
+      "delete" : false,
+      "identifier" : "CJSL1MMGIABIAJABAA==",
+      "msg" : "eu fiz isso, mas lá só continua aparecendo o ritual do inicio da manhã, e o outro da noite.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 10:37:59",
+      "delete" : false,
+      "identifier" : "CL+Q1MMGIABIAJABAA==",
+      "msg" : "ta dando certo aqui.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 10:38:00",
+      "delete" : false,
+      "identifier" : "CMCQ1MMGIABIAJABAA==",
+      "msg" : "vlw",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 10:38:22",
+      "delete" : false,
+      "identifier" : "CNaQ1MMGIABIAJABAA==",
+      "msg" : "estava fazendo errado..\né pq eu precisava resolver tudo isso agora de manhã",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 09:07:02",
+      "delete" : false,
+      "identifier" : "CO7O48MGIAA6FDNGMUVCN0YyM0E5MTI2QzIxQzA1QLveoMKBM0gAeLyxx8OBM5ABAA==",
+      "msg" : "Bom dia!\nessa aba finanças de vocês ainda estão em desenvolvimento?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 09:11:12",
+      "delete" : false,
+      "mediaName" : "2a817e8d-b9d5-4f2a-8c3b-9141910c99fe.jpg",
+      "localPath" : "media\/35bea936f0eec5f3077c3e116842265be6680e80.jpg",
+      "mediaSize" : "38 KB",
+      "identifier" : "COjQ48MGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/dda9f03d485995ed1b300b6a4aa28fe9377eb2b0"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 09:12:07",
+      "delete" : false,
+      "identifier" : "CJ\/R48MGIAA6FDNGNjNGOTFBREMzOEM1QzIzNzRCQO3TtcKBM0gAeIizx8OBM5ABAA==",
+      "msg" : "e porque o valor do saldo não soma com o valor total?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 09:12:26",
+      "delete" : false,
+      "mediaName" : "6d55f75d-6958-4741-a2bf-5d2d2a6f23ae.jpg",
+      "localPath" : "media\/66b13ebe43a8bbf799723d6937c17c92a58f1632.jpg",
+      "mediaSize" : "43 KB",
+      "identifier" : "CLLR48MGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c653000369fff8ae0abaf67eb79f2692930419db"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/17 10:06:26",
+      "delete" : false,
+      "identifier" : "CNrq48MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? \nveja só, o quadro de cima não tem a ver com o \"total\" embaixo. \n\no de cima se refere a valores que você tem de reserva, como por exemplo \"poupança, cripto, etc\". \njá o de baixo, é referente a movimentações financeiras.\nOu seja, eles não totalizam entre si, porque são coisas diferentes.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 10:50:56",
+      "delete" : false,
+      "identifier" : "CMj\/48MGIABIAZABAA==",
+      "msg" : "Entendi.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/17 11:19:14",
+      "delete" : false,
+      "identifier" : "COqM5MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 11:30:04",
+      "delete" : false,
+      "identifier" : "CPSR5MMGIABIAZABAA==",
+      "msg" : "Somente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 11:30:08",
+      "delete" : false,
+      "identifier" : "CPiR5MMGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/17 13:49:17",
+      "delete" : false,
+      "identifier" : "CJXT5MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, ótima tarde!",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,245 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 94 99294-6738",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 04:28:02",
+      "delete" : false,
+      "identifier" : "CIqXybsGIABIAZABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 04:28:11",
+      "delete" : false,
+      "identifier" : "CJOXybsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 04:28:17",
+      "delete" : false,
+      "identifier" : "CJmXybsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 04:28:24",
+      "delete" : false,
+      "identifier" : "CKCXybsGIABIAZABAA==",
+      "msg" : "Tonimar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 04:28:30",
+      "delete" : false,
+      "identifier" : "CKaXybsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Tonimar*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 04:28:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKyXybsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 04:29:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio 5 em 30",
+      "delete" : false,
+      "identifier" : "CMWXybsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 04:29:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMeXybsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 04:29:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar o conteúdo",
+      "delete" : false,
+      "identifier" : "CM6XybsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 09:47:08",
+      "delete" : false,
+      "identifier" : "CNSsyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 09:54:54",
+      "delete" : false,
+      "identifier" : "CKawyrsGIABIAZABAA==",
+      "msg" : "Não estou conseguindo acessar o conteúdo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 10:47:37",
+      "delete" : false,
+      "mediaName" : "e3feccdd-4455-4598-a2af-f4e2ab54b38c.opus",
+      "localPath" : "media\/b1a667618be86a8e6a6d0969db3c50d3aa0fa1e7.opus",
+      "mediaSize" : "15 KB",
+      "identifier" : "CIHJyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 10:58:29",
+      "delete" : false,
+      "mediaName" : "cd487c73-1999-4a4f-b1b0-29147ed319c6.opus",
+      "localPath" : "media\/1ccab23dfe4fe90af337942c7674796ccfcf3d24.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CI3OyrsGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 11:01:52",
+      "mediaSize" : "949 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNjPyrsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/64765494fb05cc8279d6053d84a624c9cb3586cb"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 11:01:52",
+      "delete" : false,
+      "mediaName" : "042a581c-2503-435d-83bd-3f72b1c2688f.jpg",
+      "localPath" : "media\/2686df799e77f24a5b8735df6e4004ef6bc2074e.jpg",
+      "mediaSize" : "117 KB",
+      "identifier" : "CNjPyrsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/bfc60683859ccb3cfa8ee9b2fb5b00cbb5b34eec"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 11:01:55",
+      "delete" : false,
+      "identifier" : "CNvPyrsGIABIAZABAA==",
+      "msg" : "Tudo bloqueado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 11:39:12",
+      "delete" : false,
+      "identifier" : "CJjhyrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você comprou o nosso Pacote de ebooks do Desafio, correto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 16:21:58",
+      "delete" : false,
+      "identifier" : "CN7ly7sGIABIAZABAA==",
+      "msg" : "5 em 30, isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 16:35:45",
+      "delete" : false,
+      "mediaName" : "17f924c1-2270-4187-9862-fd1768737f0a.opus",
+      "localPath" : "media\/b757de683d1b34c5391133e56f4e4d7137eb8138.opus",
+      "mediaSize" : "68 KB",
+      "identifier" : "CJnsy7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:37"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 16:37:29",
+      "delete" : false,
+      "mediaName" : "edc1d285-2f3b-4445-a5a3-a5769269d708.opus",
+      "localPath" : "media\/8a266363d89ea35d1ebc163529b06641371fbb4c.opus",
+      "mediaSize" : "17 KB",
+      "identifier" : "CIHty7sGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/31 08:53:58",
+      "delete" : false,
+      "mediaName" : "0b67e9a8-819b-4781-9f47-d1e3eb91f812.opus",
+      "localPath" : "media\/021e2984a26a8029f7c6dbbb9e47b3093dbf9484.opus",
+      "mediaSize" : "59 KB",
+      "identifier" : "CN62z7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:32"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 20:38:27",
+      "delete" : false,
+      "mediaName" : "183035d2-fdd3-490e-ab3a-16a13393fb65.opus",
+      "localPath" : "media\/aaa1810858fc5e2a8cfe3ba09fec466f3d1981b7.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CPvG3LsGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 10:01:50",
+      "delete" : false,
+      "mediaName" : "df262b30-4590-41a7-a367-2f80786a8ae2.opus",
+      "localPath" : "media\/d70d4a944e8f8cb960fcf4ead1cd72520da8de5e.opus",
+      "mediaSize" : "43 KB",
+      "identifier" : "CMa\/37sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    }
+  ]
+})

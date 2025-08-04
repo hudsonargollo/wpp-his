@@ -1,0 +1,50 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99149-4929",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 17:54:39",
+      "delete" : false,
+      "mediaName" : "0c868985-6273-440e-9e86-1bd4ad6803c9.jpg",
+      "localPath" : "media\/6d5b065b343c184539757613cd44c1a51afd2154.jpg",
+      "mediaSize" : "71 KB",
+      "identifier" : "CJfkpbwGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/307839de41dabf493d997e4e429fad56daf42e50"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 17:57:35",
+      "delete" : false,
+      "mediaName" : "ee01a114-4f3f-4260-84d2-fd193889434f.jpg",
+      "localPath" : "media\/d0160ca89e4840f5b9e179d1d82a60d976dbff68.jpg",
+      "mediaSize" : "130 KB",
+      "identifier" : "CMflpbwGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ac7f9bde836101c245a7e999cafa4fe0fdfd5e16"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/17 09:00:15",
+      "delete" : false,
+      "identifier" : "CNeMqbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Obrigada pelo pagamento, estaremos realizando seu envio em breve! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/22 09:17:48",
+      "delete" : false,
+      "identifier" : "CPTDw7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: AV038229570BR",
+      "type" : "text"
+    }
+  ]
+})

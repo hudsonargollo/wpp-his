@@ -1,0 +1,294 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 99732-7344",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:36:58",
+      "delete" : false,
+      "identifier" : "CNKkvLcGIABIAZABAA==",
+      "msg" : "Opaa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:37:00",
+      "delete" : false,
+      "identifier" : "CNSkvLcGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/21 15:37:03",
+      "delete" : false,
+      "identifier" : "CNekvLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/21 15:37:05",
+      "delete" : false,
+      "identifier" : "CNmkvLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:37:05",
+      "delete" : false,
+      "identifier" : "CNmkvLcGIABIAZABAA==",
+      "msg" : "Como faço pra solicitar placas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:37:09",
+      "delete" : false,
+      "identifier" : "CN2kvLcGIABIAZABAA==",
+      "msg" : "Renan",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/21 15:37:17",
+      "delete" : false,
+      "identifier" : "COWkvLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Renan.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/21 15:37:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COikvLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:37:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "A Quebra da Matrix Digital",
+      "delete" : false,
+      "identifier" : "CO6kvLcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/21 15:37:29",
+      "delete" : false,
+      "identifier" : "CPGkvLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, A Quebra da Matrix Digital. Agora selecione uma opção que corresponde a sua dúvida\/problema.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/21 15:37:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPKkvLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:37:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Solicitação de placas de faturamento",
+      "delete" : false,
+      "identifier" : "CPikvLcGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/21 15:37:39",
+      "delete" : false,
+      "identifier" : "CPukvLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo. Me informa o seu email de compra e preencha esse formuário por favor: \n\nhttps:\/\/docs.google.com\/forms\/d\/1QGCMij3tM3HJLXJoyQQW-d7mNT2-4ZnZ73x3tlnUKD0\/edit\n\nApós preencher o formulário mande sua prova social referente as placas solicitadas.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:39:24",
+      "delete" : false,
+      "identifier" : "COSlvLcGIABIAZABAA==",
+      "msg" : "Renanalb14@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:39:30",
+      "delete" : false,
+      "identifier" : "COqlvLcGIABIAZABAA==",
+      "msg" : "Vou enviar a prova social",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:43:59",
+      "delete" : false,
+      "mediaName" : "d2fda8c9-289a-4482-b6c1-05e74f5eaff8.mp4",
+      "localPath" : "media\/b9a5d4773c671e2abcdfcfe612fb0abdb10d8a9e.mp4",
+      "mediaSize" : "55,2 MB",
+      "identifier" : "CPenvLcGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/2ea4d916766484788fbd789376b83a6e6fffba37"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/21 15:50:54",
+      "delete" : false,
+      "mediaName" : "fd923dc1-5621-4177-bed2-49d66c6fc008.mp4",
+      "localPath" : "media\/2f1dab548d5e20ba714b99a103c95ed8c59d86c3.mp4",
+      "mediaSize" : "13,7 MB",
+      "identifier" : "CJarvLcGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/d9c61da84550cb9dbf4b6ceb30efcbd11da5d286"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:08:21",
+      "delete" : false,
+      "identifier" : "CL20xbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá Renan, bom dia! Muito obrigada pelo envio, assim que fecharmos 10 solicitações, entrarei em contato para te mandar o orçamento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:12:11",
+      "delete" : false,
+      "identifier" : "CKO2xbcGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 09:12:13",
+      "delete" : false,
+      "identifier" : "CKW2xbcGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 09:12:52",
+      "delete" : false,
+      "identifier" : "CMy2xbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, eu quem agradeço!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 11:14:06",
+      "delete" : false,
+      "identifier" : "CLbk6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Vamos fazer as solicitações das placas solicitadas. Você poderia me confirmar essas informações?\n\nPlacas solicitadas: 100k, 250k, 500k, 1M\nNome completo: Renan albuquerque de Mendonça\nCPF: 09341108322\nCEP: 60824010\nCidade: Fortaleza\nEstado: Ceara\nBairro: Parque iracema\nRua e Número: 600, apto 202 A",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 11:17:40",
+      "delete" : false,
+      "identifier" : "CIzm6rcGIABIAZABAA==",
+      "msg" : "Quanto fica tudo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 11:17:40",
+      "delete" : false,
+      "identifier" : "CIzm6rcGIABIAZABAA==",
+      "msg" : "Isso mesmo, ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 11:17:41",
+      "delete" : false,
+      "identifier" : "CI3m6rcGIABIAZABAA==",
+      "msg" : "Para eu passar para a equipe e ver se ainda realmente querem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 11:19:13",
+      "delete" : false,
+      "mediaName" : "a002a052-e1e3-4885-b5af-d610af940388.opus",
+      "localPath" : "media\/708fcb9885373f805e3afd1ac2295fdb06bd7488.opus",
+      "mediaSize" : "99 KB",
+      "identifier" : "COnm6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:47"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 11:24:23",
+      "delete" : false,
+      "identifier" : "CJ\/p6rcGIABIAZABAA==",
+      "msg" : "Perfeito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 11:27:29",
+      "delete" : false,
+      "mediaName" : "9a743f7a-be4a-44bc-b76e-f0462931895c.opus",
+      "localPath" : "media\/fde78c1e79953b9c839a4795163af1107063731f.opus",
+      "mediaSize" : "32 KB",
+      "identifier" : "CNnq6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 16:49:19",
+      "delete" : false,
+      "identifier" : "CMfq+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem? Temos o orçamento da sua solicitação! Para pagamento é necessário realizar o pix para essa chave: projetoiurimeira@gmail.com e mandar o comprovante aqui no nosso chat!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 16:49:32",
+      "delete" : false,
+      "identifier" : "CNTq+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Placas:100k - 130,00\n       250k - 130,00\n       500k - 130,00\n         1M - 157,00\nFrete:     -  166,00\n--------------------\nTotal:  -  R$ 713,00",
+      "type" : "text"
+    }
+  ]
+})

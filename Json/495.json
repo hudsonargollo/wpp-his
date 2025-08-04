@@ -1,0 +1,80 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 98287-0942",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 09:32:36",
+      "delete" : false,
+      "identifier" : "COzLoMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia Pedro!🐺\n\nqual foi o motivo que levou você a solicitar o reembolso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 09:33:48",
+      "delete" : false,
+      "identifier" : "CLTMoMIGIABIAZABAA==",
+      "msg" : "Bom dia , eu assumi um compromisso que nao ia conseguir dar continuidade",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 09:35:56",
+      "delete" : false,
+      "identifier" : "CLTNoMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pedro, o seu acesso é vitalício durante 1 ano inteiro.\n\nPedir reembolso agora é só repetir o ciclo que te trouxe até aqui.\nVocê realmente quer desistir de si mesmo mais uma vez?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 09:36:14",
+      "delete" : false,
+      "identifier" : "CMbNoMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode iniciar os seus estudos e o desafio caverna quando quiser durante 1 ano!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 10:15:00",
+      "delete" : false,
+      "identifier" : "CNzfoMIGIABIAZABAA==",
+      "msg" : "Nao , gostaria de prosseguir com o reembolso por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 10:16:16",
+      "delete" : false,
+      "identifier" : "CKjgoMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você vai mesmo desistir de tudo isso por R$49?\nNem um hambúrguer decente custa isso hoje.\n\nMas sejamos diretos: não é o valor.\nÉ o padrão: começa, desanima, desiste.\n\nO Modo Caverna não é um app comum. É um sistema pra transformar sua rotina, foco e mentalidade.\nMas precisa atravessar o desconforto, não fugir dele.\n\nPedir reembolso agora é só repetir o ciclo que te trouxe até aqui.\nVocê realmente quer desistir de si mesmo mais uma vez?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 10:17:01",
+      "delete" : false,
+      "identifier" : "CNXgoMIGIABIAZABAA==",
+      "msg" : "Sim , por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 10:19:17",
+      "delete" : false,
+      "identifier" : "CN3hoMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Reembolso efetuado com sucesso.\nO valor será devolvido em até 7 dias na forma de pagamento utilizada.\n\nMas só um aviso: fugir é fácil, encarar a mudança é pra poucos.\nQuando a conta do adiamento bater na porta (e ela sempre bate),\n\na Caverna vai continuar aqui.\nSó não espere que a vida espere junto. 🐺",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99956-1496",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 09:27:02",
+      "delete" : false,
+      "identifier" : "CJ6bwMIGIABIAZABAA==",
+      "msg" : "Olá,  bom dia, tudo bem? Eu não entendi sua proposta, o produto não corresponde ao que eu estava buscando.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 09:45:46",
+      "delete" : false,
+      "identifier" : "CIKkwMIGIABIAZABAA==",
+      "msg" : "Eu também não consegui fazer o download do app",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 09:47:50",
+      "delete" : false,
+      "identifier" : "CP6kwMIGIABIAZABAA==",
+      "msg" : "Pois é,  mas como acessar pelo computador?",
+      "type" : "text"
+    }
+  ]
+})

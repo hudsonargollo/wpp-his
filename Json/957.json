@@ -1,0 +1,331 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 99 98430-7653",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:18:47",
+      "delete" : false,
+      "identifier" : "CK+H4r4GIABIAJABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:18:49",
+      "delete" : false,
+      "identifier" : "CLGH4r4GIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:19:02",
+      "delete" : false,
+      "identifier" : "CL6H4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:19:08",
+      "delete" : false,
+      "identifier" : "CMSH4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:19:28",
+      "delete" : false,
+      "identifier" : "CNiH4r4GIABIAJABAA==",
+      "msg" : "Juan",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:19:34",
+      "delete" : false,
+      "identifier" : "CN6H4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Juan*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:19:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COSH4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:21:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CM6I4r4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:21:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM+I4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:22:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CICJ4r4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:22:18",
+      "delete" : false,
+      "identifier" : "CIKJ4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:24:50",
+      "delete" : false,
+      "identifier" : "CJqK4r4GIABIAJABAA==",
+      "msg" : "Comprei o desafio modo caverna por R$ 39,00. Quando eu entro na plataforma está disponível para mim vários cursos de marketing digital: facebook ADS, dição de vídeo, clube da luta digital...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:24:58",
+      "delete" : false,
+      "identifier" : "CKKK4r4GIABIAJABAA==",
+      "msg" : "Isso está certo mesmo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:25:06",
+      "delete" : false,
+      "identifier" : "CKqK4r4GIABIAJABAA==",
+      "msg" : "Tem acesso a tudo isso ou tem algo errado?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:25:36",
+      "delete" : false,
+      "identifier" : "CMiK4r4GIABIAJABAA==",
+      "msg" : "Estou com acesso ao cave focus também",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:25:46",
+      "delete" : false,
+      "identifier" : "CNKK4r4GIABIAJABAA==",
+      "msg" : "Tem algo errado com isso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:26:00",
+      "delete" : false,
+      "identifier" : "COCK4r4GIABIAJABAA==",
+      "msg" : "Achei que eram apenas os ebooks",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:27:04",
+      "delete" : false,
+      "identifier" : "CKCL4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Juan! Tudo bem?\nVocê está acessando a plataforma do modo caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:27:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CL2L4r4GIABIAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:27:42",
+      "delete" : false,
+      "identifier" : "CMaL4r4GIABIAJABAA==",
+      "msg" : "Tenho acesso a essa área",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:28:08",
+      "delete" : false,
+      "mediaName" : "f80f8d40-d92e-40b2-9501-0ff2a0042a60.jpg",
+      "localPath" : "media\/807b4332137074203562bc4f1eba7ced38672535.jpg",
+      "mediaSize" : "101 KB",
+      "identifier" : "COCL4r4GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c0b83ff257eb42278874e86111811c0cefe55b5d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:28:26",
+      "delete" : false,
+      "identifier" : "CPKL4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, por gentileza\nVocê está utilizando o período gratuito de 7 dias, aí tem acesso a todas as funcionalidades nesse período!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:28:49",
+      "delete" : false,
+      "identifier" : "CImM4r4GIABIAJABAA==",
+      "msg" : "g10.adsdigital@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:29:23",
+      "delete" : false,
+      "identifier" : "CKuM4r4GIABIAJABAA==",
+      "msg" : "Quero só o desafio caverna mesmo por enquanto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:29:31",
+      "delete" : false,
+      "identifier" : "CLOM4r4GIABIAJABAA==",
+      "msg" : "pode cancelar esse acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:30:41",
+      "delete" : false,
+      "identifier" : "CPmM4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tranquilo, é um período de teste, assim que for finalizado você perderá o acesso pois não tem nenhuma assinatura ativa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:31:00",
+      "delete" : false,
+      "identifier" : "CIyN4r4GIABIAJABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:31:03",
+      "delete" : false,
+      "identifier" : "CI+N4r4GIABIAJABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:31:26",
+      "delete" : false,
+      "identifier" : "CKaN4r4GIABIAJABAA==",
+      "msg" : "Não vai comprar automático no cartão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:31:45",
+      "delete" : false,
+      "identifier" : "CLmN4r4GIABIAJABAA==",
+      "msg" : "quando passar o período de 7 dias...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:32:56",
+      "delete" : false,
+      "identifier" : "CICO4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não, só é efetivada a assinatura se você acessar e escolher adquirir o plano, se não fizer isso, apenas bloqueia o acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:33:06",
+      "delete" : false,
+      "identifier" : "CIqO4r4GIABIAJABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:33:11",
+      "delete" : false,
+      "identifier" : "CI+O4r4GIABIAJABAA==",
+      "msg" : "Era só isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 17:33:20",
+      "delete" : false,
+      "identifier" : "CJiO4r4GIABIAJABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 17:33:51",
+      "delete" : false,
+      "identifier" : "CLeO4r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! Se tiver alguma dúvida é só mandar mensagem",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,99 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 66 99941-4219",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 09:24:35",
+      "delete" : false,
+      "identifier" : "CIua+rcGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 09:34:18",
+      "delete" : false,
+      "identifier" : "CNKe+rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 09:35:31",
+      "delete" : false,
+      "identifier" : "CJuf+rcGIABIAZABAA==",
+      "msg" : "Bom dia Bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 09:35:39",
+      "delete" : false,
+      "identifier" : "CKOf+rcGIABIAZABAA==",
+      "msg" : "Não recebi os materiais que comprei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 09:37:08",
+      "delete" : false,
+      "identifier" : "CPyf+rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, por gentileza, João",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 09:38:01",
+      "delete" : false,
+      "identifier" : "CLGg+rcGIABIAZABAA==",
+      "msg" : "jpdffera@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 09:38:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "COCg+rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 14:25:16",
+      "delete" : false,
+      "identifier" : "CISn+7cGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 14:26:30",
+      "delete" : false,
+      "identifier" : "CM6n+7cGIABIAZABAA==",
+      "msg" : "Adquiri o curso do modo caverna mas na plataforma eles estão bloqueados para assistir as aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 14:35:32",
+      "delete" : false,
+      "identifier" : "COyr+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, João! Sua compra foi referente ao produto Desafio 5 anos em 30 dias, as aulas do Modo Caverna são para os alunos que adquiriram o curso",
+      "type" : "text"
+    }
+  ]
+})

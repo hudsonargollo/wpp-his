@@ -1,0 +1,47 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 37 99804-7045",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/17 11:58:21",
+      "delete" : false,
+      "identifier" : "CJWyprcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, Gilberto, bom dia!\nVi que você realizou o pedido do envelope dos escolhidos, poderia me enviar o comprovante de pagamento, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/17 20:23:55",
+      "delete" : false,
+      "mediaName" : "1546cdca-6931-4f5f-9b70-6aa96b8aabd0.jpg",
+      "localPath" : "media\/3506d8582f3675db0425308ac68d72a0866717c2.jpg",
+      "mediaSize" : "60 KB",
+      "identifier" : "CJOfqLcGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/5a703ad098c5d41b714a86d92a6e0a62562d54f0"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/17 20:23:57",
+      "delete" : false,
+      "identifier" : "CJafqLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/19 14:49:00",
+      "delete" : false,
+      "identifier" : "CJTIsbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: AV024469059BR",
+      "type" : "text"
+    }
+  ]
+})

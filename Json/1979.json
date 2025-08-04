@@ -1,0 +1,156 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 91 98919-1842",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/22 21:38:58",
+      "delete" : false,
+      "identifier" : "CKqL4bgGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 09:42:24",
+      "delete" : false,
+      "identifier" : "CLje47gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:24:10",
+      "delete" : false,
+      "mediaName" : "588850df-de72-44f6-9be9-02f4b73f3000.jpg",
+      "localPath" : "media\/a92f5f55561a3196d95d9170c33a6b01df5be6ca.jpg",
+      "mediaSize" : "161 KB",
+      "identifier" : "CILy47gGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/d9d3c1a31216d03c45adbd0c69279554fe07ca63"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:24:19",
+      "delete" : false,
+      "identifier" : "CIvy47gGIABIAZABAA==",
+      "msg" : "Como funciona essa plataforma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:24:24",
+      "delete" : false,
+      "identifier" : "CJDy47gGIABIAZABAA==",
+      "msg" : "Não baixa nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:24:38",
+      "delete" : false,
+      "identifier" : "CJ7y47gGIAA6FDNBOTlCNENENjA4MkYwQzVEQTdBQKfktMyrMkgBePuotYesMpABAA==",
+      "msg" : "Não são vídeos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:35:25",
+      "delete" : false,
+      "mediaName" : "d89c5e12-165a-4a2c-a0d0-608127435870.opus",
+      "localPath" : "media\/e9588817ced214c1f894f01004ee05cd34e71e06.opus",
+      "mediaSize" : "12 KB",
+      "identifier" : "CKX347gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:36:20",
+      "delete" : false,
+      "identifier" : "CNz347gGIABIAZABAA==",
+      "msg" : "liadias11589@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:43:23",
+      "delete" : false,
+      "mediaName" : "929db047-8a12-4569-b49b-8bab8face928.opus",
+      "localPath" : "media\/241573644e6fcd0afe19264b250f32a01ba313c4.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CIP747gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:43:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJj747gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:46:38",
+      "delete" : false,
+      "identifier" : "CMb847gGIABIAZABAA==",
+      "msg" : "Me explica um pouco mais como funciona",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:46:59",
+      "delete" : false,
+      "identifier" : "CNv847gGIABIAZABAA==",
+      "msg" : "A compra é só dos livros?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:48:02",
+      "delete" : false,
+      "identifier" : "CJr947gGIABIAZABAA==",
+      "msg" : "Tem alguma plataforma? Vídeos ou algo do tipo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:48:26",
+      "delete" : false,
+      "identifier" : "CLL947gGIABIAZABAA==",
+      "msg" : "Queria mais explicações sobre como funciona",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:59:36",
+      "delete" : false,
+      "mediaName" : "145b935e-b370-4932-b99c-e635a74f2bd0.opus",
+      "localPath" : "media\/e3a59c9422fe1c627e7225f70ea594ec18cbbe91.opus",
+      "mediaSize" : "202 KB",
+      "identifier" : "CNCC5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:38"
+    }
+  ]
+})

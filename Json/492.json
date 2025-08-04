@@ -1,0 +1,334 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 47 99283-5820",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:14:55",
+      "delete" : false,
+      "identifier" : "CIfmo7kGIABIAJABAA==",
+      "msg" : "Opa, boa tarde 👋",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:15:00",
+      "delete" : false,
+      "identifier" : "CIzmo7kGIABIAJABAA==",
+      "msg" : "Sumiu também uma categoria que eu usava demais para anotação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:15:04",
+      "delete" : false,
+      "identifier" : "CJDmo7kGIABIAJABAA==",
+      "msg" : "A seção de “Tarefas”",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:15:10",
+      "delete" : false,
+      "mediaName" : "e5b2e776-b265-4ac6-814a-03854b2cc013.jpg",
+      "localPath" : "media\/72bb7b5d225185b61d581d07513486f3cf0e40f0.jpg",
+      "mediaSize" : "53 KB",
+      "identifier" : "CJbmo7kGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ba3a574deea8587483a3eb3ba81175660076d273"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:16:01",
+      "delete" : false,
+      "mediaName" : "53f10762-ec6b-4d7d-8238-dfab840ae917.jpg",
+      "localPath" : "media\/a2b193d927aea4fd87beeeb38439406ce67decf5.jpg",
+      "mediaSize" : "22 KB",
+      "identifier" : "CMnmo7kGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b13a6a55aa3a91b374d1d06953d2033860a5d326"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 13:17:48",
+      "delete" : false,
+      "identifier" : "CLTno7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMDkwQTIyQkU3MTAyNTBDNEVA6a\/iv68ySAB4kYv5668ykAEA",
+      "msg" : "Olá! Eu sou a Júlia, do suporte Iuri Meira, e estou aqui para te ajudar da melhor maneira possível! 😊\n\nNossos desenvolvedores estão fazendo atualizações na Central, você pode estar colocando as próximas notas na parte de \"anotações\". 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:18:00",
+      "delete" : false,
+      "identifier" : "CMDno7kGIABIAJABAA==",
+      "msg" : "Simm, eu tinha visto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:18:13",
+      "delete" : false,
+      "identifier" : "CM3no7kGIABIAJABAA==",
+      "msg" : "Mas, simplesmente sumiu as minhas anotações em \"Tarefas\"",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:18:26",
+      "delete" : false,
+      "identifier" : "CNrno7kGIABIAJABAA==",
+      "msg" : "E o meu único backup era o CentralCaverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:18:36",
+      "delete" : false,
+      "identifier" : "COTno7kGIABIAJABAA==",
+      "msg" : "Eu preciso recuperar essas tarefas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 13:18:52",
+      "delete" : false,
+      "identifier" : "CPTno7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual seu e-mail?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:18:58",
+      "delete" : false,
+      "identifier" : "CPrno7kGIABIAJABAA==",
+      "msg" : "caiocezarprincipal@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 13:19:45",
+      "delete" : false,
+      "identifier" : "CKnoo7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou passar para eles! Obrigada pela compreensão!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:20:18",
+      "delete" : false,
+      "identifier" : "CMroo7kGIABIAJABAA==",
+      "msg" : "Showw",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:20:26",
+      "delete" : false,
+      "identifier" : "CNLoo7kGIABIAJABAA==",
+      "msg" : "Obrigado, precisava dessas informações ainda hoje",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 13:21:21",
+      "delete" : false,
+      "identifier" : "CInpo7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Assim que possível estará de volta novamente!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:22:43",
+      "delete" : false,
+      "identifier" : "CNvpo7kGIABIAJABAA==",
+      "msg" : "Perfeitoo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 13:22:45",
+      "delete" : false,
+      "identifier" : "CN3po7kGIABIAJABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 13:26:13",
+      "delete" : false,
+      "identifier" : "CK3ro7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 10:21:36",
+      "delete" : false,
+      "identifier" : "COiJyLkGIABIAJABAA==",
+      "msg" : "Fala Pessoal. Tenho dúvida sobre afiliação dos produtos do Iuri Meira.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 10:21:49",
+      "delete" : false,
+      "identifier" : "CPWJyLkGIABIAJABAA==",
+      "msg" : "Estou tentando o do central caverna, mas não funciona",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 10:22:02",
+      "delete" : false,
+      "mediaName" : "a4a794b1-378a-4d05-a5c0-1dda1c1c0d78.jpg",
+      "localPath" : "media\/c1795a43342bf1d3348080df0ac57795a5b915de.jpg",
+      "mediaSize" : "28 KB",
+      "identifier" : "CIKKyLkGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/6fc9c0deaa85cc9a90949160ce11b0b9dffc07ff"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 10:22:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CIOKyLkGIABIAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 10:30:58",
+      "delete" : false,
+      "identifier" : "CJqOyLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 10:31:33",
+      "delete" : false,
+      "identifier" : "CL2OyLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Esse link está desatualizado, pode me confirmar por onde acessou ele?\nIrei te mandar o atual!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 10:31:45",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CMmOyLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 10:32:08",
+      "delete" : false,
+      "identifier" : "COCOyLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Testa por esse e me diz se deu tudo certo ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 14:23:38",
+      "delete" : false,
+      "identifier" : "CKLUocIGIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 14:23:48",
+      "delete" : false,
+      "identifier" : "CKzUocIGIABIAJABAA==",
+      "msg" : "O link https:\/\/cursos.iurimeira.com não funciona mais pra mim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 14:23:56",
+      "delete" : false,
+      "identifier" : "CLTUocIGIABIAJABAA==",
+      "msg" : "Estou tentando acessar minha conta e esse link não funciona mais",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 14:26:43",
+      "delete" : false,
+      "identifier" : "CNvVocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Caio, beleza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 14:26:52",
+      "delete" : false,
+      "identifier" : "COTVocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Acesse por app.modocaverna\/login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 14:27:07",
+      "delete" : false,
+      "identifier" : "CPPVocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Lembrando:\n\nAtualmente, a versão mobile ainda tem algumas limitações e por isso, recomendamos que você acesse pelo computador para uma experiência mais completa e estável.\n\nA boa notícia é que o nosso app oficial já está em fase final e será lançado ainda este mês!\n\nQualquer outra duvida, estou aqui! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 14:46:58",
+      "delete" : false,
+      "identifier" : "CJrfocIGIABIAJABAA==",
+      "msg" : "Okss",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 14:46:59",
+      "delete" : false,
+      "identifier" : "CJvfocIGIABIAJABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    }
+  ]
+})

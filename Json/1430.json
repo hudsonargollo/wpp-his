@@ -1,0 +1,26 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 86 98127-2310",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 16:54:43",
+      "delete" : false,
+      "identifier" : "CIve27sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio:\nAV035925995BR",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 17:20:02",
+      "delete" : false,
+      "identifier" : "CPqM4bsGIABIAZABAA==",
+      "msg" : "Certo obrigado",
+      "type" : "text"
+    }
+  ]
+})

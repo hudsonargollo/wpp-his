@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 82 99662-0619",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/13 22:53:52",
+      "delete" : false,
+      "identifier" : "CLjZk7cGIABIAZABAA==",
+      "msg" : "Fala Pessoal. Tenho dúvida sobre afiliação dos produtos do Iuri Meira.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 09:16:09",
+      "delete" : false,
+      "identifier" : "CJH9lbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi! Espero que seu dia esteja indo bem. 😊\n\nSou a Júlia, faço parte da equipe do Iuri Meira, e estou aqui para garantir que você se sinta bem acolhido(a). \n\nComo posso te ajudar? Vamos resolver qualquer coisa juntos, ok? Conte comigo! 🤝",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/14 09:16:42",
+      "delete" : false,
+      "identifier" : "CLL9lbcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual seria sua dúvida?",
+      "type" : "text"
+    }
+  ]
+})

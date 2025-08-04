@@ -1,0 +1,99 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+39 347 316 5681",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 10:14:41",
+      "delete" : false,
+      "identifier" : "CMm\/g7kGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 10:14:45",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM2\/g7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 10:26:15",
+      "delete" : false,
+      "identifier" : "CP\/Eg7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Eu sou a Júlia, do suporte Iuri Meira, e estou aqui para te ajudar da melhor maneira possível! 😊\n\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 10:26:37",
+      "delete" : false,
+      "identifier" : "CJXFg7kGIABIAZABAA==",
+      "msg" : "Bom dia Julia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 10:26:46",
+      "delete" : false,
+      "identifier" : "CJ7Fg7kGIABIAZABAA==",
+      "msg" : "Não esta abrindo o arquivo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 10:27:57",
+      "delete" : false,
+      "mediaName" : "a5eb6dde-e5d0-4073-a462-19b90035cb3d.mp4",
+      "localPath" : "media\/66c5637bfbc358cb61a7b2dc44ee978e3447e5e2.mp4",
+      "mediaSize" : "1,1 MB",
+      "identifier" : "COXFg7kGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/ad8f8bd1461fbdf6e532c5ab9e0aeb033304c16a"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 10:29:31",
+      "delete" : false,
+      "mediaName" : "d2251891-5e0c-455e-b08d-546c4448cae5.opus",
+      "localPath" : "media\/d43863605c1ada0bd2a7b58eec2c7e5967843fa3.opus",
+      "mediaSize" : "39 KB",
+      "identifier" : "CMPGg7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 10:30:05",
+      "delete" : false,
+      "identifier" : "COXGg7kGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 10:30:12",
+      "delete" : false,
+      "mediaName" : "fd5a350e-947e-42f1-996e-68e7e26b2c75.jpg",
+      "localPath" : "media\/1f6537757e6f9590b6a7de4353a9c3536bda8132.jpg",
+      "mediaSize" : "41 KB",
+      "identifier" : "COzGg7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/8bd5061793f99d6604fbd8ec63048e71d469dcbe"
+    }
+  ]
+})

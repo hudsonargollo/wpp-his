@@ -1,0 +1,116 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 93921-8162",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 16:00:50",
+      "delete" : false,
+      "mediaName" : "b44df2d4-3793-4426-bf1e-6fafbf107d0a.opus",
+      "localPath" : "media\/3fc4218216f24086ff42a63c23d9fbd9d26aca06.opus",
+      "mediaSize" : "36 KB",
+      "identifier" : "COrJ\/b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 16:02:25",
+      "delete" : false,
+      "identifier" : "CMnK\/b0GIABIAJABAA==",
+      "msg" : "Oi Rafa, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 16:02:28",
+      "delete" : false,
+      "identifier" : "CMzK\/b0GIABIAJABAA==",
+      "msg" : "É isso mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 16:35:48",
+      "delete" : false,
+      "mediaName" : "eb4d8991-784e-4889-9323-a4a0819cbe3b.opus",
+      "localPath" : "media\/7ffd3a2394c403da4dff44b6c5f7bf4e9cba40d9.opus",
+      "mediaSize" : "95 KB",
+      "identifier" : "CJza\/b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:46"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 16:36:36",
+      "delete" : false,
+      "mediaName" : "0bea050e-8f73-41d0-b889-8715218db8da.opus",
+      "localPath" : "media\/a743853b64e405c63b7f962c99e387a7c877ab9e.opus",
+      "mediaSize" : "70 KB",
+      "identifier" : "CMza\/b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:34"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 17:15:25",
+      "delete" : false,
+      "identifier" : "COXs\/b0GIABIAJABAA==",
+      "msg" : "Pode prosseguir com o reembolso, o produto é excelente, mas não funcionou pra mim\n\nquem sabe no futuro eu volte pois os produtos do iuri sempre são top",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 17:17:30",
+      "delete" : false,
+      "identifier" : "COLt\/b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, só um momento!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 17:20:07",
+      "delete" : false,
+      "identifier" : "CP\/u\/b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Prontinho, acabei de aprovar seu reembolso, verifica se chegou a confirmação no seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 21:08:56",
+      "delete" : false,
+      "identifier" : "CKC57b4GIABIAJABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 21:09:14",
+      "delete" : false,
+      "identifier" : "CLK57b4GIABIAJABAA==",
+      "msg" : "Eu solicitei o reembolso dia 26 e hoje veio cobrando a renovação do produto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/20 06:40:40",
+      "delete" : false,
+      "identifier" : "CKDF774GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Pedro!\nEssa situação foi fora do comum, peço perdão pela cobrança indevida, já entrei em contato com a ticto e cancelamos sua assinatura e já reembolsei a renovação. Novamente peço perdão pelo transtorno",
+      "type" : "text"
+    }
+  ]
+})

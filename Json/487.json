@@ -1,0 +1,376 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 99564-1203",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:47:37",
+      "delete" : false,
+      "identifier" : "CNH7ocIGIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:47:46",
+      "delete" : false,
+      "identifier" : "CNr7ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:47:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNv7ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:48:09",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPH7ocIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:48:16",
+      "delete" : false,
+      "identifier" : "CPj7ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:48:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CP77ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:48:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CI\/8ocIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:48:41",
+      "delete" : false,
+      "identifier" : "CJH8ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:48:51",
+      "delete" : false,
+      "identifier" : "CJv8ocIGIABIAZABAA==",
+      "msg" : "Gabriel Andreatta\nandreattagf@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:48:53",
+      "delete" : false,
+      "identifier" : "CJ38ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:48:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJ\/8ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:48:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CKP8ocIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:49:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKX8ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:49:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Computador\/Tablet",
+      "delete" : false,
+      "identifier" : "CKn8ocIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:49:44",
+      "delete" : false,
+      "identifier" : "CND8ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso! Como posso te ajudar? 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:49:58",
+      "delete" : false,
+      "identifier" : "CN78ocIGIABIAJABAA==",
+      "msg" : "Boa tarde!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:49:59",
+      "delete" : false,
+      "identifier" : "CN\/8ocIGIABIAJABAA==",
+      "msg" : "Recebi ontem um e-mail avisando que o app do Modo Caverna foi lançado e eu ganhei acesso gratuito, mas não consigo entrar com o e-mail de compra porque fala que a conta não existe",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 15:52:42",
+      "delete" : false,
+      "identifier" : "CIL+ocIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Beleza!\n\nGabriel, como o lançamento foi recente, estamos passando por certa reestruturação.\n\nEm breve te dou mais detalhes e o seu acesso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:54:43",
+      "delete" : false,
+      "identifier" : "CPv+ocIGIABIAJABAA==",
+      "msg" : "Ahh beleza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:54:52",
+      "delete" : false,
+      "identifier" : "CIT\/ocIGIABIAJABAA==",
+      "msg" : "Tem uma previsão para eu conseguir acessar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 15:55:06",
+      "delete" : false,
+      "identifier" : "CJL\/ocIGIABIAJABAA==",
+      "msg" : "Voltei essa semana para o desafio e gostaria de utilizar o app",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 16:10:06",
+      "delete" : false,
+      "identifier" : "CJaGosIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Até amanhã deve estar tudo ok com o seu acesso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 16:11:18",
+      "delete" : false,
+      "identifier" : "CN6GosIGIABIAZABAA==",
+      "msg" : "Boa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 16:11:19",
+      "delete" : false,
+      "identifier" : "CN+GosIGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 16:13:32",
+      "delete" : false,
+      "identifier" : "COSHosIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Gabriel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 16:13:40",
+      "delete" : false,
+      "identifier" : "COyHosIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia mandar print desse erro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 16:14:26",
+      "delete" : false,
+      "mediaName" : "cbeccd66-d756-4c72-85b0-1735a874e0de.jpg",
+      "localPath" : "media\/de1bfbb0f90051f1e98e37f0f3f4e1cfcbe72aaa.jpg",
+      "mediaSize" : "64 KB",
+      "identifier" : "CJqIosIGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/75dc1570872b2e3ec20d0f57cf2f5785a1a48311"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 17:55:42",
+      "delete" : false,
+      "identifier" : "CNa3osIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Opa, você está se referindo ao site!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 17:55:51",
+      "delete" : false,
+      "identifier" : "CN+3osIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/app.modocaverna.com\/forgot-password \n\nrecupere sua senha com o e-mail que utilizou para a compra e me avisa se ta tudo certo! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 17:56:49",
+      "delete" : false,
+      "identifier" : "CJm4osIGIABIAJABAA==",
+      "msg" : "Ah sim, é que no e-mail fala que é app",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 17:56:58",
+      "delete" : false,
+      "mediaName" : "1094b82a-2c6b-442f-a786-346029ab268b.jpg",
+      "localPath" : "media\/84797c59f3c9ab61e50fbbc7a244a8decbbf11e8.jpg",
+      "mediaSize" : "31 KB",
+      "identifier" : "CKK4osIGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c90a3e55d07fe28b24e560f1c5ab8045c98dca9d"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 17:57:40",
+      "delete" : false,
+      "identifier" : "CMy4osIGIABIAJABAA==",
+      "msg" : "Ainda dá o mesmo erro de não existir conta desse e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 17:58:01",
+      "delete" : false,
+      "mediaName" : "eb37d1f5-2598-4e2e-bb72-fdd8374d251f.jpg",
+      "localPath" : "media\/7c5c3e5219c51bd15cd37e0627b2a407286e3ce0.jpg",
+      "mediaSize" : "116 KB",
+      "identifier" : "COG4osIGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/1420924914bb1c3592c1e545aa715933d44eadaa"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 19:05:01",
+      "delete" : false,
+      "identifier" : "CJXYosIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você poderia me enviar o seu CPF, por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 19:05:44",
+      "delete" : false,
+      "identifier" : "CMDYosIGIABIAZABAA==",
+      "msg" : "456.874.148-35",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/11 08:20:38",
+      "delete" : false,
+      "identifier" : "CI7NpcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "andreattagf@gmail.com com esse email e acessando o link: https:\/\/app.modocaverna.com\/forgot-password \n\nrecupere sua senha e me avisa se ta tudo certo! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/11 08:37:01",
+      "delete" : false,
+      "identifier" : "COXUpcIGIABIAZABAA==",
+      "msg" : "Opa, bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/11 08:37:04",
+      "delete" : false,
+      "identifier" : "COjUpcIGIABIAZABAA==",
+      "msg" : "Deu certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/11 08:37:07",
+      "delete" : false,
+      "identifier" : "COvUpcIGIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    }
+  ]
+})

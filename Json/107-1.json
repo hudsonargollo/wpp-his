@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 88 99927-9838",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/28 15:28:02",
+      "delete" : false,
+      "identifier" : "CLqCn8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, em que posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/28 23:54:51",
+      "delete" : false,
+      "identifier" : "CIPwoMQGIABIAZABAA==",
+      "msg" : "Olá , vi que tem um assistente virtual no WhatsApp, o capitão Caverna ; qual é o número desse assistente ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/29 08:35:10",
+      "delete" : false,
+      "identifier" : "CPbjosQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "bom dia, sou eu mesmo.",
+      "type" : "text"
+    }
+  ]
+})

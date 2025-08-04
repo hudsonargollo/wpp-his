@@ -1,0 +1,83 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 71 99178-6921",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 20:20:54",
+      "delete" : false,
+      "identifier" : "CN7k7LcGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 20:20:55",
+      "delete" : false,
+      "identifier" : "CODk7LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 20:20:55",
+      "delete" : false,
+      "identifier" : "CODk7LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 09:31:55",
+      "delete" : false,
+      "identifier" : "CMPX77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 09:42:21",
+      "delete" : false,
+      "identifier" : "CLXc77cGIABIAZABAA==",
+      "msg" : "Quais cursos atuais dele",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 09:43:35",
+      "delete" : false,
+      "identifier" : "CP\/c77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O curso atual do Iuri é o Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 09:53:16",
+      "delete" : false,
+      "identifier" : "CMTh77cGIABIAZABAA==",
+      "msg" : "Tem a capa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 09:54:50",
+      "delete" : false,
+      "mediaName" : "1dc21d5b-ec50-42fd-a859-ab5602718bc2.jpg",
+      "localPath" : "media\/a2b873d3322d1b11864c130a0af1a4ba703550e7.jpg",
+      "mediaSize" : "27 KB",
+      "identifier" : "CKLi77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/a371c482e5f9a9cb6ff7203251cb27b272dccde3"
+    }
+  ]
+})

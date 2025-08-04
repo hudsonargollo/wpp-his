@@ -1,0 +1,92 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 55 99989-7574",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:16:15",
+      "delete" : false,
+      "identifier" : "CMeK9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:32:12",
+      "delete" : false,
+      "identifier" : "CISS9bsGIABIAZABAA==",
+      "msg" : "Não gostei do material",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 13:12:32",
+      "delete" : false,
+      "identifier" : "CPik9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiu ter acesso ao material completo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 13:13:05",
+      "delete" : false,
+      "identifier" : "CJml9bsGIABIAZABAA==",
+      "msg" : "Eu olhei somente o primeiro e não me agradou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 13:44:37",
+      "delete" : false,
+      "mediaName" : "92380551-b6db-4492-bd9a-d57857065317.opus",
+      "localPath" : "media\/85a32a79b5c35954b80ead7029b8e5fadad791dd.opus",
+      "mediaSize" : "57 KB",
+      "identifier" : "CP2z9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 13:46:37",
+      "delete" : false,
+      "identifier" : "CPW09bsGIABIAZABAA==",
+      "msg" : "Peço desculpas pelo transtorno, mas o material não me agradou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 14:10:24",
+      "delete" : false,
+      "identifier" : "CIjA9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 14:12:02",
+      "delete" : false,
+      "identifier" : "COrA9bsGIABIAZABAA==",
+      "msg" : "Já recebi o valor, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 14:13:10",
+      "delete" : false,
+      "identifier" : "CK7B9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha☺️",
+      "type" : "text"
+    }
+  ]
+})

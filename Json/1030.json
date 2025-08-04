@@ -1,0 +1,80 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "socio lista 1 _166",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 10:27:44",
+      "delete" : false,
+      "identifier" : "CNiiob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Diego! Tudo bem?\nMe chamo Rafaella, sou responsável pelo suporte do Modo Caverna, acabei de verificar que existe uma solicitação de reembolso da sua assinatura. Poderia me detalhar melho o motivo da solicitação, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 11:10:05",
+      "delete" : false,
+      "identifier" : "CMW2ob4GIABIAJABAA==",
+      "msg" : "Bom dia, tudo bem?\nEu vi que é uma assinatura e também o app de fato ainda não esta liberado, ai vou esperar liberarem o app e ter cartão de crédito pra deixar a assinatura ok, por pix, ai preciso fica pagando manual.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 16:55:21",
+      "delete" : false,
+      "identifier" : "CLHYor4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estaremos disponibilizando a nova versão na próxima semana, já o app temos previsão até o meio do ano para estar pronto, porém se você mantiver essa assinatura não sofrerá o reajuste de preço após lançamento. Tem interesse em ver como está a nova plataforma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 17:25:17",
+      "delete" : false,
+      "identifier" : "CLXmor4GIABIAZABAA==",
+      "msg" : "Acho que não\nVou esperar tudo ficar 100% então",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 09:32:39",
+      "delete" : false,
+      "identifier" : "CO+rpr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Diego! Então deseja prosseguir com seu reembolso por não conseguir acessar o app?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 10:13:45",
+      "delete" : false,
+      "identifier" : "CJG\/pr4GIABIAJABAA==",
+      "msg" : "Bom dia\nDesejo prosseguir acesso com reembolso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 15:20:45",
+      "delete" : false,
+      "identifier" : "CIXPp74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Diego, seu reembolso foi aprovado!\nVerifica se chegou a confirmação no seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 15:49:03",
+      "delete" : false,
+      "identifier" : "CKfcp74GIABIAZABAA==",
+      "msg" : "Sim\nObrigado",
+      "type" : "text"
+    }
+  ]
+})

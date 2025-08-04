@@ -1,0 +1,704 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98715-1824",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 17:35:39",
+      "delete" : false,
+      "identifier" : "CKOX7LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Júnior!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 17:36:04",
+      "delete" : false,
+      "identifier" : "CLyX7LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pode realizar este orçamento?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 17:36:43",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "COOX7LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 09:26:06",
+      "delete" : false,
+      "identifier" : "CObU77cGIABIAJABAA==",
+      "msg" : "Vou providenciar a proposta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:10:39",
+      "delete" : false,
+      "identifier" : "CNfp77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada! No aguardo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:10:49",
+      "delete" : false,
+      "identifier" : "COHp77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Estou ótima e você?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 10:14:21",
+      "delete" : false,
+      "identifier" : "CLXr77cGIABIAJABAA==",
+      "msg" : "estou bem, obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:18:09",
+      "delete" : false,
+      "identifier" : "CJnt77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "😁😁",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 16:24:58",
+      "delete" : false,
+      "identifier" : "CJK89rcGIABIAJABAA==",
+      "msg" : "Olá, boa tarde, td bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 16:25:30",
+      "delete" : false,
+      "mediaName" : "Orcamento_61315_iuri.pdf",
+      "localPath" : "media\/bad58ffe1612e768ea5698487dd34b9ed3acc587.pdf",
+      "mediaSize" : "218 KB",
+      "identifier" : "CLK89rcGIABIAJABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/3603fe36a95d977f00cd96508e9c3bef6f6985b7"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 16:25:44",
+      "delete" : false,
+      "identifier" : "CMC89rcGIABIAJABAA==",
+      "msg" : "Posso ajudar em algo mais para seguir com o seu pedido?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 16:34:11",
+      "delete" : false,
+      "mediaName" : "06e82b60-f704-433d-aca1-c7e98355e941.opus",
+      "localPath" : "media\/807efa2483f7f77bb1e7a5e94571a020473a27f6.opus",
+      "mediaSize" : "28 KB",
+      "identifier" : "CLvA9rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 16:36:00",
+      "delete" : false,
+      "identifier" : "CKjB9rcGIABIAJABAA==",
+      "msg" : "Eu fiquei na dívida sobre essa placa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 16:36:44",
+      "delete" : false,
+      "mediaName" : "cbc3d107-de3f-4453-9e0c-9a1f7a9aa149.jpg",
+      "localPath" : "media\/937a934667a163184eba2d29e2af69f2c2a9937a.jpg",
+      "mediaSize" : "27 KB",
+      "identifier" : "CNTB9rcGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/f02ac9e968a8db2f4b5effe361afebb597889e84"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 16:41:06",
+      "delete" : false,
+      "identifier" : "CNrD9rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só um momento para eu confirmar.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 17:32:18",
+      "delete" : false,
+      "identifier" : "CNrb9rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Essa vai ser cancelada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 17:33:18",
+      "delete" : false,
+      "mediaName" : "6320b76f-c818-4924-afa4-a2f3faf7bf59.opus",
+      "localPath" : "media\/7fbd4ac19e5c75722291378fa539e7ac8474d220.opus",
+      "mediaSize" : "76 KB",
+      "identifier" : "CJbc9rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:37"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 17:38:50",
+      "delete" : false,
+      "identifier" : "COLe9rcGIABIAJABAA==",
+      "msg" : "Combinado, aguardo seu retorno para seguir.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 17:38:52",
+      "delete" : false,
+      "identifier" : "COTe9rcGIABIAJABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 17:47:41",
+      "delete" : false,
+      "identifier" : "CPXi9rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Uma ótima noite para você!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 17:51:09",
+      "delete" : false,
+      "identifier" : "CMXk9rcGIABIAJABAA==",
+      "msg" : "Igualmente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/05 11:01:09",
+      "delete" : false,
+      "identifier" : "CK2NhbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Você poderia me mandar as fotos das placas da quebra da matrix? Um lead está pedindo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/05 11:01:32",
+      "delete" : false,
+      "identifier" : "CMSNhbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Da de 100k à 1M.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 09:27:55",
+      "delete" : false,
+      "identifier" : "CNPKlLgGIABIAJABAA==",
+      "msg" : "Olá, bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 09:28:12",
+      "delete" : false,
+      "identifier" : "COTKlLgGIABIAJABAA==",
+      "msg" : "Eu enviei as fotos para o Iuri,",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 09:28:25",
+      "delete" : false,
+      "identifier" : "CPHKlLgGIABIAJABAA==",
+      "msg" : "não tenho mais essas fotos no meu banco de imagens",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 09:28:36",
+      "delete" : false,
+      "identifier" : "CPzKlLgGIABIAJABAA==",
+      "msg" : "temos apenas o vídeo no nosso Instagram",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 09:35:36",
+      "delete" : false,
+      "mediaName" : "42b5b993-6273-45bc-9927-842f184221db.opus",
+      "localPath" : "media\/07204566f3e717b1a0372c5be18ed28ac5a6f52b.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CKDOlLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 10:34:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CO\/plLgGIABIAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 10:34:33",
+      "delete" : false,
+      "identifier" : "CPHplLgGIABIAJABAA==",
+      "msg" : "segue o link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 10:36:18",
+      "delete" : false,
+      "mediaName" : "25553c7a-ef77-424d-ac33-e33143fe08b8.opus",
+      "localPath" : "media\/f240529d0d240ffb776e32f597e64960177d7312.opus",
+      "mediaSize" : "74 KB",
+      "identifier" : "CNrqlLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:36"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 11:24:41",
+      "delete" : false,
+      "identifier" : "CLGBlbgGIABIAJABAA==",
+      "msg" : "Ah entendi,",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 11:24:52",
+      "delete" : false,
+      "identifier" : "CLyBlbgGIABIAJABAA==",
+      "msg" : "essas placas eu não tenho as fotos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 11:25:07",
+      "delete" : false,
+      "identifier" : "CMuBlbgGIABIAJABAA==",
+      "msg" : "só produzindo novas placas para tirar as fotos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 11:39:47",
+      "delete" : false,
+      "mediaName" : "8d3faccd-62de-4d32-82b4-7a6889f02d1a.opus",
+      "localPath" : "media\/f2b9d07114499f1649a5a423f72914055a06dfec.opus",
+      "mediaSize" : "8 KB",
+      "identifier" : "CLuIlbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:03"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 14:31:11",
+      "delete" : false,
+      "identifier" : "COfYlbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem? O cliente da planilha que te mandei Salomão Andrade sampaio ficou com o frete de R$116,00",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 14:31:50",
+      "delete" : false,
+      "identifier" : "CI7ZlbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ele tinha solicitado placas de 100k e 250k, mas o mesmo decidiu alterar a de 250k para a de 500k",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 14:32:04",
+      "delete" : false,
+      "identifier" : "CJzZlbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Nesse caso tem alteração no frete ou prevalece o mesmo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 14:32:36",
+      "delete" : false,
+      "identifier" : "CLzZlbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMEExRUZGREFBN0RDOUE1MEFA2bnD6aYySAB4rqXk3acykAEA",
+      "msg" : "Aqui o documento para facilitar o acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 17:46:07",
+      "delete" : false,
+      "identifier" : "CJe0lrgGIABIAJABAA==",
+      "msg" : "Pode manter o mesmo valor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 17:47:02",
+      "delete" : false,
+      "identifier" : "CM60lrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada, Júnior!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 17:47:32",
+      "delete" : false,
+      "identifier" : "COy0lrgGIABIAJABAA==",
+      "msg" : "Eu que agradeço!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 09:26:30",
+      "delete" : false,
+      "mediaName" : "5266d292-b99c-440c-a950-347d23d86a45.opus",
+      "localPath" : "media\/3a2dc0d828a4bfc7267d91a1f4ba27d6a322ebff.opus",
+      "mediaSize" : "103 KB",
+      "identifier" : "CP6Pn7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:50"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 09:26:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CIGQn7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 09:29:27",
+      "delete" : false,
+      "identifier" : "CK+Rn7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "R$ 3.308,80",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 10:06:11",
+      "delete" : false,
+      "mediaName" : "93874a58-f2d6-43af-8c48-82d7118d9468.opus",
+      "localPath" : "media\/6495fffbd397e7c9ed15c972daea7718ff49a3a4.opus",
+      "mediaSize" : "9 KB",
+      "identifier" : "CMvRubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:04"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 10:11:13",
+      "delete" : false,
+      "identifier" : "CPnTubgGIABIAJABAA==",
+      "msg" : "Olá, bom dia, td bem!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 10:11:21",
+      "delete" : false,
+      "identifier" : "CIHUubgGIABIAJABAA==",
+      "msg" : "Tudo certo com os valores",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 10:14:12",
+      "delete" : false,
+      "mediaName" : "d563a20b-cf4d-493e-86b5-10054c831e04.opus",
+      "localPath" : "media\/1795fc24ac6e2bc5ef64098034e4b988f7a7b112.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CKzVubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 10:16:41",
+      "delete" : false,
+      "mediaName" : "6f8ca1c2-d89d-449b-9e23-0ce6925457d9.jpg",
+      "localPath" : "media\/c3e9bca5b8e8adfe5addca882ff30b68353906ca.jpg",
+      "mediaSize" : "45 KB",
+      "identifier" : "CMHWubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/64a91eba6e52a348d91ed05cfab93b88dd59375d"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 13:26:11",
+      "delete" : false,
+      "identifier" : "CKuN77gGIABIAJABAA==",
+      "msg" : "Olá, Td bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 13:27:14",
+      "delete" : false,
+      "identifier" : "COqN77gGIABIAJABAA==",
+      "msg" : "Nessa planilha, pede a placa de 20M porém, nunca produzimos placas de 20M",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 13:27:27",
+      "delete" : false,
+      "identifier" : "CPeN77gGIABIAJABAA==",
+      "msg" : "Vc pode enviar o arquivo dessa placa por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 18:24:57",
+      "delete" : false,
+      "identifier" : "CLGZ8LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, desculpa a demora!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 18:25:01",
+      "delete" : false,
+      "identifier" : "CLWZ8LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/drive.google.com\/file\/d\/1FFT7fjKt2EplHfqOjIdPRgtbbX-QQl5i\/view?usp=sharing",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 18:25:13",
+      "delete" : false,
+      "identifier" : "CMGZ8LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Link da placa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 18:25:29",
+      "delete" : false,
+      "identifier" : "CNGZ8LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/drive.google.com\/file\/d\/1ZvqVuS_FfJlMtLar8Cyn9UAF0_BrQGI5\/view?usp=sharing",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 18:25:44",
+      "delete" : false,
+      "identifier" : "COCZ8LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Link do papel que acompanha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 09:43:02",
+      "delete" : false,
+      "identifier" : "CN6N\/rgGIABIAJABAA==",
+      "msg" : "Olá, bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 09:43:12",
+      "delete" : false,
+      "identifier" : "COiN\/rgGIABIAJABAA==",
+      "msg" : "Obrigado, vou baixar o arquivo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 09:43:16",
+      "delete" : false,
+      "identifier" : "COyN\/rgGIABIAJABAA==",
+      "msg" : "ótima semana",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 11:13:54",
+      "delete" : false,
+      "identifier" : "CKq4\/rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tranquilo! Igualmente!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 08:26:15",
+      "delete" : false,
+      "identifier" : "CN+Mg7kGIABIAJABAA==",
+      "msg" : "Olá, bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 08:26:17",
+      "delete" : false,
+      "identifier" : "COGMg7kGIABIAJABAA==",
+      "msg" : "Td bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 08:26:39",
+      "delete" : false,
+      "identifier" : "CPeMg7kGIABIAJABAA==",
+      "msg" : "Esse arquivo está em PNG, preciso do arquivo aberto em PSD",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 08:26:47",
+      "delete" : false,
+      "identifier" : "CP+Mg7kGIABIAJABAA==",
+      "msg" : "Consegue enviar por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 10:25:54",
+      "delete" : false,
+      "identifier" : "COrEg7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Segue o anexo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 10:26:20",
+      "mediaSize" : "72,2 MB",
+      "mediaName" : "PLACA 20M.psd",
+      "localPath" : "media\/18622af05c87d11192633351e133ae45b01ef940.psd",
+      "delete" : false,
+      "identifier" : "CITFg7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 10:12:43",
+      "delete" : false,
+      "identifier" : "CNOQo7kGIABIAJABAA==",
+      "msg" : "Olá, bom dia, td bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 10:13:04",
+      "delete" : false,
+      "identifier" : "COiQo7kGIABIAJABAA==",
+      "msg" : "Você consegue enviar a arte da cartinha da placa de 20M?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 10:26:49",
+      "delete" : false,
+      "identifier" : "CKGXo7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Claro!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 10:26:59",
+      "delete" : false,
+      "identifier" : "CKuXo7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só um momento!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 10:45:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "COifo7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

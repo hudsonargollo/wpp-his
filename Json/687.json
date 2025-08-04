@@ -1,0 +1,530 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 96582-4882",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:14:25",
+      "delete" : false,
+      "identifier" : "CLmK08AGIABIAJABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:14:35",
+      "delete" : false,
+      "identifier" : "CMOK08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:14:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMSK08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:15:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPaK08AGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:15:34",
+      "delete" : false,
+      "identifier" : "CP6K08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:15:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIOL08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:16:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "CJyL08AGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:16:06",
+      "delete" : false,
+      "identifier" : "CJ6L08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:16:23",
+      "delete" : false,
+      "identifier" : "CK+L08AGIABIAJABAA==",
+      "msg" : "Luan Carlos\noliveiraluancarlos@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:16:26",
+      "delete" : false,
+      "identifier" : "CLKL08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:16:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLOL08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:16:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CM2L08AGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:16:56",
+      "delete" : false,
+      "identifier" : "CNCL08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nLembrando que nosso atendimento funciona em horário comercial, caso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:18:03",
+      "delete" : false,
+      "identifier" : "CJOM08AGIABIAJABAA==",
+      "msg" : "Gostaria de falar com o atendente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:50:46",
+      "delete" : false,
+      "identifier" : "CL6b08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem contigo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:50:54",
+      "delete" : false,
+      "identifier" : "CMab08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "como você se chama?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 10:51:05",
+      "delete" : false,
+      "identifier" : "CNGb08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "poderia me passa seu email de compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:55:53",
+      "delete" : false,
+      "identifier" : "CPGd08AGIABIAJABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:55:55",
+      "delete" : false,
+      "identifier" : "CPOd08AGIABIAJABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:56:00",
+      "delete" : false,
+      "identifier" : "CPid08AGIABIAJABAA==",
+      "msg" : "Me chamo Luan",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:56:09",
+      "delete" : false,
+      "identifier" : "CIGe08AGIABIAJABAA==",
+      "msg" : "oliveiraluancarlos@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 10:56:40",
+      "delete" : false,
+      "identifier" : "CKCe08AGIABIAJABAA==",
+      "msg" : "Gostaria de solicitar o cancelamento do acesso e reembolso por favor.. Quero esperar mais um pouco e comprar o acesso completo e",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 11:00:08",
+      "delete" : false,
+      "mediaName" : "b2b760a3-a920-47ba-9509-7a7d08477157.opus",
+      "localPath" : "media\/eb035daaf4ee060759b192a1cc9db59e668ac48b.opus",
+      "mediaSize" : "350 KB",
+      "identifier" : "CPCf08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 11:08:59",
+      "delete" : false,
+      "identifier" : "CIOk08AGIABIAJABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 11:10:08",
+      "delete" : false,
+      "identifier" : "CMik08AGIABIAJABAA==",
+      "msg" : "Quanto seria esse desconto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 11:17:56",
+      "delete" : false,
+      "identifier" : "CJyo08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "equivalente ao valor da sua compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 11:24:44",
+      "delete" : false,
+      "identifier" : "CLSr08AGIABIAJABAA==",
+      "msg" : "Então sairia no valor R$ 250,00?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 11:30:26",
+      "delete" : false,
+      "identifier" : "CIqu08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 11:30:44",
+      "delete" : false,
+      "identifier" : "CJyu08AGIABIAJABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 11:31:14",
+      "delete" : false,
+      "identifier" : "CLqu08AGIABIAJABAA==",
+      "msg" : "Então vou fazer o seguinte... Vou estudar e aplicar esse final de semana a questão da renda extra e partir daí eu avalio pra finalizar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 11:31:52",
+      "delete" : false,
+      "identifier" : "COCu08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "isso ai",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 11:31:58",
+      "delete" : false,
+      "identifier" : "COau08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "vamos pra cima",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 11:32:16",
+      "delete" : false,
+      "identifier" : "CPiu08AGIABIAJABAA==",
+      "msg" : "💪🏾",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 11:33:01",
+      "delete" : false,
+      "mediaName" : "90050c69-39b9-4c80-83b0-14c6898d21db.mp4",
+      "localPath" : "media\/aeb3a3fa1457bb7b2768e214f197561cb120935e.mp4",
+      "mediaSize" : "64,2 MB",
+      "identifier" : "CKWv08AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/bd881cf9770fb4cdfa3bd96a493b36820f825a3f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 09:48:09",
+      "delete" : false,
+      "identifier" : "CJGK6MAGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 10:22:30",
+      "delete" : false,
+      "identifier" : "CJ6a6MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 10:27:19",
+      "delete" : false,
+      "identifier" : "CL+c6MAGIABIAJABAA==",
+      "msg" : "Tudo certo meu amigo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 10:27:39",
+      "delete" : false,
+      "identifier" : "CNOc6MAGIABIAJABAA==",
+      "msg" : "Gostaria de seguir com o reembolso mesmo. Você pode finalizar por favor.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 10:47:31",
+      "delete" : false,
+      "identifier" : "CPul6MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O senhor usufruiu de toda a plataforma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 10:47:42",
+      "delete" : false,
+      "identifier" : "CIam6MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "QUais expectativas não foram atendidas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 10:50:18",
+      "delete" : false,
+      "identifier" : "CKKn6MAGIABIAJABAA==",
+      "msg" : "Então, como lhe expliquei o problema não é a plataforma e sim comigo mesmo. Quero me organizar e ter acesso completo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 14:14:53",
+      "delete" : false,
+      "identifier" : "CJWH6cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, posso garantir isso pra você",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 14:28:12",
+      "delete" : false,
+      "identifier" : "CLSN6cAGIABIAJABAA==",
+      "msg" : "Obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 17:28:15",
+      "delete" : false,
+      "identifier" : "COfh6cAGIABIAJABAA==",
+      "msg" : "Oiii",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 17:28:17",
+      "delete" : false,
+      "identifier" : "COnh6cAGIAA6FDNGQTE3RjZDNEVFMUM3NUNBQkQ3QOfhpLrqMkgAePehxuPqMpABAA==",
+      "msg" : "Conseguiu?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 09:52:11",
+      "delete" : false,
+      "identifier" : "CIOv7cAGIABIAJABAA==",
+      "msg" : "Olá bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 09:52:22",
+      "delete" : false,
+      "identifier" : "CI6v7cAGIABIAJABAA==",
+      "msg" : "Aguardo o retorno de vocês",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 11:44:23",
+      "delete" : false,
+      "identifier" : "CM\/j7cAGIABIAJABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/07 11:56:48",
+      "delete" : false,
+      "mediaName" : "610536fa-c4fe-42ff-8634-6a564cc9e6b8.m4a",
+      "localPath" : "media\/568fb17eacc54ec2bc2e9ca92ef0e7881634e0e1.m4a",
+      "mediaSize" : "188 KB",
+      "identifier" : "CLjp7cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 11:59:32",
+      "delete" : false,
+      "identifier" : "CNzq7cAGIABIAJABAA==",
+      "msg" : "Como seria?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/07 12:04:39",
+      "delete" : false,
+      "mediaName" : "1dfbd54c-44e3-49e4-87bb-41afdda280ae.m4a",
+      "localPath" : "media\/12f8442ac74802b1e6b723bf9929a9fbc68ae9cd.m4a",
+      "mediaSize" : "225 KB",
+      "identifier" : "CI\/t7cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 12:10:14",
+      "delete" : false,
+      "identifier" : "CN7v7cAGIABIAJABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 12:10:25",
+      "delete" : false,
+      "identifier" : "COnv7cAGIABIAJABAA==",
+      "msg" : "Combinado.. Dessa forma tudo bem!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 12:10:53",
+      "delete" : false,
+      "identifier" : "CIXw7cAGIABIAJABAA==",
+      "msg" : "É tempo suficiente para aplicar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/07 12:44:39",
+      "delete" : false,
+      "identifier" : "CO\/\/7cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, Luan, o seu acesso já foi liberado!\n\nQualquer coisa que precisar no uso da plataforma, me chama aqui,\ntô por perto pra te ajudar. 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 12:46:19",
+      "delete" : false,
+      "identifier" : "CNOA7sAGIABIAZABAA==",
+      "msg" : "Muito obrigado!! 💪🏾💪🏾💪🏾",
+      "type" : "text"
+    }
+  ]
+})

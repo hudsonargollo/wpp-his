@@ -1,0 +1,666 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 99679-6433",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 15:17:58",
+      "delete" : false,
+      "mediaName" : "e2e22adb-3d77-4091-ad38-0935b8df38ca.opus",
+      "localPath" : "media\/2b837fe90986814bc3d176a2183566f60cb5ba20.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CN7ZvL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 15:18:25",
+      "delete" : false,
+      "identifier" : "CPnZvL4GIABIAJABAA==",
+      "msg" : "Oiii, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 15:18:30",
+      "delete" : false,
+      "identifier" : "CP7ZvL4GIABIAJABAA==",
+      "msg" : "Simm",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 15:18:36",
+      "delete" : false,
+      "identifier" : "CITavL4GIABIAJABAA==",
+      "msg" : "Ele vai te passer umas instrucoes ai acho ahaha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 15:20:01",
+      "delete" : false,
+      "identifier" : "CNnavL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ótimo!! Você já tem conta na Ticto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 15:23:08",
+      "delete" : false,
+      "identifier" : "CJTcvL4GIABIAJABAA==",
+      "msg" : "Tenho sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 15:23:49",
+      "delete" : false,
+      "mediaName" : "b87ff1ee-b188-4c37-b6d4-2d1d1627f893.opus",
+      "localPath" : "media\/91283b3996c6b1b4fb977f90a360b98513829c45.opus",
+      "mediaSize" : "30 KB",
+      "identifier" : "CL3cvL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 15:27:25",
+      "delete" : false,
+      "identifier" : "CJXevL4GIABIAJABAA==",
+      "msg" : "meninzin@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 15:27:27",
+      "delete" : false,
+      "identifier" : "CJfevL4GIABIAJABAA==",
+      "msg" : "Pode ser sim!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 15:30:18",
+      "delete" : false,
+      "mediaName" : "c2487664-f9d0-4093-9126-116444d20159.opus",
+      "localPath" : "media\/b017cb6cef2a7e6c61fee3846456cd53a444eae0.opus",
+      "mediaSize" : "33 KB",
+      "identifier" : "CMLfvL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 15:37:03",
+      "delete" : false,
+      "identifier" : "CNfivL4GIABIAJABAA==",
+      "msg" : "Obrigadooo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 15:37:05",
+      "delete" : false,
+      "identifier" : "CNnivL4GIABIAJABAA==",
+      "msg" : "Chegou sim!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/10 15:37:08",
+      "delete" : false,
+      "identifier" : "CNzivL4GIABIAJABAA==",
+      "msg" : "Valeu, Rafa!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 15:57:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJHsvL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/10 15:57:36",
+      "delete" : false,
+      "identifier" : "CKjsvL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer coisa que precisar ou dúvida que tiver, é só me mandar mensagem ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 14:03:25",
+      "delete" : false,
+      "identifier" : "COX8xr4GIABIAZABAA==",
+      "msg" : "Oi Rafaaa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 14:03:27",
+      "delete" : false,
+      "identifier" : "COf8xr4GIABIAZABAA==",
+      "msg" : "Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 14:03:28",
+      "delete" : false,
+      "identifier" : "COj8xr4GIABIAZABAA==",
+      "msg" : "Rafa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 14:03:32",
+      "delete" : false,
+      "identifier" : "COz8xr4GIABIAZABAA==",
+      "msg" : "Minha venda não tá contabilizando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 14:03:34",
+      "delete" : false,
+      "identifier" : "CO78xr4GIABIAZABAA==",
+      "msg" : "Consegue ver pra mim?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 14:07:33",
+      "delete" : false,
+      "identifier" : "CN3+xr4GIABIAZABAA==",
+      "msg" : "https:\/\/acesse.modocaverna.com\/cc-af\/?first=1&hash=P58A26&pid=AFC606A380&redirect=1",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 14:07:36",
+      "delete" : false,
+      "identifier" : "COD+xr4GIABIAZABAA==",
+      "msg" : "Mandei esse link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 15:56:23",
+      "delete" : false,
+      "identifier" : "CN+xx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi Edu, boa tarde!!\nMe envia um print dos links que aparecem na sua ticto, ppor favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 15:57:48",
+      "delete" : false,
+      "mediaName" : "361bda76-29b8-42d9-b7a2-2beb8869fd39.jpg",
+      "localPath" : "media\/797f82999a2b87d2772f651b13bb28d98171ab1b.jpg",
+      "mediaSize" : "77 KB",
+      "identifier" : "CLSyx74GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/412b1bb5dd8a42a114f9e9ada1d83cb25ca2d144"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:05:21",
+      "delete" : false,
+      "mediaName" : "82a2bfff-0a78-436f-b936-fead8f61ef1a.opus",
+      "localPath" : "media\/223e2ad3214478b5029fef2dd7504801a25bcafa.opus",
+      "mediaSize" : "25 KB",
+      "identifier" : "CPm1x74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:07:04",
+      "delete" : false,
+      "mediaName" : "0dbe0cdd-684c-4a72-90c1-cd0c12c909d3.jpg",
+      "localPath" : "media\/02761011558329d3e80a52e0d2996af3917058a1.jpg",
+      "mediaSize" : "83 KB",
+      "identifier" : "COC2x74GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/f644bcd09d7ddb9283c67bcece2e9e5cbdac4ad2"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:07:19",
+      "delete" : false,
+      "identifier" : "CO+2x74GIABIAJABAA==",
+      "msg" : "https:\/\/checkout.ticto.app\/O383E41E6?pid=AFC606A380\nhttps:\/\/checkout.ticto.app\/OB6771B31?pid=AFC606A380\n\nhttps:\/\/ticto.link\/to\/P58A26?pid=AFC606A380\nhttps:\/\/ticto.link\/to\/PB607E?pid=AFC606A380\nhttps:\/\/ticto.in\/to\/P58A26?pid=AFC606A380\nhttps:\/\/ticto.in\/to\/PB607E?pid=AFC606A380",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:07:45",
+      "delete" : false,
+      "identifier" : "CIm3x74GIABIAJABAA==",
+      "msg" : "Tem como atribuir as vendas que tiveram",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:07:50",
+      "delete" : false,
+      "identifier" : "CI63x74GIABIAJABAA==",
+      "msg" : "Pra conta?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:12:09",
+      "delete" : false,
+      "identifier" : "CJG5x74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Consegue me enviar o email dos compradores?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:12:28",
+      "delete" : false,
+      "identifier" : "CKS5x74GIABIAZABAA==",
+      "msg" : "Putz",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:12:30",
+      "delete" : false,
+      "identifier" : "CKa5x74GIABIAZABAA==",
+      "msg" : "Kkkkkk",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:12:33",
+      "delete" : false,
+      "identifier" : "CKm5x74GIABIAZABAA==",
+      "msg" : "Pior q não faço ideia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:18:51",
+      "delete" : false,
+      "mediaName" : "43eb836f-a104-43e6-b87f-b9281d7bd3f7.jpg",
+      "localPath" : "media\/9461570f20a235e5763bfda455ddc2c799a604e1.jpg",
+      "mediaSize" : "23 KB",
+      "identifier" : "CKO8x74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/6f932d1d8c32635358ffa28bc05860076e0577b5"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:19:17",
+      "delete" : false,
+      "mediaName" : "e6b537ae-ccb7-4309-8cac-81a35fa3713f.opus",
+      "localPath" : "media\/3743a16c5996db4a9a8287b2002fedd2826c322d.opus",
+      "mediaSize" : "48 KB",
+      "identifier" : "CL28x74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:21:43",
+      "delete" : false,
+      "identifier" : "CM+9x74GIABIAJABAA==",
+      "msg" : "Beleza, mt obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:23:41",
+      "delete" : false,
+      "mediaName" : "a4282e90-1cd4-483e-ad91-68f059419d93.opus",
+      "localPath" : "media\/d2f39a36f27e8de4807a1ca8b0708c25f22adb49.opus",
+      "mediaSize" : "19 KB",
+      "identifier" : "CMW+x74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:27:31",
+      "delete" : false,
+      "identifier" : "CKvAx74GIABIAZABAA==",
+      "msg" : "JaNa faço isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:28:04",
+      "delete" : false,
+      "identifier" : "CMzAx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pronto, fora isso, consegue me dizer quantas vendas foram?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:28:36",
+      "delete" : false,
+      "mediaName" : "a081885a-66ad-4fdd-b84a-09401329c826.opus",
+      "localPath" : "media\/c92b1c82e56f502a1edf23a51d69404e1e24328c.opus",
+      "mediaSize" : "41 KB",
+      "identifier" : "COzAx74GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:29:25",
+      "delete" : false,
+      "mediaName" : "81d01696-eab8-403c-bf60-eb8394efa5c4.opus",
+      "localPath" : "media\/0e06381bdcaa2a9669d33958dddfc4acc2c4a200.opus",
+      "mediaSize" : "13 KB",
+      "identifier" : "CJ3Bx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:29:39",
+      "delete" : false,
+      "mediaName" : "00d6724a-3ac7-456e-8eef-f1d95f12c1a4.jpg",
+      "localPath" : "media\/1212a90101621213fa86dc275f4a3f1fc0d7daa2.jpg",
+      "mediaSize" : "10 KB",
+      "identifier" : "CKvBx74GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/acc34dadb52a66613677be33cac17600a4c135d1"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:30:34",
+      "delete" : false,
+      "identifier" : "COLBx74GIABIAZABAA==",
+      "msg" : "Ezio Rios\nHigor Bertelli\nBruno\nMatheus",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:30:38",
+      "delete" : false,
+      "identifier" : "CObBx74GIABIAZABAA==",
+      "msg" : "Q eu consegui ver aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:30:39",
+      "delete" : false,
+      "identifier" : "COfBx74GIABIAZABAA==",
+      "msg" : "Foram esses",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:31:14",
+      "delete" : false,
+      "mediaName" : "cccfda4a-7d6c-4d16-a98a-d404f0e16092.opus",
+      "localPath" : "media\/d32e6f4345521302560ab51551c043880ca2daa6.opus",
+      "mediaSize" : "41 KB",
+      "identifier" : "CIrCx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:33:33",
+      "delete" : false,
+      "identifier" : "CJXDx74GIABIAZABAA==",
+      "msg" : "Obrigado!!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:35:24",
+      "delete" : false,
+      "mediaName" : "f921eaf4-1e17-47c2-9dad-5c3cd63dd356.jpg",
+      "localPath" : "media\/370ec444931bf5edda7fd5aa610f67739529eb77.jpg",
+      "mediaSize" : "130 KB",
+      "identifier" : "CITEx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/ba4e565f8e661e4e5dad335c92e1150cff75f80c"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:41:21",
+      "delete" : false,
+      "identifier" : "COnGx74GIABIAZABAA==",
+      "msg" : "Qual o nome do Filipe?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:41:43",
+      "delete" : false,
+      "identifier" : "CP\/Gx74GIABIAZABAA==",
+      "msg" : "Não teve Higor Bertelli tbm?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:41:45",
+      "delete" : false,
+      "identifier" : "CIHHx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "FILIPE JUNIO MONTEIRO RAMIRO",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:42:03",
+      "delete" : false,
+      "identifier" : "CJPHx74GIABIAZABAA==",
+      "msg" : "Ricardo ali é Scorparo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:42:09",
+      "delete" : false,
+      "identifier" : "CJnHx74GIABIAZABAA==",
+      "msg" : "Não é minha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:42:11",
+      "delete" : false,
+      "identifier" : "CJvHx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não, só teve um Igor Santana que deu pagamento recusado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:42:34",
+      "delete" : false,
+      "identifier" : "CLLHx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sim!!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:42:42",
+      "delete" : false,
+      "identifier" : "CLrHx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou te comissionar nela",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:42:55",
+      "delete" : false,
+      "identifier" : "CMfHx74GIABIAZABAA==",
+      "msg" : "Ahh e minha tbm 🙏🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:43:01",
+      "delete" : false,
+      "identifier" : "CM3Hx74GIABIAZABAA==",
+      "msg" : "Obrigado!!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:43:35",
+      "delete" : false,
+      "identifier" : "CO\/Hx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! Assim que puder, me envia os links que vou conferir pra você",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:44:50",
+      "delete" : false,
+      "mediaName" : "a02b4c1a-8a13-4ec1-9ea4-8ac92b706945.opus",
+      "localPath" : "media\/559faff749218b6904bae19f0ffb479edf75225d.opus",
+      "mediaSize" : "37 KB",
+      "identifier" : "CLrIx74GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 16:48:36",
+      "delete" : false,
+      "identifier" : "CJzKx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, tranquilo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 16:58:04",
+      "delete" : false,
+      "identifier" : "CNTOx74GIABIAJABAA==",
+      "msg" : "https:\/\/checkout.ticto.app\/O383E41E6?pid=AF80E48C2B\nhttps:\/\/checkout.ticto.app\/OB6771B31?pid=AF80E48C2B\n\nhttps:\/\/ticto.link\/to\/P58A26?pid=AF80E48C2B\nhttps:\/\/ticto.link\/to\/PB607E?pid=AF80E48C2B\nhttps:\/\/ticto.in\/to\/P58A26?pid=AF80E48C2B\nhttps:\/\/ticto.in\/to\/PB607E?pid=AF80E48C2B",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 17:00:41",
+      "delete" : false,
+      "identifier" : "CPHPx74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora foi!! Tudo certinho ✅",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 17:39:49",
+      "delete" : false,
+      "identifier" : "CJ3ix74GIABIAZABAA==",
+      "msg" : "Obrigado!!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 19:45:11",
+      "delete" : false,
+      "identifier" : "CP+cyL4GIABIAZABAA==",
+      "msg" : "Rafaaaa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 19:45:15",
+      "delete" : false,
+      "identifier" : "CIOdyL4GIABIAZABAA==",
+      "msg" : "Tem o Isaías Júnior",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 19:45:35",
+      "delete" : false,
+      "identifier" : "CJedyL4GIABIAZABAA==",
+      "msg" : "Que comprou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/13 08:50:19",
+      "delete" : false,
+      "identifier" : "CIONy74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia!!\nEle não ta aparecendo aqui, tem certeza que ele finalizou?",
+      "type" : "text"
+    }
+  ]
+})

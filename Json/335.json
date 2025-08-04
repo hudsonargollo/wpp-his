@@ -1,0 +1,364 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 65 99999-8826",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 13:01:39",
+      "delete" : false,
+      "identifier" : "COvuicAGIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 13:01:52",
+      "delete" : false,
+      "identifier" : "CPjuicAGIABIAJABAA==",
+      "msg" : "mudou os site quero acessas os cursos meu usuário luciney@infowin.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:06:54",
+      "delete" : false,
+      "identifier" : "CPa\/jsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia ainda está no mesmo site",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:14:48",
+      "delete" : false,
+      "identifier" : "CNDDjsAGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:14:57",
+      "delete" : false,
+      "identifier" : "CNnDjsAGIABIAZABAA==",
+      "msg" : "Consegue me liberar os cursos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:15:09",
+      "delete" : false,
+      "identifier" : "COXDjsAGIABIAZABAA==",
+      "msg" : "Mudou os links",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:36:13",
+      "delete" : false,
+      "identifier" : "CNXNjsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "app.modocaverna.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:41:58",
+      "delete" : false,
+      "identifier" : "CK7QjsAGIABIAZABAA==",
+      "msg" : "Não tem os cursos já entrei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:42:49",
+      "delete" : false,
+      "identifier" : "COHQjsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "tem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:43:37",
+      "delete" : false,
+      "mediaName" : "4a8dc2bf-9b83-4629-b9fc-220903235ef9.opus",
+      "localPath" : "media\/0d7633f2b88cc20041824aedb850380eafae79fc.opus",
+      "mediaSize" : "52 KB",
+      "identifier" : "CJHRjsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:44:57",
+      "mediaSize" : "570 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COHRjsAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/366cff8be5ad60a02159327051acc36d4e3f0497"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:45:01",
+      "delete" : false,
+      "identifier" : "COXRjsAGIABIAZABAA==",
+      "msg" : "Não aparece",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:46:26",
+      "delete" : false,
+      "mediaName" : "7554a426-f59a-4961-9d3a-ddb0fa7cb494.opus",
+      "localPath" : "media\/a4a9e16767c25812a358988d22348257b89e915c.opus",
+      "mediaSize" : "83 KB",
+      "identifier" : "CLrSjsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:46:46",
+      "delete" : false,
+      "mediaName" : "8fc9636e-32fa-4a51-afe7-612cdd2e6b9c.opus",
+      "localPath" : "media\/2d4494cae9f5c3d34bff8e65dbfbe5441dd8ec71.opus",
+      "mediaSize" : "46 KB",
+      "identifier" : "CM7SjsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/21 18:52:54",
+      "delete" : false,
+      "identifier" : "CL7T3MIGIABIAJABAA==",
+      "msg" : "boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/21 18:53:09",
+      "delete" : false,
+      "identifier" : "CM3T3MIGIABIAJABAA==",
+      "msg" : "quero que estorne não autorizei renovação automatica",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/23 08:29:53",
+      "delete" : false,
+      "identifier" : "CLn15MIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me informe o seu email e CPF de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/23 08:31:46",
+      "delete" : false,
+      "identifier" : "CKr25MIGIABIAZABAA==",
+      "msg" : "68995873191",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/23 08:31:59",
+      "delete" : false,
+      "identifier" : "CLf25MIGIABIAZABAA==",
+      "msg" : "Usuário luciney@infowin.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/23 08:54:44",
+      "delete" : false,
+      "identifier" : "CIyB5cIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado.\nO valor será devolvido em até 7 dias úteis, direto na forma de pagamento que você usou.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/03 19:13:51",
+      "delete" : false,
+      "identifier" : "CKeBnMMGIABIAJABAA==",
+      "msg" : "boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/03 19:14:03",
+      "delete" : false,
+      "identifier" : "CLOBnMMGIABIAJABAA==",
+      "msg" : "estão cobrando novamente solicito urgente cancelamento e estorno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/03 19:14:07",
+      "delete" : false,
+      "mediaName" : "87f0cb2c-28ce-47ed-bf39-51e5c7894a29.jpg",
+      "localPath" : "media\/3779e72ddf0d34acd2969899fb98aadf30511f3b.jpg",
+      "mediaSize" : "58 KB",
+      "identifier" : "CLeBnMMGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c061846fa905ba327a9242445bd3940103a1bb36"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 07:56:21",
+      "delete" : false,
+      "identifier" : "CN3mnsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Cavernoso! 🐺\nFica tranquilo, a renovação rolou porque seu plano estava ativo.\n\nMas antes de seguir com o cancelamento, me conta — por que decidiu não continuar com a gente?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/04 09:25:51",
+      "delete" : false,
+      "identifier" : "CNeQn8MGIABIAZABAA==",
+      "msg" : "Não servo pra mim quero estorno do cartão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 09:28:31",
+      "delete" : false,
+      "identifier" : "CPeRn8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Respeito sua escolha, mas deixa eu te perguntar com clareza:\nVocê chegou a aplicar o método como foi proposto?\n\nO Modo Caverna não é só um sistema, é um protocolo completo de transformação com +17 ferramentas, curso, desafio de 40 dias e até programa de afiliados.\nSeu acesso é de 1 ano. Será que você não pulou fora antes de testar de verdade?\n\nTopa aplicar por 10 dias com minha ajuda e fazer valer o investimento?\nSe ainda quiser sair, sem problema, mas que seja com consciência.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/04 10:42:24",
+      "delete" : false,
+      "identifier" : "CMi0n8MGIABIAZABAA==",
+      "msg" : "Não quero obrigado pode estornar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 10:43:10",
+      "delete" : false,
+      "identifier" : "CPa0n8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me informe o seu email e CPF de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/04 10:43:25",
+      "delete" : false,
+      "identifier" : "CIW1n8MGIABIAZABAA==",
+      "msg" : "Luciney@infowin.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/04 10:43:33",
+      "delete" : false,
+      "identifier" : "CI21n8MGIABIAZABAA==",
+      "msg" : "68995873191",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 10:44:49",
+      "delete" : false,
+      "identifier" : "CNm1n8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verificamos na nossa plataforma e no dia 23\/06 o seu plano foi cancelado e estornado.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 10:44:59",
+      "delete" : false,
+      "identifier" : "COO1n8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia verificar se essa cobrança foi realmente efetuada no seu banco?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/04 11:34:50",
+      "delete" : false,
+      "identifier" : "CJLNn8MGIABIAZABAA==",
+      "msg" : "Não foi cobrado de novo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 11:35:27",
+      "delete" : false,
+      "identifier" : "CLfNn8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Beleza!\n\njá cancelamos sua assinatura e você não receberá futuras corabnças",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 11:35:38",
+      "delete" : false,
+      "identifier" : "CMLNn8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "cobranças*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 11:35:44",
+      "delete" : false,
+      "identifier" : "CMjNn8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer outro problema, me avisa 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/04 11:36:16",
+      "delete" : false,
+      "identifier" : "COjNn8MGIABIAZABAA==",
+      "msg" : "Cobrou novamente validem por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 11:37:32",
+      "delete" : false,
+      "identifier" : "CLTOn8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado.\nO valor será devolvido em até 7 dias úteis, direto na forma de pagamento que você usou.🐺",
+      "type" : "text"
+    }
+  ]
+})

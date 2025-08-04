@@ -1,0 +1,65 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 22 99803-4585",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/17 14:51:51",
+      "delete" : false,
+      "identifier" : "CL\/uzb0GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/17 14:51:56",
+      "delete" : false,
+      "identifier" : "CMTuzb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/17 14:52:02",
+      "delete" : false,
+      "identifier" : "CMruzb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/17 14:52:30",
+      "delete" : false,
+      "identifier" : "CObuzb0GIABIAZABAA==",
+      "msg" : "Quero saber por quanto tempo tenho esses ebooks disponiveis",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/17 14:52:38",
+      "delete" : false,
+      "mediaName" : "1f7eecbe-f4fe-4e66-ba7b-d548f2d3ae77.jpg",
+      "localPath" : "media\/a2521ffd36477df8366c809f90694809adc6d97c.jpg",
+      "mediaSize" : "162 KB",
+      "identifier" : "CO7uzb0GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ea6bcb4e2290a10d2f164c5f776dc3a7e4d3a931"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/17 14:55:31",
+      "delete" : false,
+      "identifier" : "CJvwzb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Dylan! Seu acesso a esses materiais é por tempo ilimitado",
+      "type" : "text"
+    }
+  ]
+})

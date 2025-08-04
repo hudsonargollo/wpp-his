@@ -1,0 +1,408 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Hudson",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 09:39:02",
+      "delete" : false,
+      "mediaName" : "3b665d50-390b-4cc1-98e1-a023a7c57fa7.jpg",
+      "localPath" : "media\/378dcd8bc4d6acf966365c7a448a8e1a5f1820c0.jpg",
+      "mediaSize" : "164 KB",
+      "identifier" : "CPHL8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : "photo",
+      "thumbPath" : "media\/41698f13a39af9cf28ae6b850e3ddc0ae451efbd"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 09:39:02",
+      "delete" : false,
+      "mediaName" : "6f736b00-9d1f-42ee-aa51-311492f0ae78.jpg",
+      "localPath" : "media\/28294e8dce7adca5949241c47032276f916bf63d.jpg",
+      "mediaSize" : "130 KB",
+      "identifier" : "CPLL8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : "photo",
+      "thumbPath" : "media\/9a7a95cb63b00f0bb9b1652fd28999f2f95562eb"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 09:39:03",
+      "delete" : false,
+      "mediaName" : "e416936c-5981-4558-a3a7-bceb65746365.jpg",
+      "localPath" : "media\/0fa2403f48b101d63fdc5d02c1d4284f0bba80eb.jpg",
+      "mediaSize" : "128 KB",
+      "identifier" : "CPLL8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : "photo",
+      "thumbPath" : "media\/47468737bbbacfaf4997d25b4ce4c745ac26a48c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 09:39:07",
+      "delete" : false,
+      "mediaName" : "e800c1a5-82b1-45db-843c-b74bb16489c4.jpg",
+      "localPath" : "media\/aa6381b7a34cffbc272efee3d3c843f96549ab83.jpg",
+      "mediaSize" : "72 KB",
+      "identifier" : "CPXL8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : "photo",
+      "thumbPath" : "media\/9d01649b7990666299c3ec2dccc7bac643cca899"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/14 12:24:27",
+      "delete" : false,
+      "identifier" : "CLPrksEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/17 08:39:46",
+      "delete" : false,
+      "identifier" : "CIrrocEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 11:48:30",
+      "delete" : false,
+      "identifier" : "CMbRq8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/02 15:55:26",
+      "delete" : false,
+      "identifier" : "CKaBlsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/05 00:30:54",
+      "delete" : false,
+      "identifier" : "CPa4osMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 12:56:13",
+      "delete" : false,
+      "identifier" : "CKXoxMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:52:46",
+      "delete" : false,
+      "identifier" : "CKbc1cMGIABIAJABAA==",
+      "msg" : "Opa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:53:05",
+      "delete" : false,
+      "identifier" : "CLnc1cMGIABIAJABAA==",
+      "msg" : "oopa\\",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:53:36",
+      "delete" : false,
+      "identifier" : "CNjc1cMGIABIAJABAA==",
+      "msg" : "sdssd",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 17:53:36",
+      "delete" : false,
+      "identifier" : "CNjc1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "RGGR",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 17:53:44",
+      "delete" : false,
+      "identifier" : "CODc1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "L.ÇLÇ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:49:35",
+      "delete" : false,
+      "identifier" : "CMem3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 20:14:45",
+      "delete" : false,
+      "identifier" : "CO3k4MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 14:59:42",
+      "delete" : false,
+      "identifier" : "CJaj\/8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/25 14:57:54",
+      "delete" : false,
+      "identifier" : "CKqLj8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/28 01:19:11",
+      "delete" : false,
+      "identifier" : "CMf0m8QGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Desafio Caverna e quero resgatar meu presente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/28 08:56:13",
+      "delete" : false,
+      "identifier" : "COXKncQGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Desafio Caverna e quero resgatar meu presente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 14:04:28",
+      "delete" : false,
+      "identifier" : "CKShqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 16:55:50",
+      "delete" : false,
+      "mediaName" : "9a4de1fb-03ae-4a25-a218-1fd4f98ea623.mp4",
+      "localPath" : "media\/5e66f872b9e296e40a3870f4c11e9b6f2a901ec8.mp4",
+      "mediaSize" : "19,2 MB",
+      "identifier" : "CM7xqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/af6560285642e1068b4d5847c027c914b720d56b"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 22:44:02",
+      "delete" : false,
+      "mediaName" : "11adcbff-dc82-47ee-aa6b-3a13f8740759.mp4",
+      "localPath" : "media\/5d41b2b788ba7f4eee344ec8577a9ad022f0dfb3.mp4",
+      "mediaSize" : "65,6 MB",
+      "identifier" : "COqUq8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/ab85994dbc50eef660c3d01a559c019dab00e450"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 22:44:26",
+      "delete" : false,
+      "identifier" : "CIKVq8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "carlosuely@outlook.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 22:46:42",
+      "delete" : false,
+      "identifier" : "CIqWq8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "fala mano ,cheguei em casa agora ,vê ai se está tudo certinho",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 22:51:48",
+      "delete" : false,
+      "identifier" : "CLyYq8QGIABIAJABAA==",
+      "msg" : "blzz",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 05:46:37",
+      "delete" : false,
+      "identifier" : "CPXarMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Duvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 14:52:20",
+      "delete" : false,
+      "identifier" : "CNzarsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "opa mano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 14:53:15",
+      "delete" : false,
+      "identifier" : "CJPbrsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "to com um cliente aqui que não ta conseguindo acessar a conta dele",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 14:53:59",
+      "delete" : false,
+      "mediaName" : "5144ba99-527c-4558-aff9-4dd79eed053e.jpg",
+      "localPath" : "media\/8b5ff905b494b872f99d947dd851fa411ca582e9.jpg",
+      "mediaSize" : "34 KB",
+      "identifier" : "CL\/brsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/2da1c915c6061ae65ef1a003f0a128b17c3ee3ad"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 14:54:12",
+      "delete" : false,
+      "identifier" : "CMzbrsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "arnaldojosh@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 15:05:27",
+      "delete" : false,
+      "identifier" : "CO\/grsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "arnaldojoshua@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 15:05:51",
+      "delete" : false,
+      "identifier" : "CIfhrsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "064.567.005-74",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 19:01:26",
+      "delete" : false,
+      "identifier" : "CL7Pr8QGIABIAJABAA==",
+      "msg" : "https:\/\/us06web.zoom.us\/j\/8156012536?pwd=RUIrajdBaXVoTXE2RDg2OXA1ZEsyUT09&omn=81084053767",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 10:37:34",
+      "delete" : false,
+      "identifier" : "CKaGs8QGIABIAJABAA==",
+      "msg" : "https:\/\/apps.apple.com\/br\/app\/modo-caverna\/id6544803387?l=en-GB",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/01 10:48:19",
+      "delete" : false,
+      "mediaName" : "917078b2-0ccd-45d3-bc26-bb69a78f68c9.jpg",
+      "localPath" : "media\/cb731f202dcabd28ef32a5ee4b983fc2260e3320.jpg",
+      "mediaSize" : "147 KB",
+      "identifier" : "CKuLs8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/cb7917fc72cc1f4a8276872d3860576ef7481e0e"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/01 14:49:01",
+      "delete" : false,
+      "mediaName" : "b58f5f6f-98a0-48c9-bc46-6a100b2376e2.mp4",
+      "localPath" : "media\/ab405db3c89553e980151d1be3828334fed28098.mp4",
+      "mediaSize" : "5 MB",
+      "identifier" : "CJX8s8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/c93915bad73cb31117c759d66de8f383c60b5617"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/01 15:01:11",
+      "delete" : false,
+      "mediaName" : "86a08260-20ae-4312-ad5d-e0c37ed7c44b.mp4",
+      "localPath" : "media\/df781ce336b0acb3198ab08e724a29b94254fc12.mp4",
+      "mediaSize" : "10,6 MB",
+      "identifier" : "CO+BtMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/9f20bb17f3b06819031ab4363b47395c8de4b54f"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 18:27:42",
+      "delete" : false,
+      "identifier" : "CNeFusQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAcABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 18:27:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "COKFusQGIABIAJABAA==",
+      "type" : ""
+    }
+  ]
+})

@@ -1,0 +1,54 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99244-6118",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 15:15:48",
+      "delete" : false,
+      "identifier" : "CNz48LcGIABIAJABAA==",
+      "msg" : "Opa, boa tarde, beleza? \nAmigo me manda o link de afiliação do produto 5 anos em 30 dias, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 15:16:13",
+      "delete" : false,
+      "identifier" : "CPX48LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 15:16:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJf58LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 15:18:40",
+      "delete" : false,
+      "identifier" : "CIj68LcGIABIAJABAA==",
+      "msg" : "Obrigado Bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 15:19:24",
+      "delete" : false,
+      "identifier" : "CLT68LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! ☺️",
+      "type" : "text"
+    }
+  ]
+})

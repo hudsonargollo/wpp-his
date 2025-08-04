@@ -1,0 +1,95 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 47 99110-8891",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 10:12:09",
+      "delete" : false,
+      "identifier" : "CLHvkboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 09:09:15",
+      "delete" : false,
+      "identifier" : "CPP0lroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nRecebi sua solicitação de reembolso, e como parte de nossa política de tratativa, aguardamos um período de 24 horas para receber uma resposta antes de dar continuidade ao processo. Como não tivemos retorno desde nossa última conversa, consideramos que você optou por não seguir com o reembolso, e por isso o processo foi suspenso temporariamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 10:04:21",
+      "delete" : false,
+      "identifier" : "CN2Ol7oGIABIAZABAA==",
+      "msg" : "Quero seguir com o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 10:08:04",
+      "delete" : false,
+      "mediaName" : "c8e72b27-caa9-48dc-862b-2b5f8f34e614.opus",
+      "localPath" : "media\/f6ba11969d315ce1072527d02b1d9bc827e5a251.opus",
+      "mediaSize" : "15 KB",
+      "identifier" : "CLyQl7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 10:37:35",
+      "delete" : false,
+      "identifier" : "CKeel7oGIABIAZABAA==",
+      "msg" : "Acesso vitalício ao aplicativo. Além de nem estar funcionando pede uma compra adicional de 299, não especifica isso no anúncio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 10:47:06",
+      "delete" : false,
+      "mediaName" : "b89dfcbf-c8c0-4db2-8bb8-24e3a85b90b0.opus",
+      "localPath" : "media\/617d3df7bfc9f9867fbd2983b8f1486a7a67bfb0.opus",
+      "mediaSize" : "26 KB",
+      "identifier" : "COKil7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 11:31:13",
+      "delete" : false,
+      "identifier" : "CLm3l7oGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 11:31:19",
+      "delete" : false,
+      "identifier" : "CL+3l7oGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 11:48:39",
+      "delete" : false,
+      "identifier" : "CM+\/l7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estamos à disposição 😊",
+      "type" : "text"
+    }
+  ]
+})

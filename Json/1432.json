@@ -1,0 +1,403 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 98659-0763",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 13:19:15",
+      "delete" : false,
+      "identifier" : "CIuc4LsGIABIAZABAA==",
+      "msg" : "Oi tudo bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 13:19:30",
+      "delete" : false,
+      "identifier" : "CJqc4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 13:19:36",
+      "delete" : false,
+      "identifier" : "CKCc4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 13:19:40",
+      "delete" : false,
+      "identifier" : "CKSc4LsGIABIAZABAA==",
+      "msg" : "Italo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 13:19:46",
+      "delete" : false,
+      "identifier" : "CKqc4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Italo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 13:19:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLCc4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 13:19:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio 5 em 30",
+      "delete" : false,
+      "identifier" : "CLWc4LsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 13:19:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLec4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 13:20:02",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar o conteúdo",
+      "delete" : false,
+      "identifier" : "CLqc4LsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:06:40",
+      "delete" : false,
+      "identifier" : "CKiy4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:07:05",
+      "delete" : false,
+      "identifier" : "CMGy4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiu realizar o cadastro no Modo Caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:07:12",
+      "delete" : false,
+      "identifier" : "CMiy4LsGIABIAZABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:07:17",
+      "delete" : false,
+      "identifier" : "CM2y4LsGIABIAZABAA==",
+      "msg" : "Eu fiz o pagamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:07:38",
+      "delete" : false,
+      "identifier" : "COKy4LsGIABIAZABAA==",
+      "msg" : "E apareceu no email falando q tinha que falar com um atendente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:08:00",
+      "delete" : false,
+      "identifier" : "CPiy4LsGIABIAZABAA==",
+      "msg" : "Só isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:10:58",
+      "delete" : false,
+      "identifier" : "CKq04LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:11:12",
+      "delete" : false,
+      "identifier" : "CLi04LsGIABIAZABAA==",
+      "msg" : "italosouza20209090@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:15:34",
+      "delete" : false,
+      "identifier" : "CL624LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Já possui cadastro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:16:16",
+      "delete" : false,
+      "identifier" : "COi24LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Conseguiu baixar os ebooks?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:17:04",
+      "delete" : false,
+      "identifier" : "CJi34LsGIABIAZABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:17:11",
+      "delete" : false,
+      "identifier" : "CJ+34LsGIABIAZABAA==",
+      "msg" : "Como faço pra fazer o cadastro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:17:13",
+      "delete" : false,
+      "identifier" : "CKG34LsGIABIAZABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:17:20",
+      "delete" : false,
+      "mediaName" : "a66214f7-d581-49ad-b99c-24b6c52aa94c.jpg",
+      "localPath" : "media\/c21539f1c828029a3d8568a319dc296a8bd227e2.jpg",
+      "mediaSize" : "87 KB",
+      "identifier" : "CKi34LsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/356b976851c55a398d2bd1e59f8de6d09878c78f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:17:38",
+      "delete" : false,
+      "identifier" : "CLq34LsGIABIAZABAA==",
+      "msg" : "A única coisa que aparece é isso aí",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:17:59",
+      "delete" : false,
+      "identifier" : "CM+34LsGIABIAZABAA==",
+      "msg" : "Não sei oq fazer dps disso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:24:23",
+      "delete" : false,
+      "mediaName" : "670fa679-cb68-4265-98f3-bfbc4ee8a958.opus",
+      "localPath" : "media\/282211f8ed31a1b439e9c40d43d618b00ffb29ee.opus",
+      "mediaSize" : "14 KB",
+      "identifier" : "CM+64LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:24:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "COC64LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:36:07",
+      "delete" : false,
+      "identifier" : "CI\/A4LsGIABIAZABAA==",
+      "msg" : "Ok, mande os ebook",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:39:05",
+      "mediaSize" : "56,7 MB",
+      "mediaName" : "Ebook - Defina seus objetivos e metas.pdf",
+      "localPath" : "media\/393689a71132ff4ea4f46deeb38d1d5c726bff50.pdf",
+      "delete" : false,
+      "identifier" : "CMHB4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:39:06",
+      "mediaSize" : "2,9 MB",
+      "mediaName" : "Ebook - Guia Prático para definição de um plano de ação.pdf",
+      "localPath" : "media\/7f9e5739482f57881807e71e3f78dc30ab76b686.pdf",
+      "delete" : false,
+      "identifier" : "CMLB4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:39:07",
+      "mediaSize" : "2,7 MB",
+      "mediaName" : "Ebook - O manual para a criação de bons hábitos.pdf",
+      "localPath" : "media\/5636949cdea6f6bacb67cfa56674e0825ad918d3.pdf",
+      "delete" : false,
+      "identifier" : "CMPB4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:39:08",
+      "mediaSize" : "3,3 MB",
+      "mediaName" : "Ebook - Os pilares da rotina adaptativa.pdf",
+      "localPath" : "media\/9d0eeb18acddcc4ddb2be195d0ae6d90884e2ea6.pdf",
+      "delete" : false,
+      "identifier" : "CMTB4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:39:08",
+      "mediaSize" : "8,3 MB",
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/57558c60988e32f5af4c5fc80c9694b185073bf7.pdf",
+      "delete" : false,
+      "identifier" : "CMTB4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:39:09",
+      "mediaSize" : "740 KB",
+      "mediaName" : "Ebook - Produtivo burro x produtivo inteligente.pdf",
+      "localPath" : "media\/bd548d0b5857a73cd26deacebc6ac61333aed159.pdf",
+      "delete" : false,
+      "identifier" : "CMXB4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:39:10",
+      "delete" : false,
+      "mediaName" : "Planner - Desafio 5 anos em 30 dias.pdf",
+      "localPath" : "media\/6c2261a22740ae618d06ec9a8af470f52dc62c13.pdf",
+      "mediaSize" : "1,7 MB",
+      "identifier" : "CMbB4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/50e815e4644288683389f378124044a5b343bee0"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:39:22",
+      "delete" : false,
+      "identifier" : "CNLB4LsGIABIAZABAA==",
+      "msg" : "Obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:40:08",
+      "delete" : false,
+      "identifier" : "CIDC4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Dsiponha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:40:14",
+      "delete" : false,
+      "identifier" : "CIbC4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:40:31",
+      "delete" : false,
+      "identifier" : "CJfC4LsGIABIAZABAA==",
+      "msg" : "Não não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:40:36",
+      "delete" : false,
+      "identifier" : "CJzC4LsGIABIAZABAA==",
+      "msg" : "Deu tudo certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 15:02:14",
+      "delete" : false,
+      "identifier" : "CK7M4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,81 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 98160-8210",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:16:47",
+      "delete" : false,
+      "identifier" : "COeK9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 14:28:45",
+      "delete" : false,
+      "identifier" : "CNXI9bsGIABIAZABAA==",
+      "msg" : "Boa tarde Bruna!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 14:30:02",
+      "delete" : false,
+      "identifier" : "CKLJ9bsGIABIAZABAA==",
+      "msg" : "Na aula do produto dos ebooks, onde ele fala que vai liberar o link de afiliado desse produto de ebooks ao fim da aula",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 14:30:18",
+      "delete" : false,
+      "identifier" : "CLLJ9bsGIABIAZABAA==",
+      "msg" : "Só que não consegui acessar o link de afiliação dele",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 14:30:29",
+      "delete" : false,
+      "identifier" : "CL3J9bsGIABIAZABAA==",
+      "msg" : "E assisti toda a aula",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 15:00:29",
+      "delete" : false,
+      "identifier" : "CMXX9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou te enviar o link para afiliação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 15:00:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CNDX9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/08 10:07:56",
+      "delete" : false,
+      "identifier" : "CLTx+bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nRecebi sua solicitação de reembolso, e como parte de nossa política de tratativa, aguardamos um período de 24 horas para receber uma resposta antes de dar continuidade ao processo. Como não tivemos retorno desde nossa última conversa, consideramos que você optou por não seguir com o reembolso, e por isso o processo foi suspenso temporariamente.",
+      "type" : "text"
+    }
+  ]
+})

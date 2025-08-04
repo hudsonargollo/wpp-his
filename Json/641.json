@@ -1,0 +1,66 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 24 99933-2081",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/14 10:43:18",
+      "delete" : false,
+      "mediaName" : "4254a975-f3d2-421a-8abb-d5852e2023c7.jpg",
+      "localPath" : "media\/ce7fa7db0fe6a32aab6559defa37ca4d85edc4ec.jpg",
+      "mediaSize" : "61 KB",
+      "identifier" : "CP67ksEGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/29a6ebba637a53c29aaf268ab63130b3c9fca1ed"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/14 10:44:24",
+      "delete" : false,
+      "identifier" : "CMC8ksEGIABIAJABAA==",
+      "msg" : "Código da venda: PPCPMTB5GJCCA4",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/14 10:44:33",
+      "delete" : false,
+      "identifier" : "CMm8ksEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/14 10:44:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMq8ksEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/14 12:43:46",
+      "delete" : false,
+      "identifier" : "CLr0ksEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Fernanda!\n\nObrigado por nos contatar, estamos resolvendo esse mal entendido. 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/14 15:40:35",
+      "delete" : false,
+      "identifier" : "CKvHk8EGIABIAJABAA==",
+      "msg" : "Obrigada pelo retorno.",
+      "type" : "text"
+    }
+  ]
+})

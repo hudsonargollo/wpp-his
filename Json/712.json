@@ -1,0 +1,93 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 88 99850-9440",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 08:42:25",
+      "delete" : false,
+      "identifier" : "CKnI4sAGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 08:42:55",
+      "delete" : false,
+      "identifier" : "CMfI4sAGIABIAJABAA==",
+      "msg" : "estou com dificuldade para acessar o app no desktop",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 08:43:06",
+      "mediaSize" : "4 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNLI4sAGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b4c5c6cdfb1bb8f8f49644edf90dd65e29adf5d4"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 09:46:09",
+      "delete" : false,
+      "identifier" : "CJnm4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia Marcelo, o senhor está utilizando o mesmo email utilizado na compra do app?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 09:50:45",
+      "delete" : false,
+      "identifier" : "CK3o4sAGIABIAJABAA==",
+      "msg" : "sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 09:51:57",
+      "mediaSize" : "3 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPXo4sAGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/96e2622a6d77bb83543b5532491b8b9466cd75d9"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:12:18",
+      "delete" : false,
+      "identifier" : "CLry4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:12:42",
+      "delete" : false,
+      "identifier" : "CNLy4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "passei seu contato para meu supervisor e ele entrara em contato contigo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:22:30",
+      "delete" : false,
+      "identifier" : "CJ734sAGIABIAJABAA==",
+      "msg" : "ok, obrigado",
+      "type" : "text"
+    }
+  ]
+})

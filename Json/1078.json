@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 66 99618-9158",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 11:11:58",
+      "delete" : false,
+      "identifier" : "CLbC\/L0GIABIAJABAA==",
+      "msg" : "Proteja seu patrimônio com nossa promoção imperdível!🚨\n✅Preço á vista\n✅ preço a prazo até em 6x consultar valores alterado\n✅TODOS COM INSTALAÇÃO ( tubulação , e cabeamento a partir de 100m serão cobrados à parte )\nInstalação rápida e segura\nGaranta agora a segurança da sua família e empresa!🔒",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 11:12:03",
+      "delete" : false,
+      "mediaName" : "b4466953-c643-4993-b400-19aebf81c6d4.jpg",
+      "localPath" : "media\/4d04330de59f93325cb4ed371f635d5e9e897deb.jpg",
+      "mediaSize" : "165 KB",
+      "identifier" : "CLvC\/L0GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/e3804b2c86f191b4ca5117c16d3c9831c18fe2cc"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 11:12:08",
+      "delete" : false,
+      "identifier" : "CMDC\/L0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 11:12:14",
+      "delete" : false,
+      "identifier" : "CMbC\/L0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 11:27:09",
+      "delete" : false,
+      "identifier" : "CMXJ\/L0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    }
+  ]
+})

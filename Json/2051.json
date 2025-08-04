@@ -1,0 +1,188 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 33 98816-0052",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 09:35:46",
+      "delete" : false,
+      "identifier" : "CKqUn7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Sou a Bruna, do time do Iuri Meira, e estou aqui para ajudar com qualquer dúvida ou necessidade que você tenha. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre a sua experiência e o motivo pelo qual está solicitando o reembolso? Quero muito entender para poder ajudar da melhor forma possível. Obrigada! 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/10 09:49:24",
+      "delete" : false,
+      "identifier" : "CNyan7gGIABIAJABAA==",
+      "msg" : "bom dia bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/10 09:49:40",
+      "delete" : false,
+      "identifier" : "COyan7gGIABIAJABAA==",
+      "msg" : "me arrependi da compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 10:44:14",
+      "delete" : false,
+      "mediaName" : "ff3a5bde-6a16-46d0-93a6-184aaddb1413.opus",
+      "localPath" : "media\/8f2abc572cbae77c2012337b49408dfb00c5dd53.opus",
+      "mediaSize" : "31 KB",
+      "identifier" : "CLa0n7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/10 10:48:44",
+      "delete" : false,
+      "mediaName" : "2dbed963-9994-4913-84e9-d16608799bf8.opus",
+      "localPath" : "media\/81e12ed3a8686db2ccb95aefe0645228c69ecaa3.opus",
+      "mediaSize" : "82 KB",
+      "identifier" : "CMS2n7gGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:37"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 10:51:06",
+      "delete" : false,
+      "mediaName" : "7bd1ab4a-605c-4456-b537-5b0276cd4d81.opus",
+      "localPath" : "media\/f3c34897c64bc17bbb668e5aa5c4761d6e277596.opus",
+      "mediaSize" : "69 KB",
+      "identifier" : "CNK3n7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:33"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/10 10:52:00",
+      "delete" : false,
+      "mediaName" : "66dd7f55-2acd-491b-a33b-79762d772ee3.opus",
+      "localPath" : "media\/edaeb329fe0de281728abe794cce0e139ea04213.opus",
+      "mediaSize" : "16 KB",
+      "identifier" : "CIi4n7gGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 10:56:03",
+      "delete" : false,
+      "mediaName" : "69e22a3f-fcaa-4656-bbd5-b4c5fc8679c9.opus",
+      "localPath" : "media\/0562cd89710721b4f17f9d8e3a3e54466385865d.opus",
+      "mediaSize" : "7 KB",
+      "identifier" : "CPu5n7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:03"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/10 11:04:19",
+      "delete" : false,
+      "identifier" : "COu9n7gGIABIAJABAA==",
+      "msg" : "O",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/10 11:04:22",
+      "delete" : false,
+      "identifier" : "CO69n7gGIABIAJABAA==",
+      "msg" : "OK",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 11:04:46",
+      "delete" : false,
+      "identifier" : "CIa+n7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/10 11:06:28",
+      "delete" : false,
+      "identifier" : "COy+n7gGIABIAJABAA==",
+      "msg" : "confirmação chega por email?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 11:07:46",
+      "delete" : false,
+      "identifier" : "CLq\/n7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/10 11:15:05",
+      "delete" : false,
+      "identifier" : "CPHCn7gGIABIAJABAA==",
+      "msg" : "no email nao recebi a confirmação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 11:15:40",
+      "delete" : false,
+      "identifier" : "CJTDn7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olhe na caixa de Spam para ver se não chegou lá!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/10 11:18:06",
+      "delete" : false,
+      "mediaName" : "70ec678c-0ab6-4084-8614-edd28c4240dd.opus",
+      "localPath" : "media\/16e9ec9668861f7cb7f7e55080ee132c5b1dd7ed.opus",
+      "mediaSize" : "57 KB",
+      "identifier" : "CKbEn7gGIABIAJABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:28"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 14:21:11",
+      "delete" : false,
+      "identifier" : "CI+aoLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tranquilo! Obrigada pela compreensão! A Ticto é quem é a responsável pela devolução do valor, caso fique com alguma dúvida, você pode entrar em contato diretamente com o suporte do mesmo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/10 14:21:20",
+      "delete" : false,
+      "identifier" : "CJiaoLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    }
+  ]
+})

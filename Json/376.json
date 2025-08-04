@@ -1,0 +1,85 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 71 98300-4952",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 16:40:51",
+      "delete" : false,
+      "identifier" : "CMuKgcMGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 16:40:59",
+      "delete" : false,
+      "identifier" : "CNOKgcMGIABIAZABAA==",
+      "msg" : "Não consigo acessar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 16:41:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "COaKgcMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 16:41:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "CIeLgcMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 16:42:08",
+      "delete" : false,
+      "identifier" : "CJiLgcMGIABIAZABAA==",
+      "msg" : "Elisangela da Costa Silva",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 16:42:29",
+      "delete" : false,
+      "identifier" : "CK2LgcMGIABIAZABAA==",
+      "msg" : "erixande25@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 16:42:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CLaLgcMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 17:16:50",
+      "mediaSize" : "527 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLqbgcMGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/aa5fd31f1b70d6cbf6b39d10215a1e2aa1fb13ea"
+    }
+  ]
+})

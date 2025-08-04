@@ -1,0 +1,76 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 19 98168-0669",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/12 21:17:53",
+      "delete" : false,
+      "identifier" : "CLmF7L8GIABIAJABAA==",
+      "msg" : "Olá estou precisando do link de acesso para plataforma do curso,não é da agenda e sim dos treinamentos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/13 14:33:19",
+      "delete" : false,
+      "identifier" : "COfq778GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Tudo bem ?\nSou a Brenda, responsável pelo suporte do Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/13 14:34:33",
+      "mediaSize" : "3 KB",
+      "mediaName" : "d165abf5-3443-41d5-9f01-bb377d5d148a.thumb",
+      "localPath" : "media\/fdee0ed9a84b0ff0875c2b0ce09919cf8dc6f154.thumb",
+      "delete" : false,
+      "identifier" : "CLHr778GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/13 15:57:03",
+      "delete" : false,
+      "identifier" : "CIeS8L8GIABIAJABAA==",
+      "msg" : "Não  é esse link não é um que da acesso a uma plataforma com os cursos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/13 16:00:04",
+      "delete" : false,
+      "mediaName" : "b5809d12-bdde-4749-b858-262d89f56171.opus",
+      "localPath" : "media\/b634bc15117071171163452afa6d4c3403243433.opus",
+      "mediaSize" : "111 KB",
+      "identifier" : "CLyT8L8GIABIAJABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:47"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/13 16:14:23",
+      "delete" : false,
+      "identifier" : "CJea8L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ah sim, só um momento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/13 16:20:40",
+      "delete" : false,
+      "identifier" : "CJCd8L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/desafio.modocaverna.com\/material\/",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,45 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94562-3093",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/23 15:35:57",
+      "delete" : false,
+      "identifier" : "CJWAw8EGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/23 15:37:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CIiBw8EGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/23 15:40:38",
+      "delete" : false,
+      "identifier" : "CK6Cw8EGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/23 15:57:30",
+      "delete" : false,
+      "identifier" : "CKKKw8EGIABIAZABAA==",
+      "msg" : "Tá difícil de acessar a conta",
+      "type" : "text"
+    }
+  ]
+})

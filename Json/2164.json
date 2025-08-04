@@ -1,0 +1,268 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "João Paulo",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:53:45",
+      "delete" : false,
+      "identifier" : "CLH5y7cGIABIAZABAA==",
+      "msg" : "Ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:53:47",
+      "delete" : false,
+      "identifier" : "CLP5y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:53:47",
+      "delete" : false,
+      "identifier" : "CLP5y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:53:48",
+      "delete" : false,
+      "identifier" : "CLT5y7cGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:53:49",
+      "delete" : false,
+      "identifier" : "CLX5y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:53:54",
+      "delete" : false,
+      "identifier" : "CLr5y7cGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:54:01",
+      "delete" : false,
+      "identifier" : "CMH5y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Sim.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:54:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMT5y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:54:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "A Quebra da Matrix Digital",
+      "delete" : false,
+      "identifier" : "CNP5y7cGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:54:22",
+      "delete" : false,
+      "identifier" : "CNb5y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, A Quebra da Matrix Digital. Agora selecione uma opção que corresponde a sua dúvida\/problema.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:54:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNf5y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:54:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar a Área de Conteúdos",
+      "delete" : false,
+      "identifier" : "CN35y7cGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:54:31",
+      "delete" : false,
+      "identifier" : "CN\/5y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Você recebeu o login e senha no seu e-mail de compra.* Procure por \"CADEMI\" ou \"Iuri Meira\" na sua caixa de entrada, spam ou lixeira.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:54:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COL5y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:55:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consegui.",
+      "delete" : false,
+      "identifier" : "CIf6y7cGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:55:13",
+      "delete" : false,
+      "identifier" : "CIn6y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me mande seu e-mail de acesso e aguarde alguns minutos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:55:19",
+      "delete" : false,
+      "identifier" : "CI\/6y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, João, boa tarde!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:55:25",
+      "delete" : false,
+      "identifier" : "CJX6y7cGIABIAZABAA==",
+      "msg" : "Ola, boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:55:50",
+      "delete" : false,
+      "identifier" : "CK76y7cGIABIAZABAA==",
+      "msg" : "Qual a diferença da quebra da matrix com o modo caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 14:58:39",
+      "delete" : false,
+      "identifier" : "CNf7y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "A quebra da matrix é uma mentoria para o marketing digital, já o Modo Caverna são aulas baseadas em um protocolo para desenvolvimento pessoal, com enfase no foco, organização e produtividade",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:59:00",
+      "delete" : false,
+      "identifier" : "COz7y7cGIABIAZABAA==",
+      "msg" : "Show!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:59:04",
+      "delete" : false,
+      "identifier" : "CPD7y7cGIABIAZABAA==",
+      "msg" : "Eu acredito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:59:12",
+      "delete" : false,
+      "identifier" : "CPj7y7cGIABIAZABAA==",
+      "msg" : "Que tenha perdido a minha quebra da matrix",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:59:17",
+      "delete" : false,
+      "identifier" : "CP37y7cGIABIAZABAA==",
+      "msg" : "E gostaria de reaver ela",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 14:59:26",
+      "delete" : false,
+      "identifier" : "CIb8y7cGIABIAZABAA==",
+      "msg" : "E gostaria do modo caverna tbm",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 15:00:42",
+      "delete" : false,
+      "identifier" : "CNL8y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 15:01:02",
+      "delete" : false,
+      "identifier" : "COb8y7cGIABIAZABAA==",
+      "msg" : "joaoplpombal@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 15:02:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMz9y7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:37"
+    }
+  ]
+})

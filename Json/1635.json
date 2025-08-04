@@ -1,0 +1,28 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 71 99135-3415",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 09:21:34",
+      "delete" : false,
+      "identifier" : "CNa1xroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Jorge! Acabei de aprovar sua afiliação ☺️\nHoje teremos live às 19:30h, vou te mandar o link do grupo de afiliados para você ficar por dentro dos avisos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 09:22:10",
+      "mediaSize" : "14 KB",
+      "mediaName" : "f4897533-3968-4593-8d46-716a7864e494.thumb",
+      "localPath" : "media\/6c9ae236df817e4249009ad2c65b379f005e9b92.thumb",
+      "delete" : false,
+      "identifier" : "CPq1xroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

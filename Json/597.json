@@ -1,0 +1,66 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 15 99728-9715",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 16:43:36",
+      "delete" : false,
+      "identifier" : "CPDZuMEGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 16:59:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJ\/huMEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 16:59:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CL7huMEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 17:00:30",
+      "delete" : false,
+      "identifier" : "CObhuMEGIABIAZABAA==",
+      "msg" : "prialvesdutra@hotmail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 17:00:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CPnhuMEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 17:00:58",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Smartphones\/Telas pequenas",
+      "delete" : false,
+      "identifier" : "CILiuMEGIABIAZABAA==",
+      "type" : "file"
+    }
+  ]
+})

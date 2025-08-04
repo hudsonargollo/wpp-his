@@ -1,0 +1,73 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+51 951 160 037",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:41:04",
+      "delete" : false,
+      "identifier" : "CLjC4LsGIABIAJABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:41:08",
+      "delete" : false,
+      "identifier" : "CLzC4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:41:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMPC4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:41:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna\/Central Caverna",
+      "delete" : false,
+      "identifier" : "CMvC4LsGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 14:41:25",
+      "delete" : false,
+      "identifier" : "CM3C4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sem problemas! Todas as aulas do Modo Caverna estão agora dentro da Área de Conteúdos do sistema, basta acessar o sistema para assistir.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 14:42:08",
+      "delete" : false,
+      "identifier" : "CPjC4LsGIABIAJABAA==",
+      "msg" : "O que você quer dizer com sistema?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 15:23:51",
+      "delete" : false,
+      "identifier" : "CL\/W4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O Modo Caverna, antiga Central",
+      "type" : "text"
+    }
+  ]
+})

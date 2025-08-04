@@ -1,0 +1,387 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 51 99988-4308",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 20:42:17",
+      "delete" : false,
+      "identifier" : "COHI3LsGIABIAZABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 20:42:22",
+      "delete" : false,
+      "identifier" : "CObI3LsGIABIAZABAA==",
+      "msg" : "Acabei de comprar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 20:42:27",
+      "delete" : false,
+      "identifier" : "COvI3LsGIABIAZABAA==",
+      "msg" : "Como vai sair do ar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 20:42:31",
+      "delete" : false,
+      "identifier" : "CO\/I3LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 20:42:37",
+      "delete" : false,
+      "identifier" : "CPXI3LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 20:42:45",
+      "delete" : false,
+      "identifier" : "CP3I3LsGIABIAZABAA==",
+      "msg" : "William",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 20:42:51",
+      "delete" : false,
+      "identifier" : "CIPJ3LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *William*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 20:42:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CInJ3LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 20:43:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJbJ3LsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 20:43:17",
+      "delete" : false,
+      "identifier" : "CJ3J3LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 20:43:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKPJ3LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 20:43:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CMfJ3LsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 20:44:02",
+      "delete" : false,
+      "identifier" : "CMrJ3LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 20:50:19",
+      "delete" : false,
+      "identifier" : "CMPM3LsGIABIAZABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 20:50:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com dificuldade em uma das seções",
+      "delete" : false,
+      "identifier" : "CM7M3LsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 07:26:06",
+      "delete" : false,
+      "identifier" : "CMb23rsGIABIAZABAA==",
+      "msg" : "Olá, vim da Área de Conteúdos do Iuri e preciso de ajuda…",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 07:26:14",
+      "delete" : false,
+      "identifier" : "CM723rsGIABIAZABAA==",
+      "msg" : "Bom dia não consigo acessar os outros módulos do curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 09:53:33",
+      "delete" : false,
+      "identifier" : "CNW737sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 10:12:18",
+      "delete" : false,
+      "identifier" : "CLrE37sGIABIAZABAA==",
+      "msg" : "Bom dia tudo bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 10:12:49",
+      "delete" : false,
+      "identifier" : "CNnE37sGIABIAZABAA==",
+      "msg" : "Compre o modo caverna e não consigo acessar os outros módulos e queria saber como assim ele vai acabar dia 13",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 10:37:32",
+      "delete" : false,
+      "mediaName" : "76015454-69cf-4cf3-a063-9b973781f7e0.opus",
+      "localPath" : "media\/086a3c8a9374e03dcb07beaae5129ebeb3c31f49.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CKTQ37sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 10:38:06",
+      "delete" : false,
+      "identifier" : "CMbQ37sGIABIAZABAA==",
+      "msg" : "willianpassing@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 10:47:58",
+      "delete" : false,
+      "identifier" : "CJbV37sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Esse foi seu e-mail de compra?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 10:48:18",
+      "delete" : false,
+      "identifier" : "CKrV37sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não identifiquei no nosso sistema",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 10:50:17",
+      "delete" : false,
+      "identifier" : "CKHW37sGIABIAZABAA==",
+      "msg" : "lianpassing@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 11:44:37",
+      "delete" : false,
+      "identifier" : "CN3v37sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tenta acessar pelo Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 11:44:51",
+      "mediaSize" : "14 KB",
+      "mediaName" : "49ed28c4-4e83-4a33-82b9-15ae484cfef8.thumb",
+      "localPath" : "media\/1ceaaaa3ca5cb5b66f1c571874651540ea879d9b.thumb",
+      "delete" : false,
+      "identifier" : "COvv37sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 12:21:41",
+      "delete" : false,
+      "mediaName" : "b9287010-9fcb-4389-8dd3-139ebed592f2.jpg",
+      "localPath" : "media\/500d05cd9ee4a74a079e59f4f290baa6f014f7ad.jpg",
+      "mediaSize" : "74 KB",
+      "identifier" : "CI2B4LsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a8cec94be2eaf06001a295d0b9cc331625cb138a"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 12:41:00",
+      "delete" : false,
+      "identifier" : "CJSK4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tenta entrar pelo computador",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 12:41:07",
+      "delete" : false,
+      "identifier" : "CJuK4LsGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 12:48:52",
+      "delete" : false,
+      "mediaName" : "46bb8ba8-51a6-4d7f-b64f-429ab3ed0f89.jpg",
+      "localPath" : "media\/8ff6ba90abb818c21474d9ec0987dbc0956b2383.jpg",
+      "mediaSize" : "84 KB",
+      "identifier" : "COyN4LsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/2ee01a2ef95ff986b9ed5357a4af1a2fa72e428f"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 12:49:47",
+      "delete" : false,
+      "mediaName" : "7e1637f2-5d53-4e09-8a18-111bc552a540.opus",
+      "localPath" : "media\/a50d0f36438120532acdc3cd0f7990b1d15a3665.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CKOO4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 12:54:10",
+      "delete" : false,
+      "mediaName" : "33561179-a2a2-4bf5-a583-13399c5cc603.mp4",
+      "localPath" : "media\/75eef8c4bbd7ee18eef362be27b6cc505b461848.mp4",
+      "mediaSize" : "2,6 MB",
+      "identifier" : "CKqQ4LsGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/01a825f66820b23e088a72eaeb1ab2330a7c147b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 12:55:23",
+      "delete" : false,
+      "identifier" : "CPOQ4LsGIABIAZABAA==",
+      "msg" : "Ja achei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 12:56:57",
+      "delete" : false,
+      "identifier" : "CNGR4LsGIABIAZABAA==",
+      "msg" : "So me tira uma dúvida eu comprei o modo caverna mas a plataforma vou precisar pagar novamente?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 12:58:53",
+      "delete" : false,
+      "mediaName" : "0fe42f06-8762-4c9e-a610-3800c224b168.opus",
+      "localPath" : "media\/f6997895f12a1d4c542392db6f22f2286731643b.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CMWS4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 12:59:30",
+      "delete" : false,
+      "identifier" : "COqS4LsGIABIAJABAA==",
+      "msg" : "OK",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/03 13:00:20",
+      "delete" : false,
+      "identifier" : "CJyT4LsGIABIAJABAA==",
+      "msg" : "poderia me falar valores e os beneficios?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/03 13:01:49",
+      "delete" : false,
+      "mediaName" : "15ee40a5-4dd3-40a7-bfe5-62d5d1ee68a5.opus",
+      "localPath" : "media\/434df773e81d5fbce091ff03f472ec6e6216b29d.opus",
+      "mediaSize" : "93 KB",
+      "identifier" : "CPWT4LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:50"
+    }
+  ]
+})

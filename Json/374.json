@@ -1,0 +1,71 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 92 98199-0009",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 17:11:55",
+      "delete" : false,
+      "identifier" : "CJOZgcMGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 17:12:05",
+      "delete" : false,
+      "identifier" : "CJ2ZgcMGIABIAZABAA==",
+      "msg" : "Não realizei a compra, favor cancelar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 22:56:20",
+      "delete" : false,
+      "identifier" : "CMy6gsMGIABIAZABAA==",
+      "msg" : "Quero que realize o cancelamento imediatamente, não tenho interesse em renovar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/29 12:17:18",
+      "delete" : false,
+      "identifier" : "CIayhcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me informe o seu email e CPF de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/29 12:17:42",
+      "delete" : false,
+      "identifier" : "CJ6yhcMGIABIAZABAA==",
+      "msg" : "517.379.222-15",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/29 12:23:40",
+      "delete" : false,
+      "identifier" : "CIS1hcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado.\nO valor será devolvido em até 7 dias úteis, direto na forma de pagamento que você usou.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/29 12:23:55",
+      "delete" : false,
+      "identifier" : "CJO1hcMGIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    }
+  ]
+})

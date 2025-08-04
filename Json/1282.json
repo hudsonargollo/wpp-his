@@ -1,0 +1,153 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 97067-7499",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 04:38:26",
+      "delete" : false,
+      "identifier" : "CPruorwGIABIAJABAA==",
+      "msg" : "Olá, tudo bem?\n\nSou o Gustavo, sou novo por aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 04:38:36",
+      "delete" : false,
+      "identifier" : "CITvorwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 04:38:42",
+      "delete" : false,
+      "identifier" : "CIrvorwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 04:42:08",
+      "delete" : false,
+      "identifier" : "CNjworwGIABIAJABAA==",
+      "msg" : "Gustavo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 04:42:15",
+      "delete" : false,
+      "identifier" : "CN\/worwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Gustavo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 04:42:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COXworwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/19 21:57:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPa+trwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/19 21:57:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPi+trwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/19 21:57:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CIS\/trwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/19 21:57:34",
+      "delete" : false,
+      "identifier" : "CIa\/trwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/19 21:58:42",
+      "delete" : false,
+      "mediaName" : "267261db-d6bf-4c57-97a6-922819c3c0eb.jpg",
+      "localPath" : "media\/21954871ae8509435ca54c4fd2874ad0172b8ebd.jpg",
+      "mediaSize" : "178 KB",
+      "identifier" : "CMq\/trwGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/28a30ac52e64d7e2f956977d3b7eb26e10496ef1"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/19 22:00:26",
+      "delete" : false,
+      "identifier" : "CLLAtrwGIABIAZABAA==",
+      "msg" : "Outra coisa que me deixou um pouco confuso, é referente ao desafio de 40 dias no modo caverna, porém algumas explicações em vídeos aulas não condiz com o desafio. \n\nEx: Nas aulas ele sugere que faça uma pré caverna, porém na ferramenta não tem a opção de pré caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 08:01:39",
+      "delete" : false,
+      "mediaName" : "26df9390-4d97-4cc7-b7cd-2135f534cb2a.opus",
+      "localPath" : "media\/252345418c2e90a1fe08686def3c846ea0eb8af6.opus",
+      "mediaSize" : "55 KB",
+      "identifier" : "CJvauLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 08:39:35",
+      "delete" : false,
+      "identifier" : "CP\/ruLwGIABIAZABAA==",
+      "msg" : "E tem previsão de quando irá liberar essas aulas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 09:54:36",
+      "delete" : false,
+      "identifier" : "CJWPubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Em breve ☺️",
+      "type" : "text"
+    }
+  ]
+})

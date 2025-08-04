@@ -1,0 +1,344 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 93374-6184",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:28:45",
+      "delete" : false,
+      "identifier" : "CJW347wGIAA6FDNGMTk3NThEN0JBMjJGNkQ2Njk1QM7h5+jKMkgAeO\/Kge7KMpABAA==",
+      "msg" : "Olá! Bom dia.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 10:29:00",
+      "delete" : false,
+      "identifier" : "CKS347wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 10:29:06",
+      "delete" : false,
+      "identifier" : "CKq347wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:29:25",
+      "delete" : false,
+      "identifier" : "CL2347wGIABIAJABAA==",
+      "msg" : "É ANA.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 10:29:31",
+      "delete" : false,
+      "identifier" : "CMO347wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *É ANA.*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 10:29:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMm347wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:29:59",
+      "delete" : false,
+      "identifier" : "CN+347wGIABIAJABAA==",
+      "msg" : "Somente Ana mesmo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:30:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPO347wGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:30:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPi347wGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:33:12",
+      "delete" : false,
+      "identifier" : "CKC547wGIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 10:46:32",
+      "delete" : false,
+      "identifier" : "CMC\/47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 10:46:37",
+      "delete" : false,
+      "identifier" : "CMW\/47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:50:20",
+      "delete" : false,
+      "identifier" : "CKTB47wGIABIAJABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:50:46",
+      "delete" : false,
+      "identifier" : "CL7B47wGIABIAJABAA==",
+      "msg" : "Eu estou bem, obrigada por perguntar!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:50:51",
+      "delete" : false,
+      "identifier" : "CMPB47wGIABIAJABAA==",
+      "msg" : "Tudo bom contigo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:51:18",
+      "delete" : false,
+      "identifier" : "CN7B47wGIABIAJABAA==",
+      "msg" : "Então, quando eu comprei o treinamento, paguei ao total R$ 59,90.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:51:38",
+      "delete" : false,
+      "identifier" : "CPLB47wGIABIAJABAA==",
+      "msg" : "Isso, incluindo o acesso vitalício.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 10:52:18",
+      "delete" : false,
+      "mediaName" : "37e8bddd-de0e-4c65-a768-9ae58a587bf4.jpg",
+      "localPath" : "media\/98f99bee313cc1a23988089f92105168a2b14839.jpg",
+      "mediaSize" : "75 KB",
+      "identifier" : "CJrC47wGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/d27736d854fe8fcb4f5dd2c967fe1de8a6661919"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 10:53:47",
+      "delete" : false,
+      "identifier" : "CPPC47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito! E qual seria sua dúvida?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 11:08:49",
+      "delete" : false,
+      "identifier" : "CPnJ47wGIABIAJABAA==",
+      "msg" : "Se eu compro com o acesso vitalício eu tenho acesso a plataforma, ao aplicativo de vocês e todas as demais coisas\/benefícios que o mesmo oferece, confere?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 11:08:59",
+      "delete" : false,
+      "identifier" : "CIPK47wGIABIAJABAA==",
+      "msg" : "Por que é o que está dizendo a proposta.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 11:33:05",
+      "delete" : false,
+      "mediaName" : "f8a1e109-a671-44e3-8da1-2fe6c5caa4d0.opus",
+      "localPath" : "media\/812d5ecdf6dba9e063e8cb36a561a44f7f3b7f0e.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CKnV47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 11:44:55",
+      "delete" : false,
+      "identifier" : "CO\/a47wGIABIAJABAA==",
+      "msg" : "Então, quer dizer que o aplicativo eu não tenho acesso vitalício, somente aos e-books que comprei?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 11:45:39",
+      "delete" : false,
+      "identifier" : "CJvb47wGIABIAJABAA==",
+      "msg" : "E esse \"período avaliativo\" seria o quê, necessariamente?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 11:45:48",
+      "delete" : false,
+      "identifier" : "CKTb47wGIABIAJABAA==",
+      "msg" : "É só caso eu pague a assinatura?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 11:47:23",
+      "delete" : false,
+      "mediaName" : "9fccea50-cd9f-4e67-b27b-f3ac269dcdcf.opus",
+      "localPath" : "media\/f7fcdf291dcee9d47bb19fa3427aace268f6a1be.opus",
+      "mediaSize" : "53 KB",
+      "identifier" : "CIPc47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:27"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 11:49:58",
+      "delete" : false,
+      "identifier" : "CJ7d47wGIABIAJABAA==",
+      "msg" : "Ah sim! Entendi...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 11:52:10",
+      "delete" : false,
+      "identifier" : "CKLe47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Caso você tenha interesse em realizar a compra da assinatura anual eu consigo um desconto especial para você, no valor que foi investido ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/28 11:52:40",
+      "delete" : false,
+      "identifier" : "CMDe47wGIABIAJABAA==",
+      "msg" : "Você diz por R$ 59,90?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 13:15:15",
+      "delete" : false,
+      "identifier" : "CJuF5LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O desconto seria nesse valor sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 13:43:23",
+      "delete" : false,
+      "identifier" : "CLPDlcMGIABIAJABAA==",
+      "msg" : "Olá!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 13:43:29",
+      "delete" : false,
+      "identifier" : "CLnDlcMGIABIAJABAA==",
+      "msg" : "Boa tarde.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 13:43:32",
+      "delete" : false,
+      "identifier" : "CLzDlcMGIABIAJABAA==",
+      "msg" : "Tudo bom?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 13:43:41",
+      "delete" : false,
+      "identifier" : "CMXDlcMGIABIAJABAA==",
+      "msg" : "Espero que sim...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 13:44:43",
+      "delete" : false,
+      "identifier" : "CIPElcMGIABIAJABAA==",
+      "msg" : "Enfim, eu fiz a compra dos e-books a um tempo atrás, me chamou Ana Luíza.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 13:45:57",
+      "delete" : false,
+      "identifier" : "CM3ElcMGIABIAJABAA==",
+      "msg" : "Aconteceu que eu não consigo localizá-los mais. Recentemente troquei de celular e gostaria de ler o material novamente, mas não consigo acessar a página. Poderia me ajudar? Por gentileza.",
+      "type" : "text"
+    }
+  ]
+})

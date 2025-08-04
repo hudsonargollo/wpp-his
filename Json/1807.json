@@ -1,0 +1,199 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 92 99238-0392",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 15:55:30",
+      "delete" : false,
+      "identifier" : "CKqP2bkGIABIAZABAA==",
+      "msg" : "Olá, boa tarde \nTudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 15:55:44",
+      "delete" : false,
+      "identifier" : "CLiP2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 15:55:50",
+      "delete" : false,
+      "identifier" : "CL6P2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 15:55:58",
+      "delete" : false,
+      "identifier" : "CMaP2bkGIABIAZABAA==",
+      "msg" : "Thiago",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 15:56:04",
+      "delete" : false,
+      "identifier" : "CMyP2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Thiago*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 15:56:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNKP2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 15:56:48",
+      "delete" : false,
+      "identifier" : "CPiP2bkGIABIAZABAA==",
+      "msg" : "Gostaria de solicitar o reembolso do Desafio 5 anos em 30 dias",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 15:57:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJuQ2bkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 15:57:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJyQ2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 15:57:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CKWQ2bkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 15:57:36",
+      "delete" : false,
+      "identifier" : "CKiQ2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 09:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 09:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 15:57:44",
+      "delete" : false,
+      "identifier" : "CLCQ2bkGIABIAZABAA==",
+      "msg" : "Gostaria de solicitar o reembolso do Desafio 5 anos em 30 dias",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 15:58:17",
+      "delete" : false,
+      "identifier" : "CNGQ2bkGIABIAZABAA==",
+      "msg" : "Meu e-mail que foi usado para compra \n\nfortheassociados@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 16:06:17",
+      "delete" : false,
+      "mediaName" : "419c0bd1-039e-4355-b0ce-d7243f6f4569.opus",
+      "localPath" : "media\/4f45ebd459065f07d82918e894cc153459697b36.opus",
+      "mediaSize" : "20 KB",
+      "identifier" : "CLGU2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 16:10:15",
+      "delete" : false,
+      "identifier" : "CJ+W2bkGIABIAZABAA==",
+      "msg" : "Fiz a compra até agora só tive acesso *ao comecei por aqui*\nE não conseguir acessar as outras aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/14 16:56:52",
+      "delete" : false,
+      "mediaName" : "10e492bd-83a5-4004-9222-679084a178b0.opus",
+      "localPath" : "media\/8a456aedb6d5c8605ee6a9a1f0136ec91fcb30d8.opus",
+      "mediaSize" : "32 KB",
+      "identifier" : "CIys2bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/14 17:55:17",
+      "delete" : false,
+      "identifier" : "CL3H2bkGIABIAZABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/15 12:11:01",
+      "delete" : false,
+      "identifier" : "CI3J3bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Thiago! Tudo bem? ☺️\nVou te mandar o link para você acessar seus ebooks por aqui, para ficar mais fácil",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/15 12:11:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJnJ3bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/15 12:11:34",
+      "delete" : false,
+      "identifier" : "CK7J3bkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Caso ainda reste alguma dúvida, pode me sinalizar! 🔺",
+      "type" : "text"
+    }
+  ]
+})

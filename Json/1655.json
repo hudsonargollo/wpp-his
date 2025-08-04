@@ -1,0 +1,417 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 51 99393-2742",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 13:32:54",
+      "delete" : false,
+      "identifier" : "CL7NkroGIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 13:33:38",
+      "mediaSize" : "568 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COrNkroGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/5c8fd76a9839e4c8131e1ca6644ef5c2232ebb70"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 13:33:41",
+      "delete" : false,
+      "identifier" : "CO3NkroGIABIAZABAA==",
+      "msg" : "Bom diaa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 13:33:58",
+      "delete" : false,
+      "identifier" : "CP7NkroGIABIAZABAA==",
+      "msg" : "Tem algum bug que não tá permitindo adicionar novos compromissos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 13:39:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COLQkroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 13:42:28",
+      "delete" : false,
+      "identifier" : "CPzRkroGIABIAJABAA==",
+      "msg" : "boa tarde bruna, vou testar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 13:51:37",
+      "delete" : false,
+      "identifier" : "CKHWkroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, qualquer dúvida estamos à disposição 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 13:52:13",
+      "delete" : false,
+      "identifier" : "CMXWkroGIABIAZABAA==",
+      "msg" : "Funcionou, valeuuu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 14:03:23",
+      "delete" : false,
+      "identifier" : "COPbkroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Maravilha, te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 14:04:30",
+      "delete" : false,
+      "identifier" : "CKbckroGIABIAJABAA==",
+      "msg" : "Era isso mesmo, grato pelo suporte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 14:04:57",
+      "delete" : false,
+      "identifier" : "CMHckroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 22:10:46",
+      "delete" : false,
+      "identifier" : "CJ6ppLoGIABIAZABAA==",
+      "msg" : "Oi, boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 22:13:07",
+      "delete" : false,
+      "identifier" : "CKuqpLoGIABIAZABAA==",
+      "msg" : "Eu não consegui assistir a live, e estava esperando a semana inteira pra assistir mas por motivos de força maior não acabei perdendo e ela não ficou gravada no YouTube, eu teria como ter acessos ao que foi passado nela?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 22:14:28",
+      "delete" : false,
+      "identifier" : "CPyqpLoGIABIAZABAA==",
+      "msg" : "Eu já atuo no mercado como afiliado e estou terminando meu cadastro na ticto pra promover o central caverna, sério, fiquei muito chateado por perder a live kkkkkk",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:14:20",
+      "delete" : false,
+      "mediaName" : "c186e4ce-939d-4485-bf5f-afccf0d7a724.opus",
+      "localPath" : "media\/4c2951dd73639d43a5a49bf612266fd19e200c19.opus",
+      "mediaSize" : "71 KB",
+      "identifier" : "CKTgproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:34"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/30 09:24:35",
+      "delete" : false,
+      "identifier" : "CIuIrLoGIABIAZABAA==",
+      "msg" : "Bom dia... Já me afiliei, tudo certo, tem mais alguma coisa pra ser liberado?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/30 09:24:39",
+      "delete" : false,
+      "identifier" : "CI+IrLoGIABIAZABAA==",
+      "msg" : "Pena que perdi a live",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/30 09:24:51",
+      "delete" : false,
+      "identifier" : "CJuIrLoGIABIAZABAA==",
+      "msg" : "Hoje já começo a trabalhar nos anúncios",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:21:03",
+      "delete" : false,
+      "mediaName" : "bfe73eac-5511-4bbb-ae73-39e773fb5603.opus",
+      "localPath" : "media\/af71b89d3e6083fd408a49bfc9fde1c6433d8a0e.opus",
+      "mediaSize" : "62 KB",
+      "identifier" : "CMfotroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:21:12",
+      "delete" : false,
+      "mediaName" : "1bc8e9ea-b60c-46f6-a792-a1f3109b745e.mp4",
+      "localPath" : "media\/805ad7b811b719ae1cf388f559f0515bab384e5f.mp4",
+      "mediaSize" : "1,2 MB",
+      "identifier" : "CNDotroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/eaf6b8679ffae32d1314593e900848cb5b93d547"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 10:37:38",
+      "delete" : false,
+      "identifier" : "CKrwtroGIABIAZABAA==",
+      "msg" : "Perfeito, muito obrigado!!!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:38:03",
+      "delete" : false,
+      "identifier" : "CMPwtroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! Qualquer dúvida pode me mandar mensagem! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 10:38:23",
+      "delete" : false,
+      "identifier" : "CNfwtroGIABIAZABAA==",
+      "msg" : "Fecho, boa semana 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:38:47",
+      "delete" : false,
+      "identifier" : "CO\/wtroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada, para você também! 🔺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:04:18",
+      "delete" : false,
+      "identifier" : "CPq7vLoGIABIAZABAA==",
+      "msg" : "Oi, bom diaa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:04:27",
+      "delete" : false,
+      "identifier" : "CIO8vLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:04:33",
+      "delete" : false,
+      "identifier" : "CIm8vLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:04:47",
+      "delete" : false,
+      "identifier" : "CJe8vLoGIABIAZABAA==",
+      "msg" : "Fernando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:04:54",
+      "delete" : false,
+      "identifier" : "CJ68vLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Fernando*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:05:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKS8vLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:13:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "CLTAvLoGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:13:56",
+      "delete" : false,
+      "identifier" : "CLzAvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre a Central Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:14:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMHAvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:14:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Tenho dúvidas sobre a afiliação da Central Caverna 🐺",
+      "delete" : false,
+      "identifier" : "CMrAvLoGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:14:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMvAvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:14:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Sim! Já sou afiliado da Central Caverna.",
+      "delete" : false,
+      "identifier" : "CNnAvLoGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:14:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNvAvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:14:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Quero acessar os materiais para afiliados",
+      "delete" : false,
+      "identifier" : "COPAvLoGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:14:37",
+      "delete" : false,
+      "identifier" : "COXAvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para visualizar os materiais disponibilizados basta acessar o link abaixo⬇️ \n\nhttps:\/\/redirect.lifs.app\/driveafiliados",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:14:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CObAvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:15:06",
+      "delete" : false,
+      "identifier" : "CILBvLoGIABIAJABAA==",
+      "msg" : "simm",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:15:09",
+      "delete" : false,
+      "identifier" : "CIXBvLoGIABIAJABAA==",
+      "msg" : "valeuu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:47:14",
+      "delete" : false,
+      "identifier" : "CIrQvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estamos à disposição ☺️",
+      "type" : "text"
+    }
+  ]
+})

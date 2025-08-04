@@ -1,0 +1,623 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 32 98828-8694",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 20:56:05",
+      "delete" : false,
+      "identifier" : "CJ2qhsAGIABIAJABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 20:56:12",
+      "delete" : false,
+      "mediaName" : "a5575071-1d08-4353-a8d1-12157c3fb365.jpg",
+      "localPath" : "media\/52789b11227cd87b0c937afdef5703cfdf80492c.jpg",
+      "mediaSize" : "40 KB",
+      "identifier" : "CKSqhsAGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a148717d6cce3bece6e6d26125a3b534412f3634"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 20:56:16",
+      "delete" : false,
+      "identifier" : "CKiqhsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 20:56:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKmqhsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 20:56:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLmqhsAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 20:56:44",
+      "delete" : false,
+      "identifier" : "CMSqhsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 20:56:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMmqhsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 20:56:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CNOqhsAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 20:57:01",
+      "delete" : false,
+      "identifier" : "CNWqhsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 20:57:13",
+      "delete" : false,
+      "identifier" : "COGqhsAGIABIAJABAA==",
+      "msg" : "Denis Saramelo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 20:57:17",
+      "delete" : false,
+      "identifier" : "COWqhsAGIABIAJABAA==",
+      "msg" : "deniscms1@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 20:57:19",
+      "delete" : false,
+      "identifier" : "COeqhsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 20:57:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COiqhsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 20:57:28",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CPCqhsAGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 20:57:31",
+      "delete" : false,
+      "identifier" : "CPOqhsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nLembrando que nosso atendimento funciona em horário comercial, caso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 20:57:48",
+      "delete" : false,
+      "identifier" : "CISrhsAGIABIAJABAA==",
+      "msg" : "nao consigo acesso. diz que meu email nao ta cadastrado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 23:42:46",
+      "delete" : false,
+      "identifier" : "CK74hsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? Para poder acessar sua conta você vai precisar fazer o seguinte:\n\n1 - clique no link abaixo e informe seu e-mail utilizado na compra.\n\n2 - verifique sua caixa de entrada, você receberá um e-mail com um link para criar uma nova senha.\n\n3 - escolha uma senha segura e anote-a para não esquecer. Sua senha deve conter pelo menos uma letra maiúscula, um número e um caracter especial. Por exemplo: Capitao123@\n\n4 - informe sua senha nos campos solicitados e confirme.\n\n5 - faça login com seu e-mail e sua nova senha. \n\nPronto! Espero ter ajudado, precisar de qualquer outra coisa, é só chamar! \n\n🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 23:42:48",
+      "delete" : false,
+      "identifier" : "CLD4hsAGIABIAZABAA==",
+      "msg" : "Olá! Sou o Dênis, fotógrafo retratista. Obrigado por entrar em contato! 📸\n\n➡️ **Horário de Atendimento:**\n\n\n- **Segunda**: 08h - 11h || 13h - 18h\n\n- **Terça \/ Quinta**: 08h - 10h || 15h - 21h\n\n- **Quarta \/ Sexta**: 08h - 12h || 13h - 18h\n\n- **Sábado**: 09h - 15h\n\nAtualmente, não consigo atender você imediatamente. Por favor, envie sua mensagem ou solicitação de orçamento com a data do evento e o tipo de sessão que deseja. Logo mais, te respondo!\n\nAgradeço pela compreensão e estou ansioso para falar com você.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:22:36",
+      "delete" : false,
+      "mediaName" : "4535e37c-afec-4ae0-83f2-5177e7f34022.jpg",
+      "localPath" : "media\/f249a915cbbafbcff3c607e1a481737ebf0d000b.jpg",
+      "mediaSize" : "1,3 MB",
+      "identifier" : "CITsiMAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4e6c5aac2ab7d93835a164c9b4eecd656bb4e851"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:22:39",
+      "delete" : false,
+      "identifier" : "CIfsiMAGIABIAZABAA==",
+      "msg" : "Único email que recebi foi esse",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:22:43",
+      "delete" : false,
+      "identifier" : "CIvsiMAGIABIAZABAA==",
+      "msg" : "Que não entra tb",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:22:53",
+      "delete" : false,
+      "identifier" : "CJXsiMAGIABIAZABAA==",
+      "msg" : "Fala que o email tá errado ou nao existe",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:23:30",
+      "delete" : false,
+      "identifier" : "CLrsiMAGIABIAZABAA==",
+      "msg" : "Meu dados",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:23:36",
+      "delete" : false,
+      "identifier" : "CMDsiMAGIABIAZABAA==",
+      "msg" : "DENIS SARAMELO",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:23:40",
+      "delete" : false,
+      "identifier" : "CMTsiMAGIABIAZABAA==",
+      "msg" : "cpf",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:23:47",
+      "delete" : false,
+      "identifier" : "CMvsiMAGIABIAZABAA==",
+      "msg" : "06097645600",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:23:49",
+      "delete" : false,
+      "identifier" : "CM3siMAGIABIAZABAA==",
+      "msg" : "Email",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:23:54",
+      "delete" : false,
+      "identifier" : "CNLsiMAGIABIAZABAA==",
+      "msg" : "deniscms1@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 08:24:02",
+      "delete" : false,
+      "identifier" : "CNrsiMAGIABIAZABAA==",
+      "msg" : "Confere por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 10:40:43",
+      "delete" : false,
+      "mediaName" : "655e97d4-21df-446f-a2a5-c377dc1d021d.jpg",
+      "localPath" : "media\/93ca3e1c8410f8eeb6b282f4c949dbf2abe80c8d.jpg",
+      "mediaSize" : "51 KB",
+      "identifier" : "COOsicAGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/5ab109f6349f2c4848da39c3347f506840ddfe40"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:05:31",
+      "delete" : false,
+      "identifier" : "CKO\/jsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:05:50",
+      "delete" : false,
+      "identifier" : "CLa\/jsAGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:06:05",
+      "delete" : false,
+      "identifier" : "CMW\/jsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "já enviei sua solicitação aos desenvolvedores e eles estão trabalhando em cima disso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:06:19",
+      "delete" : false,
+      "identifier" : "CNO\/jsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "porem peço um pouco de paciência",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:06:24",
+      "delete" : false,
+      "identifier" : "CNi\/jsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "devido ao feriado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:06:49",
+      "delete" : false,
+      "identifier" : "CPG\/jsAGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:09:53",
+      "delete" : false,
+      "identifier" : "CKnBjsAGIABIAZABAA==",
+      "msg" : "Numa possibilidade remota, pode ser que eu tenha escrito meu email errado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/19 10:09:57",
+      "delete" : false,
+      "identifier" : "CK3BjsAGIABIAZABAA==",
+      "msg" : "Correto é deniscms1@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 11:54:00",
+      "delete" : false,
+      "identifier" : "CJC4mcAGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 11:54:10",
+      "delete" : false,
+      "identifier" : "CJq4mcAGIABIAZABAA==",
+      "msg" : "Tem solução pro meu problema",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 11:54:16",
+      "delete" : false,
+      "identifier" : "CKC4mcAGIABIAZABAA==",
+      "msg" : "Senão gostaria do reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/21 14:32:10",
+      "delete" : false,
+      "mediaName" : "244da41c-da5f-4619-b6f3-69724b359ebe.opus",
+      "localPath" : "media\/a7d1f0efe894671d37603b435105aba4c958349b.opus",
+      "mediaSize" : "95 KB",
+      "identifier" : "CKKCmsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 14:35:30",
+      "delete" : false,
+      "mediaName" : "08119537-ffa5-42f8-b26c-0be5d23b1931.jpg",
+      "localPath" : "media\/6942754f94f824e993a959dbdf5bead52a57934f.jpg",
+      "mediaSize" : "27 KB",
+      "identifier" : "COqDmsAGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/45c3d899dbd9140d9c00e7c798d2b673c721d622"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 15:20:02",
+      "delete" : false,
+      "identifier" : "CNqYmsAGIABIAJABAA==",
+      "msg" : "Confere meu email por favor, se esta corrento no sistema.\n\nmeu cpf é 060.976.456-00\nTel 32 98828-8694\nNome Denis Saramelo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 15:21:01",
+      "delete" : false,
+      "mediaName" : "a85f262f-5781-48e4-8db9-b097f6f8e2cf.jpg",
+      "localPath" : "media\/996b360481d67c5a9aa820baad448fb89b5866c1.jpg",
+      "mediaSize" : "34 KB",
+      "identifier" : "CJWZmsAGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ff30d0baf2569df6fd117cfecd42fea0d121bba2"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/21 23:12:57",
+      "delete" : false,
+      "identifier" : "CLH2m8AGIABIAZABAA==",
+      "msg" : "Gostaria de solicitar o reembolso. Grato",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 10:16:11",
+      "delete" : false,
+      "identifier" : "CKOtnsAGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 10:35:32",
+      "delete" : false,
+      "identifier" : "CKy2nsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 10:35:34",
+      "delete" : false,
+      "identifier" : "CK62nsAGIABIAZABAA==",
+      "msg" : "Olá! Sou o Dênis, fotógrafo retratista. Obrigado por entrar em contato! 📸\n\n➡️ **Horário de Atendimento:**\n\n\n- **Segunda**: 08h - 11h || 13h - 18h\n\n- **Terça \/ Quinta**: 08h - 10h || 15h - 21h\n\n- **Quarta \/ Sexta**: 08h - 12h || 13h - 18h\n\n- **Sábado**: 09h - 15h\n\nAtualmente, não consigo atender você imediatamente. Por favor, envie sua mensagem ou solicitação de orçamento com a data do evento e o tipo de sessão que deseja. Logo mais, te respondo!\n\nAgradeço pela compreensão e estou ansioso para falar com você.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 10:36:07",
+      "delete" : false,
+      "identifier" : "CM+2nsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "já estamos trabalhando para resolver seu problema",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 10:52:44",
+      "delete" : false,
+      "mediaName" : "2bb75474-a125-43a0-b67a-ddc99c118d4d.opus",
+      "localPath" : "media\/5be5f654de61c7ce13d640e3f5824f987f710cba.opus",
+      "mediaSize" : "45 KB",
+      "identifier" : "CLS+nsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 11:33:52",
+      "delete" : false,
+      "identifier" : "CNjRnsAGIABIAZABAA==",
+      "msg" : "So um minuto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 11:35:20",
+      "delete" : false,
+      "mediaName" : "717212e9-4157-47c2-8f39-fc1ee286971c.jpg",
+      "localPath" : "media\/7f18ec239d05b13991544cef1e4b5c85a3e1585d.jpg",
+      "mediaSize" : "76 KB",
+      "identifier" : "CLDSnsAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/9c6db6a0a64ccca59728878b82b0cb0ccde2aa9d"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 11:38:12",
+      "delete" : false,
+      "mediaName" : "d2aad02e-b164-4210-ba51-f686cc068343.jpg",
+      "localPath" : "media\/93c44157bc1de0ff3cdd83d5bdc9d872afe582a9.jpg",
+      "mediaSize" : "103 KB",
+      "identifier" : "CNzTnsAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/3c73970839cc68542740158b02e8ccd71c55d8fe"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 11:38:12",
+      "delete" : false,
+      "mediaName" : "cc608876-2399-4b95-82dc-b151f474e473.jpg",
+      "localPath" : "media\/c567dbec6dc16c99f0e13a9da97d21ba473f3738.jpg",
+      "mediaSize" : "97 KB",
+      "identifier" : "CNzTnsAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/0b89cf28bf65c7370f23f1921fb7b80bd2a1af52"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 11:38:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNzTnsAGIABIAZABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 11:38:12",
+      "mediaSize" : "526 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNzTnsAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/eabba31df3085c66145f476deea4c6aadfc5b83b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 11:38:13",
+      "delete" : false,
+      "mediaName" : "ad05e765-1903-4703-86f8-2776bde724dd.jpg",
+      "localPath" : "media\/459513f6a0c666ce3590c18c70e7820d3df55254.jpg",
+      "mediaSize" : "94 KB",
+      "identifier" : "CN3TnsAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/00f3baaa5c5634b7c30471fd6bb602f9e25baada"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 11:38:13",
+      "delete" : false,
+      "mediaName" : "765c918d-cfee-4a62-b830-b4a824d43617.jpg",
+      "localPath" : "media\/259efc36cffa36ef9215b17fcd71d48fdb35a8af.jpg",
+      "mediaSize" : "88 KB",
+      "identifier" : "CN3TnsAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/3aee65d88cbea8b54ee6b9c5fd2de302f1420760"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 11:50:10",
+      "delete" : false,
+      "identifier" : "CKrZnsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "denicms1@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 11:50:34",
+      "delete" : false,
+      "mediaName" : "ef2d3365-fd17-4793-9c5e-94879a6730a1.opus",
+      "localPath" : "media\/b751173b1e87c41a448aa0917d3fea08eee8fc8b.opus",
+      "mediaSize" : "98 KB",
+      "identifier" : "CMLZnsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 11:54:50",
+      "delete" : false,
+      "identifier" : "CMLbnsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "A conta dele já foi criada corretamente no sistema.\nVocê poderia confirmar com ele se recebeu o e-mail de boas-vindas?\n\nSe não tiver recebido, pergunta se ele tem acesso a esse e-mail e se está tentando entrar utilizando o CPF como senha.\n\nCaso nada disso funcione, peço que agende uma call com ele e me envie aqui o horário, por favor.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 11:57:25",
+      "delete" : false,
+      "identifier" : "CN3cnsAGIABIAZABAA==",
+      "msg" : "O email está errado. Dessa forma consegui logar, só que estou no celular e não estou em casa.",
+      "type" : "text"
+    }
+  ]
+})

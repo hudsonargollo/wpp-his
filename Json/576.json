@@ -1,0 +1,75 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+353 83 204 3508",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 12:14:58",
+      "delete" : false,
+      "identifier" : "CPrnzMEGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 12:24:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CMrszMEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 12:27:23",
+      "delete" : false,
+      "identifier" : "COPtzMEGIABIAZABAA==",
+      "msg" : "Fiz a senha mas não tá entrando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 12:38:04",
+      "delete" : false,
+      "identifier" : "COTyzMEGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 12:51:09",
+      "delete" : false,
+      "mediaName" : "a533b8e1-d515-4a7d-8be8-745e98503b10.jpg",
+      "localPath" : "media\/9a527ff6ef3e539d85f8763be8571493cece3b60.jpg",
+      "mediaSize" : "115 KB",
+      "identifier" : "CPX4zMEGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/df078eaea004cf69240aef7671d75fb99f45dd8e"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/26 08:06:49",
+      "delete" : false,
+      "identifier" : "CNGW0cEGIABIAZABAA==",
+      "msg" : "Deu certo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/26 08:06:52",
+      "delete" : false,
+      "identifier" : "CNSW0cEGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,465 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Danillo Meira",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:58:28",
+      "delete" : false,
+      "identifier" : "CMz198IGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:58:37",
+      "delete" : false,
+      "identifier" : "CNX198IGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Não pedi para a assinatura ser renovada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:58:37",
+      "delete" : false,
+      "identifier" : "CNX198IGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Quero o cancelamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:58:37",
+      "delete" : false,
+      "identifier" : "CNX198IGIABIAYoBBAgAEACQAQA=",
+      "msg" : "E o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/26 22:58:37",
+      "delete" : false,
+      "identifier" : "CNX198IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/26 22:58:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNf198IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:58:45",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CN3198IGIABIAYoBBAgAEACQAQA=",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/26 22:58:53",
+      "delete" : false,
+      "identifier" : "COX198IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/26 22:58:58",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COr198IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:59:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "CPT198IGIABIAYoBBAgAEACQAQA=",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/26 22:59:11",
+      "delete" : false,
+      "identifier" : "CPf198IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:59:22",
+      "delete" : false,
+      "identifier" : "CIL298IGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Quero falar com o atendente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/26 22:59:25",
+      "delete" : false,
+      "identifier" : "CIX298IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/26 22:59:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIf298IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:59:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CI7298IGIABIAYoBBAgAEACQAQA=",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/26 22:59:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJD298IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:59:43",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Smartphones\/Telas pequenas.",
+      "delete" : false,
+      "identifier" : "CJf298IGIABIAYoBBAgAEACQAQA=",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/26 22:59:46",
+      "delete" : false,
+      "identifier" : "CJr298IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Percebi que você está tentando acessar pelo celular, certo? 🐺\n\nAlguns aparelhos com tela menor ainda podem apresentar limitações, mesmo após nossas melhorias de responsividade.\n\nSe puder, acesse pelo computador ou tablet, a experiência será bem mais fluida!\n\nA boa notícia: nosso app já está quase pronto, em breve no iOS e Android.\n\n👉 Se esse não for o seu problema, me conta aqui o que está acontecendo pra eu te ajudar melhor!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 22:59:57",
+      "delete" : false,
+      "identifier" : "CKX298IGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Quero falar com o atendente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 23:02:51",
+      "delete" : false,
+      "identifier" : "CNP398IGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Ei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/26 23:03:04",
+      "delete" : false,
+      "identifier" : "COD398IGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Quero falar com o atendente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 07:12:03",
+      "delete" : false,
+      "identifier" : "CPvc+cIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/27 08:03:15",
+      "delete" : false,
+      "identifier" : "CPv0+cIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso! Como posso te ajudar? 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 08:54:15",
+      "delete" : false,
+      "identifier" : "CO+M+sIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Quero o cancelamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 08:54:19",
+      "delete" : false,
+      "identifier" : "CPOM+sIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Da minha assinatura automática",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 08:54:23",
+      "delete" : false,
+      "identifier" : "CPeM+sIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Que eu não autorizei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 08:54:27",
+      "delete" : false,
+      "identifier" : "CPuM+sIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "E o devido reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/27 09:01:24",
+      "delete" : false,
+      "identifier" : "CJyQ+sIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me informe o seu email e CPF de cadastro por favor.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 09:02:39",
+      "delete" : false,
+      "identifier" : "COeQ+sIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Danillo Silva Meira",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 09:02:44",
+      "delete" : false,
+      "identifier" : "COyQ+sIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "054.080.945-45",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/27 09:03:27",
+      "delete" : false,
+      "identifier" : "CJeR+sIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado. 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 09:05:48",
+      "delete" : false,
+      "identifier" : "CKSS+sIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Como vai ser esse reembolso ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/27 09:07:47",
+      "delete" : false,
+      "identifier" : "CJuT+sIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "direto na forma de pagamento que você usou.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 09:08:17",
+      "delete" : false,
+      "identifier" : "CLmT+sIGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/07 11:48:29",
+      "delete" : false,
+      "identifier" : "CMW8r8MGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/07 11:48:32",
+      "delete" : false,
+      "identifier" : "CMi8r8MGIABIAZABAA==",
+      "msg" : "Minha fatura é amanhã",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/07 11:48:36",
+      "delete" : false,
+      "identifier" : "CMy8r8MGIABIAZABAA==",
+      "msg" : "Quero meu estorno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/07 14:16:34",
+      "delete" : false,
+      "identifier" : "CPqBsMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Danillo! Tudo bem?\nSeu estorno já foi aprovado, agora o seu banco ficará responsável para devolutiva na conta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/25 10:57:55",
+      "delete" : false,
+      "identifier" : "COuajsQGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/25 10:58:00",
+      "delete" : false,
+      "identifier" : "CPCajsQGIABIAZABAA==",
+      "msg" : "Ainda não tive o estorno do Banco",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/25 10:58:20",
+      "delete" : false,
+      "identifier" : "CISbjsQGIABIAZABAA==",
+      "msg" : "Não era para vocês terem renovado a minha assinatura sem minha autorização",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/25 10:58:24",
+      "delete" : false,
+      "identifier" : "CIibjsQGIABIAZABAA==",
+      "msg" : "Isso não existe!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/25 10:58:35",
+      "delete" : false,
+      "identifier" : "CJObjsQGIABIAZABAA==",
+      "msg" : "Deveriam ter entrado em contato previamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/25 11:02:05",
+      "delete" : false,
+      "identifier" : "COWcjsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/25 11:02:20",
+      "delete" : false,
+      "identifier" : "CPScjsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para nós, seu reembolso foi concluído",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/25 11:02:24",
+      "delete" : false,
+      "mediaName" : "28e617b9-0862-438f-a4c4-a787bfb46249.jpg",
+      "localPath" : "media\/1410c37fb72de52799dcadb0b2056926fdcc9069.jpg",
+      "mediaSize" : "20 KB",
+      "identifier" : "CPicjsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/abc60db592e41700e6296b472c82d765879249e6"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/25 11:03:34",
+      "delete" : false,
+      "mediaName" : "44449ff9-3ade-4163-a026-79d2fa2f8d13.jpg",
+      "localPath" : "media\/e179d9c5f81fb0227f773a4be412c42dc22dd4c3.jpg",
+      "mediaSize" : "29 KB",
+      "identifier" : "CL6djsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/6a75ceb6b3acf41f570c2d87b7a0e2b9f6b135f7"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/25 11:03:47",
+      "delete" : false,
+      "identifier" : "CMudjsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você pode tá entrando em contato com a ticto para verificar.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/25 11:04:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "msg" : "_$!<Name-Separator>!$_‎Contato_$!<Name-Separator>!$_‎Contato_$!<Name-Separator>!$_‎Contato_$!<Name-Separator>!$_‎Contato_$!<Name-Separator>!$_‎Contato_$!<Name-Separator>!$_‎Contato",
+      "identifier" : "COWdjsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "contact"
+    }
+  ]
+})

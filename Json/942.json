@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 71 99713-3831",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/21 08:42:53",
+      "delete" : false,
+      "identifier" : "CMWh9b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Alessandro! Tudo bem?\nMe chamo Rafaella, sou responsável pelo suporte do Modo Caverna ☺️\nVi aqui que você abriu uma solicitação de reembolso da sua assinatura, pode me detalhar melhor o motivo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/21 09:22:26",
+      "delete" : false,
+      "identifier" : "CIq09b4GIABIAZABAA==",
+      "msg" : "Olá eu queria usar o aplicativo mais nao gostei muito das funções do app",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/21 09:22:48",
+      "delete" : false,
+      "identifier" : "CKC09b4GIABIAZABAA==",
+      "msg" : "Não vir muita facilidade ao usar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/21 10:04:48",
+      "delete" : false,
+      "identifier" : "CPjH9b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos mudando a interface para poder garantir essa facilidadr, já está disponível no beta, posso liberar uma conta pra você ver se te agrada, tem interesse?",
+      "type" : "text"
+    }
+  ]
+})

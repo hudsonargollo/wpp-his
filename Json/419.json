@@ -1,0 +1,45 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 98610-7998",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/18 10:33:22",
+      "delete" : false,
+      "identifier" : "CKqAy8IGIABIAJABAA==",
+      "msg" : "Bom dia, meu nome é Lucas. \nonde eu encontro os 40 mandamentos da caverna? \nJá procurei. Desculpa a pergunta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/18 10:33:36",
+      "delete" : false,
+      "identifier" : "CLiAy8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/18 10:33:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLmAy8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/18 10:41:57",
+      "delete" : false,
+      "identifier" : "CK2Ey8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Lucas, Beleza? 🐺\n\nVocê encontrará os mandamentos da caverna ao iniciar o desafio caverna, na plataforma!\n\nAssista todos os videos do curso do Modo Caverna, lá, o iuri ensina todo o processo para iniciar o desafio com eficiência.\n\nQualquer outro problema, me avisa 🐺",
+      "type" : "text"
+    }
+  ]
+})

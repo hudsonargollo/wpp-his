@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 97912-0583",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/27 08:06:09",
+      "delete" : false,
+      "identifier" : "CKn2+cIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Cavernoso, Beleza? 🐺\n\nAntes da gente seguir com o reembolso, preciso entender uma coisa…\nO que exatamente fez você querer desistir?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 08:32:18",
+      "delete" : false,
+      "identifier" : "CMqC+sIGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 08:32:26",
+      "delete" : false,
+      "identifier" : "CNKC+sIGIABIAZABAA==",
+      "msg" : "Vou fazer o reembolso para adquirir o aplicativo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/27 09:02:39",
+      "delete" : false,
+      "identifier" : "COeQ+sIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado.🐺\n\nQualquer duvida ou problema em assinar o plano cavernoso, me avisa!",
+      "type" : "text"
+    }
+  ]
+})

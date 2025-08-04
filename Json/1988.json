@@ -1,0 +1,48 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 99226-5697",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/21 17:53:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "A Quebra da Matrix Digital",
+      "delete" : false,
+      "identifier" : "CLf+2rgGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/21 17:53:24",
+      "delete" : false,
+      "identifier" : "CMz+2rgGIABIAZABAA==",
+      "msg" : "Gostaria de saber onde estao as aulas da quebra da Matrix",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/22 08:55:18",
+      "delete" : false,
+      "identifier" : "CK6l3rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/22 08:56:07",
+      "delete" : false,
+      "mediaName" : "f4c02726-bd3e-41c7-8b25-317dc3e2e371.opus",
+      "localPath" : "media\/6ee2db31e0b4acc3c25d9909f6494ef30b98c609.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CN+l3rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    }
+  ]
+})

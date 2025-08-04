@@ -1,0 +1,102 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 27 99261-1504",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/19 12:11:37",
+      "delete" : false,
+      "identifier" : "CLGYz7gGIABIAZABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/20 11:54:39",
+      "delete" : false,
+      "identifier" : "CLez1LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/20 12:03:55",
+      "delete" : false,
+      "identifier" : "COO31LgGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/20 12:03:58",
+      "delete" : false,
+      "identifier" : "COa31LgGIABIAZABAA==",
+      "msg" : "Tudo certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/20 12:05:26",
+      "delete" : false,
+      "identifier" : "CL641LgGIABIAZABAA==",
+      "msg" : "Como faço para desbloquear os modelos seguidos do manual de sobrevivência?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/20 12:06:22",
+      "delete" : false,
+      "identifier" : "CPa41LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia me mandar seu e-mail de compra, por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/20 12:07:51",
+      "delete" : false,
+      "identifier" : "CM+51LgGIABIAZABAA==",
+      "msg" : "thiagocizenokbrito@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/20 12:16:10",
+      "delete" : false,
+      "mediaName" : "0eb3decd-0485-4bc7-b01c-c623056f075d.opus",
+      "localPath" : "media\/f5f37fa42a83c8106115a1a5d7cc58c199f6795a.opus",
+      "mediaSize" : "71 KB",
+      "identifier" : "CMK91LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:34"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/20 12:21:40",
+      "delete" : false,
+      "identifier" : "CIzA1LgGIABIAZABAA==",
+      "msg" : "Tudo bem, poderia me orientar em como acessar os e-book pela plataforma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/20 12:21:58",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJ7A1LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

@@ -1,0 +1,71 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 37 99808-0110",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/22 09:34:51",
+      "delete" : false,
+      "identifier" : "CPPc+r4GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/22 09:34:56",
+      "delete" : false,
+      "identifier" : "CPjc+r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/22 09:35:02",
+      "delete" : false,
+      "identifier" : "CP7c+r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/22 09:35:18",
+      "delete" : false,
+      "identifier" : "CI7d+r4GIABIAZABAA==",
+      "msg" : "opaa,como consigo saber o meu login?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/22 09:35:23",
+      "delete" : false,
+      "identifier" : "CJPd+r4GIABIAZABAA==",
+      "msg" : "senha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/22 10:07:39",
+      "delete" : false,
+      "identifier" : "CKPs+r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Erick! Tudo certo?\nSeu login é seu email e sua senha é seu documento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/22 16:07:30",
+      "delete" : false,
+      "identifier" : "CPqU\/L4GIABIAZABAA==",
+      "msg" : "obrigado",
+      "type" : "text"
+    }
+  ]
+})

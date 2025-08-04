@@ -1,0 +1,36 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+244 929 697 086",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 05:25:28",
+      "delete" : false,
+      "identifier" : "CICHusIGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.\nE não estou conseguindo baixar o ebook desafio caverna, planel e os mandamentos caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 05:26:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ Loja Caverna",
+      "delete" : false,
+      "identifier" : "CK6HusIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 06:04:25",
+      "delete" : false,
+      "identifier" : "CKGZusIGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    }
+  ]
+})

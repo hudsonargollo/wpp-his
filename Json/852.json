@@ -1,0 +1,28 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 99708-9685",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 14:59:40",
+      "delete" : false,
+      "identifier" : "CJSO4L8GIABIAJABAA==",
+      "msg" : "Bom dia, me chamo Thiago Consultor de vendas da Tintas Verginia\nEstou entrando em contato para me disponibilizar para um atendimento personalizado para suas futuras compras e orçamentos, com os melhores preços do mercado, e sempre lhe entregando o melhor atendimento possível, ficaria grato se eu tiver uma oportunidade de poder atendê-los em algum momento!!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 14:59:40",
+      "mediaSize" : "1 KB",
+      "mediaName" : "Carta de Apresentação Completa Verginia  (1).pdf",
+      "delete" : false,
+      "identifier" : "CJSO4L8GIABIAJABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/9530aa27322d964a122393f6859d2672827e50b7"
+    }
+  ]
+})

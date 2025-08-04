@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Alexandra - Afiliados",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/13 15:34:13",
+      "delete" : false,
+      "identifier" : "CK34z8MGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/13 15:34:15",
+      "delete" : false,
+      "identifier" : "CK\/4z8MGIABIAZABAA==",
+      "msg" : "Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/13 15:35:01",
+      "delete" : false,
+      "identifier" : "CN34z8MGIABIAZABAA==",
+      "msg" : "Eu era afiliada e 2 pessoas que compraram por mim e agora debitou um imenso valor da conta dela",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/13 15:35:04",
+      "delete" : false,
+      "identifier" : "COD4z8MGIABIAZABAA==",
+      "msg" : "Poderia me ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 14:50:27",
+      "delete" : false,
+      "identifier" : "COuG1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 14:50:34",
+      "delete" : false,
+      "identifier" : "CPKG1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia me enviar o e-mail delas?",
+      "type" : "text"
+    }
+  ]
+})

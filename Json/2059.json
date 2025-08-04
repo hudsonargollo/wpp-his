@@ -1,0 +1,47 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 82 99993-1979",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 14:13:38",
+      "delete" : false,
+      "identifier" : "CMrzmrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem? Me chamo Bruna, sou responsável pelo suporte de Afiliações do Iuri Meira, gostaria de informar que sua afiliação foi aprovada! 🤩\nPoderia verificar por gentileza.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 14:32:51",
+      "delete" : false,
+      "identifier" : "CMv8mrgGIABIAZABAA==",
+      "msg" : "Tudo ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 14:50:56",
+      "delete" : false,
+      "identifier" : "CIiFm7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, vou estar te enviando o PDF para você ter acesso aos materiais! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 14:51:05",
+      "delete" : false,
+      "mediaName" : "CHECKLIST-CENTRAL.pdf",
+      "localPath" : "media\/95844c550eed895c463993b67ad280ef5d7be350.pdf",
+      "mediaSize" : "1,2 MB",
+      "identifier" : "CJGFm7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/a348c502e1c90026a8fe0e044914f343e42da2c3"
+    }
+  ]
+})

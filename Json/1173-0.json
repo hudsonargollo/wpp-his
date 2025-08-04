@@ -1,0 +1,997 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98153-3038",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 22:29:23",
+      "delete" : false,
+      "identifier" : "CPuenLwGIABIAZABAA==",
+      "msg" : "Olá, Boa noite. Preciso de uma ajudinha😁 Me ajude quando puder!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 22:29:32",
+      "delete" : false,
+      "identifier" : "CISfnLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 22:29:38",
+      "delete" : false,
+      "identifier" : "CIqfnLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 22:30:01",
+      "delete" : false,
+      "identifier" : "CKGfnLwGIABIAZABAA==",
+      "msg" : "Júlio Henrique Silva Fernandes",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 22:30:08",
+      "delete" : false,
+      "identifier" : "CKifnLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Júlio Henrique Silva Fernandes*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 22:30:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK6fnLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 22:56:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "COarnLwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 22:56:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COirnLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 22:56:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "COqrnLwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 22:56:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COurnLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 22:56:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CPOrnLwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 22:57:02",
+      "delete" : false,
+      "identifier" : "CParnLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 22:57:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar o conteúdo",
+      "delete" : false,
+      "identifier" : "CPmrnLwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 22:57:07",
+      "delete" : false,
+      "identifier" : "CPurnLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Para acessar o conteúdo do Desafio Modo Caverna, clique no link abaixo ⬇️*\n\n*https:\/\/desafio.modocaverna.com\/material*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 22:57:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPyrnLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/14 22:58:20",
+      "delete" : false,
+      "identifier" : "CMSsnLwGIABIAZABAA==",
+      "msg" : "Meirenalvapereirasilva@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 09:20:04",
+      "delete" : false,
+      "identifier" : "CPzPnrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 12:22:01",
+      "delete" : false,
+      "mediaName" : "99152f2c-48bb-4701-8065-94a40ba00a85.opus",
+      "localPath" : "media\/536df8438578be808cee9734892f6c2677ebd156.opus",
+      "mediaSize" : "44 KB",
+      "identifier" : "CKGln7wGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:21"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 13:31:35",
+      "delete" : false,
+      "identifier" : "CO\/Fn7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual seu e-mail de compra?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 13:33:20",
+      "delete" : false,
+      "identifier" : "CNjGn7wGIABIAZABAA==",
+      "msg" : "Meirenalvapereirasilva@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 13:33:38",
+      "delete" : false,
+      "identifier" : "COrGn7wGIABIAZABAA==",
+      "msg" : "Mais se eu não me engano eu comprei com silvameire052@icloud.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 13:33:48",
+      "delete" : false,
+      "identifier" : "CPTGn7wGIABIAZABAA==",
+      "msg" : "Mais mudei para esse.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 13:34:58",
+      "delete" : false,
+      "mediaName" : "44181bda-2f39-46b0-bb76-2be5406fffe7.opus",
+      "localPath" : "media\/af9dd3051430af36700ffcc6ef76456d5589427d.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CLrHn7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 13:35:44",
+      "delete" : false,
+      "mediaName" : "189e9d43-5549-46dd-90c0-f6d0ce6ef9a0.opus",
+      "localPath" : "media\/a1fca6ac99ce1f3238df78d50ff561d8811db1a8.opus",
+      "mediaSize" : "51 KB",
+      "identifier" : "COjHn7wGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 13:36:39",
+      "delete" : false,
+      "mediaName" : "688de006-2ddb-4fe8-aa5e-504b491529b7.opus",
+      "localPath" : "media\/c7005cab50776e6bad75be390ec5e70d51d54f6f.opus",
+      "mediaSize" : "107 KB",
+      "identifier" : "CJ\/In7wGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:50"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 13:37:39",
+      "delete" : false,
+      "mediaName" : "9680af32-0816-4b1c-bc04-2f0220a69ce1.opus",
+      "localPath" : "media\/e15bbb6900046b04a1b6530396354dff30f2f046.opus",
+      "mediaSize" : "73 KB",
+      "identifier" : "CNvIn7wGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:35"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 14:40:20",
+      "delete" : false,
+      "mediaName" : "7b4c0866-2bf2-43c9-ac12-0da3bf760388.opus",
+      "localPath" : "media\/9d917cd921d0a4ef202f58ed56158d883b9f5c79.opus",
+      "mediaSize" : "36 KB",
+      "identifier" : "CIzmn7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 14:56:01",
+      "delete" : false,
+      "mediaName" : "6d0743e6-e96e-4b55-9725-88e8ad5ad85d.opus",
+      "localPath" : "media\/15e51c090656b00dcd99861b1ab498da4a4abda4.opus",
+      "mediaSize" : "43 KB",
+      "identifier" : "CLntn7wGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 15:04:33",
+      "delete" : false,
+      "identifier" : "CLnxn7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso mesmo, uma etapa de cada vez.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 15:04:46",
+      "delete" : false,
+      "identifier" : "CMbxn7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bons estudos🐺🔺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 16:18:53",
+      "delete" : false,
+      "identifier" : "CKWUoLwGIABIAZABAA==",
+      "msg" : "Pra cima!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:59:20",
+      "delete" : false,
+      "identifier" : "CLDDoLwGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:59:33",
+      "delete" : false,
+      "identifier" : "CL3DoLwGIABIAZABAA==",
+      "msg" : "Eu acabei de fazer uma venda só que a comissão não caiu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:59:57",
+      "delete" : false,
+      "mediaName" : "13e12141-5d5b-46ba-b26c-678d6ad02423.jpg",
+      "localPath" : "media\/a9b91ef1fbc2ab1a319a4b713b46b750f12317bd.jpg",
+      "mediaSize" : "45 KB",
+      "identifier" : "CNXDoLwGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/653f8fe63f03bb223ae2b15032f8788d95c94f33"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 08:37:57",
+      "delete" : false,
+      "identifier" : "CJ3fo7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 08:38:23",
+      "delete" : false,
+      "identifier" : "CLffo7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiu acessar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 08:39:35",
+      "delete" : false,
+      "mediaName" : "2df17b86-b39b-4554-940f-9bbb3f36d094.opus",
+      "localPath" : "media\/f2f132f32dda4b1a60120ba529119a88fbcc766d.opus",
+      "mediaSize" : "43 KB",
+      "identifier" : "CP\/fo7wGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 08:40:10",
+      "delete" : false,
+      "identifier" : "CKLgo7wGIABIAZABAA==",
+      "msg" : "Esse é o pix gerado do cliente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 09:02:18",
+      "delete" : false,
+      "identifier" : "CNLqo7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 09:02:23",
+      "delete" : false,
+      "identifier" : "CNfqo7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O de compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 09:05:23",
+      "delete" : false,
+      "identifier" : "CIvso7wGIABIAZABAA==",
+      "msg" : "Silvameire052@icloud.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 09:59:24",
+      "delete" : false,
+      "identifier" : "CLSFpLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você tem o e-mail do cliente?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 12:13:39",
+      "delete" : false,
+      "identifier" : "CKvEpLwGIAA6FDNBREY4ODQwREYwQzBEMUQ2OTIyQO3Mt\/3GMkgBeJfcwf7GMpABAA==",
+      "msg" : "Não, mais eu consigo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 13:59:13",
+      "delete" : false,
+      "mediaName" : "581a7861-217a-4321-93a8-b0c63455c490.opus",
+      "localPath" : "media\/f477a0ecf7aad8195206b8c2fde3043f32349e8f.opus",
+      "mediaSize" : "86 KB",
+      "identifier" : "COn1pLwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:37"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:01:57",
+      "delete" : false,
+      "identifier" : "CJ2TpbwGIABIAZABAA==",
+      "msg" : "Jamerssons942@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:02:05",
+      "delete" : false,
+      "identifier" : "CKWTpbwGIABIAZABAA==",
+      "msg" : "E-mail do cliente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 15:06:26",
+      "delete" : false,
+      "identifier" : "CKqVpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você enviou o checkout ou ele comprou pela página de vendas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 15:09:30",
+      "delete" : false,
+      "identifier" : "COKWpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMEY3N0RBMDE3QkU2OEVFRDdA2Pu6gscySAB405aFhMcykAEA",
+      "msg" : "Me manda por favor o link que você está realizando as vendas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:22:41",
+      "delete" : false,
+      "mediaName" : "b68261ec-84e6-4506-b1a1-f7df7ca01a33.opus",
+      "localPath" : "media\/fada2112040b1f3b5544dc55f48b7e3d20d2a030.opus",
+      "mediaSize" : "6 KB",
+      "identifier" : "CPmcpbwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:23:52",
+      "delete" : false,
+      "mediaName" : "793b69ed-e900-46a6-80e3-b830613bb19c.opus",
+      "localPath" : "media\/283c8a6fdcd6f493b11b8dc5918b2b48ffe04861.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CMCdpbwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:24:08",
+      "delete" : false,
+      "mediaName" : "0189b314-5020-4552-b360-5416fe95c5ef.opus",
+      "localPath" : "media\/78471128d4370f686221b5a4311ad1847f254ff6.opus",
+      "mediaSize" : "8 KB",
+      "identifier" : "CNCdpbwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:03"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:24:57",
+      "delete" : false,
+      "identifier" : "CIGepbwGIABIAZABAA==",
+      "msg" : "Falta mesmo eu receber a comissão. E tem outros clientes certos, só estou esperando resolver esses problemas para fazer mais vendas!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 15:27:15",
+      "delete" : false,
+      "identifier" : "CIufpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : ".",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:27:57",
+      "delete" : false,
+      "identifier" : "CLWfpbwGIABIAZABAA==",
+      "msg" : "https:\/\/checkout.ticto.app\/OB6771B31?pid=AF1287F4CC",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:28:13",
+      "delete" : false,
+      "mediaName" : "336f6716-567d-4cfb-a6cd-53c10747c023.opus",
+      "localPath" : "media\/e8463bfeaf880cc9dba1e8524619e0d39744caa1.opus",
+      "mediaSize" : "16 KB",
+      "identifier" : "CMWfpbwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:28:52",
+      "delete" : false,
+      "mediaName" : "c7c1ca17-c842-4b2c-b695-9ae3c8cfeaa2.opus",
+      "localPath" : "media\/10bfd2be2bde0adf02b71eddf357f5721e5e0a1a.opus",
+      "mediaSize" : "77 KB",
+      "identifier" : "COyfpbwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:33"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 15:30:27",
+      "delete" : false,
+      "mediaName" : "6a722b8b-cc3e-4231-abed-a3d44e85fa70.opus",
+      "localPath" : "media\/767640b507ec9204c09c1837c0c07c694c69f1c1.opus",
+      "mediaSize" : "34 KB",
+      "identifier" : "CMugpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 15:30:41",
+      "delete" : false,
+      "mediaName" : "258888fa-dd8b-41ef-bd2e-cf6479453005.opus",
+      "localPath" : "media\/e970bd1068de93cadea0ff869d5e8e2dfbb0a315.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CNmgpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:32:33",
+      "delete" : false,
+      "mediaName" : "0ac11e4b-b3be-4037-9994-a54f900f617a.opus",
+      "localPath" : "media\/4e64d30acd6a7ab79a65075a8d6da9063d9520ba.opus",
+      "mediaSize" : "62 KB",
+      "identifier" : "CMmhpbwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:27"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:34:28",
+      "delete" : false,
+      "mediaName" : "08c1edd5-520e-4d59-90d1-ff42edb75bda.opus",
+      "localPath" : "media\/bf0fb9c97d986ea303fbd420e630fb8883cc5720.opus",
+      "mediaSize" : "51 KB",
+      "identifier" : "CLyipbwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 15:34:39",
+      "delete" : false,
+      "mediaName" : "c9a2e09b-65ca-4128-88e5-a2335ad3b57b.opus",
+      "localPath" : "media\/e409d7725ecb832dde5a03520eaeb601608bf0f5.opus",
+      "mediaSize" : "23 KB",
+      "identifier" : "CMeipbwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 15:57:03",
+      "delete" : false,
+      "mediaName" : "a0f78ebb-933f-46ff-bf02-18f5a4d4b799.opus",
+      "localPath" : "media\/8527bd7b101f95758fc18c13a805cc7d74732ba3.opus",
+      "mediaSize" : "41 KB",
+      "identifier" : "CIetpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:21"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 16:08:20",
+      "delete" : false,
+      "identifier" : "CKyypbwGIABIAZABAA==",
+      "msg" : "Pronto!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 16:09:22",
+      "delete" : false,
+      "identifier" : "COqypbwGIAA6FDNBNjNGOTUxQ0VCOUYxRTdERjNFQOu6lYTHMkgBeJC\/lYTHMpABAA==",
+      "msg" : "Sobre esse caso, eu perdi a comissão? Isso é muito importante para mim.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 16:19:47",
+      "delete" : false,
+      "identifier" : "CNu3pbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Dessa sim, infelizmente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 16:37:00",
+      "delete" : false,
+      "identifier" : "COS\/pbwGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 19:41:28",
+      "delete" : false,
+      "identifier" : "CKCWprwGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 19:41:33",
+      "delete" : false,
+      "identifier" : "CKWWprwGIABIAZABAA==",
+      "msg" : "Você pode me ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/17 09:30:51",
+      "delete" : false,
+      "identifier" : "CIObqbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/17 17:44:58",
+      "delete" : false,
+      "identifier" : "CNKCq7wGIABIAZABAA==",
+      "msg" : "Olá, Bruna. Estou bem, e você? A minha ferramenta está com alguns problemas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/17 17:45:06",
+      "delete" : false,
+      "identifier" : "CNqCq7wGIABIAZABAA==",
+      "msg" : "Do Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/17 18:51:08",
+      "delete" : false,
+      "identifier" : "CNShq7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia detalhar melhor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/17 18:52:14",
+      "delete" : false,
+      "mediaName" : "c7935058-fd3f-4910-8c6e-83732b140db2.opus",
+      "localPath" : "media\/01a4740df27095bc04904974c98017a39b838a7d.opus",
+      "mediaSize" : "56 KB",
+      "identifier" : "CJaiq7wGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/17 18:52:24",
+      "delete" : false,
+      "identifier" : "CKCiq7wGIABIAZABAA==",
+      "msg" : "Chegando em casa eu gravo um vídeo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 07:57:45",
+      "delete" : false,
+      "identifier" : "CLGSrrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 07:57:59",
+      "delete" : false,
+      "identifier" : "CL+SrrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não consegui entender o que disse no aúdio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 07:58:11",
+      "delete" : false,
+      "identifier" : "CMuSrrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 06:46:08",
+      "delete" : false,
+      "identifier" : "COifyLwGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 06:46:15",
+      "delete" : false,
+      "mediaName" : "f5eb6ca8-2867-4bb1-8f99-3b2c547267b8.mp4",
+      "localPath" : "media\/8207c19a3acc2bf9a88093c1776a93abf55dadd8.mp4",
+      "mediaSize" : "8,6 MB",
+      "identifier" : "CO+fyLwGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/b7c199d380252a54e573af97260e3f61757cf209"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 06:46:22",
+      "delete" : false,
+      "identifier" : "CPafyLwGIABIAZABAA==",
+      "msg" : "Pode me ajudar por favor!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/23 09:06:39",
+      "delete" : false,
+      "identifier" : "CNfhyLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/23 09:06:41",
+      "delete" : false,
+      "identifier" : "CNnhyLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ajudo sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/23 09:06:50",
+      "delete" : false,
+      "identifier" : "COLhyLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu e-mail de acesso por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/23 09:22:38",
+      "delete" : false,
+      "identifier" : "CJbpyLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Se possivel me envia seu cpf e nome completo também",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 12:23:47",
+      "delete" : false,
+      "identifier" : "CIu+ybwGIABIAZABAA==",
+      "msg" : "Meirenalvapereirasilva@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 12:24:21",
+      "delete" : false,
+      "identifier" : "CK2+ybwGIABIAZABAA==",
+      "msg" : "09947665569",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/23 13:18:14",
+      "delete" : false,
+      "identifier" : "CM7XybwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você precisa configurar o pomodoro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/23 15:04:12",
+      "delete" : false,
+      "identifier" : "CKSJyrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifica por gentileza se consegue ter acesso a tudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 17:25:05",
+      "delete" : false,
+      "identifier" : "CKnLyrwGIABIAZABAA==",
+      "msg" : "Eu acho que não é isso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/23 17:25:24",
+      "delete" : false,
+      "identifier" : "CLzLyrwGIABIAZABAA==",
+      "msg" : "Por que, não é só o pomodoro que está bugado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/24 07:55:36",
+      "delete" : false,
+      "identifier" : "CLDjzbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/24 07:55:55",
+      "delete" : false,
+      "identifier" : "CMTjzbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Você conseguiu verificar a plataforma ontem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/24 08:09:04",
+      "delete" : false,
+      "mediaName" : "2c140e48-fdf3-4b49-8696-a2bb8bf5a8b5.opus",
+      "localPath" : "media\/e3ac23f50e45b3121bc74a9f35b78d3a0760a6db.opus",
+      "mediaSize" : "73 KB",
+      "identifier" : "CNjpzbwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:32"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/24 09:29:52",
+      "delete" : false,
+      "mediaName" : "0fb04fdc-5f03-4662-95e2-fe1e46a0e1fd.opus",
+      "localPath" : "media\/5237f8023bf45729603a538cf3eae4599e5ad2d1.opus",
+      "mediaSize" : "19 KB",
+      "identifier" : "CMiPzrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/24 09:33:52",
+      "delete" : false,
+      "mediaName" : "b836fb3f-a08f-4728-8f9d-88b2abcc62b7.opus",
+      "localPath" : "media\/a7f3937ba73fd48c8debff302d1ad78b34c255b0.opus",
+      "mediaSize" : "7 KB",
+      "identifier" : "CLiRzrwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:03"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/24 10:04:35",
+      "delete" : false,
+      "identifier" : "COufzrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo🔺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/24 12:17:12",
+      "delete" : false,
+      "identifier" : "CIDezrwGIABIAZABAA==",
+      "msg" : "Acessei pelo Google, e está a mesma coisa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/24 12:29:52",
+      "delete" : false,
+      "mediaName" : "201c1dfa-9227-4a4c-9adb-53ed1405ac17.opus",
+      "localPath" : "media\/4b154678c3c549f82c7bd951371314fad51976a1.opus",
+      "mediaSize" : "14 KB",
+      "identifier" : "CPjjzrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/24 12:48:20",
+      "delete" : false,
+      "identifier" : "CMzszrwGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/24 12:48:28",
+      "delete" : false,
+      "identifier" : "CNTszrwGIABIAZABAA==",
+      "msg" : "Acessei pelo celular mesmo",
+      "type" : "text"
+    }
+  ]
+})

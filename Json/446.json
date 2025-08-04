@@ -1,0 +1,75 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 87 99168-7653",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 08:25:26",
+      "delete" : false,
+      "identifier" : "CK7+v8IGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 08:26:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CN3+v8IGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 08:26:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "CPX+v8IGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 08:27:02",
+      "delete" : false,
+      "identifier" : "CI7\/v8IGIABIAZABAA==",
+      "msg" : "José Aparecido Lopes \n\ncidoralienoficial@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 08:27:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CJv\/v8IGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 08:27:28",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Smartphones\/Telas pequenas.",
+      "delete" : false,
+      "identifier" : "CKj\/v8IGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 08:27:59",
+      "delete" : false,
+      "identifier" : "CMf\/v8IGIABIAZABAA==",
+      "msg" : "Quero baixar o aplicativo",
+      "type" : "text"
+    }
+  ]
+})

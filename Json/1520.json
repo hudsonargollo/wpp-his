@@ -1,0 +1,338 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "socios lista 1 _37",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:56:04",
+      "delete" : false,
+      "identifier" : "CPzXpbsGIABIAJABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 10:56:14",
+      "delete" : false,
+      "identifier" : "CIbYpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 10:56:20",
+      "delete" : false,
+      "identifier" : "CIzYpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:56:40",
+      "delete" : false,
+      "mediaName" : "f1d681ff-d53c-4a7e-a26d-9733c9e4d471.jpg",
+      "localPath" : "media\/fca67f0d69d64297e7030752e922fd5b20439a80.jpg",
+      "mediaSize" : "220 KB",
+      "identifier" : "CKDYpbsGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/50da9b44354b5834e6e22412fb1a91c998203cd5"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:56:59",
+      "delete" : false,
+      "identifier" : "CLPYpbsGIABIAJABAA==",
+      "msg" : "David Ortega Gómez\nCorreo: davigocol@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 10:57:06",
+      "delete" : false,
+      "identifier" : "CLrYpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *David Ortega Gómez\nCorreo: davigocol@gmail.com*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 10:57:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMDYpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:57:13",
+      "delete" : false,
+      "identifier" : "CMHYpbsGIABIAJABAA==",
+      "msg" : "Quando entro nos meus cursos isso aparece",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:57:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CMzYpbsGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 10:57:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM7YpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:57:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CNXYpbsGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 10:57:35",
+      "delete" : false,
+      "identifier" : "CNfYpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Para acessar as aulas do Clube da Luta basta entrar na área de conteúdos da sua Central Caverna! ✅*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 10:57:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNjYpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:57:43",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não, preciso de ajuda",
+      "delete" : false,
+      "identifier" : "CN\/YpbsGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 10:57:46",
+      "delete" : false,
+      "identifier" : "COLYpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nApós a descrição, me mande seu e-mail de compra.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:58:02",
+      "delete" : false,
+      "mediaName" : "f622f2e4-a10c-4ea6-bf12-83fe38f4e761.jpg",
+      "localPath" : "media\/4888ce662a0e708bed554177a340c9d0b642071c.jpg",
+      "mediaSize" : "221 KB",
+      "identifier" : "CPLYpbsGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/42cab4aae337d248ecf47d84271a04dac0deffd2"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:58:05",
+      "delete" : false,
+      "identifier" : "CPXYpbsGIABIAJABAA==",
+      "msg" : "Quando entro nos meus cursos isso aparece",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 10:58:14",
+      "delete" : false,
+      "identifier" : "CP7YpbsGIABIAJABAA==",
+      "msg" : "Não tenho outro link para entrar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 11:10:05",
+      "delete" : false,
+      "identifier" : "CMXepbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 11:10:56",
+      "delete" : false,
+      "identifier" : "CPjepbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Os cursos vão ficar disponíveis na plataforma até dia 13\/01",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 11:11:54",
+      "delete" : false,
+      "identifier" : "CLLfpbsGIABIAJABAA==",
+      "msg" : "Mas eu não tenho acesso a nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 11:12:17",
+      "delete" : false,
+      "mediaName" : "e1977a06-0d90-4d1f-8e11-7c35f4e5f76c.jpg",
+      "localPath" : "media\/f0815dc5937b3d83bc60a39477251c7ceab0664c.jpg",
+      "mediaSize" : "324 KB",
+      "identifier" : "CMnfpbsGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/1899715305f438e4f35a5c0f9ebe502979344ce0"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 11:12:39",
+      "delete" : false,
+      "identifier" : "CN\/fpbsGIABIAJABAA==",
+      "msg" : "Meu e-mail de compra é: davigocol@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 11:19:58",
+      "delete" : false,
+      "identifier" : "CJbjpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifiquei aqui, o seu acesso venceu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 11:21:16",
+      "delete" : false,
+      "identifier" : "COTjpbsGIABIAJABAA==",
+      "msg" : "Você pode me explicar que meu acesso expirou?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 11:21:33",
+      "delete" : false,
+      "identifier" : "CPXjpbsGIABIAJABAA==",
+      "msg" : "Pelo que me lembro, não comprei nenhuma mensalidade ou anuidade.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 11:21:41",
+      "delete" : false,
+      "identifier" : "CP3jpbsGIABIAJABAA==",
+      "msg" : "Compre uma mentoria",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 11:44:18",
+      "delete" : false,
+      "mediaName" : "c2745f2c-ced3-4070-8cc8-d25cca62f27e.opus",
+      "localPath" : "media\/61799d5c13e134de1fcf02614129e330be0c57a5.opus",
+      "mediaSize" : "29 KB",
+      "identifier" : "CMrupbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 11:44:46",
+      "delete" : false,
+      "identifier" : "CObupbsGIABIAJABAA==",
+      "msg" : "A Matrix tambien",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 11:45:27",
+      "delete" : false,
+      "mediaName" : "d88798e9-42c9-442c-8288-7dfcce1e9354.jpg",
+      "localPath" : "media\/928f4bfdb4f39318822607f605da9722e027e834.jpg",
+      "mediaSize" : "164 KB",
+      "identifier" : "CI\/vpbsGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/48ca942c5a5ce9f83043f97e6ed8ba4167eca926"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 11:45:53",
+      "delete" : false,
+      "mediaName" : "de19a801-c5ce-4f46-aea4-757a1e8f9679.jpg",
+      "localPath" : "media\/f0cc0304ac4031b9bacfc2586dabcb23f409c015.jpg",
+      "mediaSize" : "222 KB",
+      "identifier" : "CKnvpbsGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/dfb75e79f3cd91943cfbe709a6572ddff89a0fda"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 11:56:00",
+      "delete" : false,
+      "identifier" : "CIj0pbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMEQwNDA4M0E4NTY4NzBCNzNAzc+ToL8ySAB4soivoL8ykAEA",
+      "msg" : "Liberei o drive com os dois cursos, você vai receber no seu e-mail☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 12:08:57",
+      "delete" : false,
+      "identifier" : "CJH6pbsGIABIAJABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 13:53:00",
+      "delete" : false,
+      "identifier" : "CPSqprsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo contato! 😉",
+      "type" : "text"
+    }
+  ]
+})

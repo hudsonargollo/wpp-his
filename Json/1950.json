@@ -1,0 +1,84 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 95170-0663",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/26 14:00:42",
+      "delete" : false,
+      "identifier" : "CMLA9LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem? Me chamo Júlia, sou responsável pelo suporte de Afiliações do Iuri Meira, gostaria de informar que sua afiliação foi aprovada! 🤩\n\nPoderia verificar por gentileza.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/26 14:18:35",
+      "delete" : false,
+      "identifier" : "CPPI9LgGIABIAJABAA==",
+      "msg" : "Olá! Muito Obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/26 14:18:42",
+      "delete" : false,
+      "identifier" : "CPrI9LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!*\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/26 14:18:48",
+      "delete" : false,
+      "identifier" : "CIDJ9LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/26 14:19:28",
+      "delete" : false,
+      "identifier" : "CKjJ9LgGIABIAJABAA==",
+      "msg" : "Eu vi que só posso me afiliar a produtos dele se eu tiver comprado. \nNo caso eu tenho só a central caverna. \nÉ isso mesmo? Para eu vender também o modo caverno, preciso comprar ele?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/26 14:19:34",
+      "delete" : false,
+      "identifier" : "CK7J9LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Eu vi que só posso me afiliar a produtos dele se eu tiver comprado. \nNo caso eu tenho só a central caverna. \nÉ isso mesmo? Para eu vender também o modo caverno, preciso comprar ele?*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/26 14:19:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLTJ9LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 11:27:30",
+      "delete" : false,
+      "mediaName" : "ccd7a085-2133-4990-bcc7-5b3a76f53c91.opus",
+      "localPath" : "media\/f0495d392667ce90354e58bfcae207bf2e43b0a2.opus",
+      "mediaSize" : "17 KB",
+      "identifier" : "CNq+\/rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    }
+  ]
+})

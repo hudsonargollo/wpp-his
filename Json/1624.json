@@ -1,0 +1,351 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 99349-1389",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 14:26:20",
+      "delete" : false,
+      "identifier" : "CMSzkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem? Me chamo Bruna, sou responsável pelo suporte de Afiliações do Iuri Meira, gostaria de informar que sua afiliação foi aprovada! 🤩\nPoderia verificar por gentileza.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 14:53:31",
+      "delete" : false,
+      "identifier" : "CKPAkLgGIABIAJABAA==",
+      "msg" : "Não estou conseguindo me afiliar a Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 14:53:51",
+      "delete" : false,
+      "mediaName" : "8e82bc67-e655-4c25-ba45-a60c78396225.jpg",
+      "localPath" : "media\/d7dad0b0bf1c18403588b4e249a7aad2e99b8e2a.jpg",
+      "mediaSize" : "30 KB",
+      "identifier" : "CLfAkLgGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/dbf0b1079a718b57360b98d6d29c4a2043064b52"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 14:59:22",
+      "delete" : false,
+      "identifier" : "CILDkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Adicionei seu email na afiliação da Central Caverna!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 14:59:35",
+      "delete" : false,
+      "identifier" : "CI\/DkLgGIABIAJABAA==",
+      "msg" : "show",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 15:11:48",
+      "delete" : false,
+      "identifier" : "COzIkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Posso te ajudar em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 15:12:04",
+      "delete" : false,
+      "identifier" : "CPzIkLgGIABIAJABAA==",
+      "msg" : "Só isso mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 15:12:49",
+      "delete" : false,
+      "identifier" : "CKnJkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, você já teve acesso ao PDF com passo a passo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 15:14:17",
+      "delete" : false,
+      "identifier" : "CIHKkLgGIABIAJABAA==",
+      "msg" : "Ainda não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 15:17:03",
+      "delete" : false,
+      "mediaName" : "CHECKLIST-CENTRAL.pdf",
+      "localPath" : "media\/910d1cb53cd79b1e2b2128ad126a2516557b7912.pdf",
+      "mediaSize" : "1,2 MB",
+      "identifier" : "CKfLkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/2eaf8972cae6f7cfc9c2dcdea3c026a3c55e0968"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 15:17:30",
+      "delete" : false,
+      "mediaName" : "fbc456c9-29a4-49d7-97f6-0abce4111b1e.opus",
+      "localPath" : "media\/d64bcad72d0b732f106c234175a1c6c01ce61787.opus",
+      "mediaSize" : "36 KB",
+      "identifier" : "CMLLkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/07 15:29:15",
+      "delete" : false,
+      "identifier" : "CIPRkLgGIABIAZABAA==",
+      "msg" : "Valeu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/07 15:29:50",
+      "delete" : false,
+      "identifier" : "CKbRkLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estou a disposição! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 07:07:32",
+      "delete" : false,
+      "mediaName" : "6e7fd3d9-e640-414d-bd12-c64955a79ab4.jpg",
+      "localPath" : "media\/360c884a731f52348e5243e2b4946b1ac0091cd2.jpg",
+      "mediaSize" : "69 KB",
+      "identifier" : "COz9uLgGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/218e3bc1c6e98bcf7fae422a1cae3bdc344b6cd4"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 07:07:33",
+      "delete" : false,
+      "identifier" : "CO39uLgGIABIAJABAA==",
+      "msg" : "email de compra: davi.carvalho1103@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 07:07:54",
+      "delete" : false,
+      "identifier" : "CIL+uLgGIABIAJABAA==",
+      "msg" : "Está aparecendo essa notificação pra mim, porém eu comprei mês passado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 07:07:58",
+      "delete" : false,
+      "identifier" : "CIb+uLgGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 09:13:33",
+      "delete" : false,
+      "identifier" : "CPW4ubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, Davi, bom dia! \nVerifica se já está tudo ok, por gentileza ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 09:16:01",
+      "delete" : false,
+      "identifier" : "CIm6ubgGIABIAJABAA==",
+      "msg" : "Voltou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 09:16:04",
+      "delete" : false,
+      "identifier" : "CIy6ubgGIABIAJABAA==",
+      "msg" : "Obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 09:16:27",
+      "delete" : false,
+      "identifier" : "CKO6ubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida pode me mandar mensagem! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/17 09:37:58",
+      "delete" : false,
+      "identifier" : "CK6KxLgGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/17 09:38:26",
+      "delete" : false,
+      "identifier" : "CMqKxLgGIABIAJABAA==",
+      "msg" : "Vi que no material para afiliados fala que vai liberar o acesso a ferramenta para cliente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/17 09:38:40",
+      "delete" : false,
+      "identifier" : "CNiKxLgGIABIAJABAA==",
+      "msg" : "Tem período gratuito de teste?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/17 09:43:59",
+      "delete" : false,
+      "mediaName" : "a116845f-35e4-40d7-9863-4c2adc6d3ba3.opus",
+      "localPath" : "media\/29a3f713d26582f558ae2812fce6692bf83e60de.opus",
+      "mediaSize" : "36 KB",
+      "identifier" : "CJeNxLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/17 09:45:39",
+      "delete" : false,
+      "identifier" : "CPuNxLgGIABIAJABAA==",
+      "msg" : "Mas precisa fazer o pagamento primeiro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/17 09:45:44",
+      "delete" : false,
+      "identifier" : "CICOxLgGIABIAJABAA==",
+      "msg" : "Já sou cliente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/17 09:45:55",
+      "delete" : false,
+      "identifier" : "CIuOxLgGIABIAJABAA==",
+      "msg" : "Só estou perguntando pq vou vender tbm",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/17 09:47:06",
+      "delete" : false,
+      "mediaName" : "103b5270-bbb3-4dc0-aa86-c02bca77d22e.opus",
+      "localPath" : "media\/babf0c84b4133a98cf42d15cf44b41a366826947.opus",
+      "mediaSize" : "107 KB",
+      "identifier" : "CNKOxLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:52"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/17 09:48:18",
+      "delete" : false,
+      "identifier" : "CJqPxLgGIABIAJABAA==",
+      "msg" : "Qual o link de cadastro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/17 09:48:44",
+      "delete" : false,
+      "mediaName" : "67ed9540-d736-4557-8c7c-b97cf1849523.opus",
+      "localPath" : "media\/047a9ba7547f180c100a8f16476592f159d8892a.opus",
+      "mediaSize" : "42 KB",
+      "identifier" : "CLSPxLgGIABIAJABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/17 09:58:37",
+      "mediaSize" : "14 KB",
+      "mediaName" : "2903fb33-9cde-4da8-8e6c-7e3bc1a90c2f.thumb",
+      "localPath" : "media\/d2b0d4200b4240d690585307d1af77ce56b026f5.thumb",
+      "delete" : false,
+      "identifier" : "CIWUxLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/17 09:59:31",
+      "delete" : false,
+      "mediaName" : "86245964-ac06-41ea-bedb-9a9fcb11499b.opus",
+      "localPath" : "media\/b3409f7b41d28ae0a7b042e112a285862327860e.opus",
+      "mediaSize" : "96 KB",
+      "identifier" : "CLuUxLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:47"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/17 10:02:15",
+      "delete" : false,
+      "identifier" : "CN+VxLgGIABIAJABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/07 09:50:50",
+      "mediaSize" : "14 KB",
+      "mediaName" : "44dc344d-c103-45f3-92b7-416169d2e673.thumb",
+      "localPath" : "media\/ae94c42e1da7803fb408397d40e2b47c2c9f60c1.thumb",
+      "delete" : false,
+      "identifier" : "CLKJ0boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

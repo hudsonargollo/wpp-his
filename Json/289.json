@@ -1,0 +1,122 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 97251-2777",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/09 16:22:39",
+      "delete" : false,
+      "identifier" : "CIeDu8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, Igor! Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/09 16:23:07",
+      "delete" : false,
+      "identifier" : "CKODu8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sou responsável pelo suporte do Modo Caverna, vi que você solicitou reembolso do produto e vim te ajudar com isso.\n\nSinto muito pela sua experiência anterior, de verdade. Entendo a frustração.\nMas queria te contar uma coisa: de lá pra cá, a plataforma evoluiu MUITO. Hoje, você pode acessar tudo direto pelo navegador, sem depender do app.\n\nVocê já pagou por esse acesso… que tal dar uma última chance e ver como tá agora?\nÉ uma jornada pra reorganizar sua vida, sem enrolação, sem complicação.\n\nSe ainda assim preferir cancelar, tudo certo, farei o processo pra você.\nMas acho que vale pelo menos dar uma espiada.\n\nPosso te mandar o link?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/09 17:01:53",
+      "delete" : false,
+      "identifier" : "CLmVu8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tudo bem, sentimos muito por isso. Estarei entrando com o procedimento. Um momento!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/09 17:08:09",
+      "delete" : false,
+      "identifier" : "CLGYu8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Procedimento concluído! Poderia verificar no seu e-mail, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/09 17:09:51",
+      "delete" : false,
+      "identifier" : "CJeZu8MGIABIAZABAA==",
+      "msg" : "Nao recebi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/09 17:12:20",
+      "delete" : false,
+      "identifier" : "CKyau8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olhou na caixa de Spam ou lixo eletrônico também?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/09 17:19:22",
+      "delete" : false,
+      "mediaName" : "abf7c6b3-ee0e-45ce-a7f8-23d55e35cdde.jpg",
+      "localPath" : "media\/c7bb44d3e8431165095ca20a161fc6a4bf345daf.jpg",
+      "mediaSize" : "86 KB",
+      "identifier" : "CNKdu8MGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/2e993e938769c6f13aa55ce3088f8865b0cdf133"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/09 17:23:58",
+      "delete" : false,
+      "mediaName" : "a92695cb-f277-4235-91e2-2a5f2b1d3be1.jpg",
+      "localPath" : "media\/4522f8e02cbba11376a10399f779eee4df1e2c88.jpg",
+      "mediaSize" : "57 KB",
+      "identifier" : "COafu8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/fe917d917f4b79c486b1ba09f79d9554358ac152"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/09 17:24:43",
+      "delete" : false,
+      "identifier" : "CJOgu8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Conforme imagem, o reembolso foi solicitado. Estarei entrando em contato com o desenvolvedor para estar verificando sua confirmação.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/09 17:26:58",
+      "delete" : false,
+      "identifier" : "CJqhu8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fica tranquilo que vamos resolver isso. Peço um pouco de paciência, pois dependemos do suporte que é de São Paulo, hoje lá é feriado. Mas assim que nos retornarem, estarei entrando em contato com você.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/09 17:35:06",
+      "delete" : false,
+      "identifier" : "CIKlu8MGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/09 17:36:59",
+      "delete" : false,
+      "identifier" : "CPOlu8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Obrigada!",
+      "type" : "text"
+    }
+  ]
+})

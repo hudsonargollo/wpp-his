@@ -1,0 +1,245 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 34 99116-2473",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 09:09:08",
+      "delete" : false,
+      "identifier" : "COyp6rcGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:11:57",
+      "delete" : false,
+      "identifier" : "CJWr6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi! Espero que seu dia esteja indo bem. 😊\n\nSou a Júlia, faço parte da equipe do Iuri Meira, e estou aqui para garantir que você se sinta bem acolhido(a). \n\nComo posso te ajudar? Vamos resolver qualquer coisa juntos, ok? Conte comigo! 🤝",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 09:12:59",
+      "delete" : false,
+      "identifier" : "CNOr6rcGIABIAJABAA==",
+      "msg" : "eu resetei meu computador e perdi as imagens pro papel de parede, queria só que vcs me enviassem pra eu voltar a usar 🙃",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:20:45",
+      "delete" : false,
+      "mediaName" : "cbb50b40-76eb-4376-9b32-a251142d2774.jpg",
+      "localPath" : "media\/a59b08ee13834f15cf3686e58a16baa24717cc94.jpg",
+      "mediaSize" : "237 KB",
+      "identifier" : "CKWv6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/a24954134e798ddaac2167fdefa310cc910ac981"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:22:51",
+      "delete" : false,
+      "mediaName" : "17742f40-373a-447e-beea-501f7c8b9c00.jpg",
+      "localPath" : "media\/f792d5c5cd63561ad972588e79160203c2119ecd.jpg",
+      "mediaSize" : "186 KB",
+      "identifier" : "CKOw6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/15b04db0a4e675857f095303db13bf314fa8bc92"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:22:54",
+      "delete" : false,
+      "mediaName" : "ee0753ef-4e45-437b-b5c5-d66b2ec1a19f.jpg",
+      "localPath" : "media\/6874c52a36ebbc7bc00035b251794e45d4bd8b9a.jpg",
+      "mediaSize" : "84 KB",
+      "identifier" : "CKaw6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/6caf513e91b00b2c0b08eaacfc7caed7e04687b1"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:23:26",
+      "delete" : false,
+      "mediaName" : "c5899b98-cc43-4974-948c-d6bd5875183d.jpg",
+      "localPath" : "media\/234d11bbb8286fd33815b8cf583834c060d62619.jpg",
+      "mediaSize" : "171 KB",
+      "identifier" : "CMaw6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/4b3515dffbd09212c187b95b65e4d251f16677f1"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:24:10",
+      "delete" : false,
+      "mediaName" : "7d4142ee-0e73-48b9-8d1e-32121df5db38.jpg",
+      "localPath" : "media\/d658c86f18abcd4f572a5daf732aba618663c92e.jpg",
+      "mediaSize" : "105 KB",
+      "identifier" : "CPKw6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/1b98f8938a422ce95e401a8174234467064e4a68"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:24:10",
+      "delete" : false,
+      "mediaName" : "7f8dfbc5-9737-4f1e-a191-57a15bd46e88.jpg",
+      "localPath" : "media\/90a41aa8f8ce0adba1eca8608ec3e929065b8199.jpg",
+      "mediaSize" : "161 KB",
+      "identifier" : "CPKw6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/45e49d1d09711d5dac3eb24c9334520b2fe63773"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:24:10",
+      "delete" : false,
+      "mediaName" : "101b038d-10c2-438d-8ccc-c497b21e2db2.jpg",
+      "localPath" : "media\/47d55a126411a8fc602296fecb774286222a2c87.jpg",
+      "mediaSize" : "235 KB",
+      "identifier" : "CPKw6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/0cc346fcf387fe073030e5a1c46b024c9a86d4f4"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:24:37",
+      "delete" : false,
+      "mediaName" : "420595d6-7ecc-4f50-9953-3c0c1ee5a9c9.jpg",
+      "localPath" : "media\/a1c81d13d30cbcb58087f03de02feca4ddc1c1b1.jpg",
+      "mediaSize" : "109 KB",
+      "identifier" : "CI2x6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/74d2be1714b900a4c4ae300451cc7ac02021fe79"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 09:25:31",
+      "delete" : false,
+      "identifier" : "CMOx6rcGIABIAJABAA==",
+      "msg" : "vlww 🙏🏽🚀",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:25:49",
+      "delete" : false,
+      "mediaName" : "aa931773-e50e-49f0-a02e-0e88cfeb81db.jpg",
+      "localPath" : "media\/04f298e64746db58a1bc4b4dd097ae5d9e3d6d35.jpg",
+      "mediaSize" : "119 KB",
+      "identifier" : "CNWx6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/7c4faf250b65a321fc79b616dbfe2304c04fa973"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:25:49",
+      "delete" : false,
+      "mediaName" : "f4a34c35-9795-42a2-8ba6-1858ade22efa.jpg",
+      "localPath" : "media\/347c66326aa6dc7cb7059ac78b9b2b72e57f3d40.jpg",
+      "mediaSize" : "189 KB",
+      "identifier" : "CNWx6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/78351c35396822f2691b8c72bc97f294b51bc8fb"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:25:49",
+      "delete" : false,
+      "mediaName" : "746574b1-df8c-43fb-992d-9c2508e67c31.jpg",
+      "localPath" : "media\/7ca77e5c105d0a35e63aafc9199d9d44ab73742d.jpg",
+      "mediaSize" : "194 KB",
+      "identifier" : "CNWx6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/77dfe15dc0c3b0adb666b65c34d39718263fbc41"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:25:49",
+      "delete" : false,
+      "mediaName" : "18ada0c5-3d21-4830-b52c-bfc46a463d86.jpg",
+      "localPath" : "media\/c08f4cac091047577a16aa6fde4549ede200b6c3.jpg",
+      "mediaSize" : "118 KB",
+      "identifier" : "CNWx6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/359e349b9d397e991d3276cb8c524c721e30faf8"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:25:50",
+      "delete" : false,
+      "mediaName" : "6249c26a-8ca6-4186-9074-49443ae5a6b0.jpg",
+      "localPath" : "media\/c8a9ef82f3234c98d97ba66e6c5ff70a3d3ee44a.jpg",
+      "mediaSize" : "180 KB",
+      "identifier" : "CNax6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/bf37b17510e0396eced447bea3b8bf0d0eb6ee37"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:25:50",
+      "delete" : false,
+      "mediaName" : "26fe2637-d4b8-434e-8b4e-1de83a89be3a.jpg",
+      "localPath" : "media\/41de6f2dfcfe3f94d66933fd5f5a8530f9fe460c.jpg",
+      "mediaSize" : "98 KB",
+      "identifier" : "CNax6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/c7f430d18c3ae28d3574ac7843422f0d462d140d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:25:50",
+      "delete" : false,
+      "mediaName" : "cd461138-cb20-417a-bbc1-b72bfff230be.jpg",
+      "localPath" : "media\/de36e4ad3f4c2f7d75778b49ce6e9ae7ca80550f.jpg",
+      "mediaSize" : "58 KB",
+      "identifier" : "CNax6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/dd7a573d62564a8d57711a10c6d8af577bda3ab4"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:25:50",
+      "delete" : false,
+      "mediaName" : "3d0ec0ea-681f-4775-b0e6-c1230c5d8d58.jpg",
+      "localPath" : "media\/f2e94fc89ddd9abfe7bf9bdc0b67d2998bb612c1.jpg",
+      "mediaSize" : "217 KB",
+      "identifier" : "CNax6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/262ee9a39ed4863dab1b6f3088b2ef1816745ffa"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 09:26:15",
+      "delete" : false,
+      "identifier" : "CO+x6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    }
+  ]
+})

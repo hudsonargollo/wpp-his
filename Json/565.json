@@ -1,0 +1,54 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 79 99628-6022",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 20:40:29",
+      "delete" : false,
+      "identifier" : "CPXUzsEGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda. Quero entrar no grupo do whatsapp",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 20:42:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNzVzsEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 19:04:54",
+      "delete" : false,
+      "identifier" : "CI7u2MEGIABIAZABAA==",
+      "msg" : "Boa noite 🤜🤛",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 19:06:38",
+      "delete" : false,
+      "identifier" : "CPbu2MEGIABIAZABAA==",
+      "msg" : "Meu link de divulgação e comissão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 20:16:16",
+      "delete" : false,
+      "identifier" : "CMiP2cEGIABIAZABAA==",
+      "msg" : "Minha senha?",
+      "type" : "text"
+    }
+  ]
+})

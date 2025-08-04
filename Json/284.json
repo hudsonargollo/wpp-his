@@ -1,0 +1,71 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 97264-6617",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/09 22:40:19",
+      "delete" : false,
+      "identifier" : "CIu0vMMGIABIAZABAA==",
+      "msg" : "Ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/09 22:42:14",
+      "delete" : false,
+      "identifier" : "CP60vMMGIABIAZABAA==",
+      "msg" : "Amanhã vence minha assinar eu não quero renovar, porém está chegando uma mensagem que irá renovar automaticamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/09 22:42:21",
+      "delete" : false,
+      "identifier" : "CIW1vMMGIABIAZABAA==",
+      "msg" : "Preciso que não renove por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 08:50:54",
+      "delete" : false,
+      "identifier" : "CKbSvsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Josemar! Tudo bem?\nMe envia seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 08:51:52",
+      "delete" : false,
+      "identifier" : "CODSvsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua assinatura já foi cancelada e não irá renovar automaticamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 10:07:30",
+      "delete" : false,
+      "identifier" : "CJr2vsMGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 10:08:57",
+      "delete" : false,
+      "identifier" : "CPH2vsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha!",
+      "type" : "text"
+    }
+  ]
+})

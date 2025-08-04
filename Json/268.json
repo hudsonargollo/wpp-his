@@ -1,0 +1,484 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 28 99936-5077",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 14:27:14",
+      "delete" : false,
+      "identifier" : "CPrvv8MGIABIAJABAA==",
+      "msg" : "Olá, boa tarde.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 14:27:23",
+      "delete" : false,
+      "identifier" : "CIPwv8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 14:27:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CITwv8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 14:27:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJ7wv8MGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 14:29:09",
+      "delete" : false,
+      "identifier" : "CO3wv8MGIABIAJABAA==",
+      "msg" : "1",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 14:29:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CPXwv8MGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 14:30:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNnxv8MGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 14:31:08",
+      "delete" : false,
+      "identifier" : "COTxv8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Charles! Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 14:31:21",
+      "delete" : false,
+      "identifier" : "CPHxv8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "me informe o seu e-mail, por gentileza.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 14:40:39",
+      "delete" : false,
+      "identifier" : "CJ\/2v8MGIABIAJABAA==",
+      "msg" : "charles.mavaroes@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/10 14:43:45",
+      "delete" : false,
+      "identifier" : "CNn3v8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo. Em que posso lhe ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 18:16:54",
+      "delete" : false,
+      "identifier" : "CM7bwMMGIABIAZABAA==",
+      "msg" : "Não co sigo logar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 18:17:01",
+      "delete" : false,
+      "identifier" : "CNXbwMMGIABIAZABAA==",
+      "msg" : "Só da erro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 18:17:17",
+      "delete" : false,
+      "identifier" : "COXbwMMGIABIAZABAA==",
+      "msg" : "De uma forma diz que o e-mail não está sendo encontrado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 18:18:03",
+      "delete" : false,
+      "identifier" : "CJPcwMMGIABIAZABAA==",
+      "msg" : "De outra forma aparecem umas etapas para ir passando, mas quando chega na etapa 5, não avança",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 18:18:17",
+      "delete" : false,
+      "mediaName" : "4086c8f1-53ea-4d4c-a416-2cb8fc7eda45.jpg",
+      "localPath" : "media\/b370254dd7a732bfd25e18255a1c5395673bb0ad.jpg",
+      "mediaSize" : "83 KB",
+      "identifier" : "CKHcwMMGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/d7bb81599906ec914ffcb6455cca10f1a234c434"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 18:32:26",
+      "delete" : false,
+      "mediaName" : "7255c49b-22bf-46d8-8b06-437069dfde8d.jpg",
+      "localPath" : "media\/0365c9b2d332945c53d8f645cb90f12686ce31a9.jpg",
+      "mediaSize" : "144 KB",
+      "identifier" : "CPLiwMMGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c4885c0dda6291ce48d008c4ac7f955fc7ea9082"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 18:32:53",
+      "delete" : false,
+      "mediaName" : "65002497-3858-480e-a30c-e0336393b3a9.jpg",
+      "localPath" : "media\/427ecc7e3f26530881b76f93c059cd249b33d2ce.jpg",
+      "mediaSize" : "140 KB",
+      "identifier" : "CI3jwMMGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/8ff99ae66b71b908532f4c8f4bea9a3632692d43"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/10 20:14:38",
+      "delete" : false,
+      "mediaName" : "142c32ed-4447-4cb8-a13c-edde9de63ca0.jpg",
+      "localPath" : "media\/cd835f6fbde3b849380a12194ea7d2940a8cea42.jpg",
+      "mediaSize" : "50 KB",
+      "identifier" : "COaSwcMGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/260860e6f889a0d56818d2de9992a8b40442409e"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 09:09:49",
+      "delete" : false,
+      "identifier" : "CJX+w8MGIABIAJABAA==",
+      "msg" : "Pessoal, bom dia! Já desinstalei o aplicativo, já tentei em outro navegador. Pelo pouco conhecimento que tenho, isso é um problema sistêmico. Tenho e-mails do suporte . Como é que o sistema diz que não reconhece meu e-mail?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 09:10:54",
+      "delete" : false,
+      "identifier" : "CNb+w8MGIABIAJABAA==",
+      "msg" : "Estou precisando de uma solução... alguém poderia me ajudar, por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:15:32",
+      "delete" : false,
+      "identifier" : "CIy5xMMGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:15:56",
+      "delete" : false,
+      "identifier" : "CKS5xMMGIABIAJABAA==",
+      "msg" : "2h de espera e ainda nenhum posicionamento...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:16:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLS5xMMGIAA=",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:18:33",
+      "delete" : false,
+      "identifier" : "CMG6xMMGIABIAJABAA==",
+      "msg" : "PRECISO ACESSAR O APLICATIVO",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:20:08",
+      "delete" : false,
+      "identifier" : "CKC7xMMGIABIAJABAA==",
+      "msg" : "TEM ALGUÉM AÍ PARA, PELO MENOS, RESPONDER AS MENSAGENS????",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 11:22:30",
+      "delete" : false,
+      "identifier" : "CK68xMMGIABIAJABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 14:50:59",
+      "delete" : false,
+      "identifier" : "CIuexcMGIABIAJABAA==",
+      "msg" : "Caramba!!! Um verdadeiro descaso...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 14:51:19",
+      "delete" : false,
+      "identifier" : "CJ+excMGIABIAJABAA==",
+      "msg" : "Ninguém vai me ajudar?????",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 15:55:08",
+      "delete" : false,
+      "identifier" : "CJS8xcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, boa tarde! Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 15:55:26",
+      "delete" : false,
+      "identifier" : "CKa8xcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "me passa seu e-mail, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 15:55:30",
+      "delete" : false,
+      "identifier" : "CKq8xcMGIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 15:55:43",
+      "delete" : false,
+      "identifier" : "CLe8xcMGIABIAJABAA==",
+      "msg" : "charles.mavaroes@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 15:57:30",
+      "delete" : false,
+      "identifier" : "CKK9xcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo! Isso se dá porque você adquiriu o desafio, por tanto, você só tinha acesso durante os 7 primeiros dias. Mas já estamos solucionando este problema para que você consiga utilizá-la, certo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 15:58:35",
+      "delete" : false,
+      "identifier" : "COO9xcMGIABIAJABAA==",
+      "msg" : "Espera aí... Eu paguei R$ 49 para usar apenas 7 dias do aplicativo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 15:59:18",
+      "delete" : false,
+      "identifier" : "CI6+xcMGIABIAJABAA==",
+      "msg" : "Dentro da minha área tinha a opção de testar  dias grátis, mas eu não optei por essa alternativa.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:00:22",
+      "delete" : false,
+      "identifier" : "CM6+xcMGIABIAJABAA==",
+      "msg" : "Eu adquiri o Desafio 40 dias e para mim era isso o que eu estava utilizando.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:00:38",
+      "delete" : false,
+      "identifier" : "CN6+xcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não, veja só. Você adquiriu apenas o Desafio que são de 40 dias, mas, por 7 dias após aquisição, você consegue acessar todo o conteúdo. Mas nada tem a ver com essa parte do objetivo. Estamos solucionando para que você consiga dar continuidade normalmente no seu desafio.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:01:14",
+      "delete" : false,
+      "identifier" : "CIK\/xcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fique tranquilo, já estamos resolvendo com nosso desenvolvedor.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:01:18",
+      "delete" : false,
+      "identifier" : "CIa\/xcMGIABIAJABAA==",
+      "msg" : "Vou aguardar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:25:48",
+      "delete" : false,
+      "identifier" : "CMTKxcMGIABIAJABAA==",
+      "msg" : "O acesso voltou. Só que antes de travar eu havia cumprido a meta do sexto dia salvei isso. Agora está constando como dia nulo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:26:33",
+      "delete" : false,
+      "identifier" : "CPHKxcMGIABIAJABAA==",
+      "msg" : "Mas, tudo bem... agora eu vou pensar duas vezes antes de me afiliar ao produto ou fazer um upgrade para o outro plano.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:26:41",
+      "delete" : false,
+      "identifier" : "CPnKxcMGIABIAJABAA==",
+      "msg" : "Muito obrigado...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:27:19",
+      "delete" : false,
+      "identifier" : "CJ\/LxcMGIABIAJABAA==",
+      "msg" : "Desculpa a sinceridade. Só fiquei decepcionado pela falta de retorno e informação.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:28:39",
+      "delete" : false,
+      "identifier" : "CO\/LxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sentimos muito por isso, e pedimos desculpas! Nosso sistema estava passando por algumas inconsistências, mas estamos resolvendo para a melhor utilização do usuário.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:30:09",
+      "delete" : false,
+      "identifier" : "CMnMxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Foi necessário resetar seu onboarding e por isso, sua meta foi anulada, mas você pode estar registrando-a novamente e seguir com o acesso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:32:37",
+      "delete" : false,
+      "identifier" : "CN3NxcMGIABIAJABAA==",
+      "msg" : "Entendo. Mas, poderia informar ao usuário. Desde ontem que tento falar com o suporte.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:33:37",
+      "delete" : false,
+      "identifier" : "CJnOxcMGIABIAJABAA==",
+      "msg" : "Beleza. Não vou esquentar com isso... Muito obrigado mais uma vez.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:34:31",
+      "delete" : false,
+      "identifier" : "CM\/OxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sinto muito mais uma vez, mas espero que, agora, sua experiência seja agradável.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:34:54",
+      "delete" : false,
+      "identifier" : "CObOxcMGIABIAJABAA==",
+      "msg" : "Também espero.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:37:26",
+      "delete" : false,
+      "identifier" : "CP7PxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agradeço a compreensão. Espero ter ajudado! Ótima tarde",
+      "type" : "text"
+    }
+  ]
+})

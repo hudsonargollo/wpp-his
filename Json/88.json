@@ -1,0 +1,409 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 48 99218-7998",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 13:50:26",
+      "delete" : false,
+      "identifier" : "CNqaqcQGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 13:50:36",
+      "delete" : false,
+      "identifier" : "COSaqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 13:50:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COWaqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 13:51:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CIebqcQGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 13:51:18",
+      "delete" : false,
+      "identifier" : "CI6bqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 13:51:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJObqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:01:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "COufqcQGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 14:01:26",
+      "delete" : false,
+      "identifier" : "CO6fqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:01:31",
+      "delete" : false,
+      "identifier" : "CPOfqcQGIABIAZABAA==",
+      "msg" : "Flávia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 14:01:33",
+      "delete" : false,
+      "identifier" : "CPWfqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 14:01:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPefqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:01:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CICgqcQGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 14:01:45",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIGgqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:02:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Smartphones\/Telas pequenas",
+      "delete" : false,
+      "identifier" : "CJSgqcQGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 14:02:06",
+      "delete" : false,
+      "identifier" : "CJagqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Percebi que você está tentando acessar pelo celular, certo? 🐺\n\nAlguns aparelhos com tela menor ainda podem apresentar limitações, mesmo após nossas melhorias de responsividade.\n\nSe puder, acesse pelo computador ou tablet, a experiência será bem mais fluida!\n\nA boa notícia: nosso app já está quase pronto, em breve no iOS e Android.\n\n👉 _Se esse não for o seu problema, me conta aqui o que está acontecendo pra eu te ajudar melhor!_",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:04:25",
+      "delete" : false,
+      "identifier" : "CKGhqcQGIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:12:00",
+      "delete" : false,
+      "identifier" : "COikqcQGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:12:02",
+      "delete" : false,
+      "identifier" : "COqkqcQGIABIAZABAA==",
+      "msg" : "Preciso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 14:12:07",
+      "delete" : false,
+      "identifier" : "CO+kqcQGIABIAZABAA==",
+      "msg" : "Fazer cancelamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 15:22:09",
+      "delete" : false,
+      "identifier" : "CNnFqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "opa flavia tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 15:29:04",
+      "delete" : false,
+      "identifier" : "CPjIqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "sinto muito que esteja passando por problemas com nosso sistema, estamos trabalhando na implementação de melhorias",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 15:30:11",
+      "delete" : false,
+      "identifier" : "CLvJqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "mas me diz uma coisa o que mais te chateou ,qual o problema que te levou a tomar essa decisão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:38:33",
+      "delete" : false,
+      "identifier" : "CLHNqcQGIABIAZABAA==",
+      "msg" : "Preciso cancelar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:38:36",
+      "delete" : false,
+      "identifier" : "CLTNqcQGIABIAZABAA==",
+      "msg" : "Pq não uso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:38:44",
+      "delete" : false,
+      "identifier" : "CLzNqcQGIAA6FDNBQjNDOTEzNjc1MDFEMDI5NEYzQKvCheWFM0gBeMHKheWFM5ABAA==",
+      "msg" : "Estou cortando gasto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:38:57",
+      "delete" : false,
+      "identifier" : "CMnNqcQGIABIAZABAA==",
+      "msg" : "Eu não iria renova",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:39:05",
+      "delete" : false,
+      "identifier" : "CNHNqcQGIABIAZABAA==",
+      "msg" : "Por este motivo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 15:40:37",
+      "delete" : false,
+      "identifier" : "CK3OqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "desculpa se estou sendo invasivo , mas como anda a organização da sua rotina atualmente?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:41:22",
+      "delete" : false,
+      "identifier" : "CNrOqcQGIABIAZABAA==",
+      "msg" : "Eu uso planilha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:41:28",
+      "delete" : false,
+      "identifier" : "CODOqcQGIABIAZABAA==",
+      "msg" : "Ai não preciso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:41:33",
+      "delete" : false,
+      "identifier" : "COXOqcQGIABIAZABAA==",
+      "msg" : "Do aplicativo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 15:42:37",
+      "delete" : false,
+      "identifier" : "CKXPqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você já  chegou a testar como funciona o nosso sistema?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:43:40",
+      "delete" : false,
+      "identifier" : "COTPqcQGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:43:49",
+      "delete" : false,
+      "identifier" : "CO3PqcQGIABIAZABAA==",
+      "msg" : "Não tenho\nMais interesse",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 15:45:48",
+      "delete" : false,
+      "identifier" : "COTQqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "humm e uma  pena estar perdendo você ,uma ultima duvida qual o plano que você tem atualmente ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:46:53",
+      "delete" : false,
+      "identifier" : "CKXRqcQGIABIAZABAA==",
+      "msg" : "Como falei não estava usando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:47:21",
+      "delete" : false,
+      "mediaName" : "66e933f4-04b8-42a1-8061-614a428a668b.jpg",
+      "localPath" : "media\/02d43645d87dfb4cd92b5ff645e497404aae7d83.jpg",
+      "mediaSize" : "99 KB",
+      "identifier" : "CMHRqcQGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/db189a6e652ec83573361040eb65f1d72ac9b155"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 15:54:28",
+      "delete" : false,
+      "identifier" : "COzUqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "me passa seu e-mail de compra por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 15:56:17",
+      "delete" : false,
+      "identifier" : "CNnVqcQGIABIAZABAA==",
+      "msg" : "flaviaps1982@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 16:03:06",
+      "delete" : false,
+      "identifier" : "CPLYqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "deseja cancelar o desafio caverna também?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 16:14:09",
+      "delete" : false,
+      "identifier" : "CIneqcQGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 16:17:18",
+      "delete" : false,
+      "mediaName" : "580c8ae7-73b2-4556-8978-24f7fccfe7bc.jpg",
+      "localPath" : "media\/5f88e54e248cb03ef728b3c8c4a6c7d6fd9c2e8a.jpg",
+      "mediaSize" : "64 KB",
+      "identifier" : "CMbfqcQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/810d4b9bf702d348816202311aa089cc2488623b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 16:23:22",
+      "delete" : false,
+      "identifier" : "CLLiqcQGIABIAZABAA==",
+      "msg" : "Obrigada",
+      "type" : "text"
+    }
+  ]
+})

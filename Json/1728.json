@@ -1,0 +1,83 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 62 99148-7386",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 08:57:33",
+      "delete" : false,
+      "identifier" : "CLW1oboGIABIAJABAA==",
+      "msg" : "Olá, vim da Central Caverna e desejo solicitar o cancelamento do meu plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 08:57:38",
+      "delete" : false,
+      "identifier" : "CLq1oboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 🔺\nEntendi que você deseja cancelar seu plano na Central Caverna. Poderia me contar o que o levou a essa decisão? Iremos sempre melhorar e, se possível, ajudar a resolver qualquer situação. 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 08:58:28",
+      "delete" : false,
+      "identifier" : "COy1oboGIABIAJABAA==",
+      "msg" : "antes no modo produtivivade tinha uma aba onde colocava as ferramentas, antes tava mais personalizado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 08:58:35",
+      "delete" : false,
+      "identifier" : "CPO1oboGIABIAJABAA==",
+      "msg" : "agora ta muito ruim o layout",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 08:58:52",
+      "delete" : false,
+      "identifier" : "CIS2oboGIABIAJABAA==",
+      "msg" : "tudo otimo e com vc?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 09:08:46",
+      "delete" : false,
+      "mediaName" : "96630197-1298-449c-853f-3503e320d0c1.opus",
+      "localPath" : "media\/82b1592dff203d9e4dc1052cccf3789b12db0ce5.opus",
+      "mediaSize" : "39 KB",
+      "identifier" : "CNa6oboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 09:09:37",
+      "delete" : false,
+      "identifier" : "CIm7oboGIABIAJABAA==",
+      "msg" : "mas tiraram o melhor da plataforma kkk vc sabe me informar quando volta?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/28 09:21:44",
+      "delete" : false,
+      "identifier" : "CODAoboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Em breve, vou passar sua solicitação para nossos desenvolvedores 😊",
+      "type" : "text"
+    }
+  ]
+})

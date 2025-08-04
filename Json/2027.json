@@ -1,0 +1,81 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 34 99835-2835",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 10:39:08",
+      "delete" : false,
+      "identifier" : "CIThubgGIABIAJABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 10:39:25",
+      "delete" : false,
+      "identifier" : "CJXhubgGIABIAJABAA==",
+      "msg" : "tem algum video ensinando a organizar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/15 10:39:29",
+      "delete" : false,
+      "identifier" : "CJnhubgGIABIAJABAA==",
+      "msg" : "a central caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 10:42:48",
+      "delete" : false,
+      "mediaName" : "735f8199-558c-4ece-9baa-50c816f5400e.opus",
+      "localPath" : "media\/e66885144b56b589a69834b38afad74ebfe4bb54.opus",
+      "mediaSize" : "112 KB",
+      "identifier" : "CODiubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:54"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 10:43:12",
+      "delete" : false,
+      "mediaName" : "d95349d2-7af6-4389-9ae6-2f4ab02e9e4c.opus",
+      "localPath" : "media\/7eb77ef9f10fa7df55d208e58b19ea45d73598b4.opus",
+      "mediaSize" : "42 KB",
+      "identifier" : "CPjiubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 10:43:41",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJXjubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 10:44:25",
+      "delete" : false,
+      "mediaName" : "c3b28f20-67ea-41ac-8cab-51f9867c900d.mp4",
+      "localPath" : "media\/91b04dd7d845fd11a193b0bb957aa5dcbf573eeb.mp4",
+      "mediaSize" : "3,3 MB",
+      "identifier" : "CMHjubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/aac5c8289d44df46275d055b408368107cd20cd7"
+    }
+  ]
+})

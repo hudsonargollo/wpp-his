@@ -1,0 +1,72 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 33 99999-8295",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/04 10:49:50",
+      "delete" : false,
+      "identifier" : "CIa4n8MGIABIAZABAA==",
+      "msg" : "Olá, fiz a compra, mas já tinha comprado em outro e-mail, e gostaria de solicitar o reembolso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 10:50:01",
+      "delete" : false,
+      "identifier" : "CJG4n8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 10:50:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJO4n8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 10:50:22",
+      "delete" : false,
+      "identifier" : "CKa4n8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me informe o seu email e CPF de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/04 10:50:40",
+      "delete" : false,
+      "identifier" : "CLi4n8MGIABIAZABAA==",
+      "msg" : "Alanmoreiragomes567@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/04 10:50:46",
+      "delete" : false,
+      "identifier" : "CL64n8MGIABIAZABAA==",
+      "msg" : "16351615682",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/04 10:55:04",
+      "delete" : false,
+      "identifier" : "CMC6n8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado.🐺",
+      "type" : "text"
+    }
+  ]
+})

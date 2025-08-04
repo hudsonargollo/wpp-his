@@ -1,0 +1,418 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 98474-4264",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/03 14:16:38",
+      "delete" : false,
+      "identifier" : "CP6Eu78GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/03 14:16:50",
+      "delete" : false,
+      "identifier" : "CIqFu78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/03 14:16:56",
+      "delete" : false,
+      "identifier" : "CJCFu78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/03 14:17:02",
+      "delete" : false,
+      "identifier" : "CJaFu78GIABIAZABAA==",
+      "msg" : "Caroline",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/03 14:17:09",
+      "delete" : false,
+      "identifier" : "CJ2Fu78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Caroline*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/03 14:17:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKOFu78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/03 14:17:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CKqFu78GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/03 14:17:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKyFu78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/03 14:17:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CLKFu78GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/03 14:17:32",
+      "delete" : false,
+      "identifier" : "CLSFu78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/03 14:17:55",
+      "delete" : false,
+      "identifier" : "CMuFu78GIABIAZABAA==",
+      "msg" : "Quero fazer o cancelamento e quero o estorno do valor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/03 14:34:16",
+      "delete" : false,
+      "identifier" : "CKCNu78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual o seu e-mail ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/03 14:45:46",
+      "delete" : false,
+      "identifier" : "CNKSu78GIABIAZABAA==",
+      "msg" : "carollorrany68@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 13:02:06",
+      "delete" : false,
+      "identifier" : "CIbuz78GIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/07 13:02:21",
+      "delete" : false,
+      "identifier" : "CJXuz78GIABIAZABAA==",
+      "msg" : "Algum retorno sobre o cancelamento?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 11:22:27",
+      "delete" : false,
+      "identifier" : "CKvi1L8GIABIAZABAA==",
+      "msg" : "Bom dia! Preciso de um retorno sobre o cancelamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 11:22:39",
+      "delete" : false,
+      "identifier" : "CLfi1L8GIABIAZABAA==",
+      "msg" : "Estou mandando mensagem desde quinta feira",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 17:36:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "COuR1r8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 17:37:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CPiR1r8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/08 20:56:06",
+      "delete" : false,
+      "identifier" : "CJ7v1r8GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 08:29:21",
+      "delete" : false,
+      "identifier" : "CJm02b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?\n\nVocê poderia, por gentileza, me explicar melhor o motivo do seu pedido de reembolso? Assim, poderei te ajudar da melhor forma possível.\n\nFico à disposição! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 10:17:19",
+      "delete" : false,
+      "identifier" : "COfm2b8GIABIAZABAA==",
+      "msg" : "Bom dia! Eu li os materiais, os ebooks mas achei o material bem genérico. Estava esperando outra coisa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 15:13:35",
+      "delete" : false,
+      "identifier" : "CNfx2r8GIABIAZABAA==",
+      "msg" : "Pode fazer o cancelamento por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 13:18:06",
+      "delete" : false,
+      "identifier" : "CMbe378GIABIAZABAA==",
+      "msg" : "Bom dia! Algum retorno?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 12:19:15",
+      "delete" : false,
+      "identifier" : "CPvl5L8GIABIAZABAA==",
+      "msg" : "Bom dia! É à última vez que vou tentar o reembolso pelo suporte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/11 12:19:27",
+      "delete" : false,
+      "identifier" : "CIfm5L8GIABIAZABAA==",
+      "msg" : "Ou vou deixar pra resolver no juizado especial mesmo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 13:47:25",
+      "delete" : false,
+      "identifier" : "CKX49L8GIABIAZABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 13:47:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CKz49L8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 13:04:44",
+      "delete" : false,
+      "identifier" : "CKT8nsAGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 13:05:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CLX8nsAGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 14:48:32",
+      "delete" : false,
+      "identifier" : "CPisn8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 14:48:39",
+      "delete" : false,
+      "identifier" : "CP+sn8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "posso ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 14:52:31",
+      "delete" : false,
+      "identifier" : "COeun8AGIABIAZABAA==",
+      "msg" : "Boa tarde! Pode sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 14:53:07",
+      "delete" : false,
+      "identifier" : "CIuvn8AGIABIAZABAA==",
+      "msg" : "Estou desde o dia 3 de abril tentando contato com vocês pra fazer o cancelamento e o reembolso do curso que comprei e vocês não respondem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 14:53:18",
+      "delete" : false,
+      "identifier" : "CJavn8AGIABIAZABAA==",
+      "msg" : "Quero só fazer o cancelamento e o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 14:54:45",
+      "delete" : false,
+      "mediaName" : "14aec2f7-8843-4403-9c87-1077cc606986.opus",
+      "localPath" : "media\/a59d66d042a8e9334afb4a5c07c3edea83f5a6a3.opus",
+      "mediaSize" : "141 KB",
+      "identifier" : "CO2vn8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 15:25:45",
+      "delete" : false,
+      "identifier" : "CLG+n8AGIABIAZABAA==",
+      "msg" : "Entao, eu baixei os materiais, realizei toda a leitura dos arquivos mas achei o material bem raso. Tem ali instrução das coisas a serem feitas, mas não tem nenhum embasamento\/aprofundamento nesses itens de modo específico",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 15:26:23",
+      "delete" : false,
+      "identifier" : "CNe+n8AGIABIAZABAA==",
+      "msg" : "Por exemplo: fala sobre ler todo dia, diminuir uso das redes sociais mas tudo isso de forma mt genérica",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 15:27:08",
+      "delete" : false,
+      "identifier" : "CIS\/n8AGIABIAZABAA==",
+      "msg" : "Fala sobre obter renda extra através do marketing digital, dá até algumas opções ali mas bem raso, não mostra de maneira prática e efetiva",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 15:27:25",
+      "delete" : false,
+      "identifier" : "CJW\/n8AGIABIAZABAA==",
+      "msg" : "Como faço dai pra conseguir esse reembolso pel ticket?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/22 16:03:41",
+      "delete" : false,
+      "mediaName" : "002ca86c-4083-4aa6-bf73-f3f9a438d3dc.opus",
+      "localPath" : "media\/b149cfdf730411674248347369bf0a62495302f8.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CJXQn8AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:04"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:06:30",
+      "delete" : false,
+      "identifier" : "CL7Rn8AGIABIAZABAA==",
+      "msg" : "Beleza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:11:16",
+      "delete" : false,
+      "identifier" : "CNzTn8AGIABIAZABAA==",
+      "msg" : "No site deles aparece que o prazo para solicitar o reembolso expirou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/22 16:11:42",
+      "delete" : false,
+      "identifier" : "CPbTn8AGIABIAZABAA==",
+      "msg" : "Mas eu só recebi a informação de que teria que ser com eles hoje, to tentando desde o dia 03 de abril, que estava no prazo",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,27 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Meus links",
+    "member" : [
+      "+557382446098",
+      "+557391262551"
+    ]
+  },
+  "body" : [
+    {
+      "time" : "2024\/04\/06 08:38:12",
+      "avatar" : "",
+      "msg" : "+557382446098 created group \"\"",
+      "identifier" : "CKzoxLAGIAA=",
+      "position" : "conter",
+      "delete" : false
+    },
+    {
+      "time" : "2024\/04\/06 08:38:12",
+      "avatar" : "",
+      "msg" : "CKzoxLAGIAA= was added to this group",
+      "identifier" : "CKzoxLAGIAA=",
+      "position" : "conter",
+      "delete" : false
+    }
+  ]
+})

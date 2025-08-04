@@ -1,0 +1,84 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 87 99968-7227",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 13:13:42",
+      "delete" : false,
+      "identifier" : "CL6Ny7sGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 13:13:51",
+      "delete" : false,
+      "identifier" : "CMeNy7sGIABIAZABAA==",
+      "msg" : "Não estou conseguindo abrir o material",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 13:13:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMiNy7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 13:13:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Quero acessar o conteúdo do Desafio 5 em 30!",
+      "delete" : false,
+      "identifier" : "CM+Ny7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 13:14:02",
+      "delete" : false,
+      "identifier" : "CNKNy7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para acessar seus materiais basta clicar no link abaixo ⬇️ \n\nhttps:\/\/redirect.lifs.app\/desafio5em30",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 13:14:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNONy7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/30 13:29:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não, deu tudo certo!",
+      "delete" : false,
+      "identifier" : "CPKUy7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/30 13:29:32",
+      "delete" : false,
+      "identifier" : "CPSUy7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ótimo!\nEstamos à disposição para qualquer dúvida ou necessidade.\nObrigado pelo seu contato! 😉",
+      "type" : "text"
+    }
+  ]
+})

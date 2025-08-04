@@ -1,0 +1,642 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 77 99932-9407",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 19:09:19",
+      "delete" : false,
+      "identifier" : "CJfguLoGIABIAJABAA==",
+      "msg" : "Fala Pessoal. Tenho dúvida sobre afiliação dos produtos do Iuri Meira.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 19:09:29",
+      "delete" : false,
+      "identifier" : "CKHguLoGIABIAJABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 19:10:22",
+      "delete" : false,
+      "identifier" : "CNbguLoGIABIAJABAA==",
+      "msg" : "Fiz o  cadastro na plataforma, qual o próximo passo? Onde encontro os produtos pra está afiliando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 19:10:25",
+      "delete" : false,
+      "identifier" : "CNnguLoGIABIAJABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 08:08:21",
+      "delete" : false,
+      "identifier" : "CK3Nu7oGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 08:08:24",
+      "delete" : false,
+      "identifier" : "CLDNu7oGIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 09:24:16",
+      "delete" : false,
+      "mediaName" : "443984ee-3542-4774-b319-b713eb9fc4d4.opus",
+      "localPath" : "media\/27ec792675e50fac5ddea7980068ed55da59f48d.opus",
+      "mediaSize" : "25 KB",
+      "identifier" : "CPjwu7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 09:24:38",
+      "mediaSize" : "4 KB",
+      "mediaName" : "cc4ead5d-9faf-483b-b4b6-78c44f06c791.thumb",
+      "localPath" : "media\/a2cce51299efa6edf7a1e8c0f1e70683b334dc18.thumb",
+      "delete" : false,
+      "identifier" : "CI7xu7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 09:30:02",
+      "delete" : false,
+      "identifier" : "CNLzu7oGIABIAZABAA==",
+      "msg" : "Solicitação feita",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 09:30:15",
+      "delete" : false,
+      "identifier" : "CN\/zu7oGIABIAZABAA==",
+      "msg" : "gustavosantos2151@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 09:31:25",
+      "delete" : false,
+      "identifier" : "CKX0u7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Solicitação aprovada! ☺️✅",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 10:31:27",
+      "delete" : false,
+      "identifier" : "CLeQvLoGIABIAZABAA==",
+      "msg" : "Não consigo acessar o produto na plataforma, onde encontro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 10:31:41",
+      "delete" : false,
+      "identifier" : "CMWQvLoGIABIAZABAA==",
+      "msg" : "Tem que ter uma conta já cadastrada na plataforma pra começar aparecer o produto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 10:36:22",
+      "delete" : false,
+      "identifier" : "CN6SvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMEVFOEQ5OEZCOUIxNjFENEJAq+Ty5bgySAB4p9aG8rgykAEA",
+      "msg" : "Você já possui conta na Ticto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 10:48:40",
+      "delete" : false,
+      "identifier" : "CMCYvLoGIABIAZABAA==",
+      "msg" : "Fiz o cadastro normal",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 10:49:18",
+      "delete" : false,
+      "identifier" : "COaYvLoGIABIAZABAA==",
+      "msg" : "Mas não tem nenhuma conta bancária vinculada ainda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 10:50:04",
+      "delete" : false,
+      "mediaName" : "4fb6bece-e986-4531-a112-3ef0111b5e1d.opus",
+      "localPath" : "media\/4f02c89a012680500fdb9fe4b9ddaa11358f914e.opus",
+      "mediaSize" : "107 KB",
+      "identifier" : "CJSZvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:52"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 10:52:54",
+      "delete" : false,
+      "identifier" : "CL6avLoGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 10:52:56",
+      "delete" : false,
+      "identifier" : "CMCavLoGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 10:56:07",
+      "delete" : false,
+      "identifier" : "CP+bvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida pode me mandar mensagem! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 10:57:05",
+      "delete" : false,
+      "identifier" : "CLmcvLoGIABIAZABAA==",
+      "msg" : "Em relação aos criativos vocês disponibilizam também ou só o link de venda?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 11:07:48",
+      "delete" : false,
+      "mediaName" : "c18ef77a-0183-4b59-aac5-8d5b26e382aa.opus",
+      "localPath" : "media\/dc68d1dd5ff6b247de4e97618947341f5adba497.opus",
+      "mediaSize" : "107 KB",
+      "identifier" : "CLyhvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:52"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 11:07:54",
+      "delete" : false,
+      "mediaName" : "d87d58fb-a9fd-488c-99f2-453e820e6dc7.mp4",
+      "localPath" : "media\/6976ac7df259ca0cc0ecf6c0daa8a9471b84e48d.mp4",
+      "mediaSize" : "1,2 MB",
+      "identifier" : "CMKhvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/0fb816998a82db426b46008fa119940647142a48"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 11:08:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "COmhvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 11:14:55",
+      "delete" : false,
+      "identifier" : "COekvLoGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 16:27:16",
+      "delete" : false,
+      "identifier" : "CJzawroGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 16:27:52",
+      "delete" : false,
+      "identifier" : "CMDawroGIABIAZABAA==",
+      "msg" : "Estou criando uma postagem mas o links que você me falaram para venda quando abre aparece no caso pro cliente para se cadastrar gratuitamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 16:27:59",
+      "delete" : false,
+      "identifier" : "CMfawroGIABIAZABAA==",
+      "msg" : "Como funciona nesse caso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 16:28:19",
+      "delete" : false,
+      "mediaName" : "67cba3bf-0d16-4ece-9631-7698161ff3ed.jpg",
+      "localPath" : "media\/2b6e88f68b30e01061458e2395e2e6199e20ab41.jpg",
+      "mediaSize" : "153 KB",
+      "identifier" : "CNvawroGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/58c7ae4161884ffc2b5785f68a1cc1ab3bcb8610"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:32:55",
+      "delete" : false,
+      "mediaName" : "d0878857-fb7d-45ce-aeaf-c0423f07cb22.opus",
+      "localPath" : "media\/b6abba279659f2152b089b9cf0fafdb0a5e44427.opus",
+      "mediaSize" : "44 KB",
+      "identifier" : "CO\/cwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:21"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:34:56",
+      "delete" : false,
+      "mediaName" : "222e750f-0e1c-42d7-a7c5-d1ae821dc320.jpg",
+      "localPath" : "media\/e3c2c79fc6142f936ff84d97c9c0dbfd4bf2cc7f.jpg",
+      "mediaSize" : "17 KB",
+      "identifier" : "COjdwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/8abd12413c0ad8a304599b0557c9ef57860c92de"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:35:58",
+      "delete" : false,
+      "mediaName" : "98a1c53d-62ba-400c-9dd2-c4f8939609fe.jpg",
+      "localPath" : "media\/35d93247b647c9026d3c5ea810b2a9bb59b321e5.jpg",
+      "mediaSize" : "31 KB",
+      "identifier" : "CKbewroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/5b8719e5a668bd490e23c3d4e13c52446828e776"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 16:52:52",
+      "delete" : false,
+      "identifier" : "CJzmwroGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:53:17",
+      "delete" : false,
+      "identifier" : "CLXmwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 16:55:29",
+      "delete" : false,
+      "identifier" : "CLnnwroGIABIAZABAA==",
+      "msg" : "Só isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 16:55:31",
+      "delete" : false,
+      "identifier" : "CLvnwroGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:56:20",
+      "delete" : false,
+      "identifier" : "COznwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço! Te espero na live amanhã! 🔺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 09:40:40",
+      "delete" : false,
+      "identifier" : "CNC+xroGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 09:42:12",
+      "delete" : false,
+      "identifier" : "CKy\/xroGIABIAZABAA==",
+      "msg" : "Estou criando uma nova página pra esta divulgando a central caverna, mas tentei desvincular um número que eu já usava em outra página de outro produto que comecei vender mas não deu certo, fiz todo o passo a passo pra desvincular, não aparece mais que tem algum número vinculado, porém estou tentando vincular na nova página agora e o código pra confirmação não chega no WhatsApp",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 09:42:20",
+      "delete" : false,
+      "identifier" : "CLS\/xroGIABIAZABAA==",
+      "msg" : "Será que vocês conseguem me ajudar nesse caso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 09:43:45",
+      "delete" : false,
+      "mediaName" : "c2d163f8-e259-400a-9b27-d49b088aeb18.jpg",
+      "localPath" : "media\/678f1cc63aa08baa6b09d6012735c2463aa670b8.jpg",
+      "mediaSize" : "141 KB",
+      "identifier" : "CInAxroGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/15406a633d2c6db02e2532283184c5c9f12e52dd"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:28:00",
+      "delete" : false,
+      "mediaName" : "9bfdc4dc-9b36-4805-b182-07bbbed0ceae.opus",
+      "localPath" : "media\/61f308e574fd252ebe9837bdceae3525a0fa2da5.opus",
+      "mediaSize" : "23 KB",
+      "identifier" : "COjUxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:28:29",
+      "delete" : false,
+      "identifier" : "CIXVxroGIABIAZABAA==",
+      "msg" : "Ta bom",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:28:43",
+      "delete" : false,
+      "identifier" : "CJPVxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "73 9141-7285",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 10:28:53",
+      "delete" : false,
+      "identifier" : "CJ3VxroGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 10:29:18",
+      "delete" : false,
+      "identifier" : "CLbVxroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço o contato!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 14:10:22",
+      "delete" : false,
+      "identifier" : "CIbJ3LoGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 14:11:15",
+      "delete" : false,
+      "identifier" : "CLvJ3LoGIABIAZABAA==",
+      "msg" : "Na criação da página tem a questão de colocar um endereço físico, tem algum de vocês que posso utilizar ou tem que ser de outra forma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 14:13:09",
+      "delete" : false,
+      "identifier" : "CK3K3LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, boa tarde! Você pode estar tirando essa dúvida com nosso gerente de afiliados!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 14:13:31",
+      "delete" : false,
+      "identifier" : "CMPK3LoGIABIAZABAA==",
+      "msg" : "Nesse número?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 14:13:39",
+      "delete" : false,
+      "identifier" : "CMvK3LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 14:23:58",
+      "delete" : false,
+      "identifier" : "CLbP3LoGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/09 14:24:23",
+      "delete" : false,
+      "identifier" : "CM\/P3LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço o contato! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/09 19:40:25",
+      "delete" : false,
+      "mediaName" : "f0d00831-853d-4d11-930d-6c192775f4f0.jpg",
+      "localPath" : "media\/f30c56a7ae2951868386c610ff1749ad7944069f.jpg",
+      "mediaSize" : "155 KB",
+      "identifier" : "COHj3boGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/29291af1ba4e2cd60ddce62e60ed8b1e3a06c5ca"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/10 08:56:11",
+      "delete" : false,
+      "mediaName" : "b4b630d0-80b3-42c1-8bdf-b175b15e44d2.opus",
+      "localPath" : "media\/2b83aca33527eae478df7bc407bdf6293f1f4318.opus",
+      "mediaSize" : "45 KB",
+      "identifier" : "COPY4LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:22"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/10 12:12:38",
+      "delete" : false,
+      "identifier" : "CO604boGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/10 12:12:40",
+      "delete" : false,
+      "identifier" : "CPC04boGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 14:23:59",
+      "delete" : false,
+      "identifier" : "CLeQi8MGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 14:24:08",
+      "delete" : false,
+      "identifier" : "CMCQi8MGIABIAZABAA==",
+      "msg" : "Em relação a central caverna consigo ter acesso ainda?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 14:24:08",
+      "delete" : false,
+      "identifier" : "CMCQi8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 14:24:09",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMGQi8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 14:32:57",
+      "delete" : false,
+      "identifier" : "CNGUi8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me informe o seu email e CPF de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 15:11:38",
+      "delete" : false,
+      "identifier" : "COKmi8MGIABIAZABAA==",
+      "msg" : "gustavosantos2151@gmail.com\n07785114560",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 15:16:03",
+      "delete" : false,
+      "identifier" : "COuoi8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Então, Gustavo, o seu plano expirou no dia 06\/05 desse ano.\n\nComo o seu acesso era anual, a plataforma tentou renovar e não conseguiu, o que acabou expirando o seu acesso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 15:16:48",
+      "delete" : false,
+      "identifier" : "CJipi8MGIABIAZABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 15:16:50",
+      "delete" : false,
+      "identifier" : "CJqpi8MGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    }
+  ]
+})

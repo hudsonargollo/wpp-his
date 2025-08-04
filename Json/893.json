@@ -1,0 +1,370 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 98980-0442",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/30 09:26:22",
+      "delete" : false,
+      "identifier" : "CPbwpL8GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/30 09:26:37",
+      "delete" : false,
+      "identifier" : "CIXxpL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/30 09:26:43",
+      "delete" : false,
+      "identifier" : "CIvxpL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/30 09:26:58",
+      "delete" : false,
+      "identifier" : "CJrxpL8GIABIAZABAA==",
+      "msg" : "Amauri",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/30 09:27:05",
+      "delete" : false,
+      "identifier" : "CKHxpL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Amauri*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/30 09:27:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKfxpL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/30 09:27:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLfxpL8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/30 09:27:35",
+      "delete" : false,
+      "identifier" : "CL\/xpL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/30 09:27:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMTxpL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/30 09:28:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Como faço para acessar pela primeira vez o sistema?",
+      "delete" : false,
+      "identifier" : "CI\/ypL8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/30 09:28:58",
+      "delete" : false,
+      "identifier" : "CJLypL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para realizar seu primeiro acesso, coloque seu e-mail de compra e sua senha será seu CPF! Acesse no link abaixo: ⬇️\n\nhttps:\/\/modocaverna.com\/login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/30 09:28:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJPypL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/30 09:41:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "✅ Sim! Tudo certo.",
+      "delete" : false,
+      "identifier" : "COn3pL8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/30 09:41:08",
+      "delete" : false,
+      "identifier" : "COz3pL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ótimo!\nEstamos à disposição para qualquer dúvida ou necessidade.\n\nObrigado pelo seu contato! 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/01 19:34:03",
+      "delete" : false,
+      "identifier" : "COPTsb8GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/01 19:34:06",
+      "delete" : false,
+      "identifier" : "CObTsb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/01 19:34:13",
+      "delete" : false,
+      "identifier" : "CO3Tsb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/01 19:35:13",
+      "delete" : false,
+      "identifier" : "CKnUsb8GIABIAZABAA==",
+      "msg" : "Não tou conseguindo baixar todos os conteúdo do ebook modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/01 19:35:52",
+      "delete" : false,
+      "identifier" : "CNDUsb8GIABIAZABAA==",
+      "msg" : "Só baixou a planilha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 08:21:28",
+      "delete" : false,
+      "identifier" : "CMC7tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia tudo bem ?\nSou a Brenda e estou a disposição para te ajudar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 08:22:27",
+      "delete" : false,
+      "identifier" : "CPu7tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me passa seu e-mail, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 08:40:50",
+      "delete" : false,
+      "identifier" : "CMrEtL8GIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 08:40:59",
+      "delete" : false,
+      "identifier" : "CNPEtL8GIABIAZABAA==",
+      "msg" : "Amaurijosedonascimentojunior6@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:25:17",
+      "delete" : false,
+      "identifier" : "CLXZtL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Irei te enviar os materiais",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:28:14",
+      "delete" : false,
+      "mediaName" : "EBOOK-PROTOCOLO-ANTI-PROCRASTINACAO.pdf",
+      "localPath" : "media\/3bdb9002c9289db401575ec4058f0805eb1c2de8.pdf",
+      "mediaSize" : "10,1 MB",
+      "identifier" : "CObatL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/19b0f0613afd828c5d87459e55a75d37c60930da"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:28:21",
+      "delete" : false,
+      "mediaName" : "EBOOK-GUIA-PRATICO-PARA-DEFINICAO-DE-METAS.pdf",
+      "localPath" : "media\/9bdab956de4bf2dc81e75e60df7aee6a204d7b19.pdf",
+      "mediaSize" : "18,3 MB",
+      "identifier" : "CO3atL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/0adce2a46ac2252fcd2684cb4f2973daaa373330"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:28:21",
+      "delete" : false,
+      "mediaName" : "EBOOK-DETOX-DIGITAL.pdf",
+      "localPath" : "media\/4b8b128926f94daddd83c8b6618ab0f5a360a704.pdf",
+      "mediaSize" : "14,3 MB",
+      "identifier" : "CO3atL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/1ccaaac708125e326ccd89b30ac8de0393981fd3"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:28:21",
+      "delete" : false,
+      "mediaName" : "EBOOK-MANUAL-DE-CRIACAO-DE-BONS-HABITOS-.pdf",
+      "localPath" : "media\/9a235c09a03e82b1fc13d631be4e556efca2a1b0.pdf",
+      "mediaSize" : "8,8 MB",
+      "identifier" : "CO3atL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/067f524bdce77df3864b2bead4d4758b61f3009a"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:28:21",
+      "delete" : false,
+      "mediaName" : "EBOOK-MARKETING-DIGITAL-PARA-INICIANTES.pdf",
+      "localPath" : "media\/ab86b70bd0a773d80bea89d8d3eaf01be7384df9.pdf",
+      "mediaSize" : "5,7 MB",
+      "identifier" : "CO3atL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/223b5eafdd78f3d8ddf4a94a6e5597c2b4780fbf"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:28:21",
+      "delete" : false,
+      "mediaName" : "EBOOK-OS-SEGREDOS-DA-LEIDAATRACAO.pdf",
+      "localPath" : "media\/8d2b3cdcbf646c06ebfe9656246f08aaf630624e.pdf",
+      "mediaSize" : "50 MB",
+      "identifier" : "CO3atL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/7c96570c590a3189bbe7d41ff70329c608746d30"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:28:26",
+      "mediaSize" : "61,8 MB",
+      "mediaName" : "EBOOK-DESAFIO-MODO-CAVERNA-1.pdf",
+      "localPath" : "media\/d95f750107f00b1d6534c20e778a4c335bf35510.pdf",
+      "delete" : false,
+      "identifier" : "CPLatL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 09:29:07",
+      "delete" : false,
+      "identifier" : "CJvbtL8GIABIAZABAA==",
+      "msg" : "Pronto obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:29:12",
+      "delete" : false,
+      "mediaName" : "OS-MANDAMENTOS-CAVERNA-2.pdf",
+      "localPath" : "media\/eab58ed68cccd48619eb613d26fbb5f56ce15edb.pdf",
+      "mediaSize" : "27,1 MB",
+      "identifier" : "CKDbtL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/1cdc623d093053696b56b45485bde133daf0d775"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:29:30",
+      "delete" : false,
+      "identifier" : "CLLbtL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Por nada! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 09:30:04",
+      "delete" : false,
+      "identifier" : "CNTbtL8GIABIAZABAA==",
+      "msg" : "Bom dia e um bom trabalho",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 09:31:26",
+      "delete" : false,
+      "identifier" : "CKbctL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Obrigada, qualquer dúvida estamos a disposição",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:09:21",
+      "delete" : false,
+      "identifier" : "CInutL8GIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    }
+  ]
+})

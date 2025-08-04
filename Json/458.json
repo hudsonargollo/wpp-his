@@ -1,0 +1,53 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 77 98142-2030",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 17:07:43",
+      "delete" : false,
+      "identifier" : "CJeKssIGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 17:07:52",
+      "delete" : false,
+      "identifier" : "CKCKssIGIABIAZABAA==",
+      "msg" : "Cancelei a renovação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 17:08:12",
+      "delete" : false,
+      "identifier" : "CLSKssIGIABIAZABAA==",
+      "msg" : "Não era pra ter renovado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 17:08:14",
+      "delete" : false,
+      "identifier" : "CLaKssIGIABIAZABAA==",
+      "msg" : "Se eu canceli",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 17:15:15",
+      "delete" : false,
+      "identifier" : "CNuNssIGIABIAZABAA==",
+      "msg" : "Quero o cancelamento da fatura",
+      "type" : "text"
+    }
+  ]
+})

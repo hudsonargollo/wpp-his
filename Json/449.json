@@ -1,0 +1,54 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 19 99714-5508",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 14:42:35",
+      "delete" : false,
+      "identifier" : "CJPptsIGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 14:42:56",
+      "delete" : false,
+      "identifier" : "CKjptsIGIABIAZABAA==",
+      "msg" : "Na realidade eu quero saber como entrar no grupo de WhatsApp",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 14:43:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "4️⃣ Programa de Afiliados",
+      "delete" : false,
+      "identifier" : "CLTptsIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 18:03:25",
+      "delete" : false,
+      "identifier" : "CKXqvMIGIABIAZABAA==",
+      "msg" : "Boa noite!\n\nQual o prazo de entrega das camisetas que eu comprei?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 18:03:39",
+      "delete" : false,
+      "identifier" : "CLPqvMIGIABIAZABAA==",
+      "msg" : "E as lives não tem?",
+      "type" : "text"
+    }
+  ]
+})

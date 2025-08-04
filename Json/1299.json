@@ -1,0 +1,565 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 84 99815-9979",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 18:45:45",
+      "delete" : false,
+      "identifier" : "CJGMgLkGIABIAZABAA==",
+      "msg" : "Olá, vim da Área de Conteúdos do Iuri e preciso de ajuda…",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 18:45:50",
+      "delete" : false,
+      "identifier" : "CJaMgLkGIABIAZABAA==",
+      "msg" : "Gostaria de solicitar as plaquinhas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 18:45:54",
+      "delete" : false,
+      "identifier" : "CJqMgLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!*\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 18:46:00",
+      "delete" : false,
+      "identifier" : "CKCMgLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 19:00:56",
+      "delete" : false,
+      "identifier" : "CKCTgLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não exite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 19:38:29",
+      "delete" : false,
+      "identifier" : "CO2kgLkGIABIAZABAA==",
+      "msg" : "Gledson",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 19:38:32",
+      "delete" : false,
+      "identifier" : "CPCkgLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Oiii de novo! 😊*\nQual é o seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 19:38:36",
+      "delete" : false,
+      "identifier" : "CPSkgLkGIABIAZABAA==",
+      "msg" : "Gledson",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 19:38:42",
+      "delete" : false,
+      "identifier" : "CPqkgLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Gledson*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 19:38:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIClgLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 19:42:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "A Quebra da Matrix Digital",
+      "delete" : false,
+      "identifier" : "COKmgLkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 19:42:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COOmgLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 19:43:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Gostaria de solicitar as placas de faturamento",
+      "delete" : false,
+      "identifier" : "CKGngLkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/28 19:43:39",
+      "delete" : false,
+      "identifier" : "CKOngLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo. Me informa o seu email de compra e preencha esse formuário por favor:\n\nhttps:\/\/redirect.lifs.app\/placasqdm\n\nApós preencher o formulário mande sua prova social referente as placas solicitadas.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 19:44:01",
+      "delete" : false,
+      "identifier" : "CLmngLkGIAA6FDNBMTk3OUE1RUU2NTg1RkMzQTU3QNmI0qqtMkgBeNPYncCtMpABAA==",
+      "msg" : "gledsonfilho1507@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 19:53:32",
+      "delete" : false,
+      "mediaName" : "71ec7ba6-de49-4893-9000-715f005b9156.mp4",
+      "localPath" : "media\/4debdb0b009dd543e637288464ff7e058d39b6c8.mp4",
+      "mediaSize" : "6,9 MB",
+      "identifier" : "CPSrgLkGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/b82e77f8fbf32520e37c77b84407a70624829b07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 19:53:41",
+      "delete" : false,
+      "identifier" : "CP2rgLkGIABIAZABAA==",
+      "msg" : "Formulário Preenchido e prova social enviada ✅",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/28 20:28:42",
+      "delete" : false,
+      "mediaName" : "f33d43f0-691d-4975-8f62-16ee151e6215.mp4",
+      "localPath" : "media\/7d56f6120f4873f3e3a00267552ca62de17862c2.mp4",
+      "mediaSize" : "6,3 MB",
+      "identifier" : "CLK8gLkGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/5d4e1183a32b583fee7462bb3e974e925665a80d"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 09:27:07",
+      "delete" : false,
+      "identifier" : "CKOpg7kGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 09:33:14",
+      "delete" : false,
+      "identifier" : "CJKsg7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Eu sou a Júlia, do suporte Iuri Meira, e estou aqui para te ajudar da melhor maneira possível! 😊\n\nObrigada pelo envio da prova social! Como posso te ajudar? 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 09:38:13",
+      "delete" : false,
+      "identifier" : "CL2ug7kGIABIAZABAA==",
+      "msg" : "Bom dia Júlia, tudo bom?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 09:38:29",
+      "delete" : false,
+      "identifier" : "CM2ug7kGIABIAZABAA==",
+      "msg" : "Julia, seria para solicitar as plaquinhas de faturamento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 09:38:39",
+      "delete" : false,
+      "identifier" : "CNeug7kGIABIAZABAA==",
+      "msg" : "Preenchi o formulário já, que foi mandado acima",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 10:37:21",
+      "delete" : false,
+      "mediaName" : "c0cf4064-a31e-4cd6-94c2-46203616b758.opus",
+      "localPath" : "media\/f782d8810ad330793f2bc906439cc9ee37e18492.opus",
+      "mediaSize" : "123 KB",
+      "identifier" : "CJnKg7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:59"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 10:37:28",
+      "delete" : false,
+      "mediaName" : "f435dadd-fb16-4616-9d5d-925a16ebaa76.opus",
+      "localPath" : "media\/df1c68d053c42f728e0f281396844f837fff6d01.opus",
+      "mediaSize" : "13 KB",
+      "identifier" : "CKDKg7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 10:40:37",
+      "delete" : false,
+      "identifier" : "CN3Lg7kGIABIAZABAA==",
+      "msg" : "Sim, entendi! Perfeito Júlia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/29 10:40:40",
+      "delete" : false,
+      "identifier" : "CODLg7kGIABIAZABAA==",
+      "msg" : "Obrigado 🙏🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/29 10:46:23",
+      "delete" : false,
+      "identifier" : "CLfOg7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 14:01:53",
+      "delete" : false,
+      "identifier" : "CInbkroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Gledson! Tudo bem?\nRecebi o orçamento referente ao seu pedido! Segue abaixo:\n567,00 - PLACAS \n298,00 - FRETE\n---------------------\nTotal: R$ 865,00",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 14:02:04",
+      "delete" : false,
+      "identifier" : "CJTbkroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Deseja prosseguir com o seu pedido?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 18:26:19",
+      "delete" : false,
+      "identifier" : "CIPXk7oGIABIAZABAA==",
+      "msg" : "Boa noite Rogério. Tudo bom?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 18:26:32",
+      "delete" : false,
+      "identifier" : "CJDXk7oGIABIAZABAA==",
+      "msg" : "Consigo acrescentar a de 5M nesse pedido?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 09:15:58",
+      "delete" : false,
+      "identifier" : "CIb4lroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Conseguimos sim ☺️\nFica por +R$ 180",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 10:23:05",
+      "delete" : false,
+      "identifier" : "CMGXl7oGIABIAZABAA==",
+      "msg" : "Bom dia, pode acrescentar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 10:25:55",
+      "delete" : false,
+      "identifier" : "COuYl7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "747 - PLACAS \n298,00 - FRETE\n---------------------\nTotal: R$ 1.045",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 10:26:15",
+      "delete" : false,
+      "identifier" : "CP+Yl7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para prosseguir, basta enviar o valor referente sua solicitação e me mandar o comprovante. Segue a chave:\n46d02fa2-a74d-4bde-832b-a3e1e3037337\n\nIURI NEGOCIOS DIGITAIS",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 10:31:08",
+      "delete" : false,
+      "mediaName" : "fe522519-4c34-426a-a14e-0654b60e0e52.jpg",
+      "localPath" : "media\/11d0c80f0c426e30434cc439ae842d5997942044.jpg",
+      "mediaSize" : "86 KB",
+      "identifier" : "CKSbl7oGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ca36e566114e91748a7595dcea014688a4265332"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 10:32:31",
+      "delete" : false,
+      "identifier" : "CPebl7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada pelo pagamento, Gledson! Assim que recebermos o código de rastreio, te mando aqui!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:00:12",
+      "delete" : false,
+      "identifier" : "CISD9bsGIABIAZABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:00:21",
+      "delete" : false,
+      "identifier" : "CI2D9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:00:27",
+      "delete" : false,
+      "identifier" : "CJOD9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:00:35",
+      "delete" : false,
+      "identifier" : "CJuD9bsGIABIAZABAA==",
+      "msg" : "Gledson",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:00:41",
+      "delete" : false,
+      "identifier" : "CKGD9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Gledson*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:00:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKeD9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:00:56",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLCD9bsGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:01:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CLSD9bsGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:01:04",
+      "delete" : false,
+      "identifier" : "CLiD9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:01:09",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CL2D9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:01:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CMKD9bsGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:01:16",
+      "delete" : false,
+      "identifier" : "CMSD9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:01:26",
+      "delete" : false,
+      "identifier" : "CM6D9bsGIABIAJABAA==",
+      "msg" : "Plaquinhas de Faturamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:08:26",
+      "delete" : false,
+      "identifier" : "CPKG9bsGIABIAZABAA==",
+      "msg" : "Desde novembro, quase 2 meses já e não me passaram código de rastreio nem nada do tipo…",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:43:43",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLeX9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 14:31:10",
+      "delete" : false,
+      "identifier" : "COaEpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Gledson\nSua placa foi enviada, segue abaixo o código de rastreio:\nQS450527192BR",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 14:38:36",
+      "delete" : false,
+      "identifier" : "CKSIpbwGIABIAZABAA==",
+      "msg" : "Boa tarde, show",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 14:38:37",
+      "delete" : false,
+      "identifier" : "CKWIpbwGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 14:38:44",
+      "delete" : false,
+      "identifier" : "CKyIpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 14:38:50",
+      "delete" : false,
+      "identifier" : "CLKIpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 14:53:42",
+      "delete" : false,
+      "identifier" : "CK6PpbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    }
+  ]
+})

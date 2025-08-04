@@ -1,0 +1,32 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Lançamento Mentoria ",
+    "member" : [
+      "+557382446098",
+      "+557592818781",
+      "+557391777871",
+      "+557391933956",
+      "+557391148693",
+      "+557388291233",
+      "+557388941099"
+    ]
+  },
+  "body" : [
+    {
+      "time" : "2022\/05\/24 18:37:14",
+      "avatar" : "",
+      "msg" : "+557382446098 created group \"\"",
+      "identifier" : "CJKgtZQGIAA=",
+      "position" : "conter",
+      "delete" : false
+    },
+    {
+      "time" : "2022\/05\/24 18:37:14",
+      "avatar" : "",
+      "msg" : "CJKgtZQGIAA= was added to this group",
+      "identifier" : "CJKgtZQGIAA=",
+      "position" : "conter",
+      "delete" : false
+    }
+  ]
+})

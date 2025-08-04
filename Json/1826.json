@@ -1,0 +1,200 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 77 98138-8980",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 12:03:55",
+      "delete" : false,
+      "mediaName" : "8e74a1c3-1940-4979-ad49-e55d58a8ea15.opus",
+      "localPath" : "media\/b4b69bcf4f05ccb66b8e77cf1731a37692674ba4.opus",
+      "mediaSize" : "35 KB",
+      "identifier" : "COPczbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 12:08:53",
+      "delete" : false,
+      "identifier" : "CI3fzbkGIABIAZABAA==",
+      "msg" : "Boa tarde bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 12:08:58",
+      "delete" : false,
+      "identifier" : "CJLfzbkGIABIAZABAA==",
+      "msg" : "Posso mandar em áudio?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 12:10:01",
+      "delete" : false,
+      "mediaName" : "54e20020-537a-45da-9eca-6b9cd1a8c375.opus",
+      "localPath" : "media\/023f3f77e8bd32a7876089fd4630d26fdef1e146.opus",
+      "mediaSize" : "67 KB",
+      "identifier" : "CNHfzbkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:28"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 12:10:49",
+      "delete" : false,
+      "mediaName" : "ab9431da-56cb-4b48-a3b6-db2ed37b635a.opus",
+      "localPath" : "media\/312e41dfd9d85ad45d2ca9027f8da237c2aba560.opus",
+      "mediaSize" : "110 KB",
+      "identifier" : "CIHgzbkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:47"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 12:11:11",
+      "delete" : false,
+      "mediaName" : "d40e5201-7a1a-448b-87ed-4d8a0deb7254.opus",
+      "localPath" : "media\/1dbc611fe891ee6952a5fb954657930a938d8613.opus",
+      "mediaSize" : "36 KB",
+      "identifier" : "CJfgzbkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 12:11:15",
+      "delete" : false,
+      "identifier" : "CJvgzbkGIABIAZABAA==",
+      "msg" : "Certo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 12:12:18",
+      "delete" : false,
+      "mediaName" : "f83173eb-1d29-4fcc-ae4e-a8936fcb0073.mp4",
+      "localPath" : "media\/fd3967f4a75492a3a66764858bb1374983e7f418.mp4",
+      "mediaSize" : "4,2 MB",
+      "identifier" : "CNrgzbkGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/146644a39b465f60bbbe4764bc96f8e4cfbc9fec"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:57:25",
+      "delete" : false,
+      "identifier" : "CI2uzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:57:40",
+      "delete" : false,
+      "identifier" : "CJyuzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "consegui ouvir seu aúdios sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 14:57:51",
+      "delete" : false,
+      "identifier" : "CKeuzrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:04:12",
+      "delete" : false,
+      "identifier" : "CKSxzrkGIABIAZABAA==",
+      "msg" : "tomazddps@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:04:22",
+      "delete" : false,
+      "identifier" : "CK6xzrkGIABIAZABAA==",
+      "msg" : "CPF: 07361186599",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:11:27",
+      "delete" : false,
+      "mediaName" : "e0a5fcbf-cb12-49dc-9ab7-77eccd007f8d.opus",
+      "localPath" : "media\/db90a303c3733ca36276c932aea451766d29bbb0.opus",
+      "mediaSize" : "30 KB",
+      "identifier" : "CNe0zrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:13:47",
+      "delete" : false,
+      "mediaName" : "50d5b2d3-96a7-422c-ac5f-f5a450a819ac.opus",
+      "localPath" : "media\/96b45cb5c9076ebe2020463c4616e04448821326.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "COO1zrkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:13:54",
+      "delete" : false,
+      "identifier" : "COq1zrkGIABIAZABAA==",
+      "msg" : "Obrigado minha querida!! Aguardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:22:10",
+      "delete" : false,
+      "identifier" : "CNq5zrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 15:23:46",
+      "delete" : false,
+      "identifier" : "CLq6zrkGIABIAZABAA==",
+      "msg" : "Tudo certinho, reembolso recebido. Muito obrigado, fidelizaram um cliente, pelo atendimento e tudo mais. Obrigado, bom trabalho a vocês!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 15:26:58",
+      "delete" : false,
+      "identifier" : "CPq7zrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade.😊",
+      "type" : "text"
+    }
+  ]
+})

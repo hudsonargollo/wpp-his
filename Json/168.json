@@ -1,0 +1,69 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Gerente Af Novo",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 09:05:32",
+      "delete" : false,
+      "identifier" : "CJT9\/cMGIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 09:05:43",
+      "mediaSize" : "4 KB",
+      "mediaName" : "2051a29e-dd17-4013-bde0-99ee3f99ea6d.thumb",
+      "localPath" : "media\/b4a6635f094b63ea27a2fb0fc40caf5cc1afae0f.thumb",
+      "delete" : false,
+      "identifier" : "CKD9\/cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 09:05:50",
+      "delete" : false,
+      "identifier" : "CKb9\/cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 09:05:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKf9\/cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 09:12:02",
+      "mediaSize" : "805 bytes",
+      "mediaName" : "1c17f077-8139-4882-8aa5-814151f723c5.jpg",
+      "localPath" : "media\/7bb497d3eb10d398b9eb229b3e212dedfc8bacc0.jpg",
+      "delete" : false,
+      "identifier" : "CJqA\/sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 09:12:36",
+      "mediaSize" : "8 KB",
+      "mediaName" : "860ee8e4-0a4c-4e74-850d-8787d4bbfa9d.jpg",
+      "localPath" : "media\/ec7029c2027b5197167c5a76cecf8b6eb67085b2.jpg",
+      "delete" : false,
+      "identifier" : "CLyA\/sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo"
+    }
+  ]
+})

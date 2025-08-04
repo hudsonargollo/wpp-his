@@ -1,0 +1,126 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 88 99404-1163",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 13:30:40",
+      "delete" : false,
+      "identifier" : "CLiUkbsGIABIAJABAA==",
+      "msg" : "boa Tarde tudo bem? Me tira uma dúvida, eu comprei o acesso por um email, mas eu ja tinha cadastrado na ticto por outro email, como posso solicitar afiliação nesse caso, seria por qual email?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 13:30:51",
+      "delete" : false,
+      "identifier" : "CMOUkbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 13:30:57",
+      "delete" : false,
+      "identifier" : "CMmUkbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 13:31:08",
+      "delete" : false,
+      "identifier" : "CNSUkbsGIABIAJABAA==",
+      "msg" : "José Vitor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 13:31:14",
+      "delete" : false,
+      "identifier" : "CNqUkbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *José Vitor*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 13:31:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COGUkbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 13:32:08",
+      "delete" : false,
+      "identifier" : "CJCVkbsGIABIAZABAA==",
+      "msg" : "Sistema de afiliados",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 13:55:44",
+      "delete" : false,
+      "identifier" : "CJigkbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 14:00:56",
+      "delete" : false,
+      "identifier" : "CNCikbsGIABIAZABAA==",
+      "msg" : "boa Tarde Bruna tudo bem? Me tira uma dúvida, eu comprei o acesso por um email, mas eu ja tinha cadastrado na ticto como vendedor por outro email, como posso solicitar afiliação nesse caso, seria por qual email?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 14:39:20",
+      "delete" : false,
+      "identifier" : "CNC0kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail de cadastro da Ticto por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:26:59",
+      "delete" : false,
+      "identifier" : "CPvKkbsGIABIAZABAA==",
+      "msg" : "limasdigital7@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:27:16",
+      "delete" : false,
+      "identifier" : "CIzLkbsGIABIAZABAA==",
+      "msg" : "Esse é o e-mail que estou no modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:27:34",
+      "delete" : false,
+      "identifier" : "CJ7LkbsGIABIAZABAA==",
+      "msg" : "Mas o e-mail de afiliado que eu usava era outro",
+      "type" : "text"
+    }
+  ]
+})

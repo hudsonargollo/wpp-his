@@ -1,0 +1,432 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 98467-7547",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/16 21:10:35",
+      "delete" : false,
+      "identifier" : "CIPR3b4GIABIAJABAA==",
+      "msg" : "Opa, tudo bem? Fiz o pagamento do modo caverna e curti dms a estrutura. Mas uma dúvida, queria receber aquela pulseira do modo caverna tbm, ela ainda é enviada para os compradores?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:10:45",
+      "delete" : false,
+      "identifier" : "CI3R3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:10:51",
+      "delete" : false,
+      "identifier" : "CJPR3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/16 21:11:14",
+      "delete" : false,
+      "identifier" : "CKrR3b4GIABIAZABAA==",
+      "msg" : "Ramon",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:11:20",
+      "delete" : false,
+      "identifier" : "CLDR3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Ramon*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:11:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLbR3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/16 21:11:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Envelope dos escolhidos",
+      "delete" : false,
+      "identifier" : "CMLR3b4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:11:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMPR3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/16 21:11:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Quero adquirir o Envelope dos Escolhidos 🔺",
+      "delete" : false,
+      "identifier" : "CMvR3b4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:11:50",
+      "delete" : false,
+      "identifier" : "CM7R3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Para saber mais informações e solicitar o envelope, aperte no link abaixo ⬇️*\n\n*https:\/\/bit.ly\/envelope-mc*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:11:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM\/R3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/16 21:39:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "✅ Sim! Tudo certo",
+      "delete" : false,
+      "identifier" : "CM7e3b4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/16 21:39:37",
+      "delete" : false,
+      "identifier" : "CNHe3b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Ótimo, não esquece de enviar aqui seu comprovante de pagamento para enviarmos seu pedido! 😊*\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 15:44:30",
+      "delete" : false,
+      "identifier" : "CJbb4b4GIABIAZABAA==",
+      "msg" : "Opa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 15:44:38",
+      "delete" : false,
+      "identifier" : "CJ7b4b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 15:44:44",
+      "delete" : false,
+      "identifier" : "CKTb4b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 15:44:52",
+      "delete" : false,
+      "identifier" : "CKzb4b4GIABIAZABAA==",
+      "msg" : "Ramon",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 15:44:58",
+      "delete" : false,
+      "identifier" : "CLLb4b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Ramon*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 15:45:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLjb4b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 15:45:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CMHb4b4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 15:45:20",
+      "delete" : false,
+      "identifier" : "CMjb4b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 15:45:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM3b4b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 15:45:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CNnb4b4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 15:45:41",
+      "delete" : false,
+      "identifier" : "CN3b4b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 15:46:42",
+      "delete" : false,
+      "identifier" : "CJrc4b4GIABIAZABAA==",
+      "msg" : "A minha dúvida é que comprei o modo caverna, e nos cursos, alguns módulos estão escritos “Em breve”, é questão de lançamento mesmo ? Ou será liberado após 7 dias ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 15:46:56",
+      "delete" : false,
+      "identifier" : "CKjc4b4GIABIAZABAA==",
+      "msg" : "Não consigo acessar a comunidade tbm",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 15:58:31",
+      "delete" : false,
+      "mediaName" : "2f802178-4be1-4e92-866a-ecd53e008e35.opus",
+      "localPath" : "media\/3102c8306f81616ee6f91c43d90eb2ad0e6e13cc.opus",
+      "mediaSize" : "62 KB",
+      "identifier" : "CN\/h4b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 15:59:08",
+      "delete" : false,
+      "identifier" : "CITi4b4GIABIAJABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 15:59:44",
+      "delete" : false,
+      "identifier" : "CKji4b4GIABIAJABAA==",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/17 16:00:59",
+      "delete" : false,
+      "mediaName" : "ccd2b14a-4b21-4e54-a591-fea5e97e211a.jpg",
+      "localPath" : "media\/95fc3e0ca75c3545540d5bdbec4145307f92006e.jpg",
+      "mediaSize" : "85 KB",
+      "identifier" : "CPPi4b4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/c8137ca3a68213f867383066f7a088c63a5aa9b8"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/17 19:15:00",
+      "delete" : false,
+      "identifier" : "COy94r4GIABIAZABAA==",
+      "msg" : "Top dmssss!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:42:19",
+      "delete" : false,
+      "identifier" : "CKOM+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nComo posso ajudar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:42:58",
+      "delete" : false,
+      "identifier" : "CMqM+b8GIAA6FDNBNUYwOTRBM0IzNkYyOEQzNkUzQLTojMrjMkgBeNPL1czjMpABAA==",
+      "msg" : "Bom dia, estou sim e você? Tinha mandado a msg ontem mas como vcs não estavam mais no suporte iria esperar hoje.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:44:58",
+      "delete" : false,
+      "identifier" : "CMKN+b8GIABIAZABAA==",
+      "msg" : "Eu queria fazer uma reclamação, não entendi. Vocês removeram quase todos os benefícios que eu tinha no modo caverna, o Flow que era um dos módulos que eu mais usava, até os módulos de lei da atração e das metas. Achei injusto mudarem isso para quem já tinha o acesso antes dos materiais. Fora que no acesso “vitalício” que paguei, era 365 dias, e estou apenas com 155 não sei como.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:49:39",
+      "delete" : false,
+      "identifier" : "CNuP+b8GIABIAZABAA==",
+      "msg" : "E o pior de tudo, é que agora que já passou o prazo, não consigo mais pedir reembolso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:09:14",
+      "delete" : false,
+      "identifier" : "CPKY+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não foi removido, Ramon\nSeu produto é o Desafio Caverna ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:09:44",
+      "delete" : false,
+      "identifier" : "CJCZ+b8GIABIAZABAA==",
+      "msg" : "Isso, para eu ter acesso agora eu preciso pagar o outro plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:10:01",
+      "delete" : false,
+      "identifier" : "CKGZ+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "E a questão do acesso vitalício, poderia me enviar se e-mail para verificação desse problema, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:10:53",
+      "delete" : false,
+      "identifier" : "CNWZ+b8GIABIAZABAA==",
+      "msg" : "ramonjesusgp4@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:11:38",
+      "delete" : false,
+      "mediaName" : "e85b0960-6824-4e3a-8c4b-4988480db7ac.jpg",
+      "localPath" : "media\/a6f7fcc4af7b2121b57156e751cef156fa412fd3.jpg",
+      "mediaSize" : "81 KB",
+      "identifier" : "CIKa+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/3e33690d28babfff0b6825d8a3c64ab932426c2b"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:15:23",
+      "delete" : false,
+      "identifier" : "COOb+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para ter o aplicativo completo você precisa realizar a compra do Modo Caverna.\nOs benefícios do Desafio Caverna são essas quatros",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:15:47",
+      "delete" : false,
+      "identifier" : "CPub+b8GIABIAZABAA==",
+      "msg" : "Complicado 😥",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:15:57",
+      "delete" : false,
+      "identifier" : "CIWc+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Irei verificar está questão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:16:02",
+      "delete" : false,
+      "identifier" : "CIqc+b8GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 13:02:06",
+      "delete" : false,
+      "identifier" : "CIaG+r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Desculpa pelo mal entendido, sua assinatura foi alterada corretamente agora.",
+      "type" : "text"
+    }
+  ]
+})

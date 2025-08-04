@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 61 98282-1866",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 16:51:44",
+      "delete" : false,
+      "identifier" : "CNjc27sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: \nAV035925960BR",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 16:53:16",
+      "delete" : false,
+      "identifier" : "CLTd27sGIABIAJABAA==",
+      "msg" : "Obrigado amigo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 15:59:36",
+      "delete" : false,
+      "identifier" : "CKDz9bsGIABIAZABAA==",
+      "msg" : "Meu envelope chegou hoje, obrigado pelo material. Sensacional a frase na pulseira “mais um round para a liberdade”.\nSucesso para nós, abraço!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 16:03:27",
+      "delete" : false,
+      "identifier" : "CIf19bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigado por seu feedback 🐺🔺",
+      "type" : "text"
+    }
+  ]
+})

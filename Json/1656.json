@@ -1,0 +1,38 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 66 99232-0894",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 11:45:23",
+      "delete" : false,
+      "mediaName" : "66bba2c8-9a81-4d1a-8821-a681fc552c49.opus",
+      "localPath" : "media\/8e6709c0f2366889656549931a82e36f29fc0a59.opus",
+      "mediaSize" : "57 KB",
+      "identifier" : "CIuzvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 12:16:55",
+      "delete" : false,
+      "identifier" : "CO\/BvLoGIABIAZABAA==",
+      "msg" : "Entendi, obrigado pelo retorno.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 12:46:56",
+      "delete" : false,
+      "identifier" : "CPjPvLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estamos à disposição ☺️",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,308 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 35 99908-0485",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:27:29",
+      "delete" : false,
+      "identifier" : "CPmUpLoGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:27:33",
+      "delete" : false,
+      "identifier" : "CP2UpLoGIABIAZABAA==",
+      "msg" : "Quero o check list",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:27:36",
+      "delete" : false,
+      "identifier" : "CICVpLoGIABIAZABAA==",
+      "msg" : "De indicação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:28:49",
+      "delete" : false,
+      "identifier" : "CMmVpLoGIABIAZABAA==",
+      "msg" : "Gostaria",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:28:52",
+      "delete" : false,
+      "identifier" : "CMyVpLoGIABIAZABAA==",
+      "msg" : "Do check list",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:28:57",
+      "delete" : false,
+      "identifier" : "CNGVpLoGIABIAZABAA==",
+      "msg" : "De indicação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:32:40",
+      "delete" : false,
+      "identifier" : "CLCXpLoGIABIAZABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:32:51",
+      "delete" : false,
+      "identifier" : "CLuXpLoGIABIAZABAA==",
+      "msg" : "Queria o check list de indicação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:32:59",
+      "delete" : false,
+      "identifier" : "CMOXpLoGIABIAZABAA==",
+      "msg" : "Já tenho umas 3 vendas travada aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:36:36",
+      "delete" : false,
+      "identifier" : "CJyZpLoGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:12:22",
+      "delete" : false,
+      "mediaName" : "fb58da7f-20c0-4933-b6a7-34d31d9dc527.opus",
+      "localPath" : "media\/be0df3db48690dc94a8f1038e3bd8c5fccc0f97f.opus",
+      "mediaSize" : "33 KB",
+      "identifier" : "CK7fproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:15:45",
+      "delete" : false,
+      "identifier" : "CPngproGIABIAZABAA==",
+      "msg" : "joaovitor.bakduro@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:29:15",
+      "delete" : false,
+      "mediaName" : "6dd2c01d-c2de-4793-a9ba-422ef6f857d5.opus",
+      "localPath" : "media\/47bd3450d6ae558ec27e7dee09accc1e80290da2.opus",
+      "mediaSize" : "93 KB",
+      "identifier" : "CKPnproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:45"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:29:23",
+      "delete" : false,
+      "mediaName" : "5ed2402c-4da1-4622-bce6-f3a1bc4432d0.mp4",
+      "localPath" : "media\/d7b0ac2cecc0cc91521b971e521ac66a2dbfdec2.mp4",
+      "mediaSize" : "1,2 MB",
+      "identifier" : "CKvnproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/b74a0dcccde25025aaad691f09cfc6f1a3470c65"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:32:22",
+      "delete" : false,
+      "identifier" : "CN7oproGIABIAZABAA==",
+      "msg" : "Tenho que cadastrar na ticto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:32:23",
+      "delete" : false,
+      "identifier" : "CN\/oproGIABIAZABAA==",
+      "msg" : "Né",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:38:07",
+      "delete" : false,
+      "identifier" : "CLfrproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso mesmo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:38:29",
+      "mediaSize" : "4 KB",
+      "mediaName" : "9ed20d3c-e361-45fe-9f19-89e5050cb79f.thumb",
+      "localPath" : "media\/f619ad2a1ba2c1da0bb813e30ac6b46fc2c923d2.thumb",
+      "delete" : false,
+      "identifier" : "CM3rproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:22:06",
+      "delete" : false,
+      "identifier" : "CPb20b0GIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 09:22:14",
+      "delete" : false,
+      "identifier" : "CP720b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:22:18",
+      "delete" : false,
+      "mediaName" : "3dbc413c-2be4-4dbf-809a-3f869a2430ef.jpg",
+      "localPath" : "media\/f258b4a49975bc36b6272d943acf85074de60ab0.jpg",
+      "mediaSize" : "39 KB",
+      "identifier" : "CIL30b0GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/747b58f1fdefdbcee460c6778e70301e9c0d18f0"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 09:22:20",
+      "delete" : false,
+      "identifier" : "CIT30b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:22:26",
+      "delete" : false,
+      "identifier" : "CIr30b0GIABIAZABAA==",
+      "msg" : "João",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:22:33",
+      "delete" : false,
+      "mediaName" : "0136c0c9-34ba-40c2-b383-a36022fcff27.jpg",
+      "localPath" : "media\/e888db45cb4efa7960132d585d96f6e7b89aba96.jpg",
+      "mediaSize" : "39 KB",
+      "identifier" : "CJH30b0GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/d61b2ed8015c7b1c97a9733d3c7b4ebccf541275"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 09:22:33",
+      "delete" : false,
+      "identifier" : "CJH30b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Perfeito, *João*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 09:22:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJf30b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:23:09",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Envelope dos escolhidos",
+      "delete" : false,
+      "identifier" : "CLX30b0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 09:23:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLf30b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:23:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Enviei meu comprovante de pagamento ✅",
+      "delete" : false,
+      "identifier" : "CL\/30b0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 09:23:21",
+      "delete" : false,
+      "identifier" : "CMH30b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Muito obrigada pelo pagamento! Assim que seu envelope for postado te mandaremos o código de rastreio para que você possa acompanhar a entrega 😊*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/21 14:08:42",
+      "delete" : false,
+      "identifier" : "CKLm4r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: AV041819404BR",
+      "type" : "text"
+    }
+  ]
+})

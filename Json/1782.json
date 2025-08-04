@@ -1,0 +1,98 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99343-5240",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 14:58:59",
+      "delete" : false,
+      "identifier" : "COuj87kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 15:01:12",
+      "delete" : false,
+      "mediaName" : "32a90d56-9c0a-41e7-b7d3-bd4627066434.opus",
+      "localPath" : "media\/c4f4caed97c74f96ef0fe2bb5621b1ccb896ffe5.opus",
+      "mediaSize" : "151 KB",
+      "identifier" : "CPCk87kGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "01:03"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 15:17:24",
+      "delete" : false,
+      "mediaName" : "5714453b-8eba-4cca-9193-ab1fabee2fc1.opus",
+      "localPath" : "media\/c1a1590ce44bb6496977083285f15627c99501c5.opus",
+      "mediaSize" : "66 KB",
+      "identifier" : "CLys87kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:35"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 15:18:49",
+      "delete" : false,
+      "mediaName" : "2ca728cd-26c4-42ac-9556-6418b7a99d04.opus",
+      "localPath" : "media\/572f57511c581a6aaa0a6a66a1c555f32758f1a3.opus",
+      "mediaSize" : "10 KB",
+      "identifier" : "CJGt87kGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:04"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 15:25:24",
+      "delete" : false,
+      "identifier" : "CJyw87kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pronto, vou prosseguir com o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 15:29:10",
+      "delete" : false,
+      "identifier" : "CP6x87kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 15:29:54",
+      "delete" : false,
+      "identifier" : "CKqy87kGIABIAZABAA==",
+      "msg" : "Caiu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/19 15:29:55",
+      "delete" : false,
+      "identifier" : "CKuy87kGIABIAZABAA==",
+      "msg" : "Obrihado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/19 15:31:13",
+      "delete" : false,
+      "identifier" : "CPmy87kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo contato! 😉",
+      "type" : "text"
+    }
+  ]
+})

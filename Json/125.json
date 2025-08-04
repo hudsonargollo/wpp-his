@@ -1,0 +1,36 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 44 99815-3012",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/26 08:59:09",
+      "delete" : false,
+      "identifier" : "CJWGk8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? Sou do suporte Modo caverna e vi que você solicitou reembolso. Gostaria de saber melhor o que houve e o que levou você a tomar essa decisão. Poderia nos informar, por gentileza para que possamos te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/26 11:44:48",
+      "delete" : false,
+      "identifier" : "COjTk8QGIABIAZABAA==",
+      "msg" : "Bom dia tudo bem e vc, então eu não consegui acessar os conteúdos no site Modo Caverna.\nAparentemente não liberaram os meus conteúdos e os dois e-books não consegui baixar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/28 09:45:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CIrincQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

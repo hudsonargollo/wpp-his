@@ -1,0 +1,352 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 16 99989-1039",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:00:09",
+      "delete" : false,
+      "identifier" : "CIHU2rsGIABIAZABAA==",
+      "msg" : "boa tarde, fiz o pagamento mas não recebi meu produto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:00:20",
+      "delete" : false,
+      "identifier" : "CIzU2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:00:26",
+      "delete" : false,
+      "identifier" : "CJLU2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:00:31",
+      "delete" : false,
+      "identifier" : "CJfU2rsGIABIAZABAA==",
+      "msg" : "kaylon",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:00:37",
+      "delete" : false,
+      "identifier" : "CJ3U2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *kaylon*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:00:43",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKPU2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:00:56",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio 5 em 30",
+      "delete" : false,
+      "identifier" : "CLDU2rsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:00:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLHU2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:01:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar o conteúdo",
+      "delete" : false,
+      "identifier" : "CLjU2rsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:03:21",
+      "delete" : false,
+      "identifier" : "CMHV2rsGIABIAZABAA==",
+      "msg" : "😅",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:05:21",
+      "delete" : false,
+      "identifier" : "CLnW2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:05:42",
+      "delete" : false,
+      "identifier" : "CM7W2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você recebeu os ebooks?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:05:54",
+      "delete" : false,
+      "identifier" : "CNrW2rsGIABIAZABAA==",
+      "msg" : "não, pois vou querer reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:06:03",
+      "delete" : false,
+      "identifier" : "COPW2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para acessar o conteúdo você precisa realizar cadastro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:06:37",
+      "delete" : false,
+      "identifier" : "CIXX2rsGIABIAZABAA==",
+      "msg" : "faz umas 4 horas que comprei meu conteúdo e não recebi nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:08:32",
+      "delete" : false,
+      "identifier" : "CPjX2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:08:45",
+      "delete" : false,
+      "identifier" : "CIXY2rsGIABIAZABAA==",
+      "msg" : "kaylonlsg@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:25:35",
+      "delete" : false,
+      "identifier" : "CPff2rsGIABIAZABAA==",
+      "msg" : "boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:25:39",
+      "delete" : false,
+      "identifier" : "CPvf2rsGIABIAZABAA==",
+      "msg" : "vão fazer",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:55:59",
+      "delete" : false,
+      "identifier" : "CJfu2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Posso te mandar os ebooks por aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 12:56:13",
+      "delete" : false,
+      "identifier" : "CKXu2rsGIABIAZABAA==",
+      "msg" : "vou querer o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:56:14",
+      "delete" : false,
+      "identifier" : "CKbu2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você ja possui cadastro do Modo Caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 12:56:45",
+      "delete" : false,
+      "identifier" : "CMXu2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 13:05:07",
+      "delete" : false,
+      "identifier" : "CLvy2rsGIABIAZABAA==",
+      "msg" : "vou ter acesso ao modo caverna inteiro ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 13:05:13",
+      "delete" : false,
+      "identifier" : "CMHy2rsGIABIAZABAA==",
+      "msg" : "a tudo que tem lá ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 13:05:19",
+      "delete" : false,
+      "identifier" : "CMfy2rsGIABIAZABAA==",
+      "msg" : "comprei achando que vou ter",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 13:05:24",
+      "delete" : false,
+      "identifier" : "CMzy2rsGIABIAZABAA==",
+      "msg" : "mas até agora não recebi acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 13:14:28",
+      "delete" : false,
+      "mediaName" : "95fca2ff-22b0-40e2-9f91-87eeb2f11705.opus",
+      "localPath" : "media\/9f663fc6fe4207f43f34b87225dba375025979de.opus",
+      "mediaSize" : "23 KB",
+      "identifier" : "COz22rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 13:14:47",
+      "mediaSize" : "14 KB",
+      "mediaName" : "aed8df0f-dbc5-418d-9a29-ce7b770d09fc.thumb",
+      "localPath" : "media\/49aef548f1248eab9a4531f5f05c182210a1306c.thumb",
+      "delete" : false,
+      "identifier" : "CP\/22rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 13:15:46",
+      "delete" : false,
+      "identifier" : "CLr32rsGIABIAZABAA==",
+      "msg" : "aparece que já tem cadastro com meu e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 13:16:31",
+      "delete" : false,
+      "mediaName" : "778a9a1c-c68b-4b64-a6fb-4ecd89c24de4.opus",
+      "localPath" : "media\/9a90e1fd254336b1f48dc4f3b4f8e6d57914c5c2.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "COf32rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 13:16:50",
+      "delete" : false,
+      "identifier" : "CPr32rsGIABIAZABAA==",
+      "msg" : "consegui acessar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 13:18:09",
+      "delete" : false,
+      "mediaName" : "a283e889-c5d7-4f08-b326-f4d7999fcc80.opus",
+      "localPath" : "media\/56f8bece38d844913d51901a7dcfb3946b57c438.opus",
+      "mediaSize" : "23 KB",
+      "identifier" : "CMn42rsGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 13:18:40",
+      "delete" : false,
+      "mediaName" : "e4a47464-380d-4000-8def-4860aea488ec.opus",
+      "localPath" : "media\/a224b3cf4b9f62ae1929674fd9850dc254e73b00.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "COj42rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 13:31:29",
+      "delete" : false,
+      "identifier" : "COn+2rsGIABIAZABAA==",
+      "msg" : "poderia me mandar o link certo por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 13:35:14",
+      "mediaSize" : "14 KB",
+      "mediaName" : "21fd1a80-0eed-4632-919b-1379a1b89628.thumb",
+      "localPath" : "media\/56a34fd69f27636358e6f8041924cee84d47cacd.thumb",
+      "delete" : false,
+      "identifier" : "CMqA27sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

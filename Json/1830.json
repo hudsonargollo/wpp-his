@@ -1,0 +1,180 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 96995-5876",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 10:15:31",
+      "delete" : false,
+      "identifier" : "CPupzbkGIABIAZABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 10:15:47",
+      "delete" : false,
+      "identifier" : "CIuqzbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 10:15:53",
+      "delete" : false,
+      "identifier" : "CJGqzbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 10:18:10",
+      "delete" : false,
+      "identifier" : "CJqrzbkGIABIAZABAA==",
+      "msg" : "Leandro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 10:18:16",
+      "delete" : false,
+      "identifier" : "CKCrzbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Leandro*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 10:18:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKarzbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 10:19:53",
+      "delete" : false,
+      "mediaName" : "da498f6d-8457-4226-a70d-9fe62fa85ac0.opus",
+      "localPath" : "media\/9be7527dd34bd93185324be2932a2b5053003570.opus",
+      "mediaSize" : "12 KB",
+      "identifier" : "CIGszbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 10:21:02",
+      "delete" : false,
+      "identifier" : "CMaszbkGIABIAZABAA==",
+      "msg" : "Eu quero saber se o central caverna tem app?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 10:21:17",
+      "delete" : false,
+      "identifier" : "CNWszbkGIABIAZABAA==",
+      "msg" : "Pelo site está sendo muito difícil acessar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 10:26:17",
+      "delete" : false,
+      "mediaName" : "bc94691e-c7a7-468f-a285-0b78d709d805.opus",
+      "localPath" : "media\/6a845a26fa47de695234fac4cb554f8a82e68cc0.opus",
+      "mediaSize" : "45 KB",
+      "identifier" : "CIGvzbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:22"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 10:29:28",
+      "delete" : false,
+      "mediaName" : "2a30321f-dc87-4afd-961e-a3593ed839aa.jpg",
+      "localPath" : "media\/24bc8345e17c17ef37a8ca899df62e106b934b21.jpg",
+      "mediaSize" : "37 KB",
+      "identifier" : "CMCwzbkGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/581886dad3927466be744eb30f7342bc949f63e1"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 10:29:28",
+      "delete" : false,
+      "mediaName" : "c02ff2f3-17b2-408a-8619-f06f7c4272f8.jpg",
+      "localPath" : "media\/80235e99f442fb6eb9f8d10b5ad0ffc867d56ab0.jpg",
+      "mediaSize" : "43 KB",
+      "identifier" : "CMCwzbkGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/39b78e4ffdca22f8295325906596b195048a2d52"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 10:32:17",
+      "delete" : false,
+      "mediaName" : "656309a4-5ae8-43f1-9a3d-297b24d9b7e8.opus",
+      "localPath" : "media\/aafe9aa6df556bc4719525df8249523df1699860.opus",
+      "mediaSize" : "28 KB",
+      "identifier" : "COmxzbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 11:23:13",
+      "delete" : false,
+      "identifier" : "CNnJzbkGIABIAZABAA==",
+      "msg" : "Não tenho computador",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 11:23:20",
+      "delete" : false,
+      "identifier" : "CODJzbkGIABIAZABAA==",
+      "msg" : "Por isso queria ter o app",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/12 11:23:33",
+      "delete" : false,
+      "identifier" : "CO3JzbkGIABIAZABAA==",
+      "msg" : "Quando tiver o app pode me atualizar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/12 11:26:16",
+      "delete" : false,
+      "mediaName" : "837c83d3-115d-4c05-b972-85e8a78efd01.opus",
+      "localPath" : "media\/1019f82c494b0055339f2023cc47195abb0c0ae5.opus",
+      "mediaSize" : "34 KB",
+      "identifier" : "CJDLzbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    }
+  ]
+})

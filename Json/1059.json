@@ -1,0 +1,480 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 34 99840-4550",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 09:54:45",
+      "delete" : false,
+      "identifier" : "CJ3Bgb4GIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 09:54:55",
+      "delete" : false,
+      "identifier" : "CKfBgb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 09:55:01",
+      "delete" : false,
+      "identifier" : "CK3Bgb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 09:55:23",
+      "delete" : false,
+      "identifier" : "CMPBgb4GIABIAZABAA==",
+      "msg" : "No caso o acesso ao app é vitalício? Paga só uma vez os 300,00 reais ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 09:55:29",
+      "delete" : false,
+      "identifier" : "CMnBgb4GIABIAZABAA==",
+      "msg" : "Kelvin",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 09:55:30",
+      "delete" : false,
+      "identifier" : "CMrBgb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Perfeito, *No caso o acesso ao app é vitalício? Paga só uma vez os 300,00 reais ?*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 09:55:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNDBgb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 09:55:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "COLBgb4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 09:56:02",
+      "delete" : false,
+      "identifier" : "COrBgb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 09:56:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO\/Bgb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 09:56:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CP3Bgb4GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 09:56:24",
+      "delete" : false,
+      "identifier" : "CIDCgb4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 09:56:46",
+      "delete" : false,
+      "identifier" : "CJbCgb4GIABIAZABAA==",
+      "msg" : "No caso o acesso ao app é vitalício? Paga só uma vez os 300,00 reais ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 12:45:40",
+      "delete" : false,
+      "identifier" : "CKyRgr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Kelvin! Tudo bem?\nA assinatura do app é anual ou mensal",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 13:30:53",
+      "delete" : false,
+      "identifier" : "CMWmgr4GIABIAZABAA==",
+      "msg" : "Meu app pelo computador está dando erro quando vou adicionar algo aparece o erro “notifix failure”",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 14:01:29",
+      "delete" : false,
+      "identifier" : "CPG0gr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMDVBNEZBRDJEQ0U1RDA1MTRAoOftwtQySAB4gvuc09QykAEA",
+      "msg" : "Consegue testar por outro navegador, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 14:08:38",
+      "delete" : false,
+      "identifier" : "CJ64gr4GIABIAZABAA==",
+      "msg" : "Deu certo, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/27 14:12:25",
+      "delete" : false,
+      "identifier" : "CIG6gr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! Por qual navegador você conseguiu acessar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 17:07:36",
+      "delete" : false,
+      "identifier" : "CJCMg74GIABIAZABAA==",
+      "msg" : "Yahoo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 07:48:24",
+      "delete" : false,
+      "identifier" : "CICphr4GIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 07:49:15",
+      "delete" : false,
+      "identifier" : "CLOphr4GIABIAZABAA==",
+      "msg" : "Ontem fui comprar o envelope com a pulseira e os adesivos, não tava dando para finalizar a compra por conta do cep",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 07:49:21",
+      "delete" : false,
+      "identifier" : "CLmphr4GIABIAZABAA==",
+      "msg" : "Vcs conseguem me ajudar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 09:23:51",
+      "delete" : false,
+      "identifier" : "CN\/Vhr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia! Tudo bem?\nConsegue me enviar um print do que aparece?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:13:18",
+      "delete" : false,
+      "mediaName" : "6cf67fc2-7c1b-4fa4-8bda-69305313247a.jpg",
+      "localPath" : "media\/72b3dd8fb708b863eb6445772cc9d85568d061c4.jpg",
+      "mediaSize" : "49 KB",
+      "identifier" : "CPbshr4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/899c8ba3f072b17f284c76311914d6ba04689833"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:31:53",
+      "delete" : false,
+      "identifier" : "CNH1hr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Retorna a página e me manda print",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:38:47",
+      "delete" : false,
+      "mediaName" : "8d2a70ff-e75e-4516-b992-6bdd9a8b47d3.jpg",
+      "localPath" : "media\/8b208fcb32f3875cc8108f823e5e05ace0a075e4.jpg",
+      "mediaSize" : "43 KB",
+      "identifier" : "CO\/4hr4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/78b0fb23e26deba6195c401ec8dfff9284727258"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:39:15",
+      "delete" : false,
+      "identifier" : "CIv5hr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tá na mesma página",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:40:03",
+      "delete" : false,
+      "mediaName" : "fdaada6b-a2b8-4b15-9930-24aba29a6a01.jpg",
+      "localPath" : "media\/11dbb602e7cd6cb6d48944f954b38950bd0a9b0a.jpg",
+      "mediaSize" : "53 KB",
+      "identifier" : "CLv5hr4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/81ee267353a3542df42acf2885d4186af00e6109"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:40:22",
+      "delete" : false,
+      "mediaName" : "9eaf0827-7191-4ad3-906e-718aafbd3653.jpg",
+      "localPath" : "media\/d97d108594d884eac37952b7790e41acd9d2a37c.jpg",
+      "mediaSize" : "59 KB",
+      "identifier" : "CM75hr4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/3e0e62c97f20f972de5b844ac64a2d4aa1eb6a80"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:46:54",
+      "delete" : false,
+      "identifier" : "CNb8hr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou realizar o pedido por aqui, me envia seu nome, email, cpf, telefone e endereço",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:49:19",
+      "delete" : false,
+      "identifier" : "COf9hr4GIABIAZABAA==",
+      "msg" : "Kelvin willian Barreto Silva\nE-mail: Kelvinbarretoplan@hotmail.com\nCPF: 14018846606\nEndereço: rua Paulo Brinck 413 (loja agropecuária)\nPlanura MG cep:38220-000\nTelefone (34) 998404550",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:52:04",
+      "delete" : false,
+      "identifier" : "CIz\/hr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual o nome do bairro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:53:41",
+      "delete" : false,
+      "identifier" : "CO3\/hr4GIABIAZABAA==",
+      "msg" : "Vila Paiva",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:58:10",
+      "delete" : false,
+      "identifier" : "CPqBh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Consegui gerar aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 10:58:30",
+      "delete" : false,
+      "mediaName" : "eccc7b61-257c-4ed2-b9d9-e4107c735fa1.jpg",
+      "localPath" : "media\/9a3728ff5e0d4f5a9591deced83d4875034d9fbd.jpg",
+      "mediaSize" : "75 KB",
+      "identifier" : "CI6Ch74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/0b8ef8ee2b01fe8e6f0119f12130a2b0b56f4fca"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 10:58:56",
+      "delete" : false,
+      "identifier" : "CKiCh74GIABIAZABAA==",
+      "msg" : "Manda a chave do Pix",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 11:09:20",
+      "delete" : false,
+      "identifier" : "CJiHh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "projetoiurimeira@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 11:09:29",
+      "delete" : false,
+      "mediaName" : "0a3d11e9-30a5-4d3a-938d-527a6f16bdc1.opus",
+      "localPath" : "media\/b067371b4bd5371fa24d0fdc086ed70fdd444c16.opus",
+      "mediaSize" : "11 KB",
+      "identifier" : "CKGHh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:05"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 11:10:55",
+      "delete" : false,
+      "mediaName" : "fc442f2d-ffbe-401f-9a2f-a1aef8bf7a3c.jpg",
+      "localPath" : "media\/a9d39d11844b399e3c3a9005370a5c914a1fb41e.jpg",
+      "mediaSize" : "38 KB",
+      "identifier" : "CPeHh74GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/d69c75b28a27ae9ee79194ecb08dba49b7387fdc"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 11:11:18",
+      "delete" : false,
+      "identifier" : "CI6Ih74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, muito obrigada!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 11:11:42",
+      "delete" : false,
+      "mediaName" : "f1289b7e-2ab5-4e76-af40-fe390a17612f.opus",
+      "localPath" : "media\/0344089a3618a2d81c492cc0177d7ed41f752b74.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CKaIh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 11:12:18",
+      "delete" : false,
+      "identifier" : "CMqIh74GIAA6FDNBMjIyNEIxQ0U5NzE3NDNENEYyQIDFm+fUMkgBeP\/WkunUMpABAA==",
+      "msg" : "Ok então",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 11:12:37",
+      "delete" : false,
+      "identifier" : "CN2Ih74GIABIAZABAA==",
+      "msg" : "Onde eu compro as camisetas ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 11:17:18",
+      "delete" : false,
+      "mediaName" : "09c72dfc-b91d-406f-8430-465f45a8180b.opus",
+      "localPath" : "media\/0584b3ffa832cc3c52e7c5c899abeceae7fccb59.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CPaKh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 11:17:24",
+      "delete" : false,
+      "identifier" : "CPyKh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "@sejacaverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 11:18:15",
+      "delete" : false,
+      "identifier" : "CK+Lh74GIABIAZABAA==",
+      "msg" : "Ok então",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 11:18:16",
+      "delete" : false,
+      "identifier" : "CLCLh74GIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 11:22:14",
+      "delete" : false,
+      "identifier" : "CJ6Nh74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/28 16:03:03",
+      "delete" : false,
+      "identifier" : "CO+QiL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Kelvin, seu envelope já foi postado! 🥳\nSegue o código de rastreio: AV042607176BR",
+      "type" : "text"
+    }
+  ]
+})

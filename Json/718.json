@@ -1,0 +1,36 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98891-4146",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/02 21:01:59",
+      "delete" : false,
+      "identifier" : "CP+51cAGIABIAZABAA==",
+      "msg" : "https:\/\/biolink.info\/impressaodescomplicada?fbclid=PAQ0xDSwKCPCBleHRuA2FlbQIxMQABpxxl51YxvHXRGMivdLWRJwRNYVrVOWbVmzd8ARuHdN8rJ-OgKvi5v-k07y8__aem_SKD0yalGvu8AK4AQiJUchQ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 21:02:15",
+      "delete" : false,
+      "identifier" : "CI+61cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/02 21:02:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJC61cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

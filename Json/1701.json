@@ -1,0 +1,50 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 27 99699-5959",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 23:38:14",
+      "delete" : false,
+      "identifier" : "CJ7SpLoGIABIAZABAA==",
+      "msg" : "Quero ganhar indicando a Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:16:48",
+      "delete" : false,
+      "mediaName" : "ab6a74c8-18e8-4f28-acd1-7dc341d2631d.opus",
+      "localPath" : "media\/54ef332018232cb2d50b5c0a0e1eaa4c20525a59.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "CLjhproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 11:35:08",
+      "delete" : false,
+      "identifier" : "CKSip7oGIABIAZABAA==",
+      "msg" : "clleite09@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 11:56:58",
+      "delete" : false,
+      "mediaName" : "5a8d81e4-5b50-4190-be8d-3e0ef21fbc0c.opus",
+      "localPath" : "media\/8d8d22cfb98ef3a6db8768eacfc6f618a6fcf216.opus",
+      "mediaSize" : "63 KB",
+      "identifier" : "CMKsp7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    }
+  ]
+})

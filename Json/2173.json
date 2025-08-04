@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 38 99855-5588",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/21 12:52:58",
+      "delete" : false,
+      "identifier" : "COLXu7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Sou a Bruna, do time do Iuri Meira, e estou aqui para ajudar com qualquer dúvida ou necessidade que você tenha. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. Aproveitando, queria saber como tem sido sua experiência até agora e se existe algo específico que possamos fazer para tornar o uso do nosso produto ainda mais incrível para você! ✨",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 16:55:33",
+      "delete" : false,
+      "identifier" : "CL2Px7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nRecebi sua solicitação de reembolso, e como parte de nossa política de tratativa, aguardamos um período de 30 horas para receber uma resposta antes de dar continuidade ao processo. Como não tivemos retorno desde nossa última conversa, consideramos que você optou por não seguir com o reembolso, e por isso o processo foi suspenso temporariamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 17:22:40",
+      "delete" : false,
+      "identifier" : "CJicx7cGIABIAZABAA==",
+      "msg" : "Tem como pedir o reembolso de novo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 17:26:57",
+      "delete" : false,
+      "identifier" : "CJmex7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sim, é possível solicitar o reembolso novamente. Poderia compartilhar comigo mais detalhes sobre a sua experiência e o motivo pelo qual está solicitando o reembolso? Quero muito entender para poder ajudar da melhor forma possível. Obrigada!",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,192 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 45 99971-6718",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 15:16:41",
+      "delete" : false,
+      "identifier" : "CJHLs70GIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 15:16:51",
+      "delete" : false,
+      "identifier" : "CJvLs70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 15:16:57",
+      "delete" : false,
+      "identifier" : "CKHLs70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 15:17:14",
+      "delete" : false,
+      "identifier" : "CLLLs70GIABIAJABAA==",
+      "msg" : "Fatima",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 15:17:20",
+      "delete" : false,
+      "identifier" : "CLjLs70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Fatima*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 15:17:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CL7Ls70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 15:17:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CMbLs70GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 15:17:41",
+      "delete" : false,
+      "identifier" : "CM3Ls70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 15:17:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNLLs70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 15:17:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CNnLs70GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 15:17:56",
+      "delete" : false,
+      "identifier" : "CNzLs70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 15:18:15",
+      "delete" : false,
+      "identifier" : "CO\/Ls70GIABIAJABAA==",
+      "msg" : "cancelamento e reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 15:20:57",
+      "delete" : false,
+      "identifier" : "CJHNs70GIABIAJABAA==",
+      "msg" : "conforme e-mail enviado:",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 15:21:00",
+      "delete" : false,
+      "identifier" : "CJTNs70GIABIAJABAA==",
+      "msg" : "Boa tarde!\nVenho através deste solicitar o cancelamento e reembolso do pedido TOC971271102PQU47EY.\nO produto não atende as expectativas e nem está de acordo com o anunciado, são apenas pdf importados da internet sem didática, conteúdo sem novidades, apenas \"tapa buraco\" para vender mais coisas e insistir o tempo todo em assinar um aplicativo. \nLembrando que de acordo com o artigo 49 do código do CDC, é garantido o direito de arrependimento dentro de 7 dias contados a partir da data da compra ou primeiro acesso e o fato de ter aberto o curso não invalida esse direito, pois a lei não impõe restrições quanto ao uso do produto nesse período. A empresa é obrigada a reembolsar integralmente o valor pago. Se a empresa negar o reembolso tenho o direito de registrar uma reclamação no PROCON ou buscar os Juizados Especiais Cíveis.\nAlém de que, é impossível analisar um produto sem acessar não concorda?\nComprei ontem a noite, hoje pela manhã fui olhar e analisar e me arrependi na hora.\nAguardo retorno e reembolso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/12 15:24:19",
+      "delete" : false,
+      "identifier" : "CNvOs70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Fátima! Tudo bem?\nBasta solicitar novamente pela plataforma de compra e você será reembolsada.\nObrigada pelo contato 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/12 18:49:23",
+      "delete" : false,
+      "identifier" : "COuutL0GIABIAZABAA==",
+      "msg" : "Feito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/13 08:20:19",
+      "delete" : false,
+      "identifier" : "CPuqt70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia!\nPerfeito, verifiquei aqui e seu reembolso já foi aprovado. Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 08:33:27",
+      "delete" : false,
+      "identifier" : "CI+xt70GIABIAZABAA==",
+      "msg" : "Somente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/13 08:33:30",
+      "delete" : false,
+      "identifier" : "CJKxt70GIABIAZABAA==",
+      "msg" : "Obrigada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/13 08:33:52",
+      "delete" : false,
+      "identifier" : "CKixt70GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço o contato! ☺️",
+      "type" : "text"
+    }
+  ]
+})

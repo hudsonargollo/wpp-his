@@ -1,0 +1,204 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 14 99880-9766",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 19:07:01",
+      "delete" : false,
+      "identifier" : "CI2h\/r0GIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 19:07:07",
+      "delete" : false,
+      "identifier" : "CJOh\/r0GIABIAZABAA==",
+      "msg" : "Boa noite.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 19:07:15",
+      "delete" : false,
+      "identifier" : "CJuh\/r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 19:07:21",
+      "delete" : false,
+      "identifier" : "CKGh\/r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 19:07:38",
+      "delete" : false,
+      "identifier" : "CLKh\/r0GIABIAZABAA==",
+      "msg" : "Claudius, Comprei um produto do capitão caverna e gostaria do reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 19:07:45",
+      "delete" : false,
+      "identifier" : "CLmh\/r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Perfeito, *Claudius, Comprei um produto do capitão caverna e gostaria do reembolso*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 19:07:49",
+      "delete" : false,
+      "identifier" : "CL2h\/r0GIABIAZABAA==",
+      "msg" : "O conteúdo não me atendeu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 19:07:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CL+h\/r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 19:08:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CM2h\/r0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 19:08:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM+h\/r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 19:08:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CNah\/r0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/26 19:08:16",
+      "delete" : false,
+      "identifier" : "CNih\/r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/26 19:08:47",
+      "delete" : false,
+      "identifier" : "CPeh\/r0GIABIAZABAA==",
+      "msg" : "Certo, eu preciso do reembolso. Falei em outro lugar e me mandaram falar aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 12:11:57",
+      "delete" : false,
+      "identifier" : "CMWBgr4GIABIAZABAA==",
+      "msg" : "Bom dia. Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 12:12:25",
+      "delete" : false,
+      "identifier" : "COGBgr4GIABIAZABAA==",
+      "msg" : "Estou precisando do reembolso de uma compra que eu fiz pelo e mail \nClaudius.duarte54@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/27 12:13:09",
+      "delete" : false,
+      "identifier" : "CI2Cgr4GIABIAZABAA==",
+      "msg" : "Queria saber se podem me ajudar, pois daqui a pouco vence o prazo e ninguém toma providencia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 12:14:59",
+      "delete" : false,
+      "mediaName" : "b61c6f2f-6f5e-4801-900c-20b58e62944c.opus",
+      "localPath" : "media\/334575b13fd7e98b6499ecd9572cc99a706f8055.opus",
+      "mediaSize" : "58 KB",
+      "identifier" : "CPulh74GIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 14:10:29",
+      "delete" : false,
+      "identifier" : "CI3ch74GIABIAZABAA==",
+      "msg" : "Ola, vocês podem me atender??",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 21:33:15",
+      "delete" : false,
+      "identifier" : "CNOrib4GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/28 23:38:29",
+      "delete" : false,
+      "identifier" : "CK3mib4GIABIAZABAA==",
+      "msg" : "Queria saber o que acontece com vocês.... Não atendem depois que eu comprei e desisti. Vou denunciar todas as páginas e vou começar a postar no publico",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 14:13:49",
+      "delete" : false,
+      "identifier" : "CNWMor4GIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    }
+  ]
+})

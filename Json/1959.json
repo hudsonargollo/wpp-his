@@ -1,0 +1,108 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 98298-3364",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 12:25:05",
+      "delete" : false,
+      "identifier" : "CNnw7rgGIABIAJABAA==",
+      "msg" : "Fala Pessoal Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 12:25:19",
+      "delete" : false,
+      "identifier" : "COfw7rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!*\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 12:25:25",
+      "delete" : false,
+      "identifier" : "CO3w7rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 12:25:38",
+      "delete" : false,
+      "identifier" : "CPrw7rgGIABIAJABAA==",
+      "msg" : "Fernando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 12:25:44",
+      "delete" : false,
+      "identifier" : "CIDx7rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Fernando*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 12:25:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIbx7rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 12:26:42",
+      "delete" : false,
+      "identifier" : "CLrx7rgGIABIAJABAA==",
+      "msg" : "Não consigo ver imagens",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 12:28:01",
+      "delete" : false,
+      "identifier" : "CIny7rgGIABIAJABAA==",
+      "msg" : "O entregável é aqueles e-book lá que está no drive,  se for os ebooks vou pedir reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 12:28:09",
+      "delete" : false,
+      "identifier" : "CJHy7rgGIABIAJABAA==",
+      "msg" : "pensei que era um aplicativo de organização",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/26 10:51:27",
+      "delete" : false,
+      "identifier" : "COjn87gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Bom dia! Tudo bem? São nossos maravilhosos E-Books!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/26 10:52:45",
+      "delete" : false,
+      "identifier" : "CLbo87gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Caso você tenha interesse em realizar a compra da Central Caverna temos a mensal por R$ 39,00 ou o anual é R$ 199,00! 🤩🤩",
+      "type" : "text"
+    }
+  ]
+})

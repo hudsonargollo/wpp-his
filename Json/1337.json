@@ -1,0 +1,107 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 98935-1640",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 12:06:18",
+      "delete" : false,
+      "identifier" : "CPLXlLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:06:45",
+      "delete" : false,
+      "identifier" : "CI3YlLwGIABIAZABAA==",
+      "msg" : "mas ainda nao foi reembolsado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 12:07:55",
+      "delete" : false,
+      "mediaName" : "4f7c82df-a99f-460f-bd68-6a4f7d0f24e3.opus",
+      "localPath" : "media\/c82c3cea601639d0f76c2dc94024f6b5fd50f4b4.opus",
+      "mediaSize" : "26 KB",
+      "identifier" : "CNPYlLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:10:11",
+      "delete" : false,
+      "identifier" : "CNvZlLwGIABIAZABAA==",
+      "msg" : "na vdd eu achei que seria uma plataforma com aulas e tal",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:10:15",
+      "delete" : false,
+      "identifier" : "CN\/ZlLwGIABIAZABAA==",
+      "msg" : "mas so era ebooks",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 12:35:44",
+      "delete" : false,
+      "mediaName" : "4ebd8ecf-137d-496a-bda0-d45f22ee6e84.opus",
+      "localPath" : "media\/f2ae5b4093e61a8cd4e662de153cb276d772b822.opus",
+      "mediaSize" : "26 KB",
+      "identifier" : "CNjllLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:42:53",
+      "delete" : false,
+      "identifier" : "CIXplLwGIABIAZABAA==",
+      "msg" : "soq o aplicativo e 5 vezes o valor do curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:42:55",
+      "delete" : false,
+      "identifier" : "CIfplLwGIABIAZABAA==",
+      "msg" : "ou mais",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:42:56",
+      "delete" : false,
+      "identifier" : "CIjplLwGIABIAZABAA==",
+      "msg" : "q eu vi la",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 13:00:42",
+      "delete" : false,
+      "mediaName" : "c2a7ef12-0f6c-480b-a2f5-3af2f1593270.opus",
+      "localPath" : "media\/748d66095caae9a061d7adc1a07cf9fb8fc60205.opus",
+      "mediaSize" : "23 KB",
+      "identifier" : "CLLxlLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    }
+  ]
+})

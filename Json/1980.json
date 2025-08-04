@@ -1,0 +1,98 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 62 99296-0000",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:26:23",
+      "delete" : false,
+      "identifier" : "CIfz47gGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:27:43",
+      "delete" : false,
+      "mediaName" : "0180c935-4e6e-40f9-ac01-0893f0ec78e9.jpg",
+      "localPath" : "media\/fe94a55b045c1c2bc2e603628f1d8044db1626ca.jpg",
+      "mediaSize" : "109 KB",
+      "identifier" : "CNfz47gGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/307371cfc9e298cc1e15fed862684ba13c40bbde"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:28:05",
+      "delete" : false,
+      "identifier" : "CO3z47gGIABIAZABAA==",
+      "msg" : "Como faço para acessar a área de membros da quebra da matrix?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:28:14",
+      "delete" : false,
+      "identifier" : "CPbz47gGIABIAZABAA==",
+      "msg" : "Não achei o e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:32:42",
+      "delete" : false,
+      "mediaName" : "54a8a3cb-ecd7-4450-870d-599ea7b2ad6a.opus",
+      "localPath" : "media\/5315a1516cb04f171f8e2fa42f62b18cc8b91ff8.opus",
+      "mediaSize" : "15 KB",
+      "identifier" : "CIL247gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:33:39",
+      "delete" : false,
+      "identifier" : "CLv247gGIABIAZABAA==",
+      "msg" : "dvilar01@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 10:33:47",
+      "delete" : false,
+      "identifier" : "CMP247gGIABIAZABAA==",
+      "msg" : "702.437.691-05",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:33:51",
+      "delete" : false,
+      "identifier" : "CMf247gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só um momento!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:34:46",
+      "delete" : false,
+      "mediaName" : "53201670-1ff0-4cea-9a27-1cbc4c38ad85.opus",
+      "localPath" : "media\/6d4041a8a779d77a7e3a9e5a03a7060af24f6579.opus",
+      "mediaSize" : "31 KB",
+      "identifier" : "CP7247gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    }
+  ]
+})

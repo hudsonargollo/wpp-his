@@ -1,0 +1,133 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 49 99809-5395",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/31 09:14:02",
+      "delete" : false,
+      "identifier" : "CJL98rwGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:14:11",
+      "delete" : false,
+      "identifier" : "CJv98rwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:14:17",
+      "delete" : false,
+      "identifier" : "CKH98rwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/31 09:14:26",
+      "delete" : false,
+      "identifier" : "CKr98rwGIABIAZABAA==",
+      "msg" : "Baixar os e-book",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:22:11",
+      "delete" : false,
+      "mediaName" : "cc86ecfd-9e10-4f47-8069-e31d153707f5.opus",
+      "localPath" : "media\/9dbaab98e137e5e93ba3c0a3679434990a3a4535.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "CPuA87wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:22:38",
+      "mediaSize" : "10,1 MB",
+      "mediaName" : "EBOOK-PROTOCOLO-ANTI-PROCRASTINACAO.pdf",
+      "localPath" : "media\/88bd8b6295d38e772fc2ebb83914fb1623c05abb.pdf",
+      "delete" : false,
+      "identifier" : "CJaB87wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:22:39",
+      "mediaSize" : "14,3 MB",
+      "mediaName" : "EBOOK-DETOX-DIGITAL.pdf",
+      "localPath" : "media\/b60463d9bcc661bac70fddeca65deef249c16dda.pdf",
+      "delete" : false,
+      "identifier" : "CJeB87wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:22:39",
+      "mediaSize" : "8,8 MB",
+      "mediaName" : "EBOOK-MANUAL-DE-CRIACAO-DE-BONS-HABITOS-.pdf",
+      "localPath" : "media\/dee482f3b0ed78a59ba4da5fe33c6247c2aa36a4.pdf",
+      "delete" : false,
+      "identifier" : "CJeB87wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:22:44",
+      "mediaSize" : "1,1 MB",
+      "mediaName" : "PLANNER-MODOCAVERNA.pdf",
+      "localPath" : "media\/52d9f74d478d095b9e8bf795781868365b506325.pdf",
+      "delete" : false,
+      "identifier" : "CJyB87wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:22:44",
+      "mediaSize" : "18,3 MB",
+      "mediaName" : "EBOOK-GUIA-PRATICO-PARA-DEFINICAO-DE-METAS.pdf",
+      "localPath" : "media\/e02bf10fe08d73d3b803abd2e6a7de1a0a8fe682.pdf",
+      "delete" : false,
+      "identifier" : "CJyB87wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:22:44",
+      "mediaSize" : "50 MB",
+      "mediaName" : "EBOOK-OS-SEGREDOS-DA-LEIDAATRACAO.pdf",
+      "localPath" : "media\/99d13714916c23a32710eb71343a2d49d8820487.pdf",
+      "delete" : false,
+      "identifier" : "CJyB87wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/31 09:22:48",
+      "mediaSize" : "61,8 MB",
+      "mediaName" : "EBOOK-DESAFIO-MODO-CAVERNA-1.pdf",
+      "localPath" : "media\/dd4fd32a4a6bb1514782ac901005a482bff2a443.pdf",
+      "delete" : false,
+      "identifier" : "CKCB87wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    }
+  ]
+})

@@ -1,0 +1,365 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+351 960 009 075",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 23:41:50",
+      "delete" : false,
+      "identifier" : "CPai3MMGIABIAZABAA==",
+      "msg" : "Boa noite!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:41:59",
+      "delete" : false,
+      "identifier" : "CP+i3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:42:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CICj3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 23:42:09",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CImj3MMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:42:17",
+      "delete" : false,
+      "identifier" : "CJGj3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:42:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJaj3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 23:42:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "CJ+j3MMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:42:33",
+      "delete" : false,
+      "identifier" : "CKGj3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 23:43:01",
+      "delete" : false,
+      "identifier" : "CL2j3MMGIAA6FDNBOTRBQjExQTc0MTI0MTBCRENBQLS19YiBM0gBeNeF9YqBM5ABAA==",
+      "msg" : "luanaripardooficial@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:43:03",
+      "delete" : false,
+      "identifier" : "CL+j3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:43:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMCj3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 23:43:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CMmj3MMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:43:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMuj3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 23:43:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Computador\/Tablet",
+      "delete" : false,
+      "identifier" : "CNWj3MMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 23:43:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Smartphones\/Telas pequenas.",
+      "delete" : false,
+      "identifier" : "CNyj3MMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 23:43:35",
+      "delete" : false,
+      "identifier" : "CN+j3MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Percebi que você está tentando acessar pelo celular, certo? 🐺\n\nAlguns aparelhos com tela menor ainda podem apresentar limitações, mesmo após nossas melhorias de responsividade.\n\nSe puder, acesse pelo computador ou tablet, a experiência será bem mais fluida!\n\nA boa notícia: nosso app já está quase pronto, em breve no iOS e Android.\n\n👉 Se esse não for o seu problema, me conta aqui o que está acontecendo pra eu te ajudar melhor!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 23:44:07",
+      "delete" : false,
+      "identifier" : "CP+j3MMGIABIAZABAA==",
+      "msg" : "Erro ao acessar o appp",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 23:46:49",
+      "delete" : false,
+      "identifier" : "CKGl3MMGIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 08:29:23",
+      "delete" : false,
+      "identifier" : "CJua3sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Luana! Tudo bem? me informe qual erro você está tendo? ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 12:12:54",
+      "delete" : false,
+      "identifier" : "CP6C38MGIABIAZABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 12:12:58",
+      "delete" : false,
+      "identifier" : "CIKD38MGIABIAZABAA==",
+      "msg" : "O app da erro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 12:13:11",
+      "delete" : false,
+      "identifier" : "CI+D38MGIABIAZABAA==",
+      "msg" : "Já voltou a funcionar porém ele da erro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 13:27:41",
+      "delete" : false,
+      "identifier" : "CIWm38MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você está utilizando por qual navegador? ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 13:28:05",
+      "delete" : false,
+      "identifier" : "CJ2m38MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "e qual erro está encontrando? poderia me enviar uma imagem, por gentileza? ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 13:49:18",
+      "delete" : false,
+      "mediaName" : "e7132f6c-4a56-428f-8011-82e6f86b06c8.opus",
+      "localPath" : "media\/923a8a70fe33a9ab6e2daa9567a61711b3e0d95a.opus",
+      "mediaSize" : "48 KB",
+      "identifier" : "CJaw38MGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 13:52:22",
+      "delete" : false,
+      "identifier" : "CM6x38MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "ah, certo! então qualquer coisa, estamos a disposição! ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 17:47:43",
+      "delete" : false,
+      "identifier" : "CPef4MMGIABIAZABAA==",
+      "msg" : "🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 12:54:20",
+      "delete" : false,
+      "identifier" : "CLTGs8QGIABIAZABAA==",
+      "msg" : "Boa tarde!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 12:54:24",
+      "delete" : false,
+      "identifier" : "CLjGs8QGIABIAZABAA==",
+      "msg" : "Espero que se encontre bem!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 12:55:27",
+      "delete" : false,
+      "identifier" : "CPfGs8QGIABIAZABAA==",
+      "msg" : "Me esclarece uma dúvida por gentileza…\nOs conteúdos do Instagram  do modo caverna pode ser repostados no feed do afiliado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 12:56:21",
+      "delete" : false,
+      "mediaName" : "0a058ae1-d002-4a2b-b2f9-9d6719585b5f.opus",
+      "localPath" : "media\/9b203d11e952b90b7e3dce56a705f183d38d03c9.opus",
+      "mediaSize" : "90 KB",
+      "identifier" : "CK3Hs8QGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:40"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/01 13:22:27",
+      "delete" : false,
+      "identifier" : "CMvTs8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "boa trade ,pode sim , tanto repostar como seria legal remodelar também, ai fica a seu critério",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 13:50:22",
+      "delete" : false,
+      "identifier" : "CNbgs8QGIAA6FDNBNDdGMjczRjU2QzNGNDQwQzVBQIq7q7SGM0gBeIuTwbWGM5ABAA==",
+      "msg" : "Remodelar oque seria?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/01 13:55:44",
+      "delete" : false,
+      "identifier" : "CJjjs8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom em resumo, \"remodelar\" não é apenas repostar, mas também criar algo único e personalizado com base no conteúdo original, para que se ajuste à sua audiência e estilo de comunicação.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 15:35:33",
+      "delete" : false,
+      "identifier" : "CP2RtMQGIABIAZABAA==",
+      "msg" : "Ah simmm",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 15:35:37",
+      "delete" : false,
+      "identifier" : "CIGStMQGIABIAZABAA==",
+      "msg" : "Pode deixar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/01 15:43:52",
+      "delete" : false,
+      "identifier" : "CPCVtMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "precisa de ajuda em mais alguma coisa ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 15:45:27",
+      "delete" : false,
+      "identifier" : "CM+WtMQGIABIAZABAA==",
+      "msg" : "Obrigada 🙏",
+      "type" : "text"
+    }
+  ]
+})

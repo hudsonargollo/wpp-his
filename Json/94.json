@@ -1,0 +1,543 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 96811-9583",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:30:36",
+      "delete" : false,
+      "identifier" : "CLSChcEGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:30:43",
+      "delete" : false,
+      "identifier" : "CLuChcEGIABIAZABAA==",
+      "msg" : "Tenho um problema e uma dúvida.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:30:45",
+      "delete" : false,
+      "identifier" : "CL2ChcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:30:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CL6ChcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:30:53",
+      "delete" : false,
+      "mediaName" : "3c7d763f-0329-4ad6-a39b-b29dcdb538f5.jpg",
+      "localPath" : "media\/357541ace785f306f0c63b3da86338b6977cb538.jpg",
+      "mediaSize" : "107 KB",
+      "identifier" : "CMWChcEGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/14d59ae908a31af2e57618db8e18a5b56cd42c5c"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:32:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CL+DhcEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:33:03",
+      "delete" : false,
+      "identifier" : "CMeDhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:33:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMyDhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:33:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "COGDhcEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:33:31",
+      "delete" : false,
+      "identifier" : "COODhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:33:52",
+      "delete" : false,
+      "identifier" : "CPiDhcEGIABIAZABAA==",
+      "msg" : "fraquelp@yahoo.com.br\nRaquel Pimentel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:33:55",
+      "delete" : false,
+      "identifier" : "CPuDhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:33:56",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPyDhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:34:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CJCEhcEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:34:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJGEhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:42:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Smartphones\/Telas pequenas.",
+      "delete" : false,
+      "identifier" : "CPuHhcEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:42:30",
+      "delete" : false,
+      "identifier" : "CP6HhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi, Cavernoso! 🐺\n\nOs usuários da plataforma estão com um problema frequente relacionado ao acesso via celular, ou dispositivos com telas pequenas, que acaba limitando bastante o uso.\n\nRecomendamos acessar pelo navegador do seu computador ou tablet!\n\nEm breve a nova versão do App será disponibilizada para IOS e Android!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:42:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CIyIhcEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:42:47",
+      "delete" : false,
+      "identifier" : "CI+IhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/11 21:42:58",
+      "delete" : false,
+      "identifier" : "CJqIhcEGIABIAZABAA==",
+      "msg" : "fraquelp@yahoo.com.br\nRaquel Pimentel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:43:00",
+      "delete" : false,
+      "identifier" : "CJyIhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/11 21:43:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJ2IhcEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 08:07:19",
+      "delete" : false,
+      "identifier" : "CO+sh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Raquel! 🐺\n\n \n já conseguiu garantir o seu plano? Tudo certinho com o seu uso na plataforma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:31:19",
+      "delete" : false,
+      "identifier" : "CJ\/Uh8EGIABIAZABAA==",
+      "msg" : "Não \nTudo pessimo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:31:27",
+      "delete" : false,
+      "identifier" : "CKfUh8EGIABIAZABAA==",
+      "msg" : "A plataforma trava e eu n consigo fazer nada nela ..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:31:48",
+      "delete" : false,
+      "mediaName" : "f6451a11-d5be-444e-ba05-02065a139b56.jpg",
+      "localPath" : "media\/29128b35f57e52f9645355c791902e3dd8f62631.jpg",
+      "mediaSize" : "107 KB",
+      "identifier" : "CLzUh8EGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/7546fae2558715c07fa3a34febf96973fa5742ea"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:31:48",
+      "delete" : false,
+      "mediaName" : "2e5ffe31-fd59-4de1-bfb2-2454951dccf6.jpg",
+      "localPath" : "media\/a4224862eac9474ff942965421088065a418f851.jpg",
+      "mediaSize" : "69 KB",
+      "identifier" : "CLzUh8EGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/bbc59bd26023509e2ad4b7c5050aef2e3d53c6b0"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:36:37",
+      "delete" : false,
+      "identifier" : "CN3Wh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Então, Raquel, atualmente, o acesso via celular ainda é bem limitado, e por isso recomendamos o uso de um computador ou tablet para uma melhor experiência.\n\nA boa notícia é que o novo app para iOS e Android já está em fase final e deve ser lançado em breve!\n\nPosso te ajudar com mais alguma coisa por agora? 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:45:21",
+      "delete" : false,
+      "identifier" : "COnah8EGIABIAZABAA==",
+      "msg" : "Mensalidade",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:45:23",
+      "delete" : false,
+      "identifier" : "COvah8EGIABIAZABAA==",
+      "msg" : "Pq n consigo pagar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:46:35",
+      "delete" : false,
+      "identifier" : "CLPbh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você está com problemas em acessar o lnik?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:46:41",
+      "delete" : false,
+      "identifier" : "CLnbh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Link*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:46:48",
+      "delete" : false,
+      "identifier" : "CMDbh8EGIABIAZABAA==",
+      "msg" : "Sim n da pra pagar nem no app nem no site.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:47:05",
+      "delete" : false,
+      "identifier" : "CNHbh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiria acessar pelo computador?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:47:20",
+      "delete" : false,
+      "identifier" : "CODbh8EGIABIAZABAA==",
+      "msg" : "Sim. Consigo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:47:32",
+      "delete" : false,
+      "identifier" : "COzbh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Como disse, estamos com instabilidade em dispositivos com telas pequenas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:47:35",
+      "delete" : false,
+      "identifier" : "CO\/bh8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Como o seu smartphone",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:47:58",
+      "delete" : false,
+      "identifier" : "CIbch8EGIABIAZABAA==",
+      "msg" : "Me manda o link então q aí eu tento fazer pelo site",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 09:48:06",
+      "delete" : false,
+      "identifier" : "CI7ch8EGIABIAZABAA==",
+      "msg" : "Ops pelo note",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:48:43",
+      "delete" : false,
+      "identifier" : "CLPch8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/desafio.modocaverna.com\/ative-ig\/?utm_source=pv-bio-ig\n\nRaquel, acesse por esse link!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 09:49:32",
+      "delete" : false,
+      "identifier" : "COTch8EGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer coisa, tô aqui pra te ajudar!🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 12:01:15",
+      "delete" : false,
+      "mediaName" : "e58fcf0b-59f7-43eb-ad9f-cfdfc55e6318.mp4",
+      "localPath" : "media\/831b28d3474da085d29f1dca927f218524bc6976.mp4",
+      "mediaSize" : "2,1 MB",
+      "identifier" : "CMOaiMEGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/343297832a23afba9fc474e1ee7635c6be96e2ee"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/12 12:01:20",
+      "delete" : false,
+      "identifier" : "CMiaiMEGIABIAZABAA==",
+      "msg" : "Nem no notebook vai amigo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 14:23:12",
+      "mediaSize" : "368 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIjdiMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/8f2dbc54e874bc5daad71a32c57cb7dd7747f44b"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 14:23:15",
+      "delete" : false,
+      "identifier" : "CIvdiMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/desafio.modocaverna.com\/ative-ig\/?utm_source=pv-bio-ig#oferta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 14:23:36",
+      "delete" : false,
+      "identifier" : "CKDdiMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Acesse por esse link, role um pouco abaixo e clique em \"comprar agora\"",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/12 14:25:00",
+      "delete" : false,
+      "identifier" : "CPTdiMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Se mesmo assim não estiver conseguindo acessar, me avisa por aqui qual erro aparece ou me manda um print que eu te ajudo na hora. 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 21:13:42",
+      "delete" : false,
+      "identifier" : "CL7HpcQGIABIAZABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 21:13:47",
+      "delete" : false,
+      "mediaName" : "972816a1-e20b-42b5-ab7f-31a7b696e5ee.jpg",
+      "localPath" : "media\/e15d27087e5a99fdec2f133bda1b4e1052a46171.jpg",
+      "mediaSize" : "102 KB",
+      "identifier" : "CMPHpcQGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/daa6945549504317f977c6753b5fc515b1723cd7"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 21:13:53",
+      "delete" : false,
+      "identifier" : "CMnHpcQGIABIAZABAA==",
+      "msg" : "Fala q meu whats n existe",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 21:13:57",
+      "delete" : false,
+      "identifier" : "CM3HpcQGIABIAZABAA==",
+      "msg" : "Mas só tenho esse",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 21:15:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CL\/IpcQGIAA=",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/29 21:17:55",
+      "delete" : false,
+      "mediaName" : "53ae4e9e-5768-4619-b3b1-cd68324c2ae2.jpg",
+      "localPath" : "media\/0451d994194193f4d18226b491a15f373daf4e29.jpg",
+      "mediaSize" : "76 KB",
+      "identifier" : "CLvJpcQGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4197896332a64e7784ffc16eca281c2382bf9061"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 08:47:08",
+      "delete" : false,
+      "identifier" : "CMSMqMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você tá acessando pelo navegador ou aplicativo? ]",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/30 08:47:12",
+      "delete" : false,
+      "identifier" : "CMiMqMQGIABIAZABAA==",
+      "msg" : "📴 Olá! No momento não estamos online.\nMas não se preocupe! Assim que retornarmos, sua mensagem será respondida com toda atenção e carinho pela nossa equipe🧡\n\n⏰ Nosso horário de atendimento é:\nSegunda a Sexta – das 05:30 às 22:00\nSábados - das 07:00 às 22:00\n\nAgradecemos o seu contato e já já voltamos com você! 🧡",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/30 11:18:36",
+      "delete" : false,
+      "identifier" : "CMTTqMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode tentar novamente, por favor?",
+      "type" : "text"
+    }
+  ]
+})

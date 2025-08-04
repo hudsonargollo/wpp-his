@@ -1,0 +1,89 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 83 99618-8894",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 17:17:34",
+      "delete" : false,
+      "identifier" : "CObX6sMGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 17:17:39",
+      "delete" : false,
+      "identifier" : "COvX6sMGIABIAZABAA==",
+      "msg" : "Preciso cancelar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 17:17:42",
+      "delete" : false,
+      "identifier" : "CO7X6sMGIABIAZABAA==",
+      "msg" : "Mandei por email",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 17:28:28",
+      "delete" : false,
+      "identifier" : "CPTc6sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 17:28:34",
+      "delete" : false,
+      "identifier" : "CPrc6sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O que te levou a tomar essa decisão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 17:28:51",
+      "delete" : false,
+      "identifier" : "CIvd6sMGIABIAZABAA==",
+      "msg" : "Não  me serviu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 17:29:01",
+      "delete" : false,
+      "identifier" : "CJXd6sMGIABIAZABAA==",
+      "msg" : "Inclusive já tinha pedido por email",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 17:29:13",
+      "delete" : false,
+      "identifier" : "CKHd6sMGIABIAZABAA==",
+      "msg" : "Cancele por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 17:30:19",
+      "delete" : false,
+      "identifier" : "COPd6sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Nós fizemos modificações no site, não gostaria de acessar novamente, antes de tomar essa decisão?",
+      "type" : "text"
+    }
+  ]
+})

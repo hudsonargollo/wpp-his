@@ -1,0 +1,487 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 98524-9685",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 16:42:40",
+      "delete" : false,
+      "identifier" : "CLi71cMGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 16:42:50",
+      "delete" : false,
+      "identifier" : "CMK71cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 16:42:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMO71cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 16:43:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNG71cMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 16:43:12",
+      "delete" : false,
+      "identifier" : "CNi71cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 16:43:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN671cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 16:43:41",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "CPW71cMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 16:43:44",
+      "delete" : false,
+      "identifier" : "CPi71cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 16:44:25",
+      "delete" : false,
+      "identifier" : "CKG81cMGIABIAZABAA==",
+      "msg" : "Angela Cristina da Silva Palma \/ angelapalma2010@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 16:44:28",
+      "delete" : false,
+      "identifier" : "CKS81cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 16:44:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKW81cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 16:44:41",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CLG81cMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 16:44:43",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLO81cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 16:44:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Smartphones\/Telas pequenas.",
+      "delete" : false,
+      "identifier" : "CL681cMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 16:44:56",
+      "delete" : false,
+      "identifier" : "CMC81cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Percebi que você está tentando acessar pelo celular, certo? 🐺\n\nAlguns aparelhos com tela menor ainda podem apresentar limitações, mesmo após nossas melhorias de responsividade.\n\nSe puder, acesse pelo computador ou tablet, a experiência será bem mais fluida!\n\nA boa notícia: nosso app já está quase pronto, em breve no iOS e Android.\n\n👉 Se esse não for o seu problema, me conta aqui o que está acontecendo pra eu te ajudar melhor!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 16:45:49",
+      "delete" : false,
+      "identifier" : "CPW81cMGIABIAZABAA==",
+      "msg" : "As aulas apareceram p mim na primeira vez , e depois da primeira aula sumiu tudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 16:55:24",
+      "delete" : false,
+      "identifier" : "CLTB1cMGIABIAZABAA==",
+      "msg" : "Não tenho acesso a nada em menos de 20 minutos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:01:08",
+      "delete" : false,
+      "identifier" : "CIzE1cMGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 17:03:33",
+      "delete" : false,
+      "identifier" : "CJ3F1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Angela! Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 17:03:44",
+      "delete" : false,
+      "identifier" : "CKjF1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você poderia me enviar uma imagem mostrando o ocorrido?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:03:49",
+      "delete" : false,
+      "identifier" : "CK3F1cMGIABIAZABAA==",
+      "msg" : "Não está tudo bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:03:53",
+      "delete" : false,
+      "identifier" : "CLHF1cMGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:05:14",
+      "delete" : false,
+      "mediaName" : "4182923e-a552-4c13-aacb-c1a1bee0f274.jpg",
+      "localPath" : "media\/3ea1a629d5edbe8f22a8e7ec0f6d4a7ed3af16d9.jpg",
+      "mediaSize" : "48 KB",
+      "identifier" : "CILG1cMGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/7e5bc8ae1e0be467d26ccbdbc5247317ac78f3f2"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:05:37",
+      "delete" : false,
+      "identifier" : "CJnG1cMGIABIAZABAA==",
+      "msg" : "Já entra direto nesta página sem que eu assista as aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:05:48",
+      "delete" : false,
+      "identifier" : "CKTG1cMGIABIAZABAA==",
+      "msg" : "Eu preciso ter acesso as aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 17:20:30",
+      "delete" : false,
+      "identifier" : "CJbN1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "é só você colocar na aba de cursos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 17:20:33",
+      "mediaSize" : "11 KB",
+      "mediaName" : "09a68eb6-3bec-4a5e-b8a7-afa4961b5bb9.jpg",
+      "localPath" : "media\/7ac731ff2da3f9c6d31a6d153ac67733a9ab8e2e.jpg",
+      "delete" : false,
+      "identifier" : "CJnN1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:20:58",
+      "delete" : false,
+      "identifier" : "CLLN1cMGIABIAZABAA==",
+      "msg" : "Tá vou tentar aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 17:21:00",
+      "delete" : false,
+      "identifier" : "CLTN1cMGIABIAZABAA==",
+      "msg" : "Obrigada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/14 17:21:27",
+      "delete" : false,
+      "identifier" : "CM\/N1cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, me fala se conseguiu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 14:40:43",
+      "delete" : false,
+      "identifier" : "CKOl2sMGIABIAZABAA==",
+      "msg" : "Consegui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 14:40:47",
+      "delete" : false,
+      "identifier" : "CKel2sMGIABIAZABAA==",
+      "msg" : "Obrigada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/19 19:00:35",
+      "delete" : false,
+      "identifier" : "CIur8MMGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/19 19:01:21",
+      "delete" : false,
+      "identifier" : "CLmr8MMGIABIAZABAA==",
+      "msg" : "Aquele pix de 149,00 do complemento do desafio do modo caverna , qd fui pagar expirou , como faço agora , você não poderia gerar outro pix p mim?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/19 19:01:21",
+      "delete" : false,
+      "mediaName" : "d2a2aaf4-6b3c-49cf-bcd3-cc949f518956.jpg",
+      "localPath" : "media\/b67f38124961988a2503ce60066f834c5ab0faae.jpg",
+      "mediaSize" : "78 KB",
+      "identifier" : "CLmr8MMGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/e0853506f03c67479c843225bb5aba5ac7c1fdc3"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 08:47:58",
+      "delete" : false,
+      "identifier" : "CPbR+MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? Vou te enviar um novo link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 08:48:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CILS+MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 08:48:25",
+      "delete" : false,
+      "identifier" : "CJHS+MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você vai adicionar um cupom de desconto: UPOFF",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/21 11:11:56",
+      "delete" : false,
+      "identifier" : "CLSV+cMGIABIAZABAA==",
+      "msg" : "Obrigada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 11:16:03",
+      "delete" : false,
+      "identifier" : "CKuX+cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "disponha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 11:16:17",
+      "delete" : false,
+      "identifier" : "CLmX+cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "deu tudo certo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/21 11:18:57",
+      "delete" : false,
+      "identifier" : "CNmY+cMGIABIAZABAA==",
+      "msg" : "Deu comecei o planejamento ontem , mas ainda estou tentando me achar como faço Qd começar e se tenho que fazer todas as aulas primeiro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/21 11:19:17",
+      "delete" : false,
+      "identifier" : "CO2Y+cMGIABIAZABAA==",
+      "msg" : "Espero começar na quarta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 11:28:11",
+      "delete" : false,
+      "identifier" : "CIOd+cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não precisa assistir todas as aulas pra começar, o ideal é aprender e aplicar ao mesmo tempo. O Desafio foi feito pra te colocar em movimento, não pra te prender em teoria. \n\n👉 Já fez o planejamento? Perfeito. Agora escolhe a data de início (pode ser quarta mesmo) e ativa o modo execução.\nAs aulas vão te guiando ao longo da jornada, uma por uma, conforme você avança.\nO importante é agir com intencionalidade, mesmo sem se sentir 100% pronto.\n\nA clareza vem da ação.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/21 13:01:54",
+      "delete" : false,
+      "identifier" : "CPrI+cMGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/21 13:08:18",
+      "delete" : false,
+      "identifier" : "CPrL+cMGIABIAZABAA==",
+      "msg" : "Eu já paguei o pix , agora onde estão estas ferramentas e me dão quais direitos s mais no curso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 13:48:49",
+      "delete" : false,
+      "identifier" : "CPne+cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "para cada aba você encontrará um tipo de ferramenta, e-books, gestão financeira, rituais, calendário...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 13:50:04",
+      "delete" : false,
+      "mediaName" : "9484b87a-a4f2-4a3d-be77-f291eaf578e0.jpg",
+      "localPath" : "media\/cdc7837696749106c82abcaaa26d626be436e5c2.jpg",
+      "mediaSize" : "12 KB",
+      "identifier" : "CMTf+cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/c4711fa75b2292f2a26ade93f65a6fb6a3550d33"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/21 14:22:41",
+      "delete" : false,
+      "identifier" : "COnu+cMGIABIAZABAA==",
+      "msg" : "Vou ver aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/21 14:23:06",
+      "delete" : false,
+      "identifier" : "CILv+cMGIABIAZABAA==",
+      "msg" : "Estou revendo as aulas de novo , p assimilar melhor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 14:31:41",
+      "delete" : false,
+      "identifier" : "CIXz+cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fez bem! 👏🏻👏🏻👏🏻",
+      "type" : "text"
+    }
+  ]
+})

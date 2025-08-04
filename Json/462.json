@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 96413-2226",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/13 08:26:04",
+      "delete" : false,
+      "identifier" : "CNSVsMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Daiane, Beleza? 🐺\n\nO que exatamente fez você querer o reembolso do Modo Caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 09:38:22",
+      "delete" : false,
+      "identifier" : "CMa3sMIGIABIAZABAA==",
+      "msg" : "Bom dia! \nNão gostei da didatica do curso, a plataforma parece ser boa. Ele fala da experiência dele, então a fonte acaba sendo ele. \n\nQuanta justifica pra um reembolso, já coloquei na solicitação.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 13:40:45",
+      "delete" : false,
+      "identifier" : "CJWpscIGIABIAZABAA==",
+      "msg" : "Só faz meu estorno, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 13:41:41",
+      "delete" : false,
+      "identifier" : "CM2pscIGIABIAZABAA==",
+      "msg" : "Vou abrir uma reclamação no reclame aqui e nos lugares devidos caso isso não ocorra. Já sinalizei que não quero prosseguir com a compra",
+      "type" : "text"
+    }
+  ]
+})

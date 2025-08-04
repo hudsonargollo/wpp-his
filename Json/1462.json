@@ -1,0 +1,378 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 44 99708-3956",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:55:34",
+      "delete" : false,
+      "identifier" : "CL671rsGIABIAZABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 16:55:48",
+      "delete" : false,
+      "identifier" : "CMy71rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 16:55:54",
+      "delete" : false,
+      "identifier" : "CNK71rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:56:11",
+      "delete" : false,
+      "identifier" : "COO71rsGIABIAZABAA==",
+      "msg" : "Leonardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 16:56:17",
+      "delete" : false,
+      "identifier" : "COm71rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Leonardo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 16:56:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO+71rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:56:27",
+      "delete" : false,
+      "mediaName" : "5842b26a-97ad-4628-8465-040c5dd086e1.jpg",
+      "localPath" : "media\/ee0220a9e218ddd9f29a4e6d6d384bdd15d80351.jpg",
+      "mediaSize" : "98 KB",
+      "identifier" : "CPO71rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ee8798b4530ccd9173d1039095cf822926154259"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:56:31",
+      "delete" : false,
+      "mediaName" : "c1cf2312-6991-4f72-8d2e-b5dd890d89ad.jpg",
+      "localPath" : "media\/1d38d6a707b6f039e53780c05ebcdaaaa7a9c17f.jpg",
+      "mediaSize" : "75 KB",
+      "identifier" : "CPe71rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/e1af9f41342e8f72197717d208ce14d9b24bd149"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:56:42",
+      "delete" : false,
+      "identifier" : "CIK81rsGIABIAZABAA==",
+      "msg" : "Preciso que liberem meus cursos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:56:45",
+      "delete" : false,
+      "identifier" : "CIW81rsGIABIAZABAA==",
+      "msg" : "Conforme o anúncio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:56:54",
+      "delete" : false,
+      "identifier" : "CI681rsGIABIAZABAA==",
+      "msg" : "Comprei hoje o material",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:56:58",
+      "delete" : false,
+      "identifier" : "CJK81rsGIABIAZABAA==",
+      "msg" : "E somente 3 vídeos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:57:01",
+      "delete" : false,
+      "identifier" : "CJW81rsGIABIAZABAA==",
+      "msg" : "Estão liberados",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:57:15",
+      "delete" : false,
+      "identifier" : "CKO81rsGIABIAZABAA==",
+      "msg" : "Isso acho que se enquadra como propaganda enganosa né ? Cada uma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:58:21",
+      "delete" : false,
+      "mediaName" : "b0ab93d4-7ac2-4765-ad50-f24d7a01df9e.jpg",
+      "localPath" : "media\/c2b003946e66ea643d83e2e1a818b427fedeffa8.jpg",
+      "mediaSize" : "89 KB",
+      "identifier" : "COW81rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/87f822db57af5e549b7559e71f103d251335ba81"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:58:21",
+      "delete" : false,
+      "mediaName" : "7ae8da59-5447-4bac-942b-0c3d29445c87.jpg",
+      "localPath" : "media\/0c5d8ec39cba9c3163ce54ddda2b7fa44ef584d8.jpg",
+      "mediaSize" : "75 KB",
+      "identifier" : "COW81rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/7da2c5836f9e881d68ab9f903b5479dd2c0ab199"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:58:36",
+      "delete" : false,
+      "identifier" : "CPS81rsGIABIAZABAA==",
+      "msg" : "Temos provas de que a propaganda oferecida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:58:47",
+      "delete" : false,
+      "identifier" : "CP+81rsGIABIAZABAA==",
+      "msg" : "É diferente do produto entregue",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:58:59",
+      "delete" : false,
+      "identifier" : "CIu91rsGIABIAZABAA==",
+      "msg" : "Quero meus cursos liberados nem que seja os 7 dias grátis",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:59:03",
+      "delete" : false,
+      "identifier" : "CI+91rsGIABIAZABAA==",
+      "msg" : "Ou meu dinheiro de volta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:59:09",
+      "delete" : false,
+      "identifier" : "CJW91rsGIABIAZABAA==",
+      "msg" : "Ou vou no procon!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:59:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJ291rsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 16:59:24",
+      "delete" : false,
+      "identifier" : "CKS91rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 16:59:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKm91rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 16:59:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CLG91rsGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/01 16:59:39",
+      "delete" : false,
+      "identifier" : "CLO91rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 17:00:08",
+      "delete" : false,
+      "identifier" : "CNC91rsGIABIAZABAA==",
+      "msg" : "Propaganda enganosa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 17:00:30",
+      "mediaSize" : "503 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COa91rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/40a09fa7dac5d06980115ec725bec7d39950312a"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 17:00:43",
+      "delete" : false,
+      "mediaName" : "67a5614e-92d0-4cb8-869d-bf626acd39cf.jpg",
+      "localPath" : "media\/378ba710b81d50e42e6d5e207572a80f9f975c7a.jpg",
+      "mediaSize" : "101 KB",
+      "identifier" : "CPO91rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/f3803864fca4fc078977d7a8aba530d36857b849"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 17:01:06",
+      "delete" : false,
+      "mediaName" : "f13a9e94-ffe0-4321-a8d3-6dbe62d9971e.jpg",
+      "localPath" : "media\/e858f925b76aa3a19729c90557cb4f7ee9bd0171.jpg",
+      "mediaSize" : "98 KB",
+      "identifier" : "CIq+1rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/0cc56557bfbcab3033a49914d709a617901f34e3"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 17:01:24",
+      "delete" : false,
+      "mediaName" : "4401d115-fc75-4eff-a543-51a37baba95f.jpg",
+      "localPath" : "media\/49c3b48075efe7b4a4f925603f1484a863d60d08.jpg",
+      "mediaSize" : "75 KB",
+      "identifier" : "CJy+1rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/69e5da9110d66d1a60154d20de35e100fa8a5772"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 17:01:33",
+      "delete" : false,
+      "identifier" : "CKW+1rsGIABIAZABAA==",
+      "msg" : "Pago e não tenho acesso ao meu conteúdo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/01 17:01:35",
+      "delete" : false,
+      "identifier" : "CKe+1rsGIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 09:07:27",
+      "delete" : false,
+      "identifier" : "CIeD2rsGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 09:54:46",
+      "delete" : false,
+      "identifier" : "CJ6Z2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 09:55:35",
+      "delete" : false,
+      "identifier" : "CM+Z2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode acessar as aulas durante o período de 7 dias no Modo Caverna, na Cademí não fica disponível",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 09:56:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CPWZ2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 09:56:28",
+      "delete" : false,
+      "identifier" : "CISa2rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Através desse link☺️",
+      "type" : "text"
+    }
+  ]
+})

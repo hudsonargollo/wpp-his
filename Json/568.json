@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 79 99601-0237",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:25:52",
+      "delete" : false,
+      "identifier" : "CMjC1sEGIABIAZABAA==",
+      "msg" : "Nao informarei, apenas prossiga com o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:28:42",
+      "delete" : false,
+      "identifier" : "CPLD1sEGIABIAZABAA==",
+      "msg" : "Nao to desistindo de mim msm! Voltarei em breve, pronto! Mas agora, eu quero o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:37:23",
+      "delete" : false,
+      "identifier" : "CPvH1sEGIABIAZABAA==",
+      "msg" : "É verdade?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 13:03:22",
+      "delete" : false,
+      "identifier" : "CNLE18EGIABIAZABAA==",
+      "msg" : "Eu topo",
+      "type" : "text"
+    }
+  ]
+})

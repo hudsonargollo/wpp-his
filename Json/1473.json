@@ -1,0 +1,55 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 22 99709-8671",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/31 10:12:01",
+      "delete" : false,
+      "identifier" : "CKnbz7sGIABIAZABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/31 10:12:05",
+      "delete" : false,
+      "identifier" : "CK3bz7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/31 10:12:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLTbz7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/31 10:12:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna\/Central Caverna",
+      "delete" : false,
+      "identifier" : "CMPbz7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/31 10:12:29",
+      "delete" : false,
+      "identifier" : "CMXbz7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sem problemas! Todas as aulas do Modo Caverna estão agora dentro da Área de Conteúdos do sistema, basta acessar o sistema para assistir.",
+      "type" : "text"
+    }
+  ]
+})

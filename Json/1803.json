@@ -1,0 +1,74 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 37 99871-4639",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/16 09:38:38",
+      "delete" : false,
+      "identifier" : "CNak4rkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/16 09:43:29",
+      "delete" : false,
+      "identifier" : "CPmm4rkGIABIAZABAA==",
+      "msg" : "Estou precisando do dinheiro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/16 09:53:23",
+      "delete" : false,
+      "mediaName" : "072fd733-54c1-4921-b37a-c17ce47219be.opus",
+      "localPath" : "media\/1566f0738fb39bc610520da30d1d2078daa57bdb.opus",
+      "mediaSize" : "25 KB",
+      "identifier" : "CMur4rkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/16 10:08:45",
+      "delete" : false,
+      "identifier" : "COWy4rkGIABIAZABAA==",
+      "msg" : "É motivo externo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/16 10:24:17",
+      "delete" : false,
+      "identifier" : "CIm64rkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo perfeitamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/16 10:24:31",
+      "delete" : false,
+      "identifier" : "CJe64rkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou dar entrada na sua solicitação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/16 10:26:00",
+      "delete" : false,
+      "identifier" : "CPC64rkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar, por gentileza?",
+      "type" : "text"
+    }
+  ]
+})

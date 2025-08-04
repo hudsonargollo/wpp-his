@@ -1,0 +1,75 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99118-4148",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:13:52",
+      "delete" : false,
+      "identifier" : "CPjTwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "flavia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:14:10",
+      "mediaSize" : "40 KB",
+      "mediaName" : "f7a9832e-6319-41c5-a7e9-320ccf934cca.thumb",
+      "localPath" : "media\/6b16bc0ba52a11fa0343f1b688cf05dc29461463.thumb",
+      "delete" : false,
+      "identifier" : "CIrUwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/04 16:14:13",
+      "delete" : false,
+      "identifier" : "CI3UwroGIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:14:20",
+      "mediaSize" : "40 KB",
+      "mediaName" : "1d3086b2-5efa-41c8-bf1a-a7493e98163f.thumb",
+      "localPath" : "media\/99edd798c5b5801a0f8d2e56869b5caf7e8b76fe.thumb",
+      "delete" : false,
+      "identifier" : "CJTUwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:14:22",
+      "delete" : false,
+      "identifier" : "CJbUwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:14:28",
+      "delete" : false,
+      "identifier" : "CJzUwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/04 16:29:27",
+      "delete" : false,
+      "identifier" : "CJ\/bwroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    }
+  ]
+})

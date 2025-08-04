@@ -1,0 +1,80 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 24 99862-6200",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 20:43:56",
+      "delete" : false,
+      "identifier" : "CMSc2cEGIABIAJABAA==",
+      "msg" : "boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 20:44:16",
+      "delete" : false,
+      "identifier" : "CNic2cEGIABIAJABAA==",
+      "msg" : "estou com dificuldade para acessar o aplicativo do modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 11:04:15",
+      "delete" : false,
+      "identifier" : "COev3MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Cavernoso, blz?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 11:04:30",
+      "delete" : false,
+      "identifier" : "CPav3MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda o seu e-mail de cadastro por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 11:05:21",
+      "delete" : false,
+      "identifier" : "CKmw3MEGIABIAZABAA==",
+      "msg" : "Fala cmg",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 11:05:22",
+      "delete" : false,
+      "identifier" : "CKqw3MEGIABIAZABAA==",
+      "msg" : "Blz",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 11:05:30",
+      "delete" : false,
+      "identifier" : "CLKw3MEGIABIAZABAA==",
+      "msg" : "Felipefbarbosa03@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 11:08:42",
+      "delete" : false,
+      "identifier" : "CPKx3MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/app.modocaverna.com\/forgot-password\n\nacesse esse link e recupere o seu acesso!\n\nQualquer outro problema, me avisa. 🐺",
+      "type" : "text"
+    }
+  ]
+})

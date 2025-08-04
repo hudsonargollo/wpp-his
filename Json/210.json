@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98131-0791",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/12 16:01:25",
+      "delete" : false,
+      "identifier" : "CI3iysMGIABIAZABAA==",
+      "msg" : "Opq",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/12 16:01:35",
+      "delete" : false,
+      "identifier" : "CJfiysMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/12 16:01:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJjiysMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/12 16:01:41",
+      "mediaSize" : "3 KB",
+      "mediaName" : "ec5f7cb3-82f1-4e7f-8976-0be3404e55c9.thumb",
+      "localPath" : "media\/248f7b6c4b23370941e8120b6ca1bb4f048a2f12.thumb",
+      "delete" : false,
+      "identifier" : "CJ3iysMGIABIAZABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/17 11:46:13",
+      "delete" : false,
+      "identifier" : "CL6Z5MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Opa",
+      "type" : "text"
+    }
+  ]
+})

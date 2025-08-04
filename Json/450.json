@@ -1,0 +1,84 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 33 99838-5653",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 20:29:37",
+      "delete" : false,
+      "identifier" : "COmLuMIGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 20:29:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CP+LuMIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 20:30:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CJaMuMIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 20:31:10",
+      "delete" : false,
+      "identifier" : "CMaMuMIGIABIAZABAA==",
+      "msg" : "angelo 8963",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 20:31:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não recebi o acesso",
+      "delete" : false,
+      "identifier" : "CNKMuMIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 20:50:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "❌ Não! Ainda preciso de ajuda.",
+      "delete" : false,
+      "identifier" : "CNKVuMIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 20:51:13",
+      "delete" : false,
+      "identifier" : "CPmVuMIGIABIAZABAA==",
+      "msg" : "eu fiz o pagamento ja, do que no app fala que to no experimental",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 17:27:37",
+      "delete" : false,
+      "identifier" : "CMHZvMIGIABIAZABAA==",
+      "msg" : "ok",
+      "type" : "text"
+    }
+  ]
+})

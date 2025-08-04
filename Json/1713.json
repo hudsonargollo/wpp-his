@@ -1,0 +1,29 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 15 98149-2962",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:38:09",
+      "delete" : false,
+      "identifier" : "CPmZpLoGIABIAZABAA==",
+      "msg" : "Quero ganhar indicando a Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:00:40",
+      "delete" : false,
+      "mediaName" : "b8f0d153-4f2f-4692-bf3a-e701db989c5a.opus",
+      "localPath" : "media\/72ecb47c2be9ea3a01d25477810578380b7a37f4.opus",
+      "mediaSize" : "17 KB",
+      "identifier" : "CPDZproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    }
+  ]
+})

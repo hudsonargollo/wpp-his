@@ -1,0 +1,129 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 18 99807-0321",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/04 18:21:02",
+      "delete" : false,
+      "identifier" : "CMbM5rsGIABIAJABAA==",
+      "msg" : "oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/04 18:21:12",
+      "delete" : false,
+      "identifier" : "CNDM5rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/04 18:21:18",
+      "delete" : false,
+      "identifier" : "CNbM5rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/04 18:21:38",
+      "delete" : false,
+      "identifier" : "COrM5rsGIABIAJABAA==",
+      "msg" : "Paulo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/04 18:21:44",
+      "delete" : false,
+      "identifier" : "CPDM5rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Paulo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/04 18:21:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPbM5rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/04 18:22:10",
+      "delete" : false,
+      "mediaName" : "a6d95b8b-81a9-4fae-bd40-29651dd16b7e.jpg",
+      "localPath" : "media\/e21744a63f67fce2cad2e6b3476973b2d6174a59.jpg",
+      "mediaSize" : "120 KB",
+      "identifier" : "CIrN5rsGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/768f8571f18cf7a367bf4585ee5013255a839212"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 11:04:26",
+      "delete" : false,
+      "identifier" : "CPLF77sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 11:04:39",
+      "delete" : false,
+      "identifier" : "CP\/F77sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vai sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 11:04:51",
+      "delete" : false,
+      "identifier" : "CIvG77sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você tem plano ativo do Modo Caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/06 11:30:53",
+      "delete" : false,
+      "identifier" : "CKXS77sGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/06 11:30:57",
+      "delete" : false,
+      "identifier" : "CKnS77sGIABIAZABAA==",
+      "msg" : "De um ano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 11:36:07",
+      "delete" : false,
+      "identifier" : "CN\/U77sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O Clube da luta foi migrado para o Modo Caverna",
+      "type" : "text"
+    }
+  ]
+})

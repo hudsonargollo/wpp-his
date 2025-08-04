@@ -1,0 +1,143 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 15 99681-6588",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 13:38:25",
+      "delete" : false,
+      "identifier" : "CImT77gGIABIAJABAA==",
+      "msg" : "Olá, boa tarde!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 13:38:34",
+      "delete" : false,
+      "identifier" : "CJKT77gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!*\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 13:38:40",
+      "delete" : false,
+      "identifier" : "CJiT77gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 13:41:00",
+      "delete" : false,
+      "mediaName" : "08e030fa-1e50-4781-b4d4-583474c37bcf.jpg",
+      "localPath" : "media\/94438ed0da3cf4eaef32c68c2835ac889fe183cb.jpg",
+      "mediaSize" : "67 KB",
+      "identifier" : "CKSU77gGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/64b9480073bb8a0cad2a4960d4c208b121bcccea"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 13:41:09",
+      "delete" : false,
+      "identifier" : "CK2U77gGIABIAZABAA==",
+      "msg" : "Bryan",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 13:41:16",
+      "delete" : false,
+      "identifier" : "CLSU77gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Bryan*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 13:41:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLqU77gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 13:42:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CO2U77gGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 13:42:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CO6U77gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 13:42:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Gostaria de saber sobre o envelope dos escolhidos",
+      "delete" : false,
+      "identifier" : "CPaU77gGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 13:42:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPeU77gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/25 13:42:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Enviei meu comprovante de pagamento ✅",
+      "delete" : false,
+      "identifier" : "CP6U77gGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/25 13:42:32",
+      "delete" : false,
+      "identifier" : "CICV77gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Muito obrigada pelo pagamento! Assim que seu envelope for postado te mandaremos o código de rastreio para que você possa acompanhar a entrega 😊*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/07 11:36:46",
+      "delete" : false,
+      "identifier" : "CIahs7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: AV029618951BR",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,84 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 12 99213-8625",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 17:21:48",
+      "delete" : false,
+      "mediaName" : "1feb5fec-5369-44a8-a093-246e0b88efde.jpg",
+      "localPath" : "media\/af1daef12b0e8ee0ac266c06a40a51ab273db7e5.jpg",
+      "mediaSize" : "81 KB",
+      "identifier" : "COS92MEGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/03d7fcd3cb23475f32524bc6b2ffc671b2e3dddd"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 17:21:48",
+      "delete" : false,
+      "identifier" : "COS92MEGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 17:21:57",
+      "delete" : false,
+      "identifier" : "CO292MEGIABIAZABAA==",
+      "msg" : "O reembolso foi feito em qual banco?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 17:22:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJC+2MEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 17:23:12",
+      "delete" : false,
+      "identifier" : "CLi+2MEGIABIAZABAA==",
+      "msg" : "O meu reembolso ainda não caiu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 11:05:43",
+      "delete" : false,
+      "identifier" : "CL+w3MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso, tudo certo?🐺\n\nPara agilizar o seu antendimento, me informe o seu email de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 11:07:21",
+      "delete" : false,
+      "identifier" : "CKGx3MEGIABIAZABAA==",
+      "msg" : "neoparassessoria@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 11:09:33",
+      "delete" : false,
+      "identifier" : "CKWy3MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verificamos na nossa plataforma e o seu reembolso já foi solicitado.\n\nVocê deve receber o estorno em até 7 dias úteis, direto na forma de pagamento usada.\n\nObrigado. 🐺",
+      "type" : "text"
+    }
+  ]
+})

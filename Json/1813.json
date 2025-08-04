@@ -1,0 +1,381 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 93 99175-9691",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/10 22:30:42",
+      "delete" : false,
+      "identifier" : "CMq8xbkGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/10 22:30:55",
+      "delete" : false,
+      "identifier" : "CNe8xbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/10 22:31:01",
+      "delete" : false,
+      "identifier" : "CN28xbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/10 22:31:03",
+      "delete" : false,
+      "identifier" : "CN+8xbkGIABIAZABAA==",
+      "msg" : "Aguardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/10 22:31:10",
+      "delete" : false,
+      "identifier" : "COa8xbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Aguardo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/10 22:31:11",
+      "delete" : false,
+      "identifier" : "COe8xbkGIABIAZABAA==",
+      "msg" : "Eliabe Aguiar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/10 22:31:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COy8xbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/10 22:31:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "CPe8xbkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/10 22:31:35",
+      "delete" : false,
+      "identifier" : "CP+8xbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre a Central Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/10 22:31:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIS9xbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/10 22:31:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CI+9xbkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/10 22:31:54",
+      "delete" : false,
+      "identifier" : "CJK9xbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 09:00 às 18:00 de segunda à sexta, e   das 09:00 às 12:00 aos sábados.\n\nAgora é só aguardar alguns minutos. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/10 22:32:23",
+      "delete" : false,
+      "identifier" : "CK+9xbkGIABIAZABAA==",
+      "msg" : "Eu acabei de assinar a central caverna e fala que o meu acesso é somente de 7 dias, não entendi.. gostaria de um retorno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 09:00:53",
+      "delete" : false,
+      "mediaName" : "4906b03e-b967-4594-8ae8-e88e34749556.opus",
+      "localPath" : "media\/c071068a7b6a457f7d37e457416b291cbdafe9ae.opus",
+      "mediaSize" : "28 KB",
+      "identifier" : "CP3jx7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 15:35:46",
+      "delete" : false,
+      "identifier" : "CIqdybkGIABIAZABAA==",
+      "msg" : "eliabeaguiar@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 15:36:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLCdybkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 15:39:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNOeybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 16:35:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIS5ybkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:32"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 16:35:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJ25ybkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:22"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 16:39:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIu7ybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:27"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 16:45:22",
+      "delete" : false,
+      "identifier" : "CNq9ybkGIABIAZABAA==",
+      "msg" : "Eu desejo o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 16:45:33",
+      "delete" : false,
+      "identifier" : "COW9ybkGIABIAZABAA==",
+      "msg" : "Em 7 dias vai perder todas as funções certo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 16:47:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMa+ybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 16:56:15",
+      "delete" : false,
+      "identifier" : "COfCybkGIABIAZABAA==",
+      "msg" : "Pode mandar o reembolso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 16:56:26",
+      "delete" : false,
+      "identifier" : "CPLCybkGIABIAZABAA==",
+      "msg" : "Falaram que tenho direito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 17:01:52",
+      "delete" : false,
+      "identifier" : "CLjFybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Claro, so um momento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 17:06:58",
+      "delete" : false,
+      "identifier" : "COrHybkGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 17:26:00",
+      "delete" : false,
+      "mediaName" : "07a8d2da-f6b3-4350-bbc3-9eebd51f5845.opus",
+      "localPath" : "media\/8bb023ec845326e7ef3cfe2ab1989e1752191836.opus",
+      "mediaSize" : "12 KB",
+      "identifier" : "CODQybkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:05"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 17:26:36",
+      "delete" : false,
+      "mediaName" : "b1ab6ed0-d522-43fa-b104-c8df9934340a.opus",
+      "localPath" : "media\/6a9d3e7aaa571f316cb7fdf9ddbfb068108883f6.opus",
+      "mediaSize" : "57 KB",
+      "identifier" : "CITRybkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:25"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 17:35:06",
+      "delete" : false,
+      "mediaName" : "15cb7bd3-77d0-4fb8-8b04-b126cf7b8db5.opus",
+      "localPath" : "media\/83648c9480e577c3a18381ae7c5f58af30da7a52.opus",
+      "mediaSize" : "67 KB",
+      "identifier" : "CILVybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:33"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 17:36:26",
+      "delete" : false,
+      "mediaName" : "ba621964-87f0-4eeb-aad5-a521c9c5942e.opus",
+      "localPath" : "media\/f18d4fb4f35a4dfcd4db211b46c7775ecfc3f4d6.opus",
+      "mediaSize" : "23 KB",
+      "identifier" : "CNLVybkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 17:38:39",
+      "delete" : false,
+      "mediaName" : "c1ce51ee-d16d-4ba5-aefe-626f1816c4a2.opus",
+      "localPath" : "media\/1ea8fe3dfcad880399f558b494d373eb0de3bfd4.opus",
+      "mediaSize" : "29 KB",
+      "identifier" : "CNfWybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 17:39:58",
+      "delete" : false,
+      "mediaName" : "c7967a4b-3df6-4f0d-9990-39755f3e37d7.opus",
+      "localPath" : "media\/5e19b9e46c5659174abb6428f9301b3a2fc3c6c3.opus",
+      "mediaSize" : "29 KB",
+      "identifier" : "CKbXybkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 17:45:25",
+      "delete" : false,
+      "mediaName" : "2dd397da-006c-4bed-821d-e0a89cab3c82.opus",
+      "localPath" : "media\/add7a531c751bc6323a861ef960ed60d727b271d.opus",
+      "mediaSize" : "133 KB",
+      "identifier" : "CO3ZybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:04"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/13 17:15:19",
+      "delete" : false,
+      "identifier" : "CN+R1LkGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/13 17:15:59",
+      "delete" : false,
+      "identifier" : "CIeS1LkGIABIAZABAA==",
+      "msg" : "Vocês deixaria por R$200 reais a plataforma ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/13 17:36:00",
+      "delete" : false,
+      "identifier" : "CLib1LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi, Eliabe! Tudo bem com você? 😃\n\nOlha só, consegui uma condição especial pra você: além do desconto de R$29 referente ao pacote de e-books, vou incluir um curso completo de marketing pra iniciantes. Esse curso é perfeito pra te ajudar a promover a Central Caverna e, com isso, garantir 50% de comissão em cada venda realizada.\n\nMesmo que sua intenção principal não seja se afiliar, só duas vendas já cobrem o investimento. E além disso, você vai ter acesso ao nosso Modo Caverna, um protocolo de desenvolvimento pessoal pra te ajudar a crescer e evoluir em várias áreas.\n\nSem contar que, nessa condição, você ainda recebe o suporte personalizado da nossa equipe, pronta pra te apoiar em tudo que precisar. Sobre o desconto extra, infelizmente o financeiro tá segurando essas liberações há algumas semanas, então essa é a melhor condição que consigo pra você agora.\n\nVamos aproveitar essa condição e ativar a sua assinatura, Eliabe?",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,538 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 51 99802-1469",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 00:26:36",
+      "delete" : false,
+      "identifier" : "CPSE2sEGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 00:26:44",
+      "delete" : false,
+      "identifier" : "CPyE2sEGIABIAZABAA==",
+      "msg" : "Eu fiz uma compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 00:26:52",
+      "delete" : false,
+      "identifier" : "CISF2sEGIABIAZABAA==",
+      "msg" : "E não chegou nada no meu e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 00:27:00",
+      "delete" : false,
+      "identifier" : "CIyF2sEGIABIAZABAA==",
+      "msg" : "E não consigo acessar o curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 09:58:56",
+      "delete" : false,
+      "identifier" : "CJiR3MEGIABIAZABAA==",
+      "msg" : "Oii",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 09:59:03",
+      "delete" : false,
+      "identifier" : "CJ+R3MEGIABIAZABAA==",
+      "msg" : "Te mandei e-mail lá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 09:59:13",
+      "delete" : false,
+      "identifier" : "CKmR3MEGIABIAZABAA==",
+      "msg" : "Pode me responder por aqui por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 09:59:36",
+      "delete" : false,
+      "identifier" : "CMCR3MEGIABIAZABAA==",
+      "msg" : "Se não vou cancelar a compra direto com a ticto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 11:07:04",
+      "delete" : false,
+      "identifier" : "CJCx3MEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Cavernoso, blz?\n\nMe envia o seu e-mail de compra por favor.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 12:12:42",
+      "delete" : false,
+      "identifier" : "CPKKjMIGIABIAZABAA==",
+      "msg" : "Opa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 12:12:44",
+      "delete" : false,
+      "identifier" : "CPSKjMIGIABIAZABAA==",
+      "msg" : "Olha só",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/06 12:12:49",
+      "delete" : false,
+      "identifier" : "CPmKjMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/06 12:12:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPuKjMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 12:12:55",
+      "delete" : false,
+      "identifier" : "CP+KjMIGIABIAZABAA==",
+      "msg" : "Eu comprei o curso esses dias",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 12:13:00",
+      "delete" : false,
+      "identifier" : "CISLjMIGIABIAZABAA==",
+      "msg" : "E hoje fui acessar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 12:13:22",
+      "delete" : false,
+      "mediaName" : "b4f19528-8446-417b-8a53-2d196fca87f4.jpg",
+      "localPath" : "media\/d3cdd58940bcc2c64ef8cbaeebc2ab7b5f4df756.jpg",
+      "mediaSize" : "161 KB",
+      "identifier" : "CJqLjMIGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/86208f647979e1bdba0f96061bb6db3a9af6be83"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 12:13:31",
+      "delete" : false,
+      "identifier" : "CKOLjMIGIABIAZABAA==",
+      "msg" : "E me apareceu isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 12:20:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLiOjMIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/06 12:38:32",
+      "delete" : false,
+      "identifier" : "CICXjMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso! Blz? 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/06 12:38:45",
+      "delete" : false,
+      "identifier" : "CI2XjMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia o seu CPF por favor\/",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/06 12:38:48",
+      "delete" : false,
+      "identifier" : "CJCXjMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 12:40:13",
+      "delete" : false,
+      "identifier" : "COWXjMIGIABIAZABAA==",
+      "msg" : "60145131084",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/06 18:03:50",
+      "delete" : false,
+      "identifier" : "CL6vjcIGIABIAZABAA==",
+      "msg" : "???",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 08:57:32",
+      "delete" : false,
+      "identifier" : "CLTSkMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso, tudo certo?🐺me informe o seu email de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:02:16",
+      "delete" : false,
+      "identifier" : "CNDUkMIGIABIAZABAA==",
+      "msg" : "Então",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:02:26",
+      "delete" : false,
+      "identifier" : "CNrUkMIGIABIAZABAA==",
+      "msg" : "Preciso que mude o meu e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:02:49",
+      "delete" : false,
+      "identifier" : "CPHUkMIGIABIAZABAA==",
+      "msg" : "Pq ele está errado e a tacto disse que arrumou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:02:56",
+      "delete" : false,
+      "identifier" : "CPjUkMIGIABIAZABAA==",
+      "msg" : "Mais não arrumou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:04:17",
+      "delete" : false,
+      "identifier" : "CMnVkMIGIABIAZABAA==",
+      "msg" : "O e-mail de login está como pheriquenunez@gmail.com, mas ele está errado pq o Henrique tá sem o n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:04:31",
+      "delete" : false,
+      "identifier" : "CNfVkMIGIABIAZABAA==",
+      "msg" : "Daí não chega nada para mim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:04:54",
+      "delete" : false,
+      "identifier" : "CO7VkMIGIABIAZABAA==",
+      "msg" : "O phenriquenunez@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:05:16",
+      "delete" : false,
+      "identifier" : "CITWkMIGIABIAZABAA==",
+      "msg" : "Na hora que minha mulher comprou o curso ela colocou errado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 09:05:36",
+      "delete" : false,
+      "identifier" : "CJjWkMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Esse é o seu real e-mail?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:05:54",
+      "delete" : false,
+      "identifier" : "CKrWkMIGIABIAZABAA==",
+      "msg" : "Isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 09:16:18",
+      "delete" : false,
+      "identifier" : "CJrbkMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/app.modocaverna.com\/forgot-password \n\nrecupere sua senha com o e-mail que utilizou para a compra e me avisa se ta tudo certo! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:23:58",
+      "delete" : false,
+      "identifier" : "CObekMIGIABIAZABAA==",
+      "msg" : "Não tem como recuperar né",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:24:09",
+      "delete" : false,
+      "identifier" : "CPHekMIGIABIAZABAA==",
+      "msg" : "Pq não chega notificação para mim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:24:39",
+      "delete" : false,
+      "identifier" : "CI\/fkMIGIABIAZABAA==",
+      "msg" : "Pq o e-mail pheriquenunez@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:24:45",
+      "delete" : false,
+      "identifier" : "CJXfkMIGIABIAZABAA==",
+      "msg" : "Que é o e-mail de compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:24:52",
+      "delete" : false,
+      "identifier" : "CJzfkMIGIABIAZABAA==",
+      "msg" : "Sla se existe",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:24:55",
+      "delete" : false,
+      "identifier" : "CJ\/fkMIGIABIAZABAA==",
+      "msg" : "Mais não é meu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:25:09",
+      "delete" : false,
+      "identifier" : "CK3fkMIGIABIAZABAA==",
+      "msg" : "Não tenho acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 09:25:18",
+      "delete" : false,
+      "identifier" : "CLbfkMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "phenriquenunez@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 09:25:25",
+      "delete" : false,
+      "identifier" : "CL3fkMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "recupere com esse email.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:25:35",
+      "delete" : false,
+      "identifier" : "CMffkMIGIABIAZABAA==",
+      "msg" : "Está bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:29:20",
+      "delete" : false,
+      "mediaName" : "850db6f5-52b3-4aa1-a306-2576ca4193c5.jpg",
+      "localPath" : "media\/eb73cc2a6a7f6d9fc73ce453d1b6ac5c462df6a2.jpg",
+      "mediaSize" : "69 KB",
+      "identifier" : "CKjhkMIGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/d75e96c469de867502f3e646e44da5fb84f55d89"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 09:29:30",
+      "delete" : false,
+      "identifier" : "CLLhkMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Beleza!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 09:29:37",
+      "delete" : false,
+      "identifier" : "CLnhkMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Atualmente, a versão mobile ainda tem algumas limitações e por isso, recomendamos que você acesse pelo computador para uma experiência mais completa e estável.\n\nA boa notícia é que o nosso app oficial já está em fase final e será lançado ainda este mês!\n\nQualquer outra duvida, estou aqui! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:29:47",
+      "delete" : false,
+      "identifier" : "CMPhkMIGIABIAZABAA==",
+      "msg" : "Pq\nIsso tá como uma avaliação gratuita",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:30:02",
+      "delete" : false,
+      "identifier" : "CNLhkMIGIABIAZABAA==",
+      "msg" : "Eu comprei o curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:30:12",
+      "delete" : false,
+      "identifier" : "CNzhkMIGIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:30:26",
+      "delete" : false,
+      "identifier" : "COrhkMIGIABIAZABAA==",
+      "msg" : "Comprei o básico",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 09:31:07",
+      "delete" : false,
+      "identifier" : "CJPikMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O que aparece como “avaliação gratuita” é só o teste de 7 dias das ferramentas avançadas.\nMas o curso e o Desafio Modo Caverna que você comprou já estão liberados pra você por 1 ano, sem limite de acesso.\n\nOu seja: tá tudo certo com sua conta. É só começar a aplicar!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:31:56",
+      "delete" : false,
+      "identifier" : "CMTikMIGIABIAZABAA==",
+      "msg" : "Está bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:34:26",
+      "delete" : false,
+      "identifier" : "CNrjkMIGIABIAZABAA==",
+      "msg" : "Pode me dizer quais são as ferramentas avançadas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:34:31",
+      "delete" : false,
+      "identifier" : "CN\/jkMIGIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/07 09:34:41",
+      "delete" : false,
+      "identifier" : "COnjkMIGIABIAZABAA==",
+      "msg" : "Pq não vi nada de diferente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 09:35:23",
+      "delete" : false,
+      "identifier" : "CJPkkMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "As ferramentas avançadas fazem parte do Plano Cavernoso, que é a versão completa da plataforma.\n\nNele, além do Desafio e do Curso, você desbloqueia:\n\nControle Financeiro completo\n\nGestão de Treinos\n\nPlanejamento de Refeições\n\nOrganização de Conhecimento (livros, vídeos, cursos, etc.)\n\nMódulo de Rotina com integração ao Google Calendar\n\nSistema de Anotações, Tarefas e Pomodoro\n\nQuadro dos Sonhos, Cartas para o Futuro e Lei da Atração\n\nComunidade Alcateia + Ranking e Recompensas\n\nE muito mais que te ajuda a organizar sua vida por inteiro",
+      "type" : "text"
+    }
+  ]
+})

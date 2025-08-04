@@ -1,0 +1,953 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98579-2342",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:11:23",
+      "delete" : false,
+      "identifier" : "CPOxwr4GIABIAZABAA==",
+      "msg" : "Por favor algum vendedor pode me atender",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 17:11:41",
+      "delete" : false,
+      "identifier" : "CIWywr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 17:11:48",
+      "delete" : false,
+      "identifier" : "CIyywr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:12:04",
+      "delete" : false,
+      "identifier" : "CJyywr4GIABIAZABAA==",
+      "msg" : "Joe",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 17:12:10",
+      "delete" : false,
+      "identifier" : "CKKywr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Joe*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/11 17:12:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKiywr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:13:19",
+      "delete" : false,
+      "identifier" : "COeywr4GIABIAZABAA==",
+      "msg" : "Não estou entendendo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:14:21",
+      "delete" : false,
+      "identifier" : "CKWzwr4GIABIAZABAA==",
+      "msg" : "Eu comprei um produto de investimento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:15:35",
+      "delete" : false,
+      "identifier" : "CO+zwr4GIABIAZABAA==",
+      "msg" : "Eu estou mesmo cansado vou pedir reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:16:00",
+      "delete" : false,
+      "identifier" : "CIi0wr4GIABIAZABAA==",
+      "msg" : "Tudo bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:17:44",
+      "delete" : false,
+      "identifier" : "CPC0wr4GIABIAZABAA==",
+      "msg" : "Vou pedir reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:18:03",
+      "delete" : false,
+      "identifier" : "CIO1wr4GIABIAZABAA==",
+      "msg" : "Você não atende",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:18:32",
+      "delete" : false,
+      "identifier" : "CKC1wr4GIABIAZABAA==",
+      "msg" : "Acho que o produto não existe",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:18:53",
+      "delete" : false,
+      "identifier" : "CLW1wr4GIABIAZABAA==",
+      "msg" : "Aí vocês ficam enrolando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:20:15",
+      "delete" : false,
+      "identifier" : "CIe2wr4GIABIAZABAA==",
+      "msg" : "Faz quase uma semana que comprei o produto e não consigo acessar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:21:09",
+      "delete" : false,
+      "identifier" : "CL22wr4GIABIAZABAA==",
+      "msg" : "Algum vendedor pode me atender?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:22:05",
+      "delete" : false,
+      "identifier" : "CPW2wr4GIABIAZABAA==",
+      "msg" : "Tudo bem tentei a última vez",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:22:53",
+      "delete" : false,
+      "identifier" : "CKW3wr4GIABIAZABAA==",
+      "msg" : "O produto não existe, né?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:23:41",
+      "delete" : false,
+      "identifier" : "CNW3wr4GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/11 17:23:45",
+      "delete" : false,
+      "identifier" : "CNm3wr4GIABIAZABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:18:47",
+      "delete" : false,
+      "identifier" : "CL+Txr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Joe! Tudo bem?\nMe envia seu email de compra, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:21:01",
+      "delete" : false,
+      "identifier" : "CMWUxr4GIABIAZABAA==",
+      "msg" : "simoesjoiandre@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:23:15",
+      "delete" : false,
+      "identifier" : "CMuVxr4GIABIAZABAA==",
+      "msg" : "Vou ter que mandar tudo de novo tá brincando né",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:23:44",
+      "delete" : false,
+      "identifier" : "COiVxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Mas eu só pedi seu email",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:25:04",
+      "delete" : false,
+      "identifier" : "CLiWxr4GIABIAZABAA==",
+      "msg" : "Eu mandei já, está aí acima",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:25:32",
+      "delete" : false,
+      "identifier" : "CNSWxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só aparece \"aguardando mensagem\", perdão!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:26:22",
+      "delete" : false,
+      "identifier" : "CIaXxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não encontrei nenhuma compra vinculada a esse email, me envia o documento que você utilizou no checkout, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:27:34",
+      "delete" : false,
+      "identifier" : "CM6Xxr4GIABIAZABAA==",
+      "msg" : "Não enviar nadar, vocês estão zuando, né?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:28:09",
+      "delete" : false,
+      "identifier" : "CPGXxr4GIABIAZABAA==",
+      "msg" : "Vou pedir o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:28:23",
+      "delete" : false,
+      "identifier" : "CP+Xxr4GIABIAZABAA==",
+      "msg" : "Coisa chata",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:28:44",
+      "delete" : false,
+      "identifier" : "CJSYxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pode pedir, pelo menos eu vejo se assim sua compra aparece aqui.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:29:56",
+      "delete" : false,
+      "identifier" : "CNyYxr4GIABIAZABAA==",
+      "msg" : "Vou ter que mandar tudo novo pra você falar que pode ajudar e empurrar pra outro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:30:29",
+      "delete" : false,
+      "identifier" : "CP2Yxr4GIABIAZABAA==",
+      "msg" : "Desculpa não mandar mais nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:30:54",
+      "delete" : false,
+      "identifier" : "CJaZxr4GIABIAZABAA==",
+      "msg" : "Se pode me ajudar procura aí no computador",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:32:43",
+      "delete" : false,
+      "identifier" : "CIOaxr4GIABIAZABAA==",
+      "msg" : "Se deixa, não faz os outros de bobo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:33:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJeaxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:33:32",
+      "delete" : false,
+      "identifier" : "CLSaxr4GIABIAZABAA==",
+      "msg" : "Quero reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:34:29",
+      "delete" : false,
+      "mediaName" : "6b1d64a4-2b09-4b3e-bc86-959a7461cb70.opus",
+      "localPath" : "media\/8a904bd1b6cc1225de3158655c6fe2597aba8ad7.opus",
+      "mediaSize" : "83 KB",
+      "identifier" : "CO2axr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:40"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:35:43",
+      "delete" : false,
+      "identifier" : "CLebxr4GIABIAZABAA==",
+      "msg" : "Não me ajudou em nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:37:02",
+      "delete" : false,
+      "identifier" : "CIacxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você não colabora para ser ajudado, Joe!\nVocê pode ter utilizado outro email no checkout, por isso pedi seu documento para verificar sua compra e te mandar seus materiais, mas se você não colabora, o que eu posso fazer?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:40:11",
+      "delete" : false,
+      "identifier" : "CMOdxr4GIABIAZABAA==",
+      "msg" : "Eu mandei o  email certo vocês tao falando que esta errado vou fazer o que ,as outros que mandar vai ser do mesmo jeito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:40:54",
+      "delete" : false,
+      "identifier" : "CO6dxr4GIABIAZABAA==",
+      "msg" : "Não manda nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:41:34",
+      "delete" : false,
+      "identifier" : "CJaexr4GIABIAZABAA==",
+      "msg" : "Vou pedir reembolso depois que enroladeira",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:42:09",
+      "delete" : false,
+      "mediaName" : "e72f476b-21fe-49b0-955d-ebf7164a40b7.opus",
+      "localPath" : "media\/40d2ee79292c2ecd2c240ee60f37ca4890aa7de0.opus",
+      "mediaSize" : "51 KB",
+      "identifier" : "CLmexr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 10:49:01",
+      "delete" : false,
+      "identifier" : "CNWhxr4GIABIAZABAA==",
+      "msg" : "Finalizando vou pedir o reembolso,meu email estou certinho não vou criar outro email que vai dar na mesma se não enroladeira cuida desse sistema e atendentes que tá ruim mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 10:50:24",
+      "delete" : false,
+      "identifier" : "CKiixr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, pode pedir seu reembolso! \nCuida da sua forma de tratar as pessoas também!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 12:31:37",
+      "delete" : false,
+      "identifier" : "COGj5r4GIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 12:33:02",
+      "delete" : false,
+      "identifier" : "CLak5r4GIABIAZABAA==",
+      "msg" : "Estou querendo saber se tem como eu receber o meu produto, desistir do reembolso eu quero o produto por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 12:33:38",
+      "delete" : false,
+      "identifier" : "CNqk5r4GIABIAZABAA==",
+      "msg" : "Meu email é: simoesjoiandre@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 12:34:08",
+      "delete" : false,
+      "identifier" : "CPik5r4GIABIAZABAA==",
+      "msg" : "CPF:14242867821",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 12:34:29",
+      "delete" : false,
+      "identifier" : "CI2l5r4GIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 12:36:16",
+      "delete" : false,
+      "identifier" : "CPil5r4GIABIAZABAA==",
+      "msg" : "Vai fazer umas três semanas ou mais que eu paguei tudo e estou esperando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 12:36:49",
+      "delete" : false,
+      "identifier" : "CJmm5r4GIABIAZABAA==",
+      "msg" : "Estou aguardando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 12:37:03",
+      "delete" : false,
+      "identifier" : "CKem5r4GIABIAZABAA==",
+      "msg" : "Grato",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 13:04:02",
+      "delete" : false,
+      "identifier" : "CPqy5r4GIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 13:04:18",
+      "delete" : false,
+      "identifier" : "CIqz5r4GIABIAZABAA==",
+      "msg" : "Tem alguém pra me atender",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 13:05:00",
+      "delete" : false,
+      "identifier" : "CLSz5r4GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 13:06:53",
+      "delete" : false,
+      "identifier" : "CKW05r4GIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 13:19:20",
+      "delete" : false,
+      "identifier" : "CJC65r4GIABIAZABAA==",
+      "msg" : "Tem alguém aí?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/18 17:30:45",
+      "delete" : false,
+      "identifier" : "CP2v574GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, me envia o email que recebeu de compra aprovada, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 19:55:28",
+      "delete" : false,
+      "identifier" : "COjz574GIABIAZABAA==",
+      "msg" : "O email é:poulmagalhaes@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 19:57:56",
+      "delete" : false,
+      "identifier" : "CPz0574GIABIAZABAA==",
+      "msg" : "Código de transação:TPP33DF0503LTB50E",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 19:59:55",
+      "delete" : false,
+      "identifier" : "CPP1574GIABIAZABAA==",
+      "msg" : "outro:HTTPS:\/\/dash.ticto.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 20:03:36",
+      "delete" : false,
+      "identifier" : "CND3574GIABIAZABAA==",
+      "msg" : "Código do pedido TOPO50322W69BX-Redutor de risco",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 21:46:05",
+      "mediaSize" : "538 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNWn6L4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/2b688794bf3debb36cffe2ec80dbaa3390ab85e8"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 21:47:48",
+      "mediaSize" : "492 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLyo6L4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/1e5ed075b54753f2f9c041eeeee6005a8a8d1e36"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/18 21:55:08",
+      "delete" : false,
+      "identifier" : "CPSr6L4GIABIAZABAA==",
+      "msg" : "Tentei acessar e não consegui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 06:26:48",
+      "mediaSize" : "556 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COCb6r4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/42d5a86f8b00b6552ea995de254f4a751c5099b9"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:00:20",
+      "delete" : false,
+      "mediaName" : "6154c9b7-6880-407e-a8c9-40c935f7021d.opus",
+      "localPath" : "media\/f375255b3e196d8a1e6d89e68ea75038875dd105.opus",
+      "mediaSize" : "125 KB",
+      "identifier" : "CNzj6r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:01"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:16:30",
+      "delete" : false,
+      "identifier" : "CKbr6r4GIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:18:27",
+      "delete" : false,
+      "identifier" : "CJvs6r4GIABIAZABAA==",
+      "msg" : "Link eu ,foi Facebook",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:18:51",
+      "delete" : false,
+      "identifier" : "CLPs6r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "A ticto me deu esse retorno:\n\nO contato de suporte, vinculado ao produto do cliente é: \n\nE-mail: businessluizmina@gmail.com\nWhatsApp: (61) 9817-43051",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:18:52",
+      "delete" : false,
+      "identifier" : "CLTs6r4GIABIAZABAA==",
+      "msg" : "E só mandaram isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:19:28",
+      "delete" : false,
+      "identifier" : "CNjs6r4GIABIAZABAA==",
+      "msg" : "E agora eu tomei prejuízo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:19:59",
+      "delete" : false,
+      "mediaName" : "06a5ce85-6c49-4f0c-90a3-a144e285a575.opus",
+      "localPath" : "media\/8994ddcb629a784e2490329e4fb1a6b1ba3ddef7.opus",
+      "mediaSize" : "100 KB",
+      "identifier" : "CPfs6r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:48"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:20:59",
+      "delete" : false,
+      "identifier" : "CLPt6r4GIABIAZABAA==",
+      "msg" : "Foi do outro suporte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:21:26",
+      "delete" : false,
+      "identifier" : "CM7t6r4GIABIAZABAA==",
+      "msg" : "Eu vou ver mando um print",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:22:14",
+      "delete" : false,
+      "identifier" : "CP7t6r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:23:04",
+      "mediaSize" : "517 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLDu6r4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b2c6018df95dfae8e6a6e830b7c5567ce4349bf8"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:24:03",
+      "delete" : false,
+      "mediaName" : "2c4ef5dc-b824-48b7-b4cb-fc7e9d642210.jpg",
+      "localPath" : "media\/854953663f6873dfdc8635dcff020152b6324082.jpg",
+      "mediaSize" : "133 KB",
+      "identifier" : "COvu6r4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/6c13c77ad10a762f8384be45678d2c567d107037"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:26:09",
+      "mediaSize" : "517 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COnv6r4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/115bb0a66864078b3f72561be4222dc1dae1d59d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:26:35",
+      "delete" : false,
+      "mediaName" : "c3783a60-db16-44f3-8f03-bec41b49997f.opus",
+      "localPath" : "media\/1d5478ba51590181dca9070c75250e5d63bfd146.opus",
+      "mediaSize" : "26 KB",
+      "identifier" : "CIPw6r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:26:56",
+      "delete" : false,
+      "identifier" : "CJjw6r4GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:27:03",
+      "delete" : false,
+      "identifier" : "CJ\/w6r4GIABIAZABAA==",
+      "msg" : "Estou aguardando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:29:22",
+      "delete" : false,
+      "mediaName" : "0d6880be-8826-49bf-8329-99e1bafaa900.opus",
+      "localPath" : "media\/91c12975f8f4322c4334399af3bad9034bb2630b.opus",
+      "mediaSize" : "123 KB",
+      "identifier" : "CKrx6r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:00"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:30:43",
+      "delete" : false,
+      "identifier" : "CPvx6r4GIABIAZABAA==",
+      "msg" : "Não atende",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:31:18",
+      "delete" : false,
+      "identifier" : "CJ7y6r4GIABIAZABAA==",
+      "msg" : "Já tentei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:31:44",
+      "delete" : false,
+      "mediaName" : "5547b048-9b87-46dd-acd6-d88308120afa.opus",
+      "localPath" : "media\/9d3abf0a497be5a5653c475166630cceacfc921c.opus",
+      "mediaSize" : "79 KB",
+      "identifier" : "CLjy6r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:38"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:31:53",
+      "delete" : false,
+      "identifier" : "CMHy6r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "(19) 99919-1510",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:37:15",
+      "delete" : false,
+      "identifier" : "CIP16r4GIABIAZABAA==",
+      "msg" : "E o mesmo que te mandei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:37:23",
+      "delete" : false,
+      "identifier" : "CIv16r4GIABIAZABAA==",
+      "msg" : "Ninguém atende",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:38:04",
+      "delete" : false,
+      "mediaName" : "3711533f-6e57-45e5-b11d-d8cedf9f6566.opus",
+      "localPath" : "media\/a3d7c05f35ff808e512d81f6d6f00a7d4f0389d9.opus",
+      "mediaSize" : "33 KB",
+      "identifier" : "CLT16r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:38:12",
+      "mediaSize" : "495 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLz16r4GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c74eeeb63f05f97267ffe837e4745623ac7e3357"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:38:26",
+      "delete" : false,
+      "identifier" : "CMr16r4GIABIAZABAA==",
+      "msg" : "Só manda isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:38:49",
+      "delete" : false,
+      "identifier" : "COH16r4GIABIAZABAA==",
+      "msg" : "E você não tem como acessar nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:39:18",
+      "delete" : false,
+      "identifier" : "CP716r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "seleciona o 2",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:39:27",
+      "delete" : false,
+      "identifier" : "CIf26r4GIABIAZABAA==",
+      "msg" : "Já tentei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:39:38",
+      "delete" : false,
+      "identifier" : "CJL26r4GIABIAZABAA==",
+      "msg" : "Já tentei todos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/19 09:40:46",
+      "delete" : false,
+      "identifier" : "CNb26r4GIABIAZABAA==",
+      "msg" : "Vou ficar no prejuízo, não é?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/19 09:41:42",
+      "delete" : false,
+      "mediaName" : "89b20cfd-bdf5-4b5a-8740-14f7027afb3d.opus",
+      "localPath" : "media\/617a9acab902c17652916493fec1d9ed92b17d0d.opus",
+      "mediaSize" : "85 KB",
+      "identifier" : "CI736r4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:41"
+    }
+  ]
+})

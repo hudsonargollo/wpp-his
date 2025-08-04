@@ -1,0 +1,32 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98899-8137",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 10:32:06",
+      "delete" : false,
+      "mediaName" : "42b570e4-8732-42a6-adde-53b015d56cb6.jpg",
+      "localPath" : "media\/c282e16d385c460ac2506d3e0e83fa046f164781.jpg",
+      "mediaSize" : "14 KB",
+      "identifier" : "CN7hoboGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/90abb421cc9369c9fa1f6165abc8aa6c75ab0b60"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 19:03:47",
+      "delete" : false,
+      "mediaName" : "cc8a69e1-bf13-4e36-8f29-f03eb34ad5a5.jpg",
+      "localPath" : "media\/efd43f68b9dc885e1c875a537ebad4c2247ff9c0.jpg",
+      "mediaSize" : "38 KB",
+      "identifier" : "CMvd278GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/3a1d34abdef7756e7df9ce614634690e5e7d9bf2"
+    }
+  ]
+})

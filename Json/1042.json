@@ -1,0 +1,137 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 42 99947-4295",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 10:29:00",
+      "delete" : false,
+      "identifier" : "CKSjob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Welerson! Tudo bem?\nMe chamo Rafaella, sou responsável pelo suporte do Modo Caverna, acabei de verificar que existe uma solicitação de reembolso da sua assinatura. Poderia me detalhar melho o motivo da solicitação, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 10:29:46",
+      "delete" : false,
+      "identifier" : "CNKjob4GIABIAZABAA==",
+      "msg" : "Bom dia Rafaella, tudo bem e contigo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 10:30:29",
+      "delete" : false,
+      "identifier" : "CP2job4GIABIAZABAA==",
+      "msg" : "Não me adaptei ao conteúdo apresentado e vi que não iria dar sequência no uso, então optei pelo cancelamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 10:34:48",
+      "delete" : false,
+      "mediaName" : "643ce2e4-f96c-48a9-b9e6-b5ffdf3717e0.opus",
+      "localPath" : "media\/9fcd35c1ef46d9935b5949992796c4488d69c91b.opus",
+      "mediaSize" : "71 KB",
+      "identifier" : "CICmob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:34"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 10:39:21",
+      "delete" : false,
+      "identifier" : "CJGoob4GIABIAZABAA==",
+      "msg" : "No momento não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 10:39:24",
+      "delete" : false,
+      "identifier" : "CJSoob4GIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 10:39:48",
+      "delete" : false,
+      "identifier" : "CKyoob4GIABIAZABAA==",
+      "msg" : "Vou seguir com o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 11:00:52",
+      "delete" : false,
+      "identifier" : "CJyyob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua assinatura te dá direito de se afiliar ao produto e garantir uma renda extra, inclusive, com apenas 2 vendas você já consegue recuperar o valor que foi investido no app, tem interesse?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 11:02:46",
+      "delete" : false,
+      "identifier" : "CI6zob4GIABIAZABAA==",
+      "msg" : "Não tenho, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 11:06:17",
+      "delete" : false,
+      "identifier" : "COG0ob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, um momento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 11:12:41",
+      "delete" : false,
+      "identifier" : "COG3ob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi aprovado, verifica se a confirmação já chegou no seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 11:14:51",
+      "delete" : false,
+      "identifier" : "COO4ob4GIABIAZABAA==",
+      "msg" : "Recebi a confirmação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 11:15:04",
+      "delete" : false,
+      "identifier" : "CPC4ob4GIABIAZABAA==",
+      "msg" : "Muito obrigado, Rafaella!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 11:16:08",
+      "delete" : false,
+      "identifier" : "CLC5ob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço pelo contato!",
+      "type" : "text"
+    }
+  ]
+})

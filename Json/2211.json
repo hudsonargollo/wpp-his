@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "socios lista 1 _151",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/17 14:26:46",
+      "delete" : false,
+      "identifier" : "CN73prcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, Bruno, boa tarde!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/17 14:26:48",
+      "delete" : false,
+      "identifier" : "COD3prcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vi que você se interessou na afiliação dos produtos do Iuri Meira! Para se afiliar é necessário que possua o Modo Caverna ou a Central Caverna, você tem interesse em conhecer mais sobre esses produtos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/17 14:27:24",
+      "delete" : false,
+      "identifier" : "CIT4prcGIABIAZABAA==",
+      "msg" : "Eu tenho o club da luta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/17 14:30:23",
+      "delete" : false,
+      "identifier" : "CLf5prcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi, mas para se afiliar ao Modo Caverna ou Central Caverna é necessário possuir algum desses dois produtos, por já ser aluno do Iuri, consigo um desconto para você, caso tenha interesse em adquirir",
+      "type" : "text"
+    }
+  ]
+})

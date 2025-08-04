@@ -1,0 +1,64 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98401-8747",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/17 11:33:29",
+      "delete" : false,
+      "identifier" : "CMGT5MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Silvana! Tudo bem? Sou do suporte do Desafio Caverna! Vi que você comentou que não estava conseguindo assistir ao vídeo, queria saber se já voltou ao normal por aí. Poderia me informar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 13:27:11",
+      "delete" : false,
+      "identifier" : "COfI5MMGIABIAZABAA==",
+      "msg" : "Oi\nEu vim para uma consulta em outra cidade só chego a noite \nE vou olhar pelo notebook \nPelo celular ontem eu assisti uma primeira aula e cliquei em concluido",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/17 13:27:20",
+      "delete" : false,
+      "identifier" : "CPDI5MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/17 13:27:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPHI5MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 13:27:33",
+      "delete" : false,
+      "identifier" : "CP3I5MMGIABIAZABAA==",
+      "msg" : "E sem querer fiz o mesmo no segundo vídeo sem ter assistido e não aparece esses dois vídeos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 09:27:51",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CM\/76MMGIABIAZABAA==",
+      "type" : "file"
+    }
+  ]
+})

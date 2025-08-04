@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 37 99836-0242",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 10:09:31",
+      "delete" : false,
+      "identifier" : "CJP6proGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia! \nSou responsável pelo suporte de Afiliações do Iuri Meira, gostaria de informar que sua afiliação foi aprovada! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 10:49:52",
+      "delete" : false,
+      "identifier" : "CIiNp7oGIABIAZABAA==",
+      "msg" : "Olá, bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 10:49:55",
+      "delete" : false,
+      "identifier" : "CIuNp7oGIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 10:51:17",
+      "delete" : false,
+      "identifier" : "CN2Np7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estou a disposição!",
+      "type" : "text"
+    }
+  ]
+})

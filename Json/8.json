@@ -1,0 +1,83 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 99693-2262",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 12:21:39",
+      "delete" : false,
+      "identifier" : "CIvauMQGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 12:21:41",
+      "delete" : false,
+      "identifier" : "CI3auMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/08\/02 12:21:42",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CI7auMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 12:21:51",
+      "delete" : false,
+      "identifier" : "CJfauMQGIABIAZABAA==",
+      "msg" : "Já comprei uma vez o modo caverna e fui afiliada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 12:22:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CKzauMQGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 12:22:27",
+      "delete" : false,
+      "identifier" : "CLvauMQGIABIAZABAA==",
+      "msg" : "Para voltar a usar e ser afiliada tenho q comprar de novo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 12:22:30",
+      "delete" : false,
+      "identifier" : "CL7auMQGIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 18:27:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM6FusQGIAA=",
+      "type" : ""
+    }
+  ]
+})

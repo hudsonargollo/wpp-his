@@ -1,0 +1,335 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 99255-2450",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/17 18:00:44",
+      "delete" : false,
+      "identifier" : "CITHzr0GIABIAZABAA==",
+      "msg" : "Olá, sou afiliado dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/17 18:00:59",
+      "delete" : false,
+      "identifier" : "CJPHzr0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/17 18:01:05",
+      "delete" : false,
+      "identifier" : "CJnHzr0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/17 18:01:15",
+      "delete" : false,
+      "identifier" : "CKPHzr0GIABIAZABAA==",
+      "msg" : "Sandra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/17 18:01:22",
+      "delete" : false,
+      "identifier" : "CKrHzr0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Perfeito, *Sandra*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/17 18:01:28",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLDHzr0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/17 18:01:41",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CL3Hzr0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/17 18:01:42",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CL7Hzr0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/17 18:02:28",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "COzHzr0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/17 18:02:30",
+      "delete" : false,
+      "identifier" : "CO7Hzr0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/17 18:02:58",
+      "delete" : false,
+      "identifier" : "CIrIzr0GIABIAZABAA==",
+      "msg" : "Me afiliei lá pela ticto mas não consigo achar material de apoio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 08:22:33",
+      "delete" : false,
+      "identifier" : "CIHb0b0GIABIAZABAA==",
+      "msg" : "Olá, por favor onde encontro o material de apoio para afiliados de vocês?!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 08:42:39",
+      "delete" : false,
+      "identifier" : "CLfk0b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Sandra! Tudo bem?\nDe qual material você está precisando?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:10:13",
+      "delete" : false,
+      "identifier" : "CK3x0b0GIABIAZABAA==",
+      "msg" : "Material de divulgação e de público... se tiver lista de clientes para montar meu público ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:10:56",
+      "delete" : false,
+      "identifier" : "CNjx0b0GIABIAZABAA==",
+      "msg" : "Do desafio modo caverna\nMe afiliei pela ticto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 09:25:57",
+      "delete" : false,
+      "mediaName" : "965bea41-744d-441c-9e71-2e74657928e0.opus",
+      "localPath" : "media\/606fb9841321fb464a1342b9a1031c86967c9ff9.opus",
+      "mediaSize" : "51 KB",
+      "identifier" : "CN340b0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:25"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:33:34",
+      "delete" : false,
+      "identifier" : "CKb80b0GIABIAZABAA==",
+      "msg" : "Capturo imagem então do insta\n@modocaverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:34:06",
+      "delete" : false,
+      "identifier" : "CMb80b0GIABIAZABAA==",
+      "msg" : "Pode me dar uma ideia de público alvo ideal para vender?!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 09:42:49",
+      "delete" : false,
+      "mediaName" : "8a3ea0be-ce23-4998-92d3-0e3c54589a43.jpg",
+      "localPath" : "media\/25b7b4122fdc0a88792e9930a755d232a0470b78.jpg",
+      "mediaSize" : "173 KB",
+      "identifier" : "CNGA0r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/263beccf8a050d6dbae09f391d4ba9621cf30d47"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 09:44:53",
+      "delete" : false,
+      "identifier" : "CM2B0r0GIABIAZABAA==",
+      "msg" : "Gratidão.. vai me ajudar bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 10:00:16",
+      "delete" : false,
+      "identifier" : "COiI0r0GIABIAZABAA==",
+      "msg" : "Se tiver mais algo como palavra chave para definir público da campanha lá no facebook ads será de muita valia tambem.\nGratidão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 10:45:43",
+      "delete" : false,
+      "identifier" : "CI+e0r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Foco e produtividade são as que mais utilizamos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 11:21:41",
+      "delete" : false,
+      "identifier" : "CP2u0r0GIABIAZABAA==",
+      "msg" : "Gratidao",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 11:23:34",
+      "delete" : false,
+      "identifier" : "CO6v0r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! Qualquer dúvida pode me mandar mensagem ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:04:11",
+      "delete" : false,
+      "identifier" : "CLOz070GIABIAZABAA==",
+      "msg" : "Me tira uma dúvida... o produto de $29 o de $39 e o de $49 são o mesmo produto?!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:28:50",
+      "delete" : false,
+      "identifier" : "CPq+070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "São sim, fica livre para você escolher com qual valor ofertar. É interessante que faça testes para ver como está seu público",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 17:07:02",
+      "delete" : false,
+      "identifier" : "CO7Q070GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 11:29:35",
+      "mediaSize" : "3 KB",
+      "mediaName" : "ddb1bdee-17e7-46fb-9f6a-b3bdfc5f01cd.thumb",
+      "localPath" : "media\/b6c715cde0af851290b6510e06fd2fffcecbae48.thumb",
+      "delete" : false,
+      "identifier" : "CNfV170GIABIAZABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 11:30:38",
+      "delete" : false,
+      "identifier" : "CJbW170GIABIAZABAA==",
+      "msg" : "Sabe o que pode ter acontecido... ou se eu usar o link alternativo pode dar  certo?!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/19 11:31:55",
+      "delete" : false,
+      "identifier" : "COPW170GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Sandra! \nAcredito que tenha acontecido por estar utilizando outro domínio, e as imagens já estão vinculadas ao nosso. Uma alternativa seria que você baixasse as imagens e subisse na página do seu domínio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 11:36:11",
+      "delete" : false,
+      "identifier" : "COPY170GIABIAZABAA==",
+      "msg" : "Putz eu uso o 123 tá pronto... e dizem que não é tão fácil alterar o site que pegamos😬 como o click roi por exemplo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 11:36:45",
+      "delete" : false,
+      "identifier" : "CIXZ170GIABIAZABAA==",
+      "msg" : "Acha que vale a pena tentar o link alternativo ou vou perder tempo?!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 11:47:19",
+      "delete" : false,
+      "identifier" : "CP\/d170GIABIAZABAA==",
+      "msg" : "Se só tiver este jeito vcs podem me ensinar como fazer?!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/19 12:28:33",
+      "delete" : false,
+      "identifier" : "CKnx170GIABIAZABAA==",
+      "msg" : "Olá conversei com a 123 tá pronto e me explicaram isto:\n\nEssa página tem um script chamado lazy load, que o produtor insere na página com a intenção de melhorar a experiência visual para os leads, mas acaba impedindo a clonagem integral da página, pois alguns elementos não ficam iguais ou nem mesmo aparecem. Como é uma página clonada, não dá para adicionar as imagens e elementos manualmente, então a solução é que o produtor forneça uma página em HTML simples para clonar, sem esse script.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/19 15:05:38",
+      "delete" : false,
+      "identifier" : "CPq62L0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Só utilizamos o json nas páginas, não conseguimos alterar para html",
+      "type" : "text"
+    }
+  ]
+})

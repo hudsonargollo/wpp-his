@@ -1,0 +1,71 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 32 99139-4238",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 17:36:24",
+      "delete" : false,
+      "identifier" : "CNDdvMIGIABIAZABAA==",
+      "msg" : "Ola, gostaria de pedir o estorno. A assinatura foi atualizada, mas não desejo continuar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 08:10:41",
+      "delete" : false,
+      "identifier" : "CLn3v8IGIABIAZABAA==",
+      "msg" : "Bom diaaa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 08:10:46",
+      "delete" : false,
+      "identifier" : "CL73v8IGIABIAZABAA==",
+      "msg" : "123.127.866-80",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 09:05:11",
+      "delete" : false,
+      "identifier" : "CP+QwMIGIABIAZABAA==",
+      "msg" : "Tive problemas com o App no MacBook e no celular… quando terminava o pomodoro ficava preto. Abri suporte e não resolveu\n\nParei de usar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 09:16:38",
+      "delete" : false,
+      "identifier" : "CK6WwMIGIABIAIoBBAgAEACQAQA=",
+      "msg" : "Mas quando minha tela fecha, continua contando normal? no celular",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 09:21:32",
+      "delete" : false,
+      "identifier" : "CNSYwMIGIABIAIoBBAgAEACQAQA=",
+      "msg" : "Ah perfeito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 09:21:34",
+      "delete" : false,
+      "identifier" : "CNaYwMIGIABIAIoBBAgAEACQAQA=",
+      "msg" : "Vou testar",
+      "type" : "text"
+    }
+  ]
+})

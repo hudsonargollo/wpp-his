@@ -1,0 +1,123 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 88 99919-9141",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 14:57:00",
+      "delete" : false,
+      "identifier" : "CPSWgb8GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 14:57:07",
+      "delete" : false,
+      "identifier" : "CPuWgb8GIABIAZABAA==",
+      "msg" : "E vitalício ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 14:57:10",
+      "delete" : false,
+      "identifier" : "CP6Wgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 14:57:16",
+      "delete" : false,
+      "identifier" : "CISXgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 14:57:36",
+      "delete" : false,
+      "identifier" : "CJiXgb8GIABIAZABAA==",
+      "msg" : "Júnior",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 14:57:42",
+      "delete" : false,
+      "identifier" : "CJ6Xgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Júnior*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/23 14:57:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKSXgb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/23 14:58:10",
+      "delete" : false,
+      "identifier" : "CLqXgb8GIABIAZABAA==",
+      "msg" : "É vitalício",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/24 08:52:05",
+      "delete" : false,
+      "identifier" : "CO2Ohb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Junior! Tudo bem?\nMe envia seu email para que eu possa consultr sua assinatura, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/24 16:23:13",
+      "delete" : false,
+      "identifier" : "CKnihr8GIABIAZABAA==",
+      "msg" : "Jniorsousa09@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/24 16:36:10",
+      "delete" : false,
+      "mediaName" : "c6edc466-2a8f-4aed-9aef-3915b1385129.opus",
+      "localPath" : "media\/a7887f8c166719f563cb4db80b66124d8bac1149.opus",
+      "mediaSize" : "51 KB",
+      "identifier" : "CLLohr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/24 16:36:21",
+      "delete" : false,
+      "mediaName" : "6 Maneiras de fazer 3 mil em 30 dias.pdf",
+      "localPath" : "media\/727e236b3ce4d78bf7d8452328106891a72a5e93.pdf",
+      "mediaSize" : "53 MB",
+      "identifier" : "CL3ohr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/942da8ff9267d9ab457bb6eafa201d000b8c7eec"
+    }
+  ]
+})

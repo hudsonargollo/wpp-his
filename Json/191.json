@@ -1,0 +1,27 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99970-5405",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/19 00:22:45",
+      "delete" : false,
+      "identifier" : "CI2f7MMGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/19 12:34:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJb27sMGIABIAZABAA==",
+      "type" : "file"
+    }
+  ]
+})

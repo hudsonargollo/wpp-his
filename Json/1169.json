@@ -1,0 +1,288 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98127-2769",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 10:56:43",
+      "delete" : false,
+      "identifier" : "CKPcjb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 10:56:48",
+      "delete" : false,
+      "identifier" : "CKjcjb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:56:56",
+      "delete" : false,
+      "identifier" : "CLDcjb0GIABIAZABAA==",
+      "msg" : "Raigo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 10:57:03",
+      "delete" : false,
+      "identifier" : "CLfcjb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Raigo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 10:57:09",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CL3cjb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:57:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CMPcjb0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 10:57:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMTcjb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:57:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CM7cjb0GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 10:57:29",
+      "delete" : false,
+      "identifier" : "CNHcjb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:57:39",
+      "delete" : false,
+      "identifier" : "CNvcjb0GIABIAZABAA==",
+      "msg" : "raigoraraujo2014@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:57:54",
+      "delete" : false,
+      "identifier" : "COrcjb0GIABIAZABAA==",
+      "msg" : "Comprei a um tempinho atrás, até esses dias ainda estava conseguindo acessar atraves da cademi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:58:48",
+      "delete" : false,
+      "mediaName" : "059c59a6-ab13-42a3-aca6-4b79a99f5a2d.mp4",
+      "localPath" : "media\/51fcea0304b7424e761e0efef5d6abaef8f1d8a9.mp4",
+      "mediaSize" : "405 KB",
+      "identifier" : "CKDdjb0GIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/03b0a5d03989e91e4e9a4183e52518f9ad7fbf25"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 10:59:12",
+      "delete" : false,
+      "identifier" : "CLjdjb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Raigo! Tudo bem?\nMe envia o comprovante de compra, por gentileza. Consigo liberar um drive com as aulas pra você",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:59:30",
+      "delete" : false,
+      "identifier" : "CMrdjb0GIABIAZABAA==",
+      "msg" : "Puts, faz um tempo que eu comprei viu kkkk",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 10:59:39",
+      "delete" : false,
+      "identifier" : "CNPdjb0GIABIAZABAA==",
+      "msg" : "Perai",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 11:00:55",
+      "delete" : false,
+      "identifier" : "CJ\/ejb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pesquisa por cademi no email, pode ajudar a encontrar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:01:16",
+      "delete" : false,
+      "identifier" : "CLTejb0GIABIAZABAA==",
+      "msg" : "Foi na epoca da braip ainda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:01:32",
+      "delete" : false,
+      "mediaName" : "85deb836-1d83-43ff-8366-d7050fa456e6.jpg",
+      "localPath" : "media\/d609d40834837817442973afa02043862a1230d0.jpg",
+      "mediaSize" : "153 KB",
+      "identifier" : "CMTejb0GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c3ef0a935e53a82ad3a6ebfe468cfd07f3ce98f6"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 11:03:37",
+      "delete" : false,
+      "identifier" : "CMHfjb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, me envia um email que eu possa liberar o curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:04:50",
+      "delete" : false,
+      "identifier" : "CIrgjb0GIABIAZABAA==",
+      "msg" : "Pode ser nesse mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:04:52",
+      "delete" : false,
+      "identifier" : "CIzgjb0GIABIAZABAA==",
+      "msg" : "raigoraraujo2014@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:05:30",
+      "delete" : false,
+      "identifier" : "CLLgjb0GIABIAZABAA==",
+      "msg" : "Ai também gostaria de saber se posso comprar a quebra da Matrix",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 11:09:10",
+      "delete" : false,
+      "identifier" : "CI7ijb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "No momento não estamos vendendo a quebra da matrix, mas o Iuri tem planos de abrir uma nova turma em breve",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 11:10:20",
+      "delete" : false,
+      "identifier" : "CNTijb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Prontinho, acabei de liberar seu acesso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:10:37",
+      "delete" : false,
+      "identifier" : "COXijb0GIABIAZABAA==",
+      "msg" : "Show de bola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:10:40",
+      "delete" : false,
+      "identifier" : "COjijb0GIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:10:55",
+      "delete" : false,
+      "identifier" : "CPfijb0GIABIAZABAA==",
+      "msg" : "Outra pergunta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:11:21",
+      "delete" : false,
+      "identifier" : "CJHjjb0GIABIAZABAA==",
+      "msg" : "Teve uma época que tava tendo plaquinha de 10k pro pessoal do treinamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/05 11:11:23",
+      "delete" : false,
+      "identifier" : "CJPjjb0GIABIAZABAA==",
+      "msg" : "Ainda tem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/05 11:11:58",
+      "delete" : false,
+      "identifier" : "CLbjjb0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Infelizmente não 😕",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,503 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 99977-7220",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:25:05",
+      "delete" : false,
+      "identifier" : "CKmegbgGIABIAJABAA==",
+      "msg" : "opa, meu numero novo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 17:25:07",
+      "delete" : false,
+      "identifier" : "CKuegbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:25:18",
+      "delete" : false,
+      "identifier" : "CLaegbgGIABIAJABAA==",
+      "msg" : "qnd tiver o valor das placas, me retorna por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 17:29:15",
+      "delete" : false,
+      "mediaName" : "ba6f356d-750f-41f8-81a6-6c227e21b55d.opus",
+      "localPath" : "media\/8db871840f55c5b1c8891edbd0963518266b7e3a.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CKOggbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:09"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 17:29:43",
+      "delete" : false,
+      "identifier" : "CL+ggbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Temos o orçamento da sua solicitação! Para pagamento é necessário realizar o pix para essa chave: projetoiurimeira@gmail.com e mandar o comprovante aqui no nosso chat!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 17:29:48",
+      "delete" : false,
+      "identifier" : "CMSggbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Placas:100k - 130,00\n       250k - 130,00\n       500k - 130,00\n         1M - 157,00\nFrete:     -  166,00\n--------------------\nTotal:  -  R$ 713,00",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:32:47",
+      "delete" : false,
+      "identifier" : "CPehgbgGIABIAZABAA==",
+      "msg" : "Perfeito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:32:50",
+      "delete" : false,
+      "identifier" : "CPqhgbgGIABIAZABAA==",
+      "msg" : "Vou enviar o pix",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:33:41",
+      "delete" : false,
+      "mediaName" : "444fc836-8425-44cc-86ab-adca77230e8b.jpg",
+      "localPath" : "media\/3bbe70cca5bc3ffd0c95d8ef16d5fdfa022f4724.jpg",
+      "mediaSize" : "63 KB",
+      "identifier" : "CK2igbgGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a1af09652ae3d41e54d95b950845aa998d346f12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:33:50",
+      "delete" : false,
+      "identifier" : "CLaigbgGIABIAZABAA==",
+      "msg" : "Quando chega, tem previsão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 17:37:46",
+      "delete" : false,
+      "mediaName" : "eec9bbfa-500c-43e0-bc15-3a5e1ea7d1e3.opus",
+      "localPath" : "media\/72a685490e31c226bfc6c29b4209f53ebf350f82.opus",
+      "mediaSize" : "78 KB",
+      "identifier" : "CKKkgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:38"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:38:58",
+      "delete" : false,
+      "mediaName" : "68ac90a0-2c94-4cb9-984f-67c0735188ab.opus",
+      "localPath" : "media\/bd401893cc1e4fc4bbd162c4e25e923fd7fc08b9.opus",
+      "mediaSize" : "41 KB",
+      "identifier" : "COqkgbgGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:40:15",
+      "delete" : false,
+      "identifier" : "CLelgbgGIABIAZABAA==",
+      "msg" : "E consegue me envie foto das placas? Por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 17:44:05",
+      "delete" : false,
+      "mediaName" : "1b938828-fe1e-4b24-a5b8-b3fcec48e8ca.opus",
+      "localPath" : "media\/9da32c0ee19555cc1fbda5b8c64502a472503bd2.opus",
+      "mediaSize" : "180 KB",
+      "identifier" : "CJ2ngbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:27"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 17:45:09",
+      "delete" : false,
+      "mediaName" : "05a994bd-c96b-446b-9f77-ef9b22f40fc0.opus",
+      "localPath" : "media\/f3738b6d2a79cb49f9053415555cf531c5ee149d.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CN2ngbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:48:49",
+      "delete" : false,
+      "identifier" : "CLmpgbgGIABIAZABAA==",
+      "msg" : "Perfeito, ou seja, daq que façam todos os pix, eles realizarem a produção e o envio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:48:52",
+      "delete" : false,
+      "identifier" : "CLypgbgGIABIAZABAA==",
+      "msg" : "Deve ser uns 2 meses tudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:49:14",
+      "delete" : false,
+      "identifier" : "CNKpgbgGIABIAZABAA==",
+      "msg" : "Deve chegar ali pelo início de dezembro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/05 10:53:22",
+      "delete" : false,
+      "mediaName" : "086875ee-611c-4df5-8fe2-fdcab7603893.opus",
+      "localPath" : "media\/177f6b0c7ef26c024cce5662aa17529110f44070.opus",
+      "mediaSize" : "32 KB",
+      "identifier" : "CNqJhbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/05 10:53:52",
+      "delete" : false,
+      "identifier" : "CPiJhbgGIABIAZABAA==",
+      "msg" : "Show",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/05 10:53:54",
+      "delete" : false,
+      "identifier" : "CPqJhbgGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/05 10:54:18",
+      "delete" : false,
+      "identifier" : "CJKKhbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/05 10:59:40",
+      "delete" : false,
+      "identifier" : "CNSMhbgGIABIAZABAA==",
+      "msg" : "Você conseguiu as fotos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/05 10:59:49",
+      "delete" : false,
+      "identifier" : "CN2MhbgGIABIAZABAA==",
+      "msg" : "Quando der, me envia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/05 10:59:51",
+      "delete" : false,
+      "identifier" : "CN+MhbgGIABIAZABAA==",
+      "msg" : "Por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/05 11:00:13",
+      "delete" : false,
+      "identifier" : "CPWMhbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O rapaz ainda não me enviou, deve ser porque é final de semana!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/05 11:00:29",
+      "delete" : false,
+      "identifier" : "CIWNhbgGIABIAZABAA==",
+      "msg" : "Show",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/05 11:01:47",
+      "delete" : false,
+      "identifier" : "CNONhbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Assim que ele me enviar, te mando!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/05 11:04:24",
+      "delete" : false,
+      "identifier" : "CPCOhbgGIABIAZABAA==",
+      "msg" : "Beleza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/05 11:04:26",
+      "delete" : false,
+      "identifier" : "CPKOhbgGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/05 11:06:42",
+      "delete" : false,
+      "identifier" : "CPqPhbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/11 21:24:26",
+      "delete" : false,
+      "identifier" : "CMKDp7gGIABIAJABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/11 21:24:29",
+      "delete" : false,
+      "identifier" : "CMWDp7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/11 21:24:40",
+      "delete" : false,
+      "identifier" : "CNCDp7gGIABIAJABAA==",
+      "msg" : "vocês já enviaram a solicitação das placas ao pessoal da fábrica?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/13 09:48:01",
+      "delete" : false,
+      "mediaName" : "f2c4b231-bf21-4b3e-b2ba-b925e590c6d5.opus",
+      "localPath" : "media\/03eeacccdf80177d91f0cbf27d8c8d80ec4985ea.opus",
+      "mediaSize" : "146 KB",
+      "identifier" : "CImDr7gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/13 09:53:48",
+      "delete" : false,
+      "identifier" : "COSFr7gGIABIAZABAA==",
+      "msg" : "Perfeitamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/13 09:53:50",
+      "delete" : false,
+      "identifier" : "COaFr7gGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/14 09:47:43",
+      "delete" : false,
+      "mediaName" : "e3c381bf-7e24-4713-8161-6823f6d2bc23.opus",
+      "localPath" : "media\/0e3c148c7fd34da361b69f58edb8abff642a119e.opus",
+      "mediaSize" : "13 KB",
+      "identifier" : "CPeltLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 12:18:24",
+      "delete" : false,
+      "identifier" : "CMin5LgGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 12:18:30",
+      "delete" : false,
+      "identifier" : "CM6n5LgGIABIAJABAA==",
+      "msg" : "Alguma novidade do envio das placas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 14:57:34",
+      "delete" : false,
+      "identifier" : "CJby5LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem? Estão em processo de fabricação, assim que recebermos o código de rastreio mandamos para você! Te ajudo em algo mais? 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 15:20:27",
+      "delete" : false,
+      "identifier" : "CPP85LgGIABIAZABAA==",
+      "msg" : "Apenas isso, obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 15:20:46",
+      "delete" : false,
+      "identifier" : "CIb95LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 14:58:08",
+      "delete" : false,
+      "identifier" : "CLiiubkGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 14:58:13",
+      "delete" : false,
+      "identifier" : "CL2iubkGIABIAZABAA==",
+      "msg" : "Alguma atualização sobre o pedido das placas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 14:58:17",
+      "delete" : false,
+      "identifier" : "CMGiubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 14:58:23",
+      "delete" : false,
+      "identifier" : "CMeiubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 15:13:16",
+      "delete" : false,
+      "identifier" : "CMSpubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 15:44:54",
+      "delete" : false,
+      "identifier" : "CK64ubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nTenho uma ótima notícia para você: sua placa já foi enviada! 🎉\nO código de rastreamento é: SY643306369BR. Em breve, ela estará nas suas mãos!\nSe precisar de qualquer coisa ou tiver dúvidas, estamos à disposição. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 15:45:03",
+      "delete" : false,
+      "identifier" : "CLe4ubkGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 15:45:06",
+      "delete" : false,
+      "identifier" : "CLq4ubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Oiii de novo! 😊*\nQual é o seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 15:45:51",
+      "delete" : false,
+      "identifier" : "COe4ubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estou a disposição!",
+      "type" : "text"
+    }
+  ]
+})

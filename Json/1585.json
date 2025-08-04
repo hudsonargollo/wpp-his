@@ -1,0 +1,231 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 12 99113-8762",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:08:37",
+      "delete" : false,
+      "identifier" : "CM2k67oGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:08:46",
+      "delete" : false,
+      "identifier" : "CNak67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:08:50",
+      "delete" : false,
+      "identifier" : "CNqk67oGIABIAJABAA==",
+      "msg" : "Como assim o meu plano virou anual?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:08:52",
+      "delete" : false,
+      "identifier" : "CNyk67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:08:56",
+      "delete" : false,
+      "identifier" : "COCk67oGIABIAJABAA==",
+      "msg" : "VInicius",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:09:02",
+      "delete" : false,
+      "identifier" : "COak67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *VInicius*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:09:05",
+      "delete" : false,
+      "identifier" : "COmk67oGIABIAJABAA==",
+      "msg" : "Meu plano era vitalicio e agora do nada vcs meteram um anual?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:09:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COyk67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:09:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "CPKk67oGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:09:21",
+      "delete" : false,
+      "identifier" : "CPmk67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre a Central Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:09:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CP6k67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:09:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CISl67oGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:09:34",
+      "delete" : false,
+      "identifier" : "CIal67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:09:39",
+      "delete" : false,
+      "identifier" : "CIul67oGIABIAJABAA==",
+      "msg" : "Meu plano era vitalicio e agora do nada vcs meteram um anual?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:09:52",
+      "delete" : false,
+      "identifier" : "CJil67oGIABIAJABAA==",
+      "msg" : "ISso é totalmente errado,",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:29:21",
+      "delete" : false,
+      "identifier" : "CKmu67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:29:45",
+      "delete" : false,
+      "mediaName" : "c8db86b9-e56f-4a29-a413-a63df2a2870f.opus",
+      "localPath" : "media\/d5bee38f1f181e9eb2481a55e6f7963a06944b13.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "CMGu67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:30:36",
+      "delete" : false,
+      "identifier" : "CPSu67oGIABIAJABAA==",
+      "msg" : "Mais quando eu comprei não tinha nada falando que seria mensal ou anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:30:40",
+      "delete" : false,
+      "identifier" : "CPiu67oGIABIAJABAA==",
+      "msg" : "Comprei no lançamento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:30:52",
+      "delete" : false,
+      "identifier" : "CISv67oGIABIAJABAA==",
+      "msg" : "Agora vcs meteram que vai vencer meu plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:30:55",
+      "delete" : false,
+      "identifier" : "CIev67oGIABIAJABAA==",
+      "msg" : "Absurdo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/12 09:31:01",
+      "delete" : false,
+      "identifier" : "CI2v67oGIABIAJABAA==",
+      "msg" : "Quero meu reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:35:58",
+      "delete" : false,
+      "identifier" : "CLax67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 09:37:20",
+      "delete" : false,
+      "identifier" : "CIiy67oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só trabalhamos com esses dois tipos de planos, não temos cursos com acesso vitalício 😊",
+      "type" : "text"
+    }
+  ]
+})

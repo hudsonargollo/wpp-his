@@ -1,0 +1,543 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+44 7944 855128",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 05:35:51",
+      "delete" : false,
+      "identifier" : "CO+iqsIGIABIAZABAA==",
+      "msg" : "Hello",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 05:35:59",
+      "delete" : false,
+      "identifier" : "CPeiqsIGIABIAZABAA==",
+      "msg" : "Não consigo acessar minha conta na página de vendas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 05:36:52",
+      "mediaSize" : "1 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKyjqsIGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/377aeee5744582b62f464ff2f667c1fa58b8110e"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 06:25:09",
+      "delete" : false,
+      "identifier" : "CP25qsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 06:25:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CP65qsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 06:36:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "4️⃣ Programa de Afiliados",
+      "delete" : false,
+      "identifier" : "CJe\/qsIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 06:36:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJi\/qsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 06:36:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Quero me afiliar.*",
+      "delete" : false,
+      "identifier" : "CKW\/qsIGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 06:36:31",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKe\/qsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 08:10:20",
+      "delete" : false,
+      "identifier" : "CKTrqsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso! Tudo certo? 🐺\n\nEntão, não temos acesso administrativo nem controle sobre bugs da plataforma TikTok. O ideal nesses casos é entrar em contato direto com o suporte deles.\n\nMas antes, tenta fazer o seguinte:\n• Limpa o cache do navegador,\n• Testa em outro navegador,\n• Ou acessa por outro dispositivo.\nQualquer coisa, sigo por aqui pra te ajudar no que for possível!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:25:26",
+      "delete" : false,
+      "identifier" : "CK7yqsIGIABIAZABAA==",
+      "msg" : "Não é TikTok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:25:30",
+      "delete" : false,
+      "identifier" : "CLLyqsIGIABIAZABAA==",
+      "msg" : "Na plataforma de vendas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:25:43",
+      "delete" : false,
+      "identifier" : "CL\/yqsIGIABIAZABAA==",
+      "msg" : "Ticto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:25:53",
+      "delete" : false,
+      "mediaName" : "1970ae3e-84c7-4404-8b78-f91452a54c0f.jpg",
+      "localPath" : "media\/5b37d21a4b55235b7f372663d5e496473afd19c9.jpg",
+      "mediaSize" : "92 KB",
+      "identifier" : "CMnyqsIGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/fb384776b306d5212d514eac016f7ba7df1fc3e7"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:25:59",
+      "delete" : false,
+      "identifier" : "CM\/yqsIGIABIAZABAA==",
+      "msg" : "Conseguem verificar pra mim ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:26:11",
+      "delete" : false,
+      "identifier" : "CNvyqsIGIABIAZABAA==",
+      "msg" : "Ou mudar minha senha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 08:32:15",
+      "delete" : false,
+      "identifier" : "CMf1qsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perdão, ticto*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:32:33",
+      "delete" : false,
+      "identifier" : "CNn1qsIGIABIAZABAA==",
+      "msg" : "Ata kkk",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:32:38",
+      "delete" : false,
+      "identifier" : "CN71qsIGIABIAZABAA==",
+      "msg" : "O que faço ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:32:41",
+      "delete" : false,
+      "identifier" : "COH1qsIGIABIAZABAA==",
+      "msg" : "Crio outra conta ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:32:52",
+      "delete" : false,
+      "identifier" : "COz1qsIGIAA6FDNBODUwMzA4QTc3QTlBMzEzMDlBQPe0qZ\/2MkgBeJ3fg+\/3MpABAA==",
+      "msg" : "Porque não consigo por celular nem no notebook",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:33:27",
+      "delete" : false,
+      "identifier" : "CI\/2qsIGIABIAZABAA==",
+      "msg" : "Vocês não tem na versão inglês ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:33:37",
+      "delete" : false,
+      "identifier" : "CJn2qsIGIABIAZABAA==",
+      "msg" : "Eu tenho amigos britânicos que ficaram interessados",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 08:33:45",
+      "delete" : false,
+      "identifier" : "CKH2qsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Testa o seguinte por aí: limpa o cache do navegador, tenta acessar por outro navegador ou até outro dispositivo. Se não resolver, tenta criar uma nova conta.\nE se o problema for direto na parte de pagamento ou acesso pela Ticto, o ideal é entrar em contato com o suporte deles.\n\nQualquer coisa, sigo por aqui!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:33:49",
+      "delete" : false,
+      "identifier" : "CKX2qsIGIABIAZABAA==",
+      "msg" : "Seria interessante criar o curso e a plataforma em inglês ;)",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:34:06",
+      "delete" : false,
+      "identifier" : "CLb2qsIGIABIAZABAA==",
+      "msg" : "Vou fazer",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/12 08:34:15",
+      "delete" : false,
+      "identifier" : "CL\/2qsIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Valeu pelo feedback!\n\nVamos repassar pra nossa equipe. 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:35:57",
+      "delete" : false,
+      "identifier" : "CKX3qsIGIABIAZABAA==",
+      "msg" : "Muito obrigado, se precisarem de alguma ajuda ou informação podem entrar em contato comigo, moro no Reino Unido 🇬🇧",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/12 08:36:43",
+      "delete" : false,
+      "identifier" : "CNP3qsIGIABIAZABAA==",
+      "msg" : "Tenho amigos influencers aqui com mais de 2milhoes de seguidores seria muito interessante expandir internacionalmente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 15:26:23",
+      "delete" : false,
+      "mediaName" : "ab5d25d9-bb94-4a72-9baf-0b706574fdcf.jpg",
+      "localPath" : "media\/8e8e9289ec21e7120c14d6824615bb48ce16989b.jpg",
+      "mediaSize" : "336 KB",
+      "identifier" : "CNfDwcIGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b085823defd9697bbfafd61f260d129fee90abea"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 15:26:24",
+      "delete" : false,
+      "identifier" : "CNjDwcIGIABIAJABAA==",
+      "msg" : "bom ? to escrevendo um livro usando a metodologia do modo caverna para indicar o pessoal direto para o programa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 15:31:57",
+      "delete" : false,
+      "mediaName" : "55fb2f01-7ca7-4b64-9ede-8a8547f57ca6.jpg",
+      "localPath" : "media\/bf28f9fa9ecaae506e5e19694f884e4bf2b53bb1.jpg",
+      "mediaSize" : "317 KB",
+      "identifier" : "CKXGwcIGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/d55201aaab47b81471bf07e835880c506b5829f9"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/01 12:39:21",
+      "delete" : false,
+      "identifier" : "CLGCkMMGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/01 12:39:30",
+      "delete" : false,
+      "identifier" : "CLqCkMMGIABIAZABAA==",
+      "msg" : "Material para divulgação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/01 12:39:36",
+      "delete" : false,
+      "identifier" : "CMCCkMMGIABIAZABAA==",
+      "msg" : "E meu link 🔗",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/01 12:44:46",
+      "delete" : false,
+      "identifier" : "CPaEkMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Cavernoso, tudo certo? Capitão aqui pra te ajudar! 🐺\n\nAtualmente, não temos materiais prontos para divulgação, beleza? Você mesmo pode criar os seus próprios conteúdos, do seu jeito, com sua linguagem, e mandar bala na divulgação.\n\nSobre o seu link de afiliado, é necessário solicitar diretamente pela Ticto. Se você não sabe como fazer isso, entra lá na plataforma, vai em Área de Benefícios > Indique e Ganhe — lá tem todas as instruções, inclusive um vídeo explicativo com o passo a passo.\n\nQualquer dúvida nesse processo, só me chamar! 💪",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/01 12:57:10",
+      "delete" : false,
+      "identifier" : "CN6KkMMGIABIAZABAA==",
+      "msg" : "Thank you 🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 20:38:14",
+      "delete" : false,
+      "identifier" : "CO6S5sMGIABIAZABAA==",
+      "msg" : "Não consigo logar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 20:39:36",
+      "delete" : false,
+      "identifier" : "CMCT5sMGIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 08:29:23",
+      "delete" : false,
+      "identifier" : "CJvg6MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! tudo bem? Tentou acessar com a senha sendo seu CPF?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 09:08:27",
+      "delete" : false,
+      "identifier" : "CMPy6MMGIABIAZABAA==",
+      "msg" : "Vou tentar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 09:11:07",
+      "delete" : false,
+      "mediaName" : "253bb7f0-2ff6-4465-816b-c95124926232.jpg",
+      "localPath" : "media\/cb4eb02c0910090232265e884fff7cb5e566f6ad.jpg",
+      "mediaSize" : "110 KB",
+      "identifier" : "COPz6MMGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/81ea11ef698287fa6349a104f1cf84ce24f12135"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 09:23:29",
+      "delete" : false,
+      "identifier" : "CMn56MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "um momento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 09:25:27",
+      "delete" : false,
+      "identifier" : "CL\/66MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "tenta alterar sua senha, clique em \"esqueceu sua senha\"",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 09:36:34",
+      "delete" : false,
+      "identifier" : "CNr\/6MMGIABIAZABAA==",
+      "msg" : "Já fizez",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 09:36:38",
+      "delete" : false,
+      "identifier" : "CN7\/6MMGIABIAZABAA==",
+      "msg" : "Fiz*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 09:40:37",
+      "delete" : false,
+      "identifier" : "CM2B6cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "conseguiu fazer o login?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/18 09:51:30",
+      "delete" : false,
+      "identifier" : "CNqG6cMGIABIAZABAA==",
+      "msg" : "Não consegui 😥",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 09:52:39",
+      "delete" : false,
+      "identifier" : "CJ+H6cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tenta acessar de outro navegador, por favor.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/18 09:52:43",
+      "delete" : false,
+      "identifier" : "CKOH6cMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pode ser o edge.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 10:53:03",
+      "delete" : false,
+      "mediaName" : "2f1e1b3b-ac8e-42b8-9b2c-a7d048f45153.jpg",
+      "localPath" : "media\/7a514da23c063f1b8535a31940091fc70437a462.jpg",
+      "mediaSize" : "132 KB",
+      "identifier" : "CMev\/sMGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/0c74260e611fa41a633668973656c92a608cd3e1"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 10:53:21",
+      "delete" : false,
+      "identifier" : "CNmv\/sMGIABIAZABAA==",
+      "msg" : "Vocês precisam dar uma opção para quem já tem conta fazer o login sem ficar vendo esse vídeo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 10:54:52",
+      "delete" : false,
+      "identifier" : "CLSw\/sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 10:55:03",
+      "delete" : false,
+      "identifier" : "CL+w\/sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você já tinha assistido antes essa parte?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 11:00:32",
+      "delete" : false,
+      "identifier" : "CIiz\/sMGIABIAZABAA==",
+      "msg" : "Sim várias vezes",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 11:03:13",
+      "delete" : false,
+      "identifier" : "CKm0\/sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "me passa seu e-mail, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 11:07:12",
+      "delete" : false,
+      "identifier" : "CJi2\/sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode testar novamente? faça o login, por favor e me diga se ainda aparece.",
+      "type" : "text"
+    }
+  ]
+})

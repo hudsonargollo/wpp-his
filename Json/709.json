@@ -1,0 +1,380 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 89 99441-5355",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/04 10:41:38",
+      "delete" : false,
+      "identifier" : "CJrd3cAGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/04 10:41:53",
+      "delete" : false,
+      "identifier" : "CKnd3cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/04 10:41:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKrd3cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/04 10:42:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNHd3cAGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/04 10:42:40",
+      "delete" : false,
+      "identifier" : "CNjd3cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/04 10:42:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN7d3cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/04 10:43:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CPfd3cAGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/04 10:43:13",
+      "delete" : false,
+      "identifier" : "CPnd3cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Agora, me envie o *seu nome* e *e-mail de compra*, para que eu possa localizar seu cadastro e te ajudar da melhor forma.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/04 10:43:43",
+      "delete" : false,
+      "identifier" : "CJfe3cAGIABIAZABAA==",
+      "msg" : "Assis Moura \nfalmoura777@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/04 10:43:45",
+      "delete" : false,
+      "identifier" : "CJne3cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nVamos prosseguir...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/04 10:43:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJre3cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/04 10:43:58",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CKbe3cAGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/04 10:44:00",
+      "delete" : false,
+      "identifier" : "CKje3cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\nLembrando que nosso atendimento funciona em horário comercial, caso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/04 10:44:58",
+      "delete" : false,
+      "identifier" : "COLe3cAGIABIAZABAA==",
+      "msg" : "Não estou estou conseguindo abrir os vídeos depois do vídeo de instrução!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 08:59:56",
+      "delete" : false,
+      "identifier" : "CMTQ4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem com você?\n\nSinto muito pelo transtorno, vou te ajudar com o acesso aos cursos e conteúdos.\n\nQual o seu email de compra?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 09:59:22",
+      "delete" : false,
+      "identifier" : "CLLs4sAGIABIAZABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 09:59:36",
+      "delete" : false,
+      "identifier" : "CMDs4sAGIABIAZABAA==",
+      "msg" : "Meu e-mail:",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 09:59:40",
+      "delete" : false,
+      "identifier" : "CMTs4sAGIABIAZABAA==",
+      "msg" : "falmoura777@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:09:17",
+      "mediaSize" : "3 KB",
+      "mediaName" : "676c0cf9-edc0-440b-a0c0-256864e3612f.thumb",
+      "localPath" : "media\/6894e0c7fbd51e36bdc061ca529bca7fe6900386.thumb",
+      "delete" : false,
+      "identifier" : "CIXx4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:29:27",
+      "delete" : false,
+      "identifier" : "CL\/64sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "A quais vídeos se refere amigo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:30:01",
+      "delete" : false,
+      "identifier" : "COH64sAGIABIAZABAA==",
+      "msg" : "As vídeo-aula",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:32:06",
+      "mediaSize" : "603 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN774sAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b459b18742c6404313a64d9a9221f0b780ed49b9"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:32:16",
+      "delete" : false,
+      "identifier" : "COj74sAGIABIAZABAA==",
+      "msg" : "Só vai até aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:32:28",
+      "delete" : false,
+      "identifier" : "CPT74sAGIABIAZABAA==",
+      "msg" : "Já tentei no celular não vai",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:32:39",
+      "delete" : false,
+      "identifier" : "CP\/74sAGIABIAZABAA==",
+      "msg" : "Tô no notebook também não vai",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:33:30",
+      "delete" : false,
+      "identifier" : "CLL84sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "tenta acessar https:\/\/app.modocaverna.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:33:43",
+      "delete" : false,
+      "identifier" : "CL\/84sAGIABIAZABAA==",
+      "msg" : "Tá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:34:27",
+      "mediaSize" : "493 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COv84sAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/34186c1356006749216470f1072f4ceec4ddecf5"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:34:30",
+      "delete" : false,
+      "identifier" : "CO784sAGIABIAZABAA==",
+      "msg" : "Não abre",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:38:19",
+      "delete" : false,
+      "identifier" : "CNP+4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O senhor poderia participar de uma video chamada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:38:20",
+      "delete" : false,
+      "identifier" : "CNT+4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:38:24",
+      "delete" : false,
+      "identifier" : "CNj+4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "vou te enviar um link aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:38:32",
+      "delete" : false,
+      "identifier" : "COD+4sAGIABIAZABAA==",
+      "msg" : "Tá bom",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:38:53",
+      "delete" : false,
+      "identifier" : "CPX+4sAGIABIAZABAA==",
+      "msg" : "Pelo celular ou pelo notebook",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:39:10",
+      "delete" : false,
+      "identifier" : "CIb\/4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "melhor pelo notebook",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:39:21",
+      "delete" : false,
+      "identifier" : "CJH\/4sAGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:39:25",
+      "delete" : false,
+      "identifier" : "CJX\/4sAGIABIAZABAA==",
+      "msg" : "Manda o link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/05 10:40:42",
+      "delete" : false,
+      "identifier" : "COL\/4sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/meet.google.com\/wxa-tcgt-boy?ijlm=1746452402338&hs=187&adhoc=1",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:52:55",
+      "delete" : false,
+      "identifier" : "CL+F48AGIABIAJABAA==",
+      "msg" : "falmoura777@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/05 10:53:01",
+      "delete" : false,
+      "identifier" : "CMWF48AGIABIAJABAA==",
+      "msg" : "85775487320",
+      "type" : "text"
+    }
+  ]
+})

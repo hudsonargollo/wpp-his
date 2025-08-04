@@ -1,0 +1,29 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 99670-2656",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/22 09:21:13",
+      "delete" : false,
+      "identifier" : "CMGx3rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem? Me chamo Bruna, sou responsável pelo suporte de Afiliações do Iuri Meira, gostaria de informar que sua afiliação foi aprovada! 🤩\nPoderia verificar por gentileza.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/22 09:21:40",
+      "delete" : false,
+      "mediaName" : "CHECKLIST-CENTRAL.pdf",
+      "localPath" : "media\/bc9a5b5a4dabae6c726142e776a1a63c9cb254f3.pdf",
+      "mediaSize" : "1,2 MB",
+      "identifier" : "CNyx3rgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/2ddea9604ed4e480c7db83634c3f82d038b2c8a2"
+    }
+  ]
+})

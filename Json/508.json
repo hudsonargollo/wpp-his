@@ -1,0 +1,96 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 15 99114-4353",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/09 15:08:27",
+      "delete" : false,
+      "identifier" : "CKPGnMIGIABIAJABAA==",
+      "msg" : "Boa tarde....",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 15:08:37",
+      "delete" : false,
+      "identifier" : "CK3GnMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 15:08:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK7GnMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/09 15:09:59",
+      "delete" : false,
+      "identifier" : "CP\/GnMIGIABIAJABAA==",
+      "msg" : "Meu nome é Flávio Ricardo Galli. No dia 23\/03\/25 comprei o curso Modo Caverna Ga no valor de R$49,00 ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 15:10:56",
+      "delete" : false,
+      "identifier" : "CLjHnMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Flávio, beleza?\n\nMe diz uma coisa, qual problema você está enfrentando?]",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/09 15:11:22",
+      "delete" : false,
+      "identifier" : "CNLHnMIGIABIAJABAA==",
+      "msg" : "Não estou conseguindo acessar mais os módulos Cave Focus, Clube da Luta, Marketing Digital......Poderia me orientar do que pode estar acontecendo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/09 15:17:20",
+      "delete" : false,
+      "mediaName" : "9f96384d-5b8a-47d7-8417-f1f433a883c5.jpg",
+      "localPath" : "media\/27d4af22579bc38ee26d28a02e98cd366d1b1917.jpg",
+      "mediaSize" : "177 KB",
+      "identifier" : "CLjKnMIGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/728c6c8df317eb26667de9130973081bd5778ce8"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 15:38:38",
+      "delete" : false,
+      "mediaName" : "d5b6e8f7-0e5d-4fde-a72d-cb3b84a213ac.m4a",
+      "localPath" : "media\/84fe047b3f0b161836619b473ad9712a83f12e23.m4a",
+      "mediaSize" : "311 KB",
+      "identifier" : "CLbUnMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:21"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/09 15:42:17",
+      "delete" : false,
+      "identifier" : "CJHWnMIGIABIAZABAA==",
+      "msg" : "Ok obrigado pelo retorno",
+      "type" : "text"
+    }
+  ]
+})

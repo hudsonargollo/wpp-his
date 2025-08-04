@@ -1,0 +1,85 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 71 98514-6749",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 06:18:58",
+      "delete" : false,
+      "identifier" : "CIqexsEGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 06:20:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ Loja Caverna",
+      "delete" : false,
+      "identifier" : "CIOfxsEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 06:22:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "*8️⃣ Como falo com um atendente?*",
+      "delete" : false,
+      "identifier" : "COOfxsEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 06:29:05",
+      "delete" : false,
+      "identifier" : "COmixsEGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 09:50:10",
+      "delete" : false,
+      "identifier" : "CIqBx8EGIABIAZABAA==",
+      "msg" : "Bom dia... Eu adquiri o desafio, fiz o pagamento e até o momento não chegou nenhuma informação via e-mail ou whatsapp.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 09:50:13",
+      "delete" : false,
+      "identifier" : "CI2Bx8EGIABIAZABAA==",
+      "msg" : "Meu email é",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 09:50:26",
+      "delete" : false,
+      "identifier" : "CJqBx8EGIABIAZABAA==",
+      "msg" : "Jullyana24@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 09:53:25",
+      "delete" : false,
+      "mediaName" : "1748091195335.pdf",
+      "localPath" : "media\/1739a1ee11072dd5d7b259884c53488056222e3c.pdf",
+      "mediaSize" : "6 KB",
+      "identifier" : "CM2Cx8EGIABIAZABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/85f078888179885df0f60000a5e613b5ec9b96c8"
+    }
+  ]
+})

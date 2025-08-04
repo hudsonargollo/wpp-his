@@ -1,0 +1,100 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 77 99700-8598",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 18:02:58",
+      "delete" : false,
+      "identifier" : "CIr03cEGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 18:03:10",
+      "delete" : false,
+      "identifier" : "CJb03cEGIABIAZABAA==",
+      "msg" : "Gostaria de cancelar a minha conta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 18:03:15",
+      "delete" : false,
+      "identifier" : "CJv03cEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/28 18:03:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJ303cEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 18:03:42",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLb03cEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/29 08:13:18",
+      "delete" : false,
+      "identifier" : "CNaC4cEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Gabriel, beleza? 🐺\n\nAntes de prosseguir, preciso te perguintar: qual foi o motivo que levou você a solicitar o cancelamento?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/29 09:24:43",
+      "delete" : false,
+      "identifier" : "CJOk4cEGIABIAZABAA==",
+      "msg" : "Alguns motivos pessoais...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/29 09:28:22",
+      "delete" : false,
+      "identifier" : "CO6l4cEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia nos explicar melhor, por gentileza?\n\nNossa plataforma possui altos níveis de avaliação e a grande maioria dos nossos usuários relata uma experiência muito positiva. Pedidos de reembolso são bastante raros, por isso queremos entender com clareza o que aconteceu no seu caso, tanto para te ajudar quanto para continuar melhorando o que oferecemos.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/29 10:32:57",
+      "delete" : false,
+      "identifier" : "CJHE4cEGIABIAZABAA==",
+      "msg" : "Claro!\nA minha rotina está muito puxada. \nFaço faculdade, trabalho, vou à igreja...\nNo momento não consigo seguir com esse plano (propósito).",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/29 10:38:41",
+      "delete" : false,
+      "identifier" : "COnG4cEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Então, acho que você ainda não entendeu o propósito do Modo Caverna.\n\nEle não é mais uma tarefa na rotina. Ele existe pra te ajudar a organizar tudo isso que está te sobrecarregando.\n\nSe a vida está corrida a ponto de você não conseguir separar 30 minutos por dia pra assistir algo que pode te tirar desse ciclo, é aí que mora o problema.\nE é exatamente isso que o Caverna veio resolver.\n\nPensa com calma. Talvez fugir disso agora só te deixe ainda mais preso depois.",
+      "type" : "text"
+    }
+  ]
+})

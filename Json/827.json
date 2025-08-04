@@ -1,0 +1,190 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 62 98110-6956",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:17:00",
+      "delete" : false,
+      "identifier" : "CLSA+b8GIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:17:09",
+      "delete" : false,
+      "identifier" : "CL2A+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:17:15",
+      "delete" : false,
+      "identifier" : "CMOA+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:17:21",
+      "delete" : false,
+      "identifier" : "CMmA+b8GIABIAJABAA==",
+      "msg" : "Ruan",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:17:27",
+      "delete" : false,
+      "identifier" : "CM+A+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Ruan*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:17:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNWA+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:18:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CI2B+b8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:18:37",
+      "delete" : false,
+      "identifier" : "CJWB+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:18:42",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJqB+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:18:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CKuB+b8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:19:02",
+      "delete" : false,
+      "identifier" : "CK6B+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:19:47",
+      "delete" : false,
+      "identifier" : "CNuB+b8GIABIAJABAA==",
+      "msg" : "Preciso de redirecionamento para saber como logar novamente, os links enviados via e-mail quando comprei não redirecionam mais...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:20:39",
+      "delete" : false,
+      "mediaName" : "4ee1e151-9225-44d8-a989-0731d9c22e7d.jpg",
+      "localPath" : "media\/9e1dce6cdea75c67beb897240d4feca916bc0a2c.jpg",
+      "mediaSize" : "52 KB",
+      "identifier" : "CI+C+b8GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c55aeb1178cc02a544d4c11663ce1ef10d0b23d3"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:20:54",
+      "delete" : false,
+      "mediaName" : "d238e567-7005-4b55-86ec-a42f07c6f2b0.jpg",
+      "localPath" : "media\/155a3759f270d1f78b3c6345d3a7e29dfd53ee91.jpg",
+      "mediaSize" : "16 KB",
+      "identifier" : "CJ6C+b8GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a84a4a380dc191e56d8789e73d2ec3ae0043d55c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:19:21",
+      "delete" : false,
+      "identifier" : "CNGd+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ? \nSou a Brenda, responsável pelo suporte do Modo Caverna\nQual produto você adquiriu ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:21:01",
+      "delete" : false,
+      "identifier" : "CLWe+b8GIABIAJABAA==",
+      "msg" : "Bom dia Brenda, joia e você?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:21:07",
+      "delete" : false,
+      "identifier" : "CLue+b8GIABIAJABAA==",
+      "msg" : "Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:38:08",
+      "delete" : false,
+      "identifier" : "CLim+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, acesse este link, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:38:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CLym+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

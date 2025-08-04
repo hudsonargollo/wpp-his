@@ -1,0 +1,94 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94171-6246",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 10:29:11",
+      "delete" : false,
+      "identifier" : "CK\/olMMGIABIAZABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 10:29:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CMjolMMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 10:37:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CJfslMMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 10:37:50",
+      "delete" : false,
+      "identifier" : "CLbslMMGIABIAZABAA==",
+      "msg" : "Matheus Garcel \nTheusgarcel@outlook.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 10:38:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "CMTslMMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 10:38:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Computador\/Tablet",
+      "delete" : false,
+      "identifier" : "CNHslMMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 10:43:58",
+      "delete" : false,
+      "identifier" : "CKbvlMMGIABIAZABAA==",
+      "msg" : "Consigo falar com um atendente ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 12:25:44",
+      "delete" : false,
+      "identifier" : "CICflcMGIABIAZABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 12:25:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Smartphones\/Telas pequenas",
+      "delete" : false,
+      "identifier" : "CIWflcMGIABIAZABAA==",
+      "type" : "file"
+    }
+  ]
+})

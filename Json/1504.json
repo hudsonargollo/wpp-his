@@ -1,0 +1,561 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 98650-0058",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:58:43",
+      "delete" : false,
+      "identifier" : "CJvlursGIABIAJABAA==",
+      "msg" : "Olá, vim da Central Caverna e desejo solicitar o cancelamento do meu plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 10:58:59",
+      "delete" : false,
+      "identifier" : "CKvlursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 10:59:05",
+      "delete" : false,
+      "identifier" : "CLHlursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:59:26",
+      "delete" : false,
+      "identifier" : "CMblursGIABIAZABAA==",
+      "msg" : "Bruno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:59:28",
+      "delete" : false,
+      "identifier" : "CMjlursGIABIAJABAA==",
+      "msg" : "foi cobrado e eu nem vi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 10:59:32",
+      "delete" : false,
+      "identifier" : "CMzlursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Olá, vim da Central Caverna e desejo solicitar o cancelamento do meu plano*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 10:59:38",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNLlursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:59:45",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNnlursGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 10:59:52",
+      "delete" : false,
+      "identifier" : "CODlursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 10:59:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COXlursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:00:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CPDlursGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:00:10",
+      "delete" : false,
+      "identifier" : "CPLlursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:00:21",
+      "delete" : false,
+      "identifier" : "CP3lursGIABIAZABAA==",
+      "msg" : "Quero cancelamento do plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:00:28",
+      "delete" : false,
+      "identifier" : "CITmursGIABIAZABAA==",
+      "msg" : "Estava ativo e não vi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:00:44",
+      "delete" : false,
+      "identifier" : "CJTmursGIABIAZABAA==",
+      "msg" : "Cobrou e quero se possível estorno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 11:01:00",
+      "delete" : false,
+      "identifier" : "CKTmursGIABIAZABAA==",
+      "msg" : "Motivo não estou usando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 13:42:02",
+      "delete" : false,
+      "identifier" : "COKxu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 13:42:23",
+      "delete" : false,
+      "identifier" : "CPexu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu plano é mensal ou anual?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 13:42:33",
+      "delete" : false,
+      "identifier" : "CIGyu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:45:04",
+      "delete" : false,
+      "identifier" : "CJizu7sGIABIAZABAA==",
+      "msg" : "Deve ser anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:45:08",
+      "delete" : false,
+      "identifier" : "CJyzu7sGIABIAZABAA==",
+      "msg" : "Compro em 12",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:45:17",
+      "delete" : false,
+      "identifier" : "CKWzu7sGIABIAZABAA==",
+      "msg" : "Veja se tá nesse",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:45:22",
+      "delete" : false,
+      "identifier" : "CKqzu7sGIAA6IDYzM0E4NjY1NENDOEQ4ODg2RDE5QTgwODU5N0RFQTRFQJC7icjAMkgBeO27v7zBMpABAA==",
+      "msg" : "brunosousapersonal@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:45:33",
+      "delete" : false,
+      "identifier" : "CLWzu7sGIABIAZABAA==",
+      "msg" : "Ou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:45:38",
+      "delete" : false,
+      "identifier" : "CLqzu7sGIABIAZABAA==",
+      "msg" : "brunosousamoura27@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 13:54:15",
+      "delete" : false,
+      "identifier" : "CL+3u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua renovação só seria realizada em Junho de 2025",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 13:54:39",
+      "delete" : false,
+      "identifier" : "CNe3u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você gostaria de cancelar a renovação automática?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:57:14",
+      "delete" : false,
+      "identifier" : "CPK4u7sGIABIAZABAA==",
+      "msg" : "Quero cancelar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:57:17",
+      "delete" : false,
+      "identifier" : "CPW4u7sGIABIAZABAA==",
+      "msg" : "Se possível reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:57:23",
+      "delete" : false,
+      "identifier" : "CPu4u7sGIABIAZABAA==",
+      "msg" : "Oque foi cobrado esse ano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:57:26",
+      "delete" : false,
+      "identifier" : "CP64u7sGIABIAZABAA==",
+      "msg" : "Eu n vou usar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 13:57:43",
+      "delete" : false,
+      "identifier" : "CI+5u7sGIABIAZABAA==",
+      "msg" : "Vi hj que isso tava automático",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:08:34",
+      "delete" : false,
+      "identifier" : "CJq+u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Posso cancelar apenas a renovação automática",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:08:48",
+      "delete" : false,
+      "identifier" : "CKi+u7sGIABIAZABAA==",
+      "msg" : "E reembolso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:09:41",
+      "delete" : false,
+      "identifier" : "CN2+u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só seria possível 7 dias após a compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:09:57",
+      "delete" : false,
+      "identifier" : "CO2+u7sGIABIAZABAA==",
+      "msg" : "Cancela",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:10:10",
+      "delete" : false,
+      "identifier" : "CPq+u7sGIABIAZABAA==",
+      "msg" : "Era para ter opção de cancelar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:10:11",
+      "delete" : false,
+      "identifier" : "CPu+u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:10:17",
+      "delete" : false,
+      "identifier" : "CIG\/u7sGIABIAZABAA==",
+      "msg" : "No próprio site",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:10:55",
+      "delete" : false,
+      "identifier" : "CKe\/u7sGIABIAZABAA==",
+      "msg" : "Vou fazer uma reclamação no reclame aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:11:09",
+      "delete" : false,
+      "identifier" : "CLW\/u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua assinatura foi cancelada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:11:24",
+      "delete" : false,
+      "identifier" : "CMS\/u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você fala em relação a reembolso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:11:39",
+      "delete" : false,
+      "identifier" : "CNO\/u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Por qual motivo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:11:50",
+      "delete" : false,
+      "identifier" : "CN6\/u7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação foi atendida aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:13:09",
+      "delete" : false,
+      "identifier" : "CK3Au7sGIABIAZABAA==",
+      "msg" : "Sobre reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:13:16",
+      "delete" : false,
+      "identifier" : "CLTAu7sGIABIAZABAA==",
+      "msg" : "O sistema é péssimo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:13:22",
+      "delete" : false,
+      "identifier" : "CLrAu7sGIABIAZABAA==",
+      "msg" : "Foi feita uma assinatura anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:13:28",
+      "delete" : false,
+      "identifier" : "CMDAu7sGIABIAZABAA==",
+      "msg" : "Sem dizer mada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:13:33",
+      "delete" : false,
+      "identifier" : "CMXAu7sGIABIAZABAA==",
+      "msg" : "N tem opção de cancelar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:13:36",
+      "delete" : false,
+      "identifier" : "CMjAu7sGIABIAZABAA==",
+      "msg" : "É justo iaso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:13:38",
+      "delete" : false,
+      "identifier" : "CMrAu7sGIABIAZABAA==",
+      "msg" : "Isso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:13:57",
+      "delete" : false,
+      "identifier" : "CN3Au7sGIABIAZABAA==",
+      "msg" : "Ano passado 12 meses apenas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:14:09",
+      "delete" : false,
+      "identifier" : "COnAu7sGIABIAZABAA==",
+      "msg" : "Tem nem opção de cancelar nada lá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:14:17",
+      "delete" : false,
+      "identifier" : "CPHAu7sGIABIAZABAA==",
+      "msg" : "Pelo whatsapp",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:14:19",
+      "delete" : false,
+      "identifier" : "CPPAu7sGIABIAZABAA==",
+      "msg" : "??",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:14:23",
+      "delete" : false,
+      "identifier" : "CPfAu7sGIABIAZABAA==",
+      "msg" : "Em 2024",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:14:40",
+      "delete" : false,
+      "identifier" : "CIjBu7sGIABIAZABAA==",
+      "msg" : "N vou falar mais nada aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 14:14:53",
+      "delete" : false,
+      "identifier" : "CJXBu7sGIABIAZABAA==",
+      "msg" : "Não vai resolver mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:15:12",
+      "delete" : false,
+      "identifier" : "CKjBu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Nós não escolhemos a forma de pagamento e a assinatura, e sim o cliente. \nEm relação ao reembolso não é possivel ser realizado, sua compra é de Junho.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:15:28",
+      "delete" : false,
+      "identifier" : "CLjBu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Passou totalmente do prazo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 14:16:24",
+      "delete" : false,
+      "identifier" : "CPDBu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "A opção de reembolso está disponível na Ticto.",
+      "type" : "text"
+    }
+  ]
+})

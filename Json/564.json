@@ -1,0 +1,36 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 96169-7184",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/26 08:06:57",
+      "delete" : false,
+      "identifier" : "CNmW0cEGIABIAJABAA==",
+      "msg" : "Oi, Robô. Pode falar rapidinho?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/26 08:14:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJKa0cEGIABIAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/28 09:19:34",
+      "delete" : false,
+      "identifier" : "CN7+28EGIABIAJABAA==",
+      "msg" : "Seu desconto especial tá quase indo embora...\n\nE seu chatbot ainda pode te ajudar a vender muito! Não perde essa.",
+      "type" : "text"
+    }
+  ]
+})

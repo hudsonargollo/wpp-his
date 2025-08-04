@@ -1,0 +1,378 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94104-5821",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 11:16:35",
+      "delete" : false,
+      "identifier" : "CMuuxr4GIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 11:18:02",
+      "delete" : false,
+      "identifier" : "CKKvxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia!\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 11:18:33",
+      "delete" : false,
+      "identifier" : "CMGvxr4GIABIAZABAA==",
+      "msg" : "Fui assinante da primeira turma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 11:18:42",
+      "delete" : false,
+      "identifier" : "CMqvxr4GIABIAZABAA==",
+      "msg" : "Queria saber como faço para acessar novamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 11:18:49",
+      "delete" : false,
+      "identifier" : "CNGvxr4GIABIAZABAA==",
+      "msg" : "Formatei o celular e perdi os links",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 11:18:57",
+      "delete" : false,
+      "identifier" : "CNmvxr4GIABIAZABAA==",
+      "msg" : "E também como tenho acesso à loja?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 11:21:16",
+      "delete" : false,
+      "identifier" : "COSwxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou te mandar o link de acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 11:21:33",
+      "delete" : false,
+      "mediaName" : "4d3d7ad8-63af-4d3d-9923-65a36a3d7175.opus",
+      "localPath" : "media\/babd5bd95c438f8a110dfa60b835aeb220c2c254.opus",
+      "mediaSize" : "25 KB",
+      "identifier" : "CPWwxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/12 11:21:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CIuxxr4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/12 11:21:58",
+      "delete" : false,
+      "identifier" : "CI6xxr4GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 13:16:44",
+      "delete" : false,
+      "identifier" : "CPT92cMGIABIAJABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 14:28:36",
+      "delete" : false,
+      "identifier" : "CMyf2sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem, Diego? Em que Posso te ajudar? ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 14:29:25",
+      "delete" : false,
+      "identifier" : "CP2f2sMGIABIAZABAA==",
+      "msg" : "Tudo bem?\n\nSou da primeira turma, qual endereço para acessar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 14:29:53",
+      "delete" : false,
+      "identifier" : "CJmg2sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me passa seu e-mail, por favor! \n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 14:31:12",
+      "delete" : false,
+      "identifier" : "COig2sMGIABIAZABAA==",
+      "msg" : "diguers@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 14:34:39",
+      "delete" : false,
+      "identifier" : "CLei2sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você fala referente ao login? \n\n\n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 14:35:08",
+      "delete" : false,
+      "identifier" : "CNSi2sMGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 14:35:11",
+      "delete" : false,
+      "identifier" : "CNei2sMGIABIAZABAA==",
+      "msg" : "Para acessar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 14:35:41",
+      "delete" : false,
+      "identifier" : "CPWi2sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "tente acessar com seu e-mail e a senha o CPF\n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 14:36:03",
+      "delete" : false,
+      "identifier" : "CIuj2sMGIABIAZABAA==",
+      "msg" : "Mas em qual endereço?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 14:36:31",
+      "mediaSize" : "420 bytes",
+      "mediaName" : "5fb16af8-7715-4738-bb0c-6398d0290dff.thumb",
+      "localPath" : "media\/9042ff078b66f377b7dcdf304124692f0feb1642.thumb",
+      "delete" : false,
+      "identifier" : "CKej2sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 14:48:08",
+      "delete" : false,
+      "identifier" : "COCo2sMGIABIAZABAA==",
+      "msg" : "Boa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/15 14:48:11",
+      "delete" : false,
+      "identifier" : "COOo2sMGIABIAZABAA==",
+      "msg" : "Já vejo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/15 14:56:32",
+      "delete" : false,
+      "identifier" : "CNis2sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 11:54:10",
+      "delete" : false,
+      "identifier" : "CJr63sMGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 11:54:14",
+      "delete" : false,
+      "identifier" : "CJ763sMGIABIAJABAA==",
+      "msg" : "Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 11:54:24",
+      "delete" : false,
+      "identifier" : "CKj63sMGIABIAJABAA==",
+      "msg" : "Eu conclui o onboarding e continua nele..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 11:54:35",
+      "delete" : false,
+      "mediaName" : "98b85440-7616-437e-94df-18615af04f05.jpg",
+      "localPath" : "media\/000d915f25c9fb81ce854f5dbb618de1151e5311.jpg",
+      "mediaSize" : "52 KB",
+      "identifier" : "CLP63sMGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/9bb3d10fc5a3746de2cb80c18f80eb5ac73e33db"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 11:59:09",
+      "delete" : false,
+      "identifier" : "CMX83sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! um momento, por favor ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 11:59:25",
+      "delete" : false,
+      "identifier" : "CNX83sMGIABIAJABAA==",
+      "msg" : "Acho que agora foiii",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 11:59:26",
+      "delete" : false,
+      "identifier" : "CNb83sMGIABIAJABAA==",
+      "msg" : "rs",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 11:59:51",
+      "delete" : false,
+      "identifier" : "CO\/83sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Veja se deu certo e me informe, por favor ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 12:00:08",
+      "delete" : false,
+      "identifier" : "CID93sMGIABIAJABAA==",
+      "msg" : "ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 12:00:21",
+      "delete" : false,
+      "identifier" : "CI393sMGIABIAJABAA==",
+      "msg" : "Sabe onde eu consigo os papeis de paredes do modo caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 12:01:26",
+      "delete" : false,
+      "identifier" : "CM793sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua conta expirou em 06 de maio, para acessar você precisa renovar sua assinatura. ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 12:02:16",
+      "delete" : false,
+      "identifier" : "CID+3sMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Posso te enviar o link para darmos continuidade a esse desenvolvimento? ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/16 12:02:24",
+      "delete" : false,
+      "identifier" : "CIj+3sMGIABIAJABAA==",
+      "msg" : "pode sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 12:07:04",
+      "delete" : false,
+      "identifier" : "CKCA38MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Maravilha!    \nSegue o link   \nhttps:\/\/redirect.lifs.app\/a-sup",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 12:07:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CMiA38MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/16 13:25:14",
+      "delete" : false,
+      "identifier" : "CPKk38MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Conseguiu? Espero que tenha dado certo! ",
+      "type" : "text"
+    }
+  ]
+})

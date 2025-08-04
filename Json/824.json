@@ -1,0 +1,309 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 13 99628-0265",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 19:00:31",
+      "delete" : false,
+      "identifier" : "CIeL9r8GIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:00:40",
+      "delete" : false,
+      "identifier" : "CJCL9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:00:46",
+      "delete" : false,
+      "identifier" : "CJaL9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 19:00:51",
+      "delete" : false,
+      "identifier" : "CJuL9r8GIABIAZABAA==",
+      "msg" : "João",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:00:57",
+      "delete" : false,
+      "identifier" : "CKGL9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *João*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:01:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKeL9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 19:01:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CK+L9r8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:01:19",
+      "delete" : false,
+      "identifier" : "CLeL9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:01:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLyL9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 19:01:32",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CMSL9r8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 19:01:34",
+      "delete" : false,
+      "identifier" : "CMaL9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 19:01:46",
+      "delete" : false,
+      "identifier" : "CNKL9r8GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:20:49",
+      "delete" : false,
+      "identifier" : "CJmC+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nSou a Brenda, responsável pelo suporte do Modo Caverna\nComo posso ajudar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:30:58",
+      "delete" : false,
+      "identifier" : "CPqG+b8GIABIAZABAA==",
+      "msg" : "Então",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:31:05",
+      "delete" : false,
+      "identifier" : "CIGH+b8GIABIAZABAA==",
+      "msg" : "Bom dia Brenda, estou sim e vc?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:31:13",
+      "delete" : false,
+      "identifier" : "CImH+b8GIABIAZABAA==",
+      "msg" : "Quando eu comprei o modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:31:18",
+      "delete" : false,
+      "identifier" : "CI6H+b8GIABIAZABAA==",
+      "msg" : "Veio cm todas as funcionalidades",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:31:35",
+      "delete" : false,
+      "identifier" : "CJ+H+b8GIABIAZABAA==",
+      "msg" : "Já tinha editado financeiro, rotina, tudo, agr que atualizou o site",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:31:37",
+      "delete" : false,
+      "identifier" : "CKGH+b8GIABIAZABAA==",
+      "msg" : "Eu perdi tudo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:31:41",
+      "delete" : false,
+      "identifier" : "CKWH+b8GIABIAZABAA==",
+      "msg" : "E tenho que pagar de novo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:31:52",
+      "delete" : false,
+      "identifier" : "CLCH+b8GIABIAZABAA==",
+      "msg" : "Para ter acesso as coisas que eu já paguei?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:32:03",
+      "delete" : false,
+      "identifier" : "CLuH+b8GIABIAZABAA==",
+      "msg" : "Sendo que ainda tô pagando a outra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:32:08",
+      "delete" : false,
+      "identifier" : "CMCH+b8GIABIAZABAA==",
+      "msg" : "E já estava usando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 08:32:18",
+      "delete" : false,
+      "identifier" : "CMqH+b8GIABIAZABAA==",
+      "msg" : "E a minha assinatura nem acabou ainda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:43:42",
+      "delete" : false,
+      "identifier" : "CIap+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não se preocupe, irei te ajudar, por gentileza, porderia enviar o seu e-mail para verificação do problema ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:46:42",
+      "delete" : false,
+      "identifier" : "CLqq+b8GIABIAZABAA==",
+      "msg" : "jaosantosp69@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:52:11",
+      "delete" : false,
+      "identifier" : "CIOt+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verificando aqui, notei que o seu produto é o Desafio Caverna, que oferece acesso a 4 funcionalidades específicas:\n\nCurso Modo Caverna\n\nDesafio Caverna\n\nIndique e Ganhe\n\nSuporte via chat\n\nMuito provavelmente, ocorreu um erro e, por algum momento, você teve acesso às funcionalidades do plano Modo Caverna, que possui mais recursos.\n\nPeço desculpas por qualquer confusão causada e estou à disposição para te ajudar com o que for necessário.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:27:37",
+      "delete" : false,
+      "identifier" : "CNG9+b8GIABIAZABAA==",
+      "msg" : "Então",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:28:02",
+      "delete" : false,
+      "identifier" : "COq9+b8GIABIAZABAA==",
+      "msg" : "Mas ninguém me falou sobre isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:28:15",
+      "delete" : false,
+      "identifier" : "CPe9+b8GIABIAZABAA==",
+      "msg" : "Eu peguei pq tinha a questão da rotina, financeiro e tudo aquilo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 10:34:21",
+      "delete" : false,
+      "identifier" : "COXA+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "entao joao, você adquiriu o desafio caverna no dia 21 de março. \n\nA página descrevia exatamente o que você receberia.. um combo de ebooks. Isso você teve acesso,  certo?\n\nOntem lançamos o sistema do modo caverna e liberamos esse aplicativo pra todos que compraram o desafio, você chegou a conferir?\n\nPara aqueles que compraram o desafio caverna, alem desse upgrade GRATUITO ao sistema, demos 7 dias de avaliação gratuita a todas as ferramentas do sistema. \n\nContudo, para usar 100% das funcionalidades, você precisa fazer um upgrade de plano. Ele custa 12 x de 29 reais ou 299 á vista no pix.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:37:17",
+      "delete" : false,
+      "identifier" : "CJXC+b8GIABIAZABAA==",
+      "msg" : "Blz",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:37:21",
+      "delete" : false,
+      "identifier" : "CJnC+b8GIABIAZABAA==",
+      "msg" : "Obg pela atenção",
+      "type" : "text"
+    }
+  ]
+})

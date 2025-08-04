@@ -1,0 +1,66 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 84 98603-7563",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 01:22:15",
+      "delete" : false,
+      "identifier" : "CP+DgsAGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 01:22:24",
+      "delete" : false,
+      "identifier" : "CIiEgsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 01:22:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CImEgsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 01:22:29",
+      "delete" : false,
+      "identifier" : "CI2EgsAGIABIAZABAA==",
+      "msg" : "Não entendi nada sobre o app",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:20:45",
+      "delete" : false,
+      "identifier" : "CIWNhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "como assim?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:20:51",
+      "delete" : false,
+      "mediaName" : "9bbfa624-37fe-429a-b231-c85a31dec1bd.opus",
+      "localPath" : "media\/f7034031a625820d16bc7ec552ff5090b013a5b4.opus",
+      "mediaSize" : "19 KB",
+      "identifier" : "CIuNhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:03"
+    }
+  ]
+})

@@ -1,0 +1,95 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 16 98844-8199",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 15:05:53",
+      "delete" : false,
+      "identifier" : "CIn\/kcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/07 15:05:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIr\/kcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 08:15:46",
+      "delete" : false,
+      "identifier" : "COqEm8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso, tudo certo?🐺\n\nPara agilizar o seu antendimento, me informe o seu email de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 08:18:08",
+      "delete" : false,
+      "mediaName" : "d372cc73-d9bd-4247-a7bb-bb6a9e4472d5.m4a",
+      "localPath" : "media\/bb036d8dc66f0cfb13f3cad48b9964e6a204f341.m4a",
+      "mediaSize" : "298 KB",
+      "identifier" : "CPiFm8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 08:18:19",
+      "mediaSize" : "11 KB",
+      "mediaName" : "c1985d23-b850-469a-b9d3-8996b9e6fbaf.jpg",
+      "localPath" : "media\/5ca4329c658ce18c85b36209f0f04dc2508613e9.jpg",
+      "delete" : false,
+      "identifier" : "CIOGm8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 08:27:51",
+      "delete" : false,
+      "mediaName" : "148ed1b4-2405-4b51-9d01-402441f2cb23.m4a",
+      "localPath" : "media\/bfff0ce19ad84fc86b99d2d020d7b4cb0a02e5b0.m4a",
+      "mediaSize" : "425 KB",
+      "identifier" : "CL+Km8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 08:28:17",
+      "delete" : false,
+      "mediaName" : "fd10a32c-642b-4e5e-8f55-b11e505d6ae4.m4a",
+      "localPath" : "media\/adf1fb37437ee2516c3d86ebeeb25d4d4ada2c32.m4a",
+      "mediaSize" : "107 KB",
+      "identifier" : "CNmKm8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 08:29:15",
+      "delete" : false,
+      "mediaName" : "33e6991e-4154-44b4-81ea-87ec1cab9482.m4a",
+      "localPath" : "media\/dbed99b321f2b12926ba3b3254b24333fdb83104.m4a",
+      "mediaSize" : "322 KB",
+      "identifier" : "CJOLm8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    }
+  ]
+})

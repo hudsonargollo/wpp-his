@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 87 99156-4125",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/29 17:21:48",
+      "delete" : false,
+      "identifier" : "COTAhsMGIABIAZABAA==",
+      "msg" : "Não quero renovar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/29 17:21:56",
+      "delete" : false,
+      "identifier" : "COzAhsMGIABIAZABAA==",
+      "msg" : "Foi renovado hoje sem se quer eu ter usado o produto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 08:07:13",
+      "delete" : false,
+      "identifier" : "COnficMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me informe o seu email e CPF de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 08:07:32",
+      "delete" : false,
+      "identifier" : "CPzficMGIABIAJABAA==",
+      "msg" : "contato.joaocorreiax@gmail.com\n135.936.994-51",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 08:08:54",
+      "delete" : false,
+      "identifier" : "CM7gicMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado.\nO valor será devolvido em até 7 dias úteis, direto na forma de pagamento que você usou.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 08:37:40",
+      "delete" : false,
+      "identifier" : "CIzuicMGIABIAJABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    }
+  ]
+})

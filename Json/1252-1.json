@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98126-4242",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/22 12:09:18",
+      "delete" : false,
+      "identifier" : "CKaUxLwGIABIAZABAA==",
+      "msg" : "Entendi, mais mt obg",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/22 14:10:03",
+      "delete" : false,
+      "identifier" : "CPPMxLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estamos à disposição🔺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/22 17:44:36",
+      "delete" : false,
+      "identifier" : "CLyxxbwGIABIAJABAA==",
+      "msg" : "certo",
+      "type" : "text"
+    }
+  ]
+})

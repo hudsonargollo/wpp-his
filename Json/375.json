@@ -1,0 +1,72 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 19 98134-9465",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 15:03:39",
+      "delete" : false,
+      "identifier" : "CIPdgMMGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 15:03:44",
+      "delete" : false,
+      "identifier" : "CIjdgMMGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/28 15:03:53",
+      "delete" : false,
+      "identifier" : "CJHdgMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/28 15:03:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJLdgMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 15:03:55",
+      "delete" : false,
+      "identifier" : "CJPdgMMGIABIAZABAA==",
+      "msg" : "Gostaria de baixar e deixar no meu celular",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 15:04:00",
+      "delete" : false,
+      "identifier" : "CJjdgMMGIABIAZABAA==",
+      "msg" : "Mas não consigo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/29 12:17:05",
+      "delete" : false,
+      "identifier" : "CPmxhcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Atualmente, a versão mobile ainda tem algumas limitações e por isso, recomendamos que você acesse pelo computador para uma experiência mais completa e estável.\n\nA boa notícia é que o nosso app oficial já está em fase final e será lançado no inicio de julho!\n\nMas, se só estiver com o celular no momento, testa utilizar no seu navegador.\n\nQualquer outra duvida, estou aqui! 🐺",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,393 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+351 939 532 181",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 06:44:12",
+      "delete" : false,
+      "identifier" : "CPSGnrwGIABIAZABAA==",
+      "msg" : "Olá bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 06:44:21",
+      "delete" : false,
+      "identifier" : "CP2GnrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 06:44:27",
+      "delete" : false,
+      "identifier" : "CIOHnrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 06:44:36",
+      "delete" : false,
+      "identifier" : "CIyHnrwGIABIAZABAA==",
+      "msg" : "Vitor Herbst",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 06:44:42",
+      "delete" : false,
+      "identifier" : "CJKHnrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Vitor Herbst*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 06:44:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJiHnrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 06:45:14",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CLKHnrwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 06:45:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLOHnrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 06:45:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não consigo acessar a área de conteúdo",
+      "delete" : false,
+      "identifier" : "CLuHnrwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 06:45:29",
+      "delete" : false,
+      "identifier" : "CMGHnrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 06:45:58",
+      "delete" : false,
+      "identifier" : "CN6HnrwGIABIAZABAA==",
+      "msg" : "Hugovitor@uol.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 09:25:16",
+      "delete" : false,
+      "identifier" : "CLTSnrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 10:04:42",
+      "delete" : false,
+      "mediaName" : "c7937b14-d358-431c-86a3-0646659e647d.opus",
+      "localPath" : "media\/526be326e0d7069dd882061d77e51f8faef90900.opus",
+      "mediaSize" : "37 KB",
+      "identifier" : "CPLknrwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 11:07:20",
+      "delete" : false,
+      "mediaName" : "9046e556-aa3d-4116-82ad-d673bac8ffb1.opus",
+      "localPath" : "media\/0109db1f13fe044127068ed8662d8403e60bd78b.opus",
+      "mediaSize" : "37 KB",
+      "identifier" : "CKCCn7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 11:41:32",
+      "delete" : false,
+      "identifier" : "CKSSn7wGIABIAJABAA==",
+      "msg" : "faz um tempo que não entrava",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 11:41:56",
+      "delete" : false,
+      "identifier" : "CLySn7wGIABIAJABAA==",
+      "msg" : "eu acabei comprando o modo caverna tambem e fiquei bem perdido com toda esta estruturação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 14:54:05",
+      "delete" : false,
+      "identifier" : "CMXsn7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Os cursos foram migrados para o Modo caverna☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 14:54:23",
+      "delete" : false,
+      "identifier" : "CNfsn7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiu ter acesso ao pacote de ebooks corretamente?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:25:58",
+      "delete" : false,
+      "identifier" : "CN6zoLwGIABIAZABAA==",
+      "msg" : "Não rs",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:26:12",
+      "delete" : false,
+      "identifier" : "COyzoLwGIABIAZABAA==",
+      "msg" : "Se puder me auxiliar com isso agradeceria",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 17:30:56",
+      "mediaSize" : "56,7 MB",
+      "mediaName" : "Ebook - Defina seus objetivos e metas.pdf",
+      "localPath" : "media\/4457d808deafa53140bf54390060f9a7ba29a5f4.pdf",
+      "delete" : false,
+      "identifier" : "CIi2oLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 17:30:59",
+      "mediaSize" : "2,9 MB",
+      "mediaName" : "Ebook - Guia Prático para definição de um plano de ação.pdf",
+      "localPath" : "media\/2a84d43c97848b3c18a4c217fdf208380b95e30f.pdf",
+      "delete" : false,
+      "identifier" : "CIu2oLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 17:31:03",
+      "mediaSize" : "2,7 MB",
+      "mediaName" : "Ebook - O manual para a criação de bons hábitos.pdf",
+      "localPath" : "media\/76730cd86a5ecd93dd6305ab170d93ffb94f5c1b.pdf",
+      "delete" : false,
+      "identifier" : "CI+2oLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 17:31:07",
+      "mediaSize" : "3,3 MB",
+      "mediaName" : "Ebook - Os pilares da rotina adaptativa.pdf",
+      "localPath" : "media\/e65701e8ac8836b3127f9d4aaeffae32bafc4f8f.pdf",
+      "delete" : false,
+      "identifier" : "CJO2oLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 17:31:10",
+      "mediaSize" : "8,3 MB",
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/7f8295cbd88c5d8e8b36c0c5bd3a319c8f210727.pdf",
+      "delete" : false,
+      "identifier" : "CJa2oLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 17:31:13",
+      "mediaSize" : "740 KB",
+      "mediaName" : "Ebook - Produtivo burro x produtivo inteligente.pdf",
+      "localPath" : "media\/d681fe1e4bd9cb26c7a56485fb35d3afc9e10874.pdf",
+      "delete" : false,
+      "identifier" : "CJm2oLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 17:31:16",
+      "delete" : false,
+      "mediaName" : "Planner - Desafio 5 anos em 30 dias.pdf",
+      "localPath" : "media\/0d82acb42e74a755dc9d56f72f9d53bee429916d.pdf",
+      "mediaSize" : "1,7 MB",
+      "identifier" : "CJy2oLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/08a0f5df42feec6dbd0c8fc74ee96517b000a079"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:33:18",
+      "delete" : false,
+      "identifier" : "CJa3oLwGIABIAZABAA==",
+      "msg" : "Se conseguir enviar as aulas pelo drive também agradeceria",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 17:40:54",
+      "delete" : false,
+      "mediaName" : "9745f465-2d8d-47bc-af9d-f99c74c46306.opus",
+      "localPath" : "media\/f823289d03080879b26a5fd1e0334abfcea988bb.opus",
+      "mediaSize" : "20 KB",
+      "identifier" : "CN66oLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:49:28",
+      "delete" : false,
+      "identifier" : "COC+oLwGIABIAZABAA==",
+      "msg" : "Estes que encontrei no e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:49:36",
+      "delete" : false,
+      "mediaName" : "5e5bd229-4389-4384-8b90-fc5a08ef8fa6.jpg",
+      "localPath" : "media\/4e52d63f11792c0462bf7313566c17a95bae0853.jpg",
+      "mediaSize" : "102 KB",
+      "identifier" : "COi+oLwGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/1d27df425b94994751f143588a50182003d063d9"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:49:36",
+      "delete" : false,
+      "mediaName" : "5a46d66d-d3be-4e20-ad0a-4910f7b1d7ca.jpg",
+      "localPath" : "media\/e2f3a5630ac90f9ea5f488795f7b2568de1efb7a.jpg",
+      "mediaSize" : "114 KB",
+      "identifier" : "COi+oLwGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/7cebce2c6c7c7fb9c4ff5f5b0bfd632544ce0318"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 08:46:16",
+      "delete" : false,
+      "identifier" : "CJDjo7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 08:46:24",
+      "delete" : false,
+      "identifier" : "CJjjo7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 08:46:39",
+      "delete" : false,
+      "identifier" : "CKfjo7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Posso liberar o acesso em qual e-mail?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 08:58:46",
+      "delete" : false,
+      "identifier" : "CP7oo7wGIABIAZABAA==",
+      "msg" : "Pode ser no",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 08:58:56",
+      "delete" : false,
+      "identifier" : "CIjpo7wGIABIAZABAA==",
+      "msg" : "Hugovitor@uol.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 09:34:35",
+      "delete" : false,
+      "identifier" : "COP5o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O acesso foi liberado, você vai receber no seu e-mail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 09:34:40",
+      "delete" : false,
+      "identifier" : "COj5o7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais?",
+      "type" : "text"
+    }
+  ]
+})

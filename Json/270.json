@@ -1,0 +1,148 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99169-5750",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 10:22:12",
+      "delete" : false,
+      "identifier" : "CIygxMMGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 10:22:17",
+      "delete" : false,
+      "identifier" : "CJGgxMMGIABIAZABAA==",
+      "msg" : "Tô tentando entrar pelo app",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 10:22:20",
+      "delete" : false,
+      "identifier" : "CJSgxMMGIABIAZABAA==",
+      "msg" : "Login e senha",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 10:22:20",
+      "delete" : false,
+      "identifier" : "CJSgxMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 10:22:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJWgxMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 10:22:24",
+      "delete" : false,
+      "identifier" : "CJigxMMGIABIAZABAA==",
+      "msg" : "Não tá indo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 10:22:28",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJygxMMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 10:47:03",
+      "delete" : false,
+      "identifier" : "CN+rxMMGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 10:47:07",
+      "delete" : false,
+      "identifier" : "COOrxMMGIABIAZABAA==",
+      "msg" : "Meu app não acessa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 10:47:15",
+      "delete" : false,
+      "mediaName" : "a75d5703-7627-40b9-89ed-65111bf1d64b.jpg",
+      "localPath" : "media\/19d09a91c1d77b2526e3af02bac8c58cfea245ab.jpg",
+      "mediaSize" : "38 KB",
+      "identifier" : "COurxMMGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/6278c7e79eb0d60c648eb1679c4a401f2e46a017"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 15:18:16",
+      "delete" : false,
+      "identifier" : "CPCqxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Você está utilizando qual navegador?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 15:20:40",
+      "delete" : false,
+      "identifier" : "CICsxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para melhor funcionamento, é indicado que você acesse pelo microsoft edge ou guia anônima. Gostaria de tentar, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 15:32:03",
+      "delete" : false,
+      "identifier" : "CKuxxcMGIABIAZABAA==",
+      "msg" : "Safari",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 15:32:13",
+      "delete" : false,
+      "identifier" : "CLWxxcMGIABIAZABAA==",
+      "msg" : "Vou tentar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:11:33",
+      "delete" : false,
+      "identifier" : "CO3DxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, qualquer coisa estou a disposição.",
+      "type" : "text"
+    }
+  ]
+})

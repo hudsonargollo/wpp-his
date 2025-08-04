@@ -1,0 +1,405 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 82 99383-7089",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 09:49:27",
+      "delete" : false,
+      "identifier" : "CN\/H6LwGIABIAYoBBAgAEACQAQA=",
+      "msg" : "Fala, Iuri. Tudo certo irmão?\n\nMe afiliei ao produto para realizar as vendas nele.\nSou novo nesse mercado.\n\nO que antes aparecia, agora sumiu. Só aparece uma mensagem falando “Aqui aparecerão seus links de divulgação”.\n\nVi que tentaram comprar, mas não conseguiram.\nOntem coloquei testes para rodar e posso acabar perdendo essas vendas.\n\nComo proceder?\n\nDesde já, agradeço o suporte.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 09:49:37",
+      "delete" : false,
+      "identifier" : "COnH6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 09:49:43",
+      "delete" : false,
+      "identifier" : "CO\/H6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 09:49:54",
+      "delete" : false,
+      "identifier" : "CPrH6LwGIABIAZABAA==",
+      "msg" : "Robert",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 09:50:01",
+      "delete" : false,
+      "identifier" : "CIHI6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Robert*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 09:50:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIfI6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 09:51:26",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNbI6LwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 09:51:28",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNjI6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 09:51:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "COHI6LwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 09:51:39",
+      "delete" : false,
+      "identifier" : "COPI6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 09:52:43",
+      "delete" : false,
+      "identifier" : "CKPJ6LwGIABIAZABAA==",
+      "msg" : "Fala, Iuri. Tudo certo irmão?\n\nMe afiliei ao produto para realizar as vendas nele.\nSou novo nesse mercado.\n\n O link que antes aparecia, agora sumiu. Só aparece uma mensagem falando “Aqui aparecerão seus links de divulgação”.\n\nVi que tentaram comprar, mas não conseguiram e acabei perdendo venda. \nOntem coloquei testes com tráfego pago para rodar e posso acabar perdendo essas vendas também.\n\nComo proceder?\n\nDesde já, agradeço o suporte.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:31:25",
+      "delete" : false,
+      "identifier" : "CMX36LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:32:31",
+      "delete" : false,
+      "identifier" : "CIf46LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você está acessando pelo dashboard da ticto ou pela aba de produtos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:33:04",
+      "delete" : false,
+      "identifier" : "CKj46LwGIABIAZABAA==",
+      "msg" : "Tô no site",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:33:21",
+      "delete" : false,
+      "identifier" : "CLn46LwGIABIAZABAA==",
+      "msg" : "Meus produtos > Afiliação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:33:29",
+      "delete" : false,
+      "identifier" : "CMH46LwGIABIAZABAA==",
+      "msg" : "Antes aparecia o link normalmente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:33:34",
+      "delete" : false,
+      "identifier" : "CMb46LwGIABIAZABAA==",
+      "msg" : "Agora não aparece mais",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:35:32",
+      "delete" : false,
+      "mediaName" : "922e1007-0e97-46f8-a753-7d49947da584.jpg",
+      "localPath" : "media\/6a450113d77c41216800b8fb09f340d224b3dfea.jpg",
+      "mediaSize" : "67 KB",
+      "identifier" : "CLz56LwGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a48642fc36894b56a62412e8fcc7680943108021"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:39:25",
+      "delete" : false,
+      "identifier" : "CKX76LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:39:42",
+      "delete" : false,
+      "identifier" : "CLb76LwGIABIAZABAA==",
+      "msg" : "Robertreginaldo90@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:41:43",
+      "delete" : false,
+      "mediaName" : "5eacd9ae-2c06-481b-9a4b-178470c3f24d.opus",
+      "localPath" : "media\/e02950d1a500d32594750171384e8d058a3d5b0b.opus",
+      "mediaSize" : "19 KB",
+      "identifier" : "CK\/86LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:43:36",
+      "delete" : false,
+      "identifier" : "CKD96LwGIABIAZABAA==",
+      "msg" : "Eu fiz pelo computador também",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:44:19",
+      "delete" : false,
+      "identifier" : "CMv96LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tenta novamente pelo computador, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:44:39",
+      "delete" : false,
+      "identifier" : "CN\/96LwGIABIAZABAA==",
+      "msg" : "Atualizei rápido aqui no celular e apareceu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:44:44",
+      "delete" : false,
+      "identifier" : "COT96LwGIABIAZABAA==",
+      "msg" : "O que era?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:45:20",
+      "delete" : false,
+      "identifier" : "CIj+6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito! Pode ser instabilidade na plataforma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:45:28",
+      "delete" : false,
+      "identifier" : "CJD+6LwGIABIAZABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:45:37",
+      "delete" : false,
+      "identifier" : "CJn+6LwGIABIAZABAA==",
+      "msg" : "Mas quem for pelo link que tava rodando antes",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:45:43",
+      "delete" : false,
+      "identifier" : "CJ\/+6LwGIABIAZABAA==",
+      "msg" : "As vendas vai pra mim também?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:45:48",
+      "delete" : false,
+      "identifier" : "CKT+6LwGIABIAZABAA==",
+      "msg" : "Ou terei que atualizar o link?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:45:56",
+      "delete" : false,
+      "identifier" : "CKz+6LwGIABIAZABAA==",
+      "msg" : "Pq eu vi que tinham tentado e deu erro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:47:41",
+      "delete" : false,
+      "identifier" : "CJX\/6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te indico a atualizar o link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:48:06",
+      "delete" : false,
+      "identifier" : "CK7\/6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Provavelmnte pode ser alterado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:48:14",
+      "delete" : false,
+      "identifier" : "CLb\/6LwGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:48:17",
+      "delete" : false,
+      "identifier" : "CLn\/6LwGIABIAZABAA==",
+      "msg" : "Obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:48:32",
+      "delete" : false,
+      "identifier" : "CMj\/6LwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:50:19",
+      "delete" : false,
+      "identifier" : "CLOA6bwGIABIAZABAA==",
+      "msg" : "As vendas perdias recuperam?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:51:44",
+      "delete" : false,
+      "identifier" : "CIiB6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "As que deram erro no link?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 11:51:56",
+      "delete" : false,
+      "identifier" : "CJSB6bwGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 11:52:59",
+      "delete" : false,
+      "identifier" : "CNOB6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Envia o link correto novamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 13:24:00",
+      "delete" : false,
+      "identifier" : "CKis6bwGIABIAJABAA==",
+      "msg" : "certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/29 13:24:02",
+      "delete" : false,
+      "identifier" : "CKqs6bwGIABIAJABAA==",
+      "msg" : "obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/29 13:33:57",
+      "delete" : false,
+      "identifier" : "CP2w6bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha 🔺",
+      "type" : "text"
+    }
+  ]
+})

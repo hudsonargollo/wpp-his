@@ -1,0 +1,28 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Michael Douglas",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 18:30:21",
+      "mediaSize" : "1 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/459f613048989bf428ba322208b2a2c8ac5bda89"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/02 18:30:21",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "msg" : "https:\/\/www.instagram.com\/stories\/omichaelcosta\/3690568842876340524?utm_source=ig_story_item_share&igsh=dnl6ZXFkdXFoZmM4&share_type=SHARE_STORY_TO_STATUS",
+      "type" : "text"
+    }
+  ]
+})

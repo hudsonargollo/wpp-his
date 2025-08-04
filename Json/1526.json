@@ -1,0 +1,576 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99151-1080",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/01 11:43:05",
+      "delete" : false,
+      "identifier" : "CIHssboGIABIAJABAA==",
+      "msg" : "Olá, bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/01 11:44:18",
+      "mediaSize" : "3 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMrssboGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/59b21c61e6d0b1195eeb25706dee9c3bf14f48cc"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/01 11:45:33",
+      "delete" : false,
+      "identifier" : "CJXtsboGIABIAJABAA==",
+      "msg" : "está claro que o Modo Caverna possui 3 etapas. ok. \nPorém como concluir o Modo Caverna sem o último modulo (etapa)?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/01 11:47:28",
+      "delete" : false,
+      "identifier" : "CIjusboGIABIAJABAA==",
+      "msg" : "Isso não seria um sinônimo de que o próprio construtor não está usando o MODO CAVERNA para finalizar este projeto? Afinal há desafio de 30 e 60 dias. Logo suponho que seria possível ter sido entregue e deveria...\nFoi vendido um curso\/treinamento completo... e está incompleto... há um bom tempo... como pode ver...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/01 11:48:06",
+      "mediaSize" : "2 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CK7usboGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/8a3b4388a5c7bc11d783ce697a6fff02a92cbcf2"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/01 11:50:43",
+      "mediaSize" : "2 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMvvsboGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/f57bdc555dd619ae437eb52c6ab2d7cff9fda307"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:25:26",
+      "delete" : false,
+      "mediaName" : "b4ef6e97-5794-4ac8-a605-1b2798a2099e.opus",
+      "localPath" : "media\/478f48f65f5d02bd393aa48801022bc6e716254c.opus",
+      "mediaSize" : "137 KB",
+      "identifier" : "CM7qtroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 10:48:58",
+      "delete" : false,
+      "identifier" : "CNL1troGIABIAJABAA==",
+      "msg" : "Oi Rafaela, bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 10:49:13",
+      "delete" : false,
+      "identifier" : "COH1troGIABIAJABAA==",
+      "msg" : "Muito obrigado pelo retorno breve...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 10:49:52",
+      "delete" : false,
+      "identifier" : "CIj2troGIABIAJABAA==",
+      "msg" : "Entendi! eu já havia assistido tudo, porém não voltei mais na plataforma e certamente por isso não havia percebido esta migração....",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 10:50:05",
+      "delete" : false,
+      "identifier" : "CJX2troGIABIAJABAA==",
+      "msg" : "Gostaria sim do material que citou acima...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 10:50:08",
+      "delete" : false,
+      "identifier" : "CJj2troGIABIAJABAA==",
+      "msg" : "Aguardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:52:59",
+      "mediaSize" : "2,9 MB",
+      "mediaName" : "Ebook - Guia Prático para definição de um plano de ação.pdf",
+      "localPath" : "media\/66797ebcadde31dcab0872c3b742634a1361292a.pdf",
+      "delete" : false,
+      "identifier" : "CMP3troGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:52:59",
+      "mediaSize" : "2,7 MB",
+      "mediaName" : "Ebook - O manual para a criação de bons hábitos.pdf",
+      "localPath" : "media\/d2079d4d77a6da84a8715ec67117e6ca6ebfa88b.pdf",
+      "delete" : false,
+      "identifier" : "CMP3troGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:53:00",
+      "mediaSize" : "929 KB",
+      "mediaName" : "Ebook - Flow Caverna.pdf",
+      "localPath" : "media\/14aca14e15cb8124ffb88d44ecf28dd5c0a3f8c4.pdf",
+      "delete" : false,
+      "identifier" : "CMT3troGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:53:00",
+      "mediaSize" : "56,7 MB",
+      "mediaName" : "Ebook - Defina seus objetivos e metas.pdf",
+      "localPath" : "media\/cb20b59a82038c58905bea9ce67f8dd208065671.pdf",
+      "delete" : false,
+      "identifier" : "CMT3troGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:53:00",
+      "mediaSize" : "8,3 MB",
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/b962f7ca5d6f06a756230f474f4e65a703435cc9.pdf",
+      "delete" : false,
+      "identifier" : "CMT3troGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:53:00",
+      "mediaSize" : "740 KB",
+      "mediaName" : "Ebook - Produtivo burro x produtivo inteligente.pdf",
+      "localPath" : "media\/3e36c61dd83616fcdcac18afc5def5524a4192e6.pdf",
+      "delete" : false,
+      "identifier" : "CMT3troGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:53:00",
+      "delete" : false,
+      "mediaName" : "Planner - Desafio 5 anos em 30 dias.pdf",
+      "localPath" : "media\/c0f6432aa1ab7054845c633e489fe002ff8efea8.pdf",
+      "mediaSize" : "1,7 MB",
+      "identifier" : "CMT3troGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/030aeb369cc2a3d85b55128d4784d88a8a2e73f7"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:53:00",
+      "mediaSize" : "3,3 MB",
+      "mediaName" : "Ebook - Os pilares da rotina adaptativa.pdf",
+      "localPath" : "media\/0db25ebe1b0a38435130afe0ececc68750112d23.pdf",
+      "delete" : false,
+      "identifier" : "CMT3troGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 10:53:41",
+      "delete" : false,
+      "identifier" : "CO33troGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Espero que os materiais auxiliem ainda mais no seu desenvolvimento! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 11:24:38",
+      "delete" : false,
+      "identifier" : "CK6Gt7oGIABIAJABAA==",
+      "msg" : "Obrigado, boa semana",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 11:26:16",
+      "delete" : false,
+      "identifier" : "CJCHt7oGIABIAJABAA==",
+      "msg" : "Esse material não estava na plataforma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 11:26:31",
+      "delete" : false,
+      "identifier" : "CJ+Ht7oGIABIAJABAA==",
+      "msg" : "Pq eu baixei todos que tinham lá...\nSão novos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 11:26:59",
+      "delete" : false,
+      "identifier" : "CLuHt7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Alguns são exclusivos, te enviei como um brinde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/02 11:27:18",
+      "delete" : false,
+      "identifier" : "CM6Ht7oGIABIAJABAA==",
+      "msg" : "Ok. Muito obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/02 11:27:36",
+      "delete" : false,
+      "identifier" : "COCHt7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço pelo contato!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 14:40:33",
+      "delete" : false,
+      "identifier" : "CJm1kbsGIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 14:40:42",
+      "delete" : false,
+      "identifier" : "CKK1kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 14:40:48",
+      "delete" : false,
+      "identifier" : "CKi1kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 14:40:48",
+      "delete" : false,
+      "identifier" : "CKi1kbsGIABIAJABAA==",
+      "msg" : "O menu quadro dos sonhos não está funcionado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 14:40:56",
+      "delete" : false,
+      "identifier" : "CLC1kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *O menu quadro dos sonhos não está funcionado*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 14:41:02",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLa1kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 14:41:05",
+      "delete" : false,
+      "mediaName" : "31f2dfce-dcac-46b7-a9e2-bb91be5f89d8.jpg",
+      "localPath" : "media\/45a2765731d6986411afe70bd0bd54af96cebda5.jpg",
+      "mediaSize" : "49 KB",
+      "identifier" : "CLm1kbsGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ae5c58f4e065baaa949bb959e9a565648a3b763d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 14:44:41",
+      "delete" : false,
+      "identifier" : "CJG3kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 14:45:00",
+      "delete" : false,
+      "identifier" : "CKS3kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Realize esse procedimento e me dê um retorno se o problema se resolver: Ctrl Shift R se for Windows ou Command Shift R se for Apple. Isso vai atualizar o cache da página.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 14:47:34",
+      "delete" : false,
+      "mediaName" : "f0fb5d15-b4dd-49ef-88c4-3abdcbc5f518.mp4",
+      "localPath" : "media\/156ff8fefc30df50bc79f2b73a7f94f6c0e71aaf.mp4",
+      "mediaSize" : "1,8 MB",
+      "identifier" : "CL64kbsGIABIAJABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/f8f01d3ba14e580ecdd673f0e9e708c241a8b3ed"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 14:48:15",
+      "delete" : false,
+      "identifier" : "COe4kbsGIABIAJABAA==",
+      "msg" : "ainda não fucniona",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 14:48:19",
+      "delete" : false,
+      "identifier" : "COu4kbsGIABIAJABAA==",
+      "msg" : "estou no windows",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 14:48:50",
+      "delete" : false,
+      "identifier" : "CIq5kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 14:49:00",
+      "delete" : false,
+      "identifier" : "CJS5kbsGIABIAJABAA==",
+      "msg" : "carlos_pestana1@yahoo.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 15:05:35",
+      "delete" : false,
+      "identifier" : "CPfAkbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tenta novamente por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:15:38",
+      "delete" : false,
+      "identifier" : "CNLFkbsGIABIAJABAA==",
+      "msg" : "continua sem funcionar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:25:40",
+      "delete" : false,
+      "identifier" : "CKzKkbsGIABIAJABAA==",
+      "msg" : "Pelo Menu metas eu conseguir subir fotos e salvou, mas não consigo acessar para pagar ou trocar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:26:45",
+      "delete" : false,
+      "identifier" : "CO3KkbsGIABIAJABAA==",
+      "msg" : "Cabem apenas 6 imagens? Está limitando, deveria ser diferente?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:26:49",
+      "delete" : false,
+      "identifier" : "CPHKkbsGIABIAJABAA==",
+      "msg" : "Ou é isso mesmo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:30:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COXMkbsGIAA=",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 15:36:36",
+      "delete" : false,
+      "identifier" : "CLzPkbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Obrigada por sua observação.\nVocê pode continuar adicionando por Metas. Não é possível apagar, porém você pode clicar na foto e alterar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:53:19",
+      "delete" : false,
+      "identifier" : "CKfXkbsGIABIAJABAA==",
+      "msg" : "como disse não pode",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:53:32",
+      "delete" : false,
+      "identifier" : "CLTXkbsGIABIAJABAA==",
+      "msg" : "nao abre a opção trocar editar ou nada disso e nem pode adicionar mais",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:53:40",
+      "delete" : false,
+      "identifier" : "CLzXkbsGIABIAJABAA==",
+      "msg" : "vou gravar a tela e mandar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:56:15",
+      "delete" : false,
+      "identifier" : "CNfYkbsGIABIAJABAA==",
+      "msg" : "?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 15:56:20",
+      "delete" : false,
+      "mediaName" : "1ce3e1d9-b6ae-4d4d-abad-10ea3933da59.mp4",
+      "localPath" : "media\/0cb22141bc5056eb49c65ea965a28f4628890ebd.mp4",
+      "mediaSize" : "5,3 MB",
+      "identifier" : "CNzYkbsGIABIAJABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/f533fb5c8ba1ea8049a8b41e93549485ef2e5731"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 16:35:33",
+      "delete" : false,
+      "identifier" : "CI3rkbsGIABIAJABAA==",
+      "msg" : "olá, eu falo com a Bruna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 17:10:02",
+      "delete" : false,
+      "identifier" : "CKL7kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O flow está passando por atualização, por isso está um pouco instável",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/19 17:10:23",
+      "delete" : false,
+      "identifier" : "CLf7kbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Passei sua solicitação para nossos desenvolvedores",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 17:23:33",
+      "delete" : false,
+      "identifier" : "CM2BkrsGIABIAJABAA==",
+      "msg" : "ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/19 17:23:44",
+      "delete" : false,
+      "identifier" : "CNiBkrsGIABIAJABAA==",
+      "msg" : "mas somente 6 fotos mesmo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/20 08:05:53",
+      "delete" : false,
+      "identifier" : "CJmflbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sim",
+      "type" : "text"
+    }
+  ]
+})

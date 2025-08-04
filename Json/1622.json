@@ -1,0 +1,57 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98889-4218",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/16 15:27:38",
+      "delete" : false,
+      "mediaName" : "f01b3f57-a708-4a84-b638-e819e4452259.jpg",
+      "localPath" : "media\/1051bdf55fe9ae9fedcf58b5e4defbe3d4f94c28.jpg",
+      "mediaSize" : "44 KB",
+      "identifier" : "CKKLwLgGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/5bcb4f04bf80562d408b264e92e98da1df0b5cb4"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/16 15:27:40",
+      "delete" : false,
+      "identifier" : "CKWLwLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/16 15:37:51",
+      "delete" : false,
+      "identifier" : "CIeQwLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "spam",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/07 15:52:56",
+      "delete" : false,
+      "identifier" : "CJCz0roGIABIAJABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/07 15:52:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJOz0roGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

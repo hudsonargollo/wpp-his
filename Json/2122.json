@@ -1,0 +1,334 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 98217-2870",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 10:48:13",
+      "delete" : false,
+      "identifier" : "CKXM1bcGIABIAJABAA==",
+      "msg" : "Olá, sou aluno dos produtos do Iuri. Preciso de ajuda!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 10:48:15",
+      "delete" : false,
+      "identifier" : "CKjM1bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 10:48:29",
+      "delete" : false,
+      "identifier" : "CLXM1bcGIABIAJABAA==",
+      "msg" : "Henrique Antunes",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 10:48:40",
+      "delete" : false,
+      "identifier" : "CMDM1bcGIABIAJABAA==",
+      "msg" : "email de compra: sadiniassessoria@outlook.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 10:49:34",
+      "delete" : false,
+      "identifier" : "CPbM1bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi, tudo certo por aí? 😊\n\nSou a Júlia, da equipe do Iuri Meira, e estou aqui para te ajudar com o que precisar!\n\nMe conta como posso te ajudar. Vamos resolver tudo juntos. Pode contar comigo sempre! 🤝",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 10:51:48",
+      "delete" : false,
+      "identifier" : "CPzN1bcGIABIAJABAA==",
+      "msg" : "Quero acessar a área de membros da quebra da matrix",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 10:53:01",
+      "delete" : false,
+      "identifier" : "CMXO1bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você já realizou a compra da mesma?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 10:53:07",
+      "delete" : false,
+      "identifier" : "CMvO1bcGIABIAJABAA==",
+      "msg" : "SIM",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 10:53:11",
+      "delete" : false,
+      "identifier" : "CM\/O1bcGIABIAJABAA==",
+      "msg" : "email de compra: sadiniassessoria@outlook.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 10:53:35",
+      "delete" : false,
+      "identifier" : "COfO1bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "No e-mail inicial que você me mandou não consegui acessar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 10:53:44",
+      "delete" : false,
+      "identifier" : "CPDO1bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia me mandar seu CPF?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 10:54:15",
+      "delete" : false,
+      "identifier" : "CI\/P1bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "E o comprovante de compra se possível",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 10:55:33",
+      "delete" : false,
+      "identifier" : "CN3P1bcGIABIAJABAA==",
+      "msg" : "15714305639",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 10:55:45",
+      "delete" : false,
+      "identifier" : "COnP1bcGIABIAJABAA==",
+      "msg" : "Eu comprei na área de membros antigo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 10:56:13",
+      "mediaSize" : "580 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIXQ1bcGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/33fd2c8bed4edf08f2bf78824795cdb39e3496fa"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/26 11:09:36",
+      "delete" : false,
+      "identifier" : "CKjW1bcGIABIAJABAA==",
+      "msg" : "????",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 11:10:13",
+      "delete" : false,
+      "identifier" : "CM3W1bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estou verificando, um minuto.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 11:25:06",
+      "delete" : false,
+      "mediaName" : "e492ec19-566e-4ba6-b0a6-5532162f9bc7.opus",
+      "localPath" : "media\/29a28f895298f9479065f6f7a1822b3750ed8417.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CMrd1bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/26 11:25:26",
+      "delete" : false,
+      "mediaName" : "92b097a5-3e46-457a-92ad-e2744793d82d.opus",
+      "localPath" : "media\/53662f758a2d2535c36c58874c92fb54d376bf9a.opus",
+      "mediaSize" : "18 KB",
+      "identifier" : "CN7d1bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 13:55:40",
+      "delete" : false,
+      "mediaName" : "4cb10bb3-8bf2-4cc6-b01e-0c12ae03ede0.jpg",
+      "localPath" : "media\/d63e1de42d16c94185a62e18d08294f8670cb21a.jpg",
+      "mediaSize" : "67 KB",
+      "identifier" : "CJSw67cGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/27b550b233556bcddace6a4cfbaed24f4dc8e2ba"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 13:55:42",
+      "delete" : false,
+      "identifier" : "CJew67cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 13:55:54",
+      "delete" : false,
+      "mediaName" : "00091efc-05ba-42a1-b86f-1953b663724e.jpg",
+      "localPath" : "media\/d0c49ebe764ee180402c1eb6d814c584a14106ae.jpg",
+      "mediaSize" : "67 KB",
+      "identifier" : "CKKw67cGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/fa4d185e95e2f6f5548e77a2fd944cc1350bee36"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 13:56:02",
+      "delete" : false,
+      "mediaName" : "d82c856a-c7c9-4fed-906f-1fc8ea567701.jpg",
+      "localPath" : "media\/e7779be4166148720efbc7a43fba912ed192fff0.jpg",
+      "mediaSize" : "43 KB",
+      "identifier" : "CKqw67cGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/6f9b34b4e63d227bce82c7fe6652b64c7aa27b48"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 14:48:11",
+      "delete" : false,
+      "mediaName" : "8e9e3123-c4d3-4127-92b8-8551e49b0a0d.opus",
+      "localPath" : "media\/bef886cae52eb03c0af64378e2042e80d96fc594.opus",
+      "mediaSize" : "37 KB",
+      "identifier" : "COPI67cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 15:29:33",
+      "delete" : false,
+      "identifier" : "CJXc67cGIABIAJABAA==",
+      "msg" : "Não recebi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 16:11:27",
+      "delete" : false,
+      "identifier" : "COfv67cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "sadiniassessoria@outlook.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 16:11:39",
+      "delete" : false,
+      "identifier" : "CPPv67cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu e-mail é esse?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 16:12:21",
+      "delete" : false,
+      "identifier" : "CJ3w67cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "sadiniassessoria@outlook.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 16:12:25",
+      "delete" : false,
+      "identifier" : "CKHw67cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ou esse?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 16:14:44",
+      "delete" : false,
+      "identifier" : "CKzx67cGIABIAJABAA==",
+      "msg" : "Esse",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 16:24:48",
+      "delete" : false,
+      "identifier" : "CIj267cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só um momento!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 16:28:01",
+      "delete" : false,
+      "identifier" : "CMn367cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pode me confirmar se chegou?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 16:41:31",
+      "delete" : false,
+      "identifier" : "CPP967cGIABIAJABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 16:49:30",
+      "delete" : false,
+      "identifier" : "CNKB7LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fico feliz por você! Te ajudo em algo mais?",
+      "type" : "text"
+    }
+  ]
+})

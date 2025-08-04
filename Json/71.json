@@ -1,0 +1,89 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 35 99189-8574",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 17:30:06",
+      "delete" : false,
+      "identifier" : "CNakr8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "fala bruno tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 17:31:46",
+      "delete" : false,
+      "identifier" : "CLqlr8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "aqui e o jamerson do suporte do modo caverna  , você quer fazer o cancelamento do seu plano?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 17:31:48",
+      "delete" : false,
+      "identifier" : "CLylr8QGIABIAJABAA==",
+      "msg" : "Tudo bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 17:31:51",
+      "delete" : false,
+      "identifier" : "CL+lr8QGIABIAJABAA==",
+      "msg" : "SIm",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 17:31:59",
+      "delete" : false,
+      "identifier" : "CMelr8QGIABIAJABAA==",
+      "msg" : "Nao quero renovar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 17:33:46",
+      "delete" : false,
+      "identifier" : "CLKmr8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "e uma pena que você tenha tomado essa decisão, me explica melhor essa situação o que te levou a decidir isso ,foi algo que te chateou?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 17:34:03",
+      "delete" : false,
+      "identifier" : "CMOmr8QGIABIAJABAA==",
+      "msg" : "Não foi util para mim.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 17:37:52",
+      "delete" : false,
+      "identifier" : "CKior8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "e uma pena que tenha acontecido isso ,mas me diz você consumiu todos os nossos conteúdos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/31 17:39:12",
+      "delete" : false,
+      "identifier" : "CPior8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "estamos trabalhando em novas melhorias pra melhorar sua experiencia dentro do nosso sistema !",
+      "type" : "text"
+    }
+  ]
+})

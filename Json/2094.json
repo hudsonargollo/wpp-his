@@ -1,0 +1,449 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 15 99687-3427",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 09:51:18",
+      "delete" : false,
+      "identifier" : "CM7g77cGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 09:51:20",
+      "delete" : false,
+      "identifier" : "CNDg77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 09:55:12",
+      "delete" : false,
+      "identifier" : "CLji77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 09:56:24",
+      "delete" : false,
+      "identifier" : "CIDj77cGIABIAZABAA==",
+      "msg" : "Meu download  não tá saindo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:01:03",
+      "delete" : false,
+      "identifier" : "CJfl77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você não está conseguindo realizar o download dos ebooks?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 10:02:55",
+      "delete" : false,
+      "identifier" : "CIfm77cGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:04:40",
+      "delete" : false,
+      "identifier" : "CPDm77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, me envia seu email por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 10:05:25",
+      "delete" : false,
+      "identifier" : "CJ3n77cGIABIAZABAA==",
+      "msg" : "rauldieillor@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:08:30",
+      "delete" : false,
+      "identifier" : "CNbo77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou te mandar os ebooks por aqui, só um momento!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:22",
+      "delete" : false,
+      "mediaName" : "Os pilares da rotina adaptativa.pdf",
+      "localPath" : "media\/a4a81220b5f6af5aae400ad69ff2fd5ad65f57b2.pdf",
+      "mediaSize" : "8,2 MB",
+      "identifier" : "CILq77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/67afcb7eeefe8ed9ddc05b465318af74725ec7dc"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:29",
+      "delete" : false,
+      "mediaName" : "O manual para a criação de bons hábitos e eliminação de maus hábitos.pdf",
+      "localPath" : "media\/7139869b713f15487f31ae7384868ae06536a2a3.pdf",
+      "mediaSize" : "8,4 MB",
+      "identifier" : "CInq77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/84a28a6802d2c44c99cf4536dc122c904a6185e2"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:29",
+      "delete" : false,
+      "mediaName" : "O guia prático para definição de um plano de ação (1).pdf",
+      "localPath" : "media\/a25c249fe6c82c9d0b82513727346e2e33a7aa89.pdf",
+      "mediaSize" : "6,5 MB",
+      "identifier" : "CInq77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/251d9ac845d9a433df7d8f62469d978adb2b17c1"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:29",
+      "mediaSize" : "19,6 MB",
+      "mediaName" : "05 maneiras de fazer 3 mil na internet em 30 dias.pdf",
+      "localPath" : "media\/3178dcd6ef1691585519e00a4634a66fb598e04c.pdf",
+      "delete" : false,
+      "identifier" : "CInq77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:29",
+      "delete" : false,
+      "mediaName" : "Os 05 fundamentos que regem as vendas online.pdf",
+      "localPath" : "media\/8965d527dbfa15dae6c09c2ee6721d22e0eaeb3b.pdf",
+      "mediaSize" : "7,2 MB",
+      "identifier" : "CInq77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/0533ee1e8fce01f91990d42f50df619870328ccc"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:30",
+      "delete" : false,
+      "mediaName" : "22 ferramentas para aumentar a produtividade e vender mais online .pdf",
+      "localPath" : "media\/cbe53c7ae3c73fd994f3b3535b357f09344f5407.pdf",
+      "mediaSize" : "11,1 MB",
+      "identifier" : "CIrq77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/a87ccace17e83b522f59caf6acc6497c535f7603"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:31",
+      "mediaSize" : "19,6 MB",
+      "mediaName" : "Defina seus objetivos e metas.pdf",
+      "localPath" : "media\/2d346c8e9c4528424ebd6d47f156dd6acb0910f2.pdf",
+      "delete" : false,
+      "identifier" : "CIvq77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:33",
+      "mediaSize" : "21,2 MB",
+      "mediaName" : "Flow Caverna.pdf",
+      "localPath" : "media\/347a656242828031a2c4905192ec430f110e7313.pdf",
+      "delete" : false,
+      "identifier" : "CI3q77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:33",
+      "delete" : false,
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/fc9adecbafc3d820462b821e99008c2db85e8cd6.pdf",
+      "mediaSize" : "25,7 MB",
+      "identifier" : "CI3q77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/7cebf3c90cf3e16b47fa00eeab3046fc9b228e59"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:11:33",
+      "delete" : false,
+      "mediaName" : "Produtivo burro x produtivo inteligente.pdf",
+      "localPath" : "media\/4be7af4f28a64a47dee82edce9539a0a00ce54f6.pdf",
+      "mediaSize" : "29,1 MB",
+      "identifier" : "CI3q77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/5fc617ca7ecc40d96d58cf0718a33a448bff1809"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 10:12:05",
+      "delete" : false,
+      "identifier" : "CK3q77cGIABIAZABAA==",
+      "msg" : "Ok obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 10:16:25",
+      "delete" : false,
+      "identifier" : "CLHs77cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 17:47:21",
+      "delete" : false,
+      "identifier" : "COG\/8bcGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 17:48:02",
+      "delete" : false,
+      "identifier" : "CIrA8bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem? Como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 17:49:23",
+      "delete" : false,
+      "identifier" : "CNvA8bcGIABIAZABAA==",
+      "msg" : "Eu queria  ir pro modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/01 17:51:00",
+      "delete" : false,
+      "identifier" : "CLzB8bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O modo Caverna é um produto diferente do Desafio 5 em 30, você tem interesse em saber mais sobre o produto do Modo Caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/01 17:54:10",
+      "delete" : false,
+      "identifier" : "CPrC8bcGIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 09:27:43",
+      "delete" : false,
+      "identifier" : "CMf49LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Raul! Passei seu contato para que nosso representante comercial te explique melhor!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:24:25",
+      "delete" : false,
+      "identifier" : "CIH7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Raul! Tudo bem?\nVi aqui que você não está conseguindo baixar seus ebooks. Você conseguiu acessar ou também teve dificuldade para isso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:24:57",
+      "delete" : false,
+      "identifier" : "CKH7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou estar te enviando os ebooks aqui para você conseguir acessá-los mais facilmente ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:19",
+      "delete" : false,
+      "mediaName" : "22 ferramentas para aumentar a produtividade e vender mais online .pdf",
+      "localPath" : "media\/a00fcfc103a5861f8b6b2fb6869e2f754619bbb8.pdf",
+      "mediaSize" : "11,1 MB",
+      "identifier" : "CLf7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/911c5156306eee2680807c4c44df9b541a25caf9"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:19",
+      "mediaSize" : "21,2 MB",
+      "mediaName" : "Flow Caverna.pdf",
+      "localPath" : "media\/81964c8e8a62a26a261492ee1d38ea9cca9abdb3.pdf",
+      "delete" : false,
+      "identifier" : "CLf7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:19",
+      "mediaSize" : "19,6 MB",
+      "mediaName" : "05 maneiras de fazer 3 mil na internet em 30 dias.pdf",
+      "localPath" : "media\/7e0fa25c7ed1297c38c17287cc1382f13a4d249c.pdf",
+      "delete" : false,
+      "identifier" : "CLf7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:19",
+      "mediaSize" : "19,6 MB",
+      "mediaName" : "Defina seus objetivos e metas.pdf",
+      "localPath" : "media\/40071cc7f29e25fe1b413859453fe7e2c0f0e268.pdf",
+      "delete" : false,
+      "identifier" : "CLf7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:19",
+      "delete" : false,
+      "mediaName" : "O guia prático para definição de um plano de ação (1).pdf",
+      "localPath" : "media\/c1e4103bf729a51ffdacc91d7fde544e0e3c3188.pdf",
+      "mediaSize" : "6,5 MB",
+      "identifier" : "CLf7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/1288e223306ca9a439b732862090535c7cf3db87"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:19",
+      "delete" : false,
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/d8369811d5363156380057fa2be0b54a94d5db8d.pdf",
+      "mediaSize" : "25,7 MB",
+      "identifier" : "CLf7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/bc1aa8ad260678230c8e8c76233b730cf5de4a3f"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:20",
+      "delete" : false,
+      "mediaName" : "Os pilares da rotina adaptativa.pdf",
+      "localPath" : "media\/e3f8e3b46a137a5085fc0c32ca04c7e77a1350da.pdf",
+      "mediaSize" : "8,2 MB",
+      "identifier" : "CLj7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/30984024e660bbfd8befd8f124e8688176479c3a"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:20",
+      "delete" : false,
+      "mediaName" : "O manual para a criação de bons hábitos e eliminação de maus hábitos.pdf",
+      "localPath" : "media\/23f40e1574fa65850a4f719d4f3fdf718c721cb9.pdf",
+      "mediaSize" : "8,4 MB",
+      "identifier" : "CLj7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/80a4f7e0e9c77ee408e83d95b22f2c00123e68e3"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:20",
+      "delete" : false,
+      "mediaName" : "Os 05 fundamentos que regem as vendas online.pdf",
+      "localPath" : "media\/57222b22e54e39e2fa54c2a281ccefec05524cc5.pdf",
+      "mediaSize" : "7,2 MB",
+      "identifier" : "CLj7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/50a7f87176b17de655871c740e52d3d9c7554983"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:25:20",
+      "delete" : false,
+      "mediaName" : "Produtivo burro x produtivo inteligente.pdf",
+      "localPath" : "media\/0326d5d1653f6e6c5b6eba379c3adb3bd8e03dbd.pdf",
+      "mediaSize" : "29,1 MB",
+      "identifier" : "CLj7+7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/6cca13fb5b8782e82e88d2042f8e516b30de2966"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 17:48:35",
+      "delete" : false,
+      "identifier" : "CKuG\/LcGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 17:57:34",
+      "delete" : false,
+      "identifier" : "CMaK\/LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 17:57:57",
+      "delete" : false,
+      "identifier" : "CN2K\/LcGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 09:18:17",
+      "delete" : false,
+      "identifier" : "CJG6\/7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "🔺🐺",
+      "type" : "text"
+    }
+  ]
+})

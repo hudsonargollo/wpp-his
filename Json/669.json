@@ -1,0 +1,695 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 98946-1028",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 12:29:20",
+      "delete" : false,
+      "identifier" : "CNjV6MAGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 12:29:23",
+      "delete" : false,
+      "identifier" : "CNvV6MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 12:29:30",
+      "delete" : false,
+      "identifier" : "COLV6MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/06 12:29:43",
+      "delete" : false,
+      "identifier" : "CO\/V6MAGIABIAZABAA==",
+      "msg" : "como faço pra baixar o aplicativo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 14:15:37",
+      "delete" : false,
+      "mediaName" : "0853a1a5-3578-4efc-971d-8068a2c7ac56.m4a",
+      "localPath" : "media\/6578665c827afb148bfe57421db65ea3e6ccbf35.m4a",
+      "mediaSize" : "251 KB",
+      "identifier" : "CMGH6cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/06 14:15:47",
+      "delete" : false,
+      "identifier" : "CMuH6cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/app.modocaverna.com\/login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 13:50:53",
+      "delete" : false,
+      "identifier" : "CPWe7sAGIABIAZABAA==",
+      "msg" : "boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 13:50:58",
+      "delete" : false,
+      "identifier" : "CPqe7sAGIABIAZABAA==",
+      "msg" : "gostaria de solicitar o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 13:51:00",
+      "delete" : false,
+      "identifier" : "CPye7sAGIABIAZABAA==",
+      "msg" : "como faço?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/07 15:21:24",
+      "delete" : false,
+      "identifier" : "CKzJ7sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo certo, obrigado por avisar.\n\nAntes de seguir com o processo, posso só te perguntar o que te fez querer o reembolso?\nFoi algo que não funcionou como esperado, dificuldade em usar, ou sentiu que não era o momento?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 16:09:51",
+      "delete" : false,
+      "identifier" : "CIfg7sAGIABIAZABAA==",
+      "msg" : "o aplicativo não abriu no meu notebook",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 16:10:16",
+      "delete" : false,
+      "identifier" : "CKDg7sAGIABIAZABAA==",
+      "msg" : "toda vez que termina o vídeo do lobo cinzento não aparece mais nada pra clicar e iniciar o protejo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/07 16:13:03",
+      "delete" : false,
+      "identifier" : "CMfh7sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vitor, verifiquei a sua conta e ela está ativa. Você poderia me enviar um vídeo da sua tela para verificar o que pode estar causando esse problema?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 16:19:35",
+      "delete" : false,
+      "identifier" : "CM\/k7sAGIABIAZABAA==",
+      "msg" : "vou pegar meu notebook",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 16:22:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIXm7sAGIABIAZABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 16:22:39",
+      "delete" : false,
+      "mediaName" : "0f80a682-7b54-4528-ba14-e5229a8f36dc.jpg",
+      "localPath" : "media\/2a2d723e3d4855446cafb5bd81961642a3c1ddba.jpg",
+      "mediaSize" : "206 KB",
+      "identifier" : "CIfm7sAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/05d88f658245e15a784901f7fb64ba65ab88a748"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 16:22:39",
+      "delete" : false,
+      "mediaName" : "f3fda59b-09ee-43c3-ac95-6064a5e06347.jpg",
+      "localPath" : "media\/b6e175c82ad18c43c3939441a8ed2d19fe03b42c.jpg",
+      "mediaSize" : "200 KB",
+      "identifier" : "CIfm7sAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/2e423b44ebbcb733ddd3645853f93b7f40f38671"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 16:22:48",
+      "delete" : false,
+      "identifier" : "CJDm7sAGIABIAZABAA==",
+      "msg" : "dps disso não tem mais nada, não aparece mais nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/07 16:32:20",
+      "delete" : false,
+      "identifier" : "CMzq7sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "confirma pra mim o seu email?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/07 17:03:45",
+      "delete" : false,
+      "identifier" : "CKn57sAGIABIAZABAA==",
+      "msg" : "vitoor_mourao@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 08:26:10",
+      "delete" : false,
+      "identifier" : "CNqp8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso! Tudo certo por aí? Capitão aqui. 🐺\n\nVerifiquei aqui e o seu plano está ativo direitinho!\nSe estiver com dificuldade pra acessar, recomendo redefinir sua senha por esse link:\n\n🔗 https:\/\/app.modocaverna.com\/forgot-password\n\nDepois disso, é só entrar normalmente.\nPara qualquer trava no caminho, to aqui! 🔺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/08 09:24:26",
+      "delete" : false,
+      "mediaName" : "80c17ebb-a51b-4cdb-b372-e76a0f3aff56.jpg",
+      "localPath" : "media\/dd082f80e7218bdb9818c8bd167fd2577c8a67ce.jpg",
+      "mediaSize" : "125 KB",
+      "identifier" : "CILF8sAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4bfae3700e8f0e62ec6faed7f8004b4377061954"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 09:30:28",
+      "delete" : false,
+      "identifier" : "CO3H8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 09:37:16",
+      "delete" : false,
+      "identifier" : "CITL8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tenta apagar o histórico do seu navegador e logar novamente!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 10:30:23",
+      "delete" : false,
+      "identifier" : "CPfj8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Vitor, deu certinho ai?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/08 10:41:00",
+      "delete" : false,
+      "identifier" : "CPTo8sAGIABIAZABAA==",
+      "msg" : "não consegui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 10:42:30",
+      "delete" : false,
+      "identifier" : "CM7p8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vitor, acesse a nossa plataforma por esse site:\n\nhttps:\/\/app.modocaverna.com\/login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 10:43:54",
+      "delete" : false,
+      "identifier" : "CKLq8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Acabei de verificar e o seu plano está ativo com esse email: vitoor_mourao@hotmail.com\n\nCaso não lembre a senha, é possível altera-la com esse link: https:\/\/app.modocaverna.com\/forgot-password",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/08 10:44:23",
+      "delete" : false,
+      "identifier" : "CL\/q8sAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer coisa, tô por aqui! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:06:45",
+      "delete" : false,
+      "identifier" : "CO3798AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Vitor! 🐺\n\nRecebi aqui seu pedido de reembolso. Antes de seguirmos com isso, posso te perguntar o que te levou a tomar essa decisão?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 10:12:55",
+      "delete" : false,
+      "identifier" : "CN\/+98AGIABIAZABAA==",
+      "msg" : "Bom dia, pensei bem e vou precisar do dinheiro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 10:13:07",
+      "delete" : false,
+      "identifier" : "COv+98AGIABIAZABAA==",
+      "msg" : "me precipitei e atrasei uma conta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:14:15",
+      "delete" : false,
+      "identifier" : "CK\/\/98AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Obrigado por responder com sinceridade. Mas deixa eu te falar uma coisa , com todo respeito:\n\nR$49 é menos do que o preço de uma pizza.\nMas aqui, ele te dá acesso a um método completo de transformação pessoal, com suporte, curso, desafio, materiais e acompanhamento direto comigo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:14:26",
+      "delete" : false,
+      "identifier" : "CLr\/98AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Se uma simples conta já te colocou contra a parede… então é justamente por isso que você deveria seguir com o Modo Caverna!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 10:14:44",
+      "delete" : false,
+      "identifier" : "CMz\/98AGIABIAZABAA==",
+      "msg" : "sim e vou seguir, mas mês que vem.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 10:15:02",
+      "delete" : false,
+      "identifier" : "CN7\/98AGIABIAZABAA==",
+      "msg" : "não desisti do curso, só vou retroceder pra dps avançar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:15:34",
+      "delete" : false,
+      "identifier" : "CP7\/98AGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifiquei na paltaforma que você assinou apenas o Desafio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 10:15:47",
+      "delete" : false,
+      "identifier" : "CIuA+MAGIABIAZABAA==",
+      "msg" : "sim, mais à frente vou querer todos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:15:48",
+      "delete" : false,
+      "identifier" : "CIyA+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vitor, e se eu te liberasse 1 mês do plano cavernoso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 10:16:38",
+      "delete" : false,
+      "identifier" : "CL6A+MAGIABIAZABAA==",
+      "msg" : "obrigado, mas já estou contando com o reembolso pra outro compromisso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:16:56",
+      "delete" : false,
+      "identifier" : "CNCA+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você mesmo disse que quer seguir com tudo mais pra frente. Então deixa eu te dar uma vantagem agora:\n\nVou liberar 1 mês do Plano Cavernoso por minha conta, acesso total, sem restrição, sem desculpa.\n\nSe ao final disso tudo você achar que não valeu nem os R$49 do início, eu mesmo faço questão de devolver.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 10:17:26",
+      "delete" : false,
+      "identifier" : "CO6A+MAGIABIAZABAA==",
+      "msg" : "Mas o plano não está abrindo no meu notebook",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:17:49",
+      "delete" : false,
+      "identifier" : "CIWB+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu posso te ajudar nisso, Vitor!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:18:11",
+      "delete" : false,
+      "identifier" : "CJuB+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você poderia mandar um vídeo para verificarmos o problema?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 10:26:35",
+      "delete" : false,
+      "mediaName" : "8c38bb5e-6cc8-45e1-8df2-ab0b6a429617.jpg",
+      "localPath" : "media\/4bca3090c50625a6a9ced0543ee616495a2b8200.jpg",
+      "mediaSize" : "126 KB",
+      "identifier" : "CJOF+MAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/77ce2f21c73f1aa8733328fa972d44693b26dade"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 10:26:38",
+      "delete" : false,
+      "identifier" : "CJaF+MAGIABIAZABAA==",
+      "msg" : "não sai dessa tela",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:30:11",
+      "delete" : false,
+      "identifier" : "COuG+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vitor, tente apagar o histórico de navegação do seu google e acessar por esse link com o seu email e senha: https:\/\/app.modocaverna.com\/login",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 10:30:39",
+      "delete" : false,
+      "identifier" : "CIeH+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer coisa, tô aqui! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 11:05:37",
+      "delete" : false,
+      "mediaName" : "847634fc-3912-4bf2-9806-b9aa7d70484c.jpg",
+      "localPath" : "media\/05e600e9e034aacf08ebee8f20499639bb76fcf2.jpg",
+      "mediaSize" : "160 KB",
+      "identifier" : "CLmX+MAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/9f7e0c9d17a7c50c0e1bfc0b87ca8fd311f2bafa"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 11:05:41",
+      "delete" : false,
+      "identifier" : "CL2X+MAGIABIAZABAA==",
+      "msg" : "continua o mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 11:08:50",
+      "delete" : false,
+      "mediaName" : "4f254b6c-d06a-47aa-90bc-9f277a15ce8d.jpg",
+      "localPath" : "media\/ae813c1d8d9536f2bf313f3a8134e58f04af45d8.jpg",
+      "mediaSize" : "26 KB",
+      "identifier" : "CPqY+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/4b4875e2e9d306315c940570a9ff2d96f9d95302"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 11:09:03",
+      "delete" : false,
+      "identifier" : "CIeZ+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Observe ali na aba, Vitor, Essa é a incorreta!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 11:09:35",
+      "mediaSize" : "3 KB",
+      "mediaName" : "47aed4c4-0e5c-439c-831b-f3ca3fee499e.jpg",
+      "localPath" : "media\/52701fa53f4e3dd20299aa4ae9d2ba5e0f29eeab.jpg",
+      "delete" : false,
+      "identifier" : "CKeZ+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 11:09:45",
+      "delete" : false,
+      "identifier" : "CLGZ+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tente acessar por essa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 11:15:25",
+      "delete" : false,
+      "identifier" : "CIWc+MAGIABIAZABAA==",
+      "msg" : "ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 11:18:23",
+      "delete" : false,
+      "mediaName" : "c804ffee-61be-49f5-a75f-c71ff9530315.jpg",
+      "localPath" : "media\/8a5da1b1f784bb6d6d2cfea45aa0d4741543160d.jpg",
+      "mediaSize" : "152 KB",
+      "identifier" : "CLed+MAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4b9a673eb819ff9f606dfc90c7b68ed373cf395d"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 11:18:34",
+      "delete" : false,
+      "identifier" : "CMKd+MAGIABIAZABAA==",
+      "msg" : "vou até o final e no vídeo dps que acaba não abre mais nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 11:19:04",
+      "delete" : false,
+      "identifier" : "COCd+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me responde uma coisa, você logou com qual email?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 11:19:52",
+      "delete" : false,
+      "identifier" : "CJCe+MAGIABIAZABAA==",
+      "msg" : "vitoor_mourao@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 11:23:22",
+      "delete" : false,
+      "identifier" : "COKf+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vitor, verifiquei no sistema e sua conta está ativa!\n\nVou verificar com a equipe e já te dou uma resposta. 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 11:35:32",
+      "delete" : false,
+      "identifier" : "CLyl+MAGIABIAZABAA==",
+      "msg" : "ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 12:40:03",
+      "delete" : false,
+      "identifier" : "CNvD+MAGIABIAZABAA==",
+      "msg" : "Boa tarde, pensei melhor e gostaria do reembolso, se possível por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 14:11:20",
+      "delete" : false,
+      "identifier" : "CMDu+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vitor, Pressione a tecla \"CTRL\" junto com a tecla \"+\".\n\nIsso vai corrigir o erro no site! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 14:11:41",
+      "delete" : false,
+      "identifier" : "CNXu+MAGIABIAZABAA==",
+      "msg" : "tá bom",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 14:27:05",
+      "delete" : false,
+      "identifier" : "CPH1+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Se não funcionar, tente CTRL com \"-\"",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 14:27:21",
+      "delete" : false,
+      "identifier" : "CIH2+MAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso vai resolver o problema de responsividade que estamos trabalhando, para telas menores",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 14:57:09",
+      "delete" : false,
+      "mediaName" : "ea29ef27-b87a-4d29-872f-861e22b12b48.jpg",
+      "localPath" : "media\/84411f554317c320772f4439169c2dbf8d119d0a.jpg",
+      "mediaSize" : "145 KB",
+      "identifier" : "CP2D+cAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/bd103fe048508b2ac708c7142d286fdb565342b8"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 14:59:40",
+      "delete" : false,
+      "identifier" : "CJSF+cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Claro, como foi prometido!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 15:00:05",
+      "delete" : false,
+      "identifier" : "CK2F+cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Mas, primeiro, vamos esperar a sua assinatura encerrar em 4 dias para debitar apenas o plano do desafio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 15:00:17",
+      "delete" : false,
+      "identifier" : "CLmF+cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Após isso, altero para o cavernoso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 15:00:46",
+      "delete" : false,
+      "identifier" : "CNaF+cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Enquanto isso, assista aos cursos do Modo Caverna e Cave flow!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/09 15:01:00",
+      "delete" : false,
+      "identifier" : "COSF+cAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer coisa, estou a disposição! 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/09 15:01:56",
+      "delete" : false,
+      "identifier" : "CJyG+cAGIABIAZABAA==",
+      "msg" : "blz, obrigado pelo suporte",
+      "type" : "text"
+    }
+  ]
+})

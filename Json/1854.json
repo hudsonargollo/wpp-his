@@ -1,0 +1,392 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98894-1099",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 10:27:07",
+      "delete" : false,
+      "identifier" : "CLPO6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Vamos fazer as solicitações das placas solicitadas. Você poderia me confirmar essas informações?\n\nPlacas solicitadas: 100k, 250k\nCPF: 09101948580\nCEP: 45200280\nCidade: Jequié \nEstado: Bahia \nBairro: Mandacaru \nRua e Número: Rua Miguel gomes da silva 366",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 10:27:55",
+      "delete" : false,
+      "identifier" : "COPO6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me mande seu nome completo, por favor!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/30 10:54:25",
+      "delete" : false,
+      "identifier" : "CJnb6rcGIABIAZABAA==",
+      "msg" : "Salomão Andrade sampaio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/30 11:16:10",
+      "delete" : false,
+      "identifier" : "CLLl6rcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada! As informações estão corretas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:41:04",
+      "delete" : false,
+      "identifier" : "CNiJgbgGIABIAZABAA==",
+      "msg" : "Boa tarde!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:41:20",
+      "delete" : false,
+      "identifier" : "COiJgbgGIABIAZABAA==",
+      "msg" : "Conseguiram enviar ou posso pegar aí?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 16:45:19",
+      "delete" : false,
+      "identifier" : "CNeLgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! A de 250k você poderá pegar aqui, mas a de 100k terá que esperar. Vou te mandar o cálculo do valor assim que tiver um retorno do pessoal responsável pelas mesmas, pois, dessa maneira você já faz um pix só.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:51:28",
+      "delete" : false,
+      "identifier" : "CMiOgbgGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:51:38",
+      "delete" : false,
+      "identifier" : "CNKOgbgGIABIAZABAA==",
+      "msg" : "Tem a de 500k liberada aí?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 16:52:47",
+      "delete" : false,
+      "identifier" : "CJePgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não! Quer adicionar no seu pedido?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:10:05",
+      "delete" : false,
+      "identifier" : "CKWXgbgGIABIAZABAA==",
+      "msg" : "Quero sim!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 17:11:08",
+      "delete" : false,
+      "identifier" : "COSXgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tranquilo! Quando for mandar o orçamento para você, mando por completo! Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:13:29",
+      "delete" : false,
+      "identifier" : "CPGYgbgGIABIAZABAA==",
+      "msg" : "Não, somente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 17:13:33",
+      "delete" : false,
+      "identifier" : "CPWYgbgGIABIAZABAA==",
+      "msg" : "Pronto!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 17:13:52",
+      "delete" : false,
+      "identifier" : "CIiZgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 09:36:52",
+      "delete" : false,
+      "identifier" : "COzOlLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Você poderia me mandar uma prova social referente a placa solicitada de 500k?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 10:06:50",
+      "delete" : false,
+      "identifier" : "CPLclLgGIABIAJABAA==",
+      "msg" : "bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 10:06:53",
+      "delete" : false,
+      "identifier" : "CPXclLgGIABIAJABAA==",
+      "msg" : "posso sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 10:08:29",
+      "delete" : false,
+      "mediaName" : "cbd0357a-84b7-4c47-9d0e-27ce2ea55861.jpg",
+      "localPath" : "media\/310d1f8c0004221fcfb46b161449981d7f9f4fde.jpg",
+      "mediaSize" : "2 MB",
+      "identifier" : "CNXdlLgGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/7d0aaa96a1ab1e20fd10323f1629ad4a2d70c931"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 10:17:53",
+      "delete" : false,
+      "identifier" : "CInilLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 10:18:02",
+      "delete" : false,
+      "identifier" : "CJLilLgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 17:50:25",
+      "delete" : false,
+      "identifier" : "CJm2lrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem? Temos o orçamento da sua solicitação! Para pagamento é necessário realizar o pix para essa chave: projetoiurimeira@gmail.com e mandar o comprovante aqui no nosso chat!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 17:50:32",
+      "delete" : false,
+      "identifier" : "CKC2lrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Placas:100k - 130,00\n       250k - 130,00\n       500k - 130,00\nFrete:      - 116,00\n--------------------\nTotal:  -  R$ 506,00",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 17:52:57",
+      "delete" : false,
+      "identifier" : "CLG3lrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Após o pagamento, você pode vim buscar a de 250k aqui no escritório.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/08 17:53:24",
+      "delete" : false,
+      "identifier" : "CMy3lrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Em horário comercial.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 17:57:20",
+      "delete" : false,
+      "identifier" : "CLi5lrgGIABIAJABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/08 17:57:41",
+      "delete" : false,
+      "identifier" : "CM25lrgGIABIAJABAA==",
+      "msg" : "tem previsão das outras placas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 09:28:54",
+      "delete" : false,
+      "identifier" : "CI7umbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Caso tenha realizado o pagamento, solicito por meio deste o comprovante.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 09:29:16",
+      "delete" : false,
+      "identifier" : "CKTumbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Cerca de 1 mês mais ou menos.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 09:33:59",
+      "delete" : false,
+      "identifier" : "CL\/wmbgGIABIAJABAA==",
+      "msg" : "bom dia, certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 09:34:13",
+      "delete" : false,
+      "mediaName" : "a33e02b0-863a-11ef-af71-b5a568c6021e.pdf",
+      "localPath" : "media\/0cb9dde4e8beeacaf015a02d5df23c0c14dceeea.pdf",
+      "mediaSize" : "91 KB",
+      "identifier" : "CM3wmbgGIABIAJABAA==",
+      "type" : "document",
+      "thumbPath" : "media\/dad0b85acfd91b712322b698ee9e8a6ba71f1cca"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 09:34:49",
+      "delete" : false,
+      "identifier" : "CPHwmbgGIABIAJABAA==",
+      "msg" : "Vou pegar tudo junto, pode deixar guardada a de 250k. quando chegar as outras eu pego",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 09:37:11",
+      "delete" : false,
+      "identifier" : "CP\/xmbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tranquilo! As outras chegarão no local que você colocou na planilha!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 09:37:35",
+      "delete" : false,
+      "identifier" : "CJfymbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Assim que tivermos o código de rastreio, te mando!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 09:37:46",
+      "delete" : false,
+      "identifier" : "CKLymbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 09:38:16",
+      "delete" : false,
+      "identifier" : "CMDymbgGIABIAZABAA==",
+      "msg" : "Vocês vão enviar a de 500 e a de 100 pro endereço?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 09:38:23",
+      "delete" : false,
+      "identifier" : "CMfymbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 09:38:24",
+      "delete" : false,
+      "identifier" : "CMjymbgGIABIAZABAA==",
+      "msg" : "E a de 250 busco aí?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 09:38:29",
+      "delete" : false,
+      "identifier" : "CM3ymbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Exato",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/09 09:38:32",
+      "delete" : false,
+      "identifier" : "CNDymbgGIABIAZABAA==",
+      "msg" : "Blzz",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/09 09:38:42",
+      "delete" : false,
+      "identifier" : "CNrymbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "😉😁",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 15:40:43",
+      "delete" : false,
+      "identifier" : "CLO2ubkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nTenho uma ótima notícia para você: sua placa já foi enviada! 🎉\nO código de rastreamento é: SY643306341BR. Em breve, ela estará nas suas mãos!\nSe precisar de qualquer coisa ou tiver dúvidas, estamos à disposição. 😉",
+      "type" : "text"
+    }
+  ]
+})

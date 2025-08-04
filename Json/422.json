@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 95980-5415",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/17 23:35:37",
+      "delete" : false,
+      "identifier" : "CIHMyMIGIABIAJABAA==",
+      "msg" : "buenas glr, tudo bem e vc?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/17 23:35:58",
+      "delete" : false,
+      "identifier" : "CJbMyMIGIABIAJABAA==",
+      "msg" : "achei o conteudo bem topo de funil só, nao q esteja ruim mas nao faz muito sentido pra mim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/18 08:22:52",
+      "delete" : false,
+      "identifier" : "CJTDysIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Renato, Beleza? entendi!\n\nMas me responde com sinceridade:\nVocê realmente tentou?\n\nAssistiu as aulas? Iniciou o desafio? Seguiu o plano com disciplina por pelo menos 10 dias?\n\nSe a resposta for não, talvez o problema não seja o método, é só mais uma tentativa que você abandonou antes de começar.\n\nVocê já tem acesso por 1 ano.\nVai mesmo jogar isso fora sem nem tentar de verdade?\n\nTesta por 10-15 dias.\nSe ainda quiser sair, tudo certo, mas pelo menos a decisão vai ser com consciência, não por impulso.",
+      "type" : "text"
+    }
+  ]
+})

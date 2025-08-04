@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 17 99794-1307",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/30 18:19:35",
+      "delete" : false,
+      "mediaName" : "ff65c9ff-3c4a-41c6-9946-385ff7cb8fc8.mp4",
+      "localPath" : "media\/709ccc9e767fa8435c51a46920b8342debc4250b.mp4",
+      "mediaSize" : "9,8 MB",
+      "identifier" : "CO\/FirkGIABIAJABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/f6e0170d6d487b5bca2f928c9eba391091bb5fb4"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/30 18:19:38",
+      "delete" : false,
+      "identifier" : "CPLFirkGIABIAJABAA==",
+      "msg" : "Oi tudo bem com vc?\n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/30 18:19:47",
+      "delete" : false,
+      "identifier" : "CPvFirkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!*\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/30 18:19:53",
+      "delete" : false,
+      "identifier" : "CIHGirkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/30 18:34:48",
+      "delete" : false,
+      "identifier" : "CIDNirkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    }
+  ]
+})

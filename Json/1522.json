@@ -1,0 +1,84 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 45 98818-3083",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/22 07:10:15",
+      "delete" : false,
+      "identifier" : "CI\/Ln7sGIABIAJABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/22 07:10:20",
+      "delete" : false,
+      "identifier" : "CJTLn7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/22 07:10:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJvLn7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/22 07:10:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna\/Central Caverna",
+      "delete" : false,
+      "identifier" : "CKLLn7sGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/22 07:10:36",
+      "delete" : false,
+      "identifier" : "CKTLn7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sem problemas! Todas as aulas do Modo Caverna estão agora dentro da Área de Conteúdos do sistema, basta acessar o app para assistir.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/22 07:11:47",
+      "delete" : false,
+      "identifier" : "COvLn7sGIABIAJABAA==",
+      "msg" : "Qual app?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 09:31:02",
+      "mediaSize" : "14 KB",
+      "mediaName" : "ee8d2b4f-86ea-4ff7-8c99-3c5d9b691ec1.thumb",
+      "localPath" : "media\/6c2f959790fd7765ef2decec6a16a216a9162657.thumb",
+      "delete" : false,
+      "identifier" : "CI6wpbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 09:31:05",
+      "delete" : false,
+      "identifier" : "CJGwpbsGIABIAZABAA==",
+      "msg" : "Fala Brabo, Tudo bem? \nTodas nossas atividades desse ano já foram finalizadas. Agradecemos a todos os clientes!\nEstamos em recesso, voltaremos após 15\/01\/2025.\nDesejamos um ótimo Natal 🎄 e um feliz ano novo 🎊🎆",
+      "type" : "text"
+    }
+  ]
+})

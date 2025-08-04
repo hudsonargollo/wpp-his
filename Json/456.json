@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 99202-6206",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 17:10:43",
+      "delete" : false,
+      "identifier" : "CMuLssIGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 17:11:30",
+      "delete" : false,
+      "mediaName" : "910b2b25-562b-4511-bfae-74cb196a5df1.jpg",
+      "localPath" : "media\/65715060838d4fc74d5b380ec7be2fd1c8a21795.jpg",
+      "mediaSize" : "106 KB",
+      "identifier" : "CPqLssIGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/a0937e8d54bdf58492287f1fb080cc2afa9180e1"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 17:11:57",
+      "delete" : false,
+      "identifier" : "CJWMssIGIABIAZABAA==",
+      "msg" : "Fizeram compra de renovação no meu cartão sem minha permissão. Favor fazer o estorno.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/13 18:34:05",
+      "delete" : false,
+      "identifier" : "CNWyssIGIABIAZABAA==",
+      "msg" : "12164406702",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/14 09:20:55",
+      "delete" : false,
+      "identifier" : "CK\/StcIGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    }
+  ]
+})

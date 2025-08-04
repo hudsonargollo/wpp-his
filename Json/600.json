@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 74 99196-3412",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 09:40:55",
+      "delete" : false,
+      "identifier" : "CN+Tt8EGIABIAZABAA==",
+      "msg" : "Bom dia!\nQuando fiz a compra, fiquei na expectativa que as ferramentas e sistemas pra organização e tudo mais, estivessem incluídos no valor de 49. Porém só quando acessei, vi que essas ferramentas eram na verdade o upssell de vocês.\n\nDesde já, falo que é incrível a central caverna por dentro, mas acho que na minha realidade agora, não seria o momento de acessar ainda. Talvez em um outro momento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 09:52:40",
+      "delete" : false,
+      "identifier" : "CKCZt8EGIABIAZABAA==",
+      "msg" : "Poxa, seria bom pra caramba, de verdade!\n\nMas no momento, ainda não  consigo aceitar. Eu pretendo futuramente ir direto pro plano cavernoso!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 10:22:28",
+      "delete" : false,
+      "identifier" : "CJynt8EGIABIAJABAA==",
+      "msg" : "Central Caverna é a melhor, sempre!",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,27 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Mensagem",
+    "member" : [
+      "+557382446098",
+      "+557391777871"
+    ]
+  },
+  "body" : [
+    {
+      "time" : "2022\/08\/03 11:23:49",
+      "avatar" : "",
+      "msg" : "+557382446098 created group \"\"",
+      "identifier" : "CP2JqpcGIAA=",
+      "position" : "conter",
+      "delete" : false
+    },
+    {
+      "time" : "2022\/08\/03 11:23:49",
+      "avatar" : "",
+      "msg" : "CP2JqpcGIAA= was added to this group",
+      "identifier" : "CP2JqpcGIAA=",
+      "position" : "conter",
+      "delete" : false
+    }
+  ]
+})

@@ -1,0 +1,103 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 77 99116-7290",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 23:35:12",
+      "delete" : false,
+      "identifier" : "COiDysEGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/24 23:35:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CIuEysEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/26 23:10:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ *Aplicativo Central Caverna*",
+      "delete" : false,
+      "identifier" : "CIO+1MEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:21:15",
+      "delete" : false,
+      "identifier" : "CLPA1sEGIABIAZABAA==",
+      "msg" : "Bom dia jovem!!\nEstou querendo fazer o Plano Cavernoso e quando vou pagar está dando erro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:25:19",
+      "delete" : false,
+      "identifier" : "CKfC1sEGIABIAZABAA==",
+      "msg" : "Pronto!! Deu certo! 🙏🏼🙏🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:25:31",
+      "delete" : false,
+      "identifier" : "CLPC1sEGIABIAZABAA==",
+      "msg" : "Me tira uma dúvida",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:26:31",
+      "delete" : false,
+      "identifier" : "CO\/C1sEGIABIAZABAA==",
+      "msg" : "Eu comprei o de 40 dias e esse agora. Mas eu não comecei o desafio ainda, mas conta 04 dias consecutivos.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:26:59",
+      "delete" : false,
+      "identifier" : "CIvD1sEGIABIAZABAA==",
+      "msg" : "Ele está pausado?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:27:13",
+      "delete" : false,
+      "identifier" : "CJnD1sEGIABIAZABAA==",
+      "msg" : "Pq só quero dar início na próxima semana",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 08:28:21",
+      "delete" : false,
+      "mediaName" : "f0ce0a02-1462-4f83-a98f-fb0e22e6d8e1.jpg",
+      "localPath" : "media\/2341874505e68a53bfaf0a8e4eb90b18c6675bfd.jpg",
+      "mediaSize" : "33 KB",
+      "identifier" : "CN3D1sEGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/eba412217b840a600aa53155a5d9a20830e9e5e2"
+    }
+  ]
+})

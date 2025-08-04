@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 74 99801-0630",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/27 08:05:33",
+      "delete" : false,
+      "identifier" : "CIX2+cIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala Cavernoso, Beleza? 🐺\n\nAntes da gente seguir com o reembolso, preciso entender uma coisa…\nO que exatamente fez você querer desistir?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/27 09:10:29",
+      "delete" : false,
+      "identifier" : "CL2U+sIGIABIAZABAA==",
+      "msg" : "Vou precisar do dinheiro do reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/27 09:23:31",
+      "delete" : false,
+      "identifier" : "CMua+sIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi!\n\nEntão, você investiu R$49 num curso + desafio que já ajudou centenas de pessoas a destravarem foco, disciplina e até a alavancarem os próprios resultados, e tudo isso com acesso por 1 ANO.\nR$49 hoje em dia… não paga nem um hambúrguer completo, né?\n\nE olhando aqui, você mal teve tempo de usar a plataforma. Foram só uns poucos dias logado, sem nem dar início real ao desafio ou às aulas.\nA verdade é: como saber se algo funciona, se você nem testou com seriedade?\n\nA maioria dos nossos alunos só começa a sentir a virada entre 10 e 15 dias aplicando o método com disciplina.\nÉ um processo. E você tem ele todo disponível nas mãos.\n\nEntão, pensa bem:\nvale mesmo jogar fora a chance de mudar de verdade por um valor tão simbólico?",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,729 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 99190-2756",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 20:36:20",
+      "delete" : false,
+      "identifier" : "CPyI3L8GIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 20:36:30",
+      "delete" : false,
+      "identifier" : "CIaJ3L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 20:36:36",
+      "delete" : false,
+      "identifier" : "CIyJ3L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 20:36:51",
+      "delete" : false,
+      "identifier" : "CJuJ3L8GIABIAJABAA==",
+      "msg" : "Arthur",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 20:36:57",
+      "delete" : false,
+      "identifier" : "CKGJ3L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Arthur*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 20:37:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKeJ3L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 20:37:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CMaJ3L8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 20:37:41",
+      "delete" : false,
+      "identifier" : "CM2J3L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 20:37:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNKJ3L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 20:38:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Tenho dúvidas sobre a afiliação 🐺",
+      "delete" : false,
+      "identifier" : "COCJ3L8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 20:38:02",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COKJ3L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 20:38:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não, mas tenho interesse em me afiliar!",
+      "delete" : false,
+      "identifier" : "CO2J3L8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/09 20:38:16",
+      "delete" : false,
+      "identifier" : "CPCJ3L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vai ser um prazer ter você como parceiro 🤝\n\nSolicite sua afiliação no link abaixo e me envie seu email ⬇️\n\nhttps:\/\/dash.ticto.com.br\/invitation\/affiliation\/P1B997F97",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 20:39:54",
+      "delete" : false,
+      "identifier" : "CNKK3L8GIABIAJABAA==",
+      "msg" : "Obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 20:49:24",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CIyP3L8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 20:49:43",
+      "delete" : false,
+      "identifier" : "CJ+P3L8GIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 20:51:43",
+      "delete" : false,
+      "identifier" : "CJeQ3L8GIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/09 23:09:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Não, mas tenho interesse em me afiliar!",
+      "delete" : false,
+      "identifier" : "CNXQ3L8GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 08:19:02",
+      "delete" : false,
+      "identifier" : "CK7S3r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nSou a Brenda, responsável pelo suporte.\nComo posso ajudar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 09:50:40",
+      "delete" : false,
+      "identifier" : "CKj93r8GIABIAZABAA==",
+      "msg" : "Bom dia\nMeu código de afiliado não ta funcionando na plataforma :(",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 09:51:19",
+      "delete" : false,
+      "identifier" : "CM\/93r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Poderia me enviar um print da sua tela, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 09:55:54",
+      "delete" : false,
+      "mediaName" : "25c72cd3-c687-48cd-83b1-7ed93c321ed4.jpg",
+      "localPath" : "media\/d8381a02f6706709f3afa4e362e7fb0f7ea3eb61.jpg",
+      "mediaSize" : "44 KB",
+      "identifier" : "COL\/3r8GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/e42539600300aede72de23d8b23e8d5e14fa79a2"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 09:56:35",
+      "delete" : false,
+      "identifier" : "CIuA378GIABIAJABAA==",
+      "msg" : "eu falei com o atendente virtual e ele perguntou qual era o produto que eu tava querendo me afiliar e acho que escolhi o modo caverna sem o desafio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 09:57:18",
+      "delete" : false,
+      "identifier" : "CLaA378GIABIAJABAA==",
+      "msg" : "quero me afiliar ao modo caverna de 49 reais ( o qual eu uso )",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 09:57:33",
+      "delete" : false,
+      "identifier" : "CMWA378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual o seu e-mail ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 09:57:40",
+      "delete" : false,
+      "identifier" : "CMyA378GIABIAJABAA==",
+      "msg" : "rigottiarthur@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 10:01:14",
+      "delete" : false,
+      "identifier" : "CKKC378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Está registrado que você possui o Desafio caverna vitalicio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 10:01:45",
+      "delete" : false,
+      "identifier" : "CMGC378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você já tem cadastro na ticto ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 10:01:50",
+      "delete" : false,
+      "identifier" : "CMaC378GIABIAJABAA==",
+      "msg" : "tenho sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 10:02:04",
+      "delete" : false,
+      "identifier" : "CNSC378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 10:02:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CNeC378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 10:06:09",
+      "delete" : false,
+      "mediaName" : "e62adc8a-2d64-479a-b3f7-f9d24e8892df.jpg",
+      "localPath" : "media\/0261b4da1b2331951ad63fceff679976a71e410d.jpg",
+      "mediaSize" : "43 KB",
+      "identifier" : "CMmE378GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/f5aeae0333a3d8313497b8fe9031e45b2b8ea642"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 10:09:01",
+      "delete" : false,
+      "identifier" : "CPWF378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, só um minuto, já te dou um retorno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 10:09:07",
+      "delete" : false,
+      "identifier" : "CPuF378GIABIAJABAA==",
+      "msg" : "beleza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 11:20:52",
+      "delete" : false,
+      "identifier" : "CMyn378GIABIAZABAA==",
+      "msg" : "No aguardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 11:21:25",
+      "delete" : false,
+      "identifier" : "CO2n378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual o seu e-mail, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 11:21:44",
+      "delete" : false,
+      "identifier" : "CICo378GIABIAZABAA==",
+      "msg" : "rigottiarthur@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 11:43:02",
+      "delete" : false,
+      "identifier" : "CP6x378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pode verificar agora, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 11:54:57",
+      "delete" : false,
+      "identifier" : "CMm3378GIABIAJABAA==",
+      "msg" : "Ainda não ta encontrando o código :(",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 11:57:07",
+      "delete" : false,
+      "mediaName" : "fa1c97b8-b0eb-4118-9c67-ad15378b7c61.jpg",
+      "localPath" : "media\/381824a033e2424311cb029e50d874696c8074f3.jpg",
+      "mediaSize" : "107 KB",
+      "identifier" : "CMu4378GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/eba4f249086f648cb16ac4061cb6c11bf0afc44d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 11:58:32",
+      "delete" : false,
+      "identifier" : "CKC5378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifica com esse seu primeiro codigo, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:00:37",
+      "delete" : false,
+      "mediaName" : "39f3b7a7-aae5-47c6-b5ac-f16567c116d0.jpg",
+      "localPath" : "media\/ff59d16fc751c285ffb8a128be2c437fc572a8d0.jpg",
+      "mediaSize" : "44 KB",
+      "identifier" : "CJ26378GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4365834a8c498770e4da8c139f0ee2e09f9aa0bb"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:01:53",
+      "delete" : false,
+      "identifier" : "COm6378GIABIAJABAA==",
+      "msg" : "vou tentar em outro navegador",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:08:08",
+      "delete" : false,
+      "identifier" : "COC9378GIABIAJABAA==",
+      "msg" : "mesmo erro ao tentar buscar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 12:10:18",
+      "delete" : false,
+      "identifier" : "COK+378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você tentou na guia anónima ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:10:32",
+      "delete" : false,
+      "identifier" : "CPC+378GIABIAJABAA==",
+      "msg" : "ainda não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:10:34",
+      "delete" : false,
+      "identifier" : "CPK+378GIABIAJABAA==",
+      "msg" : "vou tentar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 12:10:39",
+      "delete" : false,
+      "identifier" : "CPe+378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "ou no Microsoft Edge ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:10:51",
+      "delete" : false,
+      "identifier" : "CIO\/378GIABIAJABAA==",
+      "msg" : "esse eu acabei de tentar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 12:10:55",
+      "delete" : false,
+      "identifier" : "CIe\/378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, espero seu retorno",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:13:31",
+      "delete" : false,
+      "mediaName" : "06598aca-c818-4360-a485-b7a09e8e29c0.jpg",
+      "localPath" : "media\/d1bac8b020efafeaa5d73096e715edd9568fdbc8.jpg",
+      "mediaSize" : "162 KB",
+      "identifier" : "CKPA378GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/f1fd057088e140f022da727dcb098cdbda852bd5"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:17:20",
+      "delete" : false,
+      "identifier" : "CIjC378GIABIAJABAA==",
+      "msg" : "o que pode ser será?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 12:21:39",
+      "delete" : false,
+      "identifier" : "CIvE378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Realize esse procedimento e me dê um retorno se o problema se resolver: Ctrl Shift R se for Windows ou Command Shift R se for Apple. Isso vai atualizar o cache da página.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:22:22",
+      "delete" : false,
+      "identifier" : "CLbE378GIABIAJABAA==",
+      "msg" : "beleza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:24:27",
+      "delete" : false,
+      "identifier" : "CLPF378GIABIAJABAA==",
+      "msg" : "Ainda com o erro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:25:08",
+      "delete" : false,
+      "identifier" : "CNzF378GIABIAJABAA==",
+      "msg" : "vou tentar em outro computador",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:26:34",
+      "mediaSize" : "494 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLLG378GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/71f49ab2b766507acfdb0d55d260dfcac06bb891"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:26:38",
+      "delete" : false,
+      "identifier" : "CLbG378GIABIAZABAA==",
+      "msg" : "Deu certooo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:26:56",
+      "delete" : false,
+      "identifier" : "CMjG378GIABIAZABAA==",
+      "msg" : "É isso que deve aparecer né?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:27:33",
+      "delete" : false,
+      "identifier" : "CO3G378GIABIAZABAA==",
+      "msg" : "Agora não sei porque que no meu computador ta dando erro, talvez seja a internet que é diferente dos computadores",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 12:33:54",
+      "delete" : false,
+      "identifier" : "COrJ378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:34:22",
+      "mediaSize" : "516 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIbK378GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/c0c0b936eb1097a7469ce3705e3130043e49e2e5"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:34:43",
+      "delete" : false,
+      "identifier" : "CJvK378GIABIAZABAA==",
+      "msg" : "Tem problema?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 12:41:00",
+      "delete" : false,
+      "mediaName" : "b2baaddd-4cd1-489b-870c-af531854f747.opus",
+      "localPath" : "media\/21e46e68f9818b3a00dce752b7abd4a222ce2026.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CJTN378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:42:16",
+      "delete" : false,
+      "identifier" : "CODN378GIABIAJABAA==",
+      "msg" : "fiz o mesmo login, fui testar no outro computador e ele puxou automático, nem perguntou ali para eu botar o código",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:43:06",
+      "delete" : false,
+      "mediaName" : "dca276d1-5164-4608-970c-acd05f06222e.jpg",
+      "localPath" : "media\/2029cd2cff464317800710a20fa333e5aed62216.jpg",
+      "mediaSize" : "39 KB",
+      "identifier" : "CJLO378GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/0851e78a3331209e3ff71242dc3699372733d6e3"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 12:44:30",
+      "delete" : false,
+      "mediaName" : "bb33cf25-0f76-4f61-9d03-42c756237dec.opus",
+      "localPath" : "media\/b6e7967daebcd86f9ce98a498f3fdd7a852d4ade.opus",
+      "mediaSize" : "39 KB",
+      "identifier" : "CObO378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:58:22",
+      "delete" : false,
+      "identifier" : "CKbV378GIABIAJABAA==",
+      "msg" : "sim sim, ontem que eu peguei o primeiro código de afiliação e deu o erro ali que ta dando, mas pelo jeito ele funcionou e tals, o problema mesmo ta no meu computador, alguma coisa ta dando um bloqueio no site",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:59:25",
+      "delete" : false,
+      "mediaName" : "55cbe5c3-c2d6-49ec-9c8a-b441269b219b.jpg",
+      "localPath" : "media\/d40e3367744290ff66c517d05d74bafd90aaaf9e.jpg",
+      "mediaSize" : "105 KB",
+      "identifier" : "COXV378GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/951dada5637d0c1505ec893b0130e8da5169337f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:59:41",
+      "delete" : false,
+      "identifier" : "CPXV378GIABIAJABAA==",
+      "msg" : "o outro que você mandou hoje o link não aparece esse bloco de notas ai",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 13:56:18",
+      "delete" : false,
+      "identifier" : "CLrw378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Utilize seu primeiro codigo de afiliado, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 17:33:50",
+      "delete" : false,
+      "mediaName" : "e6a17fd6-9f2d-4393-af60-1f85e1fd4b80.jpg",
+      "localPath" : "media\/dadf7d14c18905de5a5669047b4e52500cd2c897.jpg",
+      "mediaSize" : "118 KB",
+      "identifier" : "CLbW4L8GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4e6d82551f8c110956d61416185cb25354e5068b"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 17:34:43",
+      "delete" : false,
+      "mediaName" : "8ba0cf4b-bf89-43a0-ba89-c92aad674fc1.jpg",
+      "localPath" : "media\/8b3603e03688f0faa41a4e1746343f0dd51ffc50.jpg",
+      "mediaSize" : "86 KB",
+      "identifier" : "COvW4L8GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4cda6564eaba52b57f7577e137e6ae0594ebdc5a"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 17:52:37",
+      "delete" : false,
+      "identifier" : "CJ3f4L8GIABIAZABAA==",
+      "msg" : "Mas muito obrigado pelo atendimento e pela paciência, Brenda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/11 08:34:34",
+      "delete" : false,
+      "identifier" : "CNL8478GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\n Fico feliz em saber que conseguiu acessar tudo corretamente e que o problema com o código de afiliado foi resolvido. Agradeço por compartilhar esses detalhes, eles são muito úteis para entendermos melhor a situação. Caso precise de qualquer outra coisa, estou à disposição!",
+      "type" : "text"
+    }
+  ]
+})

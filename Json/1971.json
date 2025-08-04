@@ -1,0 +1,38 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99066-3835",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/16 09:43:23",
+      "delete" : false,
+      "identifier" : "CPPPoLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia! Faço parte do suporte de Afiliações do Iuri Meira, gostaria de informar que sua afiliação foi aprovada! 🤩\nPoderia verificar por gentileza.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 15:27:31",
+      "delete" : false,
+      "mediaName" : "61067bff-8ecd-4c5f-ab4a-785ef5d999f3.opus",
+      "localPath" : "media\/32a99f85a70aaa88b56cb0298b6df5ae75d4644b.opus",
+      "mediaSize" : "42 KB",
+      "identifier" : "CJuA5bgGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 15:28:19",
+      "delete" : false,
+      "identifier" : "CMuA5bgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem? Apenas na Ticto! 😉",
+      "type" : "text"
+    }
+  ]
+})

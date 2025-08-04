@@ -1,0 +1,113 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 94141-4481",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 10:12:31",
+      "delete" : false,
+      "identifier" : "CMeQo7kGIABIAJABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 10:12:31",
+      "delete" : false,
+      "identifier" : "CMeQo7kGIABIAJABAA==",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 10:13:18",
+      "delete" : false,
+      "identifier" : "CPaQo7kGIABIAJABAA==",
+      "msg" : "Sobre a Central Caverna, eu havia organizado minhas tarefas da semana dentro do espaço destinado para tarefas pendentes, em andamento e concluídas dentro do espaço do Flow, porém agora não encontro mais as tarefas e parece que o Flow voltou ao padrão de antes. Onde encontro minhas tarefas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 13:35:35",
+      "delete" : false,
+      "identifier" : "CN\/vo7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Eu sou a Júlia, do suporte Iuri Meira, e estou aqui para te ajudar da melhor maneira possível! 😊\n\nNosso time de desenvolvedores estão modificando a interface da Central para trazer melhorias para vocês!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 16:41:56",
+      "delete" : false,
+      "identifier" : "CIzHpLkGIABIAJABAA==",
+      "msg" : "Mas sem avisar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 16:44:37",
+      "delete" : false,
+      "mediaName" : "2fce5555-87a2-45de-80b2-1aa07a3cf64a.opus",
+      "localPath" : "media\/2eb2215371643edf7cfba82df155dede5b70bccd.opus",
+      "mediaSize" : "42 KB",
+      "identifier" : "CK3IpLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 16:45:01",
+      "delete" : false,
+      "identifier" : "CMXIpLkGIABIAJABAA==",
+      "msg" : "Ah, legal",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 16:45:06",
+      "delete" : false,
+      "identifier" : "CMrIpLkGIABIAJABAA==",
+      "msg" : "Era um deploy que fizeram então?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 16:45:48",
+      "delete" : false,
+      "mediaName" : "29eaaced-b01b-4cd1-92a2-2b9bb3ea48ff.opus",
+      "localPath" : "media\/7fe71c73e695ef00c4b31da365797c294d75e83b.opus",
+      "mediaSize" : "36 KB",
+      "identifier" : "CPTIpLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:17"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/04 16:46:11",
+      "delete" : false,
+      "identifier" : "CIvJpLkGIABIAJABAA==",
+      "msg" : "O meu foi restaurado, tá tudo certinho",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/04 16:49:15",
+      "delete" : false,
+      "identifier" : "CMPKpLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fico feliz por você! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    }
+  ]
+})

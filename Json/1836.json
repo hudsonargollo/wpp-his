@@ -1,0 +1,89 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 91 98313-0107",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/09 10:55:33",
+      "delete" : false,
+      "mediaName" : "ecd67bd2-76da-497e-94c4-c9ad424a6736.opus",
+      "localPath" : "media\/16a1416243d58e74bc881410f17c97e48ca390ab.opus",
+      "mediaSize" : "95 KB",
+      "identifier" : "CN3TvbkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:46"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/09 11:14:39",
+      "delete" : false,
+      "mediaName" : "835544e5-011a-42c7-a336-c50b82d5306d.opus",
+      "localPath" : "media\/e0579638934a3489c1583b23205f0af6d17cc247.opus",
+      "mediaSize" : "255 KB",
+      "identifier" : "CNfcvbkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "01:52"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 08:58:50",
+      "delete" : false,
+      "mediaName" : "d9572f2c-4e2a-4d18-a982-5b52f5126d38.opus",
+      "localPath" : "media\/fa399e596a9133a14bbbd2a97f0e99a492bd62d6.opus",
+      "mediaSize" : "152 KB",
+      "identifier" : "CILjx7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 15:56:26",
+      "delete" : false,
+      "identifier" : "COKmybkGIABIAZABAA==",
+      "msg" : "Oi boa tarde, no momento estarei apenas querendo o reembolso mesmo, mas muito obrigado pela sugestão e presente oferecido",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 15:58:26",
+      "delete" : false,
+      "identifier" : "CNqnybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo, Eduardo, só um momento!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 16:06:52",
+      "delete" : false,
+      "identifier" : "CNSrybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/11 16:11:45",
+      "delete" : false,
+      "identifier" : "CPmtybkGIABIAZABAA==",
+      "msg" : "O e-mail chegou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/11 16:14:08",
+      "delete" : false,
+      "identifier" : "CIivybkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, qualquer dúdiva estou a disposição.",
+      "type" : "text"
+    }
+  ]
+})

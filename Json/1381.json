@@ -1,0 +1,222 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 95652-0881",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/05 00:50:23",
+      "mediaSize" : "610 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIeD6LsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/3272a2ec58b78f33868dd774d8d128c4d181be3f"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 09:52:36",
+      "delete" : false,
+      "identifier" : "CJyk77sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 09:54:01",
+      "delete" : false,
+      "identifier" : "CPGk77sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail de compra por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/06 10:01:32",
+      "delete" : false,
+      "identifier" : "CLSo77sGIABIAZABAA==",
+      "msg" : "gustavo.taniguti19@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:08:31",
+      "delete" : false,
+      "mediaName" : "3394dd79-11ca-47a0-9c16-360e2b720b05.opus",
+      "localPath" : "media\/eddc4859859aafdf4efe10014db4b7091e6c434d.opus",
+      "mediaSize" : "29 KB",
+      "identifier" : "CNer77sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/06 10:10:11",
+      "delete" : false,
+      "identifier" : "CLus77sGIABIAZABAA==",
+      "msg" : "Bom dia! \nEntão eu não tô conseguindo se vc puder mandar eu agradeço, e pode enviar também que eu me cadastro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:39:18",
+      "mediaSize" : "14 KB",
+      "mediaName" : "19e0e65c-1f36-43dc-b3f8-a6e9c193bec8.thumb",
+      "localPath" : "media\/e141f6df2a35103078f60e49a0ee6b6e9384e7cc.thumb",
+      "delete" : false,
+      "identifier" : "CI6677sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:40:05",
+      "mediaSize" : "56,7 MB",
+      "mediaName" : "Ebook - Defina seus objetivos e metas.pdf",
+      "localPath" : "media\/dbbcc828e5e85667bdfc30fa10433e9581808640.pdf",
+      "delete" : false,
+      "identifier" : "CL2677sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:40:06",
+      "mediaSize" : "2,9 MB",
+      "mediaName" : "Ebook - Guia Prático para definição de um plano de ação.pdf",
+      "localPath" : "media\/1178e08aa5ea3889f5d7aca9fd903accb0890288.pdf",
+      "delete" : false,
+      "identifier" : "CL6677sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:40:07",
+      "mediaSize" : "3,3 MB",
+      "mediaName" : "Ebook - Os pilares da rotina adaptativa.pdf",
+      "localPath" : "media\/28f4f9f1cbb10745be601e89e5babf45595a7a48.pdf",
+      "delete" : false,
+      "identifier" : "CL+677sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:40:07",
+      "mediaSize" : "2,7 MB",
+      "mediaName" : "Ebook - O manual para a criação de bons hábitos.pdf",
+      "localPath" : "media\/12a0d99d41960b6de6f14920b9071bd531845f43.pdf",
+      "delete" : false,
+      "identifier" : "CL+677sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:40:08",
+      "mediaSize" : "8,3 MB",
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/83e3b1749bd3bb294135b60dc0780f5a15993a32.pdf",
+      "delete" : false,
+      "identifier" : "CMC677sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:40:09",
+      "mediaSize" : "740 KB",
+      "mediaName" : "Ebook - Produtivo burro x produtivo inteligente.pdf",
+      "localPath" : "media\/316cc62cfded35fed6a803e0ea27ac713cb19512.pdf",
+      "delete" : false,
+      "identifier" : "CMG677sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/06 10:40:10",
+      "delete" : false,
+      "mediaName" : "Planner - Desafio 5 anos em 30 dias.pdf",
+      "localPath" : "media\/c8cb9ea29c5e52f9594900207182bf3a81c62cad.pdf",
+      "mediaSize" : "1,7 MB",
+      "identifier" : "CMK677sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/bfa0c3269b5845306b2c991a2c0281af9258b1f1"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 00:41:33",
+      "delete" : false,
+      "mediaName" : "098f58e5-0648-406a-a90b-df7ba12ae0ea.jpg",
+      "localPath" : "media\/6896141ea0f8df247e9bdfae412cb6a374105fdc.jpg",
+      "mediaSize" : "67 KB",
+      "identifier" : "CPXE8rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/23082ad6dff9af2966452d58c798e1e8e4adaed1"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 07:35:37",
+      "delete" : false,
+      "mediaName" : "3afbd231-d952-4f45-85b6-307ad7146067.opus",
+      "localPath" : "media\/e35046db87122ea522cc4a8a9a0be436f3fe413d.opus",
+      "mediaSize" : "26 KB",
+      "identifier" : "CIGH9LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 11:26:09",
+      "delete" : false,
+      "identifier" : "CInz9LsGIABIAZABAA==",
+      "msg" : "Bom dia! Então ele não está pedindo nem a senha ele diz que já tem uma conta com esse email, ele não deixa eu passar dessa parte que eu coloco o DDD",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 11:54:25",
+      "delete" : false,
+      "mediaName" : "7c475f00-bf37-4fc9-8858-d1c1973a02dd.opus",
+      "localPath" : "media\/f999928cc81159a057a955286f3295ab1246131c.opus",
+      "mediaSize" : "16 KB",
+      "identifier" : "CKmA9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/08 11:18:29",
+      "delete" : false,
+      "mediaName" : "37967ae4-c04e-462d-a197-6b658ff4a0ce.jpg",
+      "localPath" : "media\/2ef96721c416915524f9319db1ede05ca1860fca.jpg",
+      "mediaSize" : "79 KB",
+      "identifier" : "CL2S+rsGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/219227ac8002ac747e262def6253f323c99bfdb6"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/08 13:45:42",
+      "delete" : false,
+      "identifier" : "CL7X+rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    }
+  ]
+})

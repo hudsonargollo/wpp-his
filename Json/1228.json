@@ -1,0 +1,234 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Joel",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 08:30:48",
+      "delete" : false,
+      "identifier" : "CPDc3bwGIABIAZABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 08:30:58",
+      "delete" : false,
+      "identifier" : "CPrc3bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 08:31:04",
+      "delete" : false,
+      "identifier" : "CIDd3bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 08:31:09",
+      "delete" : false,
+      "identifier" : "CIXd3bwGIABIAZABAA==",
+      "msg" : "Joel",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 08:31:16",
+      "delete" : false,
+      "identifier" : "CIzd3bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Joel*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 08:31:22",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJLd3bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 08:31:33",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Clube da Luta\/A Quebra da Matrix",
+      "delete" : false,
+      "identifier" : "CJ3d3bwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 08:31:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJ\/d3bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 08:31:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CKjd3bwGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 08:31:46",
+      "delete" : false,
+      "identifier" : "CKrd3bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 08:32:37",
+      "delete" : false,
+      "identifier" : "CN3d3bwGIABIAZABAA==",
+      "msg" : "Bom dia, sou aluno da quebra da MATRIX e gostaria de saber se ainda tem as placas de premiação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 09:39:46",
+      "delete" : false,
+      "identifier" : "CJr93bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 09:39:57",
+      "delete" : false,
+      "identifier" : "CKX93bwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Não, somente do Modo caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:23:46",
+      "delete" : false,
+      "identifier" : "CIrK3rwGIABIAJABAA==",
+      "msg" : "um conhecido solicitou a dele, final do ano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:23:51",
+      "delete" : false,
+      "identifier" : "CI\/K3rwGIABIAJABAA==",
+      "msg" : "teve mudança?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 12:24:25",
+      "delete" : false,
+      "mediaName" : "c29b64e7-b3b5-43a3-81fd-1a9209f1e93c.opus",
+      "localPath" : "media\/ae8bceb386d7e154d62738f8880d806dd5e80fa9.opus",
+      "mediaSize" : "11 KB",
+      "identifier" : "CLHK3rwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:25:09",
+      "delete" : false,
+      "identifier" : "CN3K3rwGIABIAJABAA==",
+      "msg" : "entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:25:27",
+      "delete" : false,
+      "identifier" : "CO\/K3rwGIABIAJABAA==",
+      "msg" : "a priemeira vez que solicitei foi em 2022 ou 2023",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:25:46",
+      "delete" : false,
+      "identifier" : "CILL3rwGIABIAJABAA==",
+      "msg" : "se eu adquirir o modo caverna consigo solicitar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 12:28:51",
+      "delete" : false,
+      "mediaName" : "26582cb1-118e-4cb4-9532-1a5560175683.opus",
+      "localPath" : "media\/11bf69b911c252040aa8b8c88d2a73c8869e6a66.opus",
+      "mediaSize" : "10 KB",
+      "identifier" : "CLvM3rwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:06"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:41:42",
+      "delete" : false,
+      "identifier" : "CL7S3rwGIABIAJABAA==",
+      "msg" : "mas então, posso juntar com o faturamento do conteudo da quebra da matrix?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 12:42:05",
+      "delete" : false,
+      "identifier" : "CNXS3rwGIABIAJABAA==",
+      "msg" : "seria a placa de 100k, 250k, 500k e 1M",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 14:34:03",
+      "delete" : false,
+      "identifier" : "CJOH37wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Infelizmente não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 14:34:25",
+      "delete" : false,
+      "identifier" : "CKmH37wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Somente do Modo Caverna",
+      "type" : "text"
+    }
+  ]
+})

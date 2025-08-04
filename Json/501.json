@@ -1,0 +1,71 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98114-7698",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/09 14:39:00",
+      "delete" : false,
+      "identifier" : "CLy4nMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, equipe de suporte do modo caverna!🐺\n\npreciso te perguntar: qual foi o motivo que levou você a solicitar o reembolso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/09 18:03:30",
+      "delete" : false,
+      "identifier" : "CKqYncIGIABIAZABAA==",
+      "msg" : "Olá, boa noite!\n\nTive mais tempo pra assistir nesse final de semana, e não atendeu as minhas expectativas o conteúdo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 08:32:48",
+      "delete" : false,
+      "identifier" : "COivoMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Madson, me diz uma coisa, você realmente tentou?\n\nVocê assistiu todas as aulas do curso?\nIniciou o Desafio Caverna?\nSeguiu o plano por pelo menos alguns dias com disciplina?\n\nSe a resposta for não… talvez não tenha sido o nosso método que não funcionou.\n\nVocê já garantiu o acesso por 1 ano. Antes de jogar fora, que tal aplicar por pelo menos 7 dias e ver o que acontece?\n\nSe depois disso ainda quiser sair, a escolha é sua. Mas pelo menos vai ser com consciência.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 09:06:54",
+      "delete" : false,
+      "identifier" : "COa\/oMIGIABIAZABAA==",
+      "msg" : "Agradeço, acredito que o método funcione sim, mas o conteúdo em si não atendeu as minhas expectativas, como disse anteriormente. \n\nPor isso, desejo o cancelamento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 09:13:08",
+      "delete" : false,
+      "identifier" : "CNzCoMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "antes de você desistir...\nE se eu te liberasse 1 mês grátis do Plano Cavernoso?\n\nVocê teria acesso a todas as ferramentas avançadas da plataforma, rotina, treinos, alimentação, finanças, rituais e muito mais pra realmente sentir o poder do sistema completo logo nesse início.\n\nTopo liberar pra você testar por 30 dias. O que acha? 🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 09:21:39",
+      "delete" : false,
+      "identifier" : "CNvGoMIGIABIAZABAA==",
+      "msg" : "Salvo engano, o meu plano já era esse, não? O mais completo, de 300",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 09:23:58",
+      "delete" : false,
+      "identifier" : "CObHoMIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeitamente!\n\nReembolso efetuado com sucesso.\nO valor será devolvido em até 7 dias na forma de pagamento utilizada. 🐺",
+      "type" : "text"
+    }
+  ]
+})

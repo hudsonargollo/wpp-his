@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 99172-9010",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/19 09:59:35",
+      "delete" : false,
+      "identifier" : "CL\/azrgGIABIAZABAA==",
+      "msg" : "Olá, Vim do Desafio 5 em 30 e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/19 10:00:14",
+      "delete" : false,
+      "identifier" : "CObazrgGIABIAZABAA==",
+      "msg" : "Tem que comprar o livro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/19 10:01:50",
+      "delete" : false,
+      "identifier" : "CMbbzrgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia! Tudo bem? Poderia me dar mais detalhes?",
+      "type" : "text"
+    }
+  ]
+})

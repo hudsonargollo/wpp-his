@@ -1,0 +1,38 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 47 98806-7970",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/20 14:41:40",
+      "delete" : false,
+      "identifier" : "CNy++LkGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/20 14:42:09",
+      "delete" : false,
+      "identifier" : "CPm++LkGIABIAZABAA==",
+      "msg" : "Sou aluno da quebra da matrix e quero ser um afiliado dos cursos do Iuri",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/21 09:46:06",
+      "delete" : false,
+      "mediaName" : "06c4eb02-2f42-4694-b0d9-187e1e15be85.opus",
+      "localPath" : "media\/d2c99625a569a1513399c6617c95492906722262.opus",
+      "mediaSize" : "53 KB",
+      "identifier" : "CJbX\/LkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:26"
+    }
+  ]
+})

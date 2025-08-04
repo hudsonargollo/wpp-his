@@ -1,0 +1,84 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 98777-1351",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 00:06:26",
+      "delete" : false,
+      "identifier" : "CLrQ4bgGIABIAJABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 00:07:16",
+      "delete" : false,
+      "identifier" : "COzQ4bgGIABIAJABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 00:07:22",
+      "delete" : false,
+      "identifier" : "CPLQ4bgGIABIAJABAA==",
+      "msg" : "Meu nome é Cesar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 00:08:04",
+      "delete" : false,
+      "identifier" : "CJzR4bgGIABIAJABAA==",
+      "msg" : "Voces conseguem me passar o link de compra da Central Caverna que tenho vários amigos que querem comprar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 10:19:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CPPv47gGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/23 12:15:11",
+      "delete" : false,
+      "mediaName" : "4bd4a869-b20d-4bf3-ba8a-a096a0002031.opus",
+      "localPath" : "media\/41e985a1c6ed21465cf0e580e093b3d55655e941.opus",
+      "mediaSize" : "7 KB",
+      "identifier" : "CIem5LgGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 15:05:29",
+      "delete" : false,
+      "identifier" : "CPH15LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/23 15:05:48",
+      "delete" : false,
+      "identifier" : "CIT25LgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    }
+  ]
+})

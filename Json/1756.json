@@ -1,0 +1,74 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 64 99293-7445",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 11:11:04",
+      "delete" : false,
+      "identifier" : "CICLkroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna, vou continuar com seu atendimento 😊\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 11:34:48",
+      "delete" : false,
+      "identifier" : "CJCWkroGIABIAJABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 11:55:55",
+      "delete" : false,
+      "identifier" : "CIOgkroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 11:56:25",
+      "delete" : false,
+      "identifier" : "CKGgkroGIABIAJABAA==",
+      "msg" : "ah sim, bom dia Bruna! \nno sábado eu entrei na plataforma, e os vídeos estão bloqueados.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 13:16:38",
+      "delete" : false,
+      "identifier" : "CO7FkroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/25 14:54:09",
+      "delete" : false,
+      "identifier" : "CMnzkroGIABIAJABAA==",
+      "msg" : "nicolaspuglielli@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/25 14:56:40",
+      "delete" : false,
+      "mediaName" : "769450a6-df6f-40db-ae05-3bed4a6e3c81.opus",
+      "localPath" : "media\/f7ac862637f4ea294b42af31424cf2a6752e95c0.opus",
+      "mediaSize" : "51 KB",
+      "identifier" : "COD0kroGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:26"
+    }
+  ]
+})

@@ -1,0 +1,94 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99802-0531",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 14:34:04",
+      "delete" : false,
+      "identifier" : "CJSNmLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 14:34:11",
+      "delete" : false,
+      "identifier" : "CJuNmLoGIABIAZABAA==",
+      "msg" : "Olá! Agradeço sua mensagem. Aqui é da Camila Reis Engenharia, em que posso ajudar? \n\nDeixe sua mensagem e em breve retornaremos.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 14:34:24",
+      "delete" : false,
+      "identifier" : "CKiNmLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 14:34:30",
+      "delete" : false,
+      "identifier" : "CK6NmLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 14:34:41",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "msg" : "Fabricio Hochmuller - Gerente de Afiliados",
+      "identifier" : "CLmNmLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "contact"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 14:34:59",
+      "delete" : false,
+      "identifier" : "CMuNmLoGIABIAZABAA==",
+      "msg" : "Camila",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 14:35:20",
+      "delete" : false,
+      "mediaName" : "2d7fcff2-c663-4fb2-93ca-a3483b6f9ae9.opus",
+      "localPath" : "media\/209ed738ff52b8a6f30c2f24af5d312aa2426fee.opus",
+      "mediaSize" : "28 KB",
+      "identifier" : "COCNmLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/26 14:44:56",
+      "delete" : false,
+      "identifier" : "CKCSmLoGIABIAJABAA==",
+      "msg" : "Somente isso. Muito obrigada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 14:50:10",
+      "delete" : false,
+      "identifier" : "CNqUmLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estamos à disposição 😊",
+      "type" : "text"
+    }
+  ]
+})

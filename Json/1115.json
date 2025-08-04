@@ -1,0 +1,379 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 48 98872-1165",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:22:15",
+      "delete" : false,
+      "identifier" : "CO+7070GIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:22:24",
+      "delete" : false,
+      "identifier" : "CPi7070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:22:30",
+      "delete" : false,
+      "identifier" : "CP67070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:23:16",
+      "delete" : false,
+      "identifier" : "CKy8070GIABIAJABAA==",
+      "msg" : "Gostaria de pedir reembolso de um produto que comprei, comprei pensando em ser um curso com video aulas mas na verdade eram apenas ebooks",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:23:23",
+      "delete" : false,
+      "identifier" : "CLO8070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Perfeito, *Gostaria de pedir reembolso de um produto que comprei, comprei pensando em ser um curso com video aulas mas na verdade eram apenas ebooks*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:23:29",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLm8070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:23:56",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Desafio Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNS8070GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:23:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNW8070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:24:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CNy8070GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:24:07",
+      "delete" : false,
+      "identifier" : "CN+8070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Descreva em poucas palavras a sua dúvida... Enquanto isso, vou te direcionar para um atendente.\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:24:22",
+      "delete" : false,
+      "identifier" : "CO68070GIABIAJABAA==",
+      "msg" : "Gostaria de pedir reembolso de um produto que comprei, comprei pensando em ser um curso com video aulas mas na verdade eram apenas ebooks",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:27:25",
+      "delete" : false,
+      "identifier" : "CKW+070GIABIAJABAA==",
+      "msg" : "então quero o reembolso para estar comprando o produto certo, que contem as video aulas não apenas os ebooks",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:30:40",
+      "delete" : false,
+      "identifier" : "COi\/070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem?\nConsigo um cupom de desconto no valor que você investiu nos ebooks para adiquirir a assinatura anual do Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:30:51",
+      "delete" : false,
+      "identifier" : "CPO\/070GIABIAJABAA==",
+      "msg" : "não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:31:00",
+      "delete" : false,
+      "identifier" : "CPy\/070GIABIAJABAA==",
+      "msg" : "quero meu reembolso mesmo por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:31:44",
+      "delete" : false,
+      "identifier" : "CKjA070GIABIAJABAA==",
+      "msg" : "e poderia me enviar o link correto, por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:31:56",
+      "delete" : false,
+      "identifier" : "CLTA070GIABIAJABAA==",
+      "msg" : "peguei o link da bio do instagram",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:32:16",
+      "delete" : false,
+      "identifier" : "CMjA070GIABIAJABAA==",
+      "msg" : "mas aparentemente não o link para o curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:33:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJnB070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:34:20",
+      "delete" : false,
+      "mediaName" : "c326f82e-dada-4767-8d12-1370ebd48783.opus",
+      "localPath" : "media\/159d062dc579057e759c94a07a3ffac2d11a3885.opus",
+      "mediaSize" : "53 KB",
+      "identifier" : "CMTB070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:26"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:34:23",
+      "delete" : false,
+      "identifier" : "CMfB070GIABIAJABAA==",
+      "msg" : "esse seria o link para o curso com as video aulas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:35:07",
+      "delete" : false,
+      "mediaName" : "ce64b295-cf43-4f59-9458-a6f00486e480.opus",
+      "localPath" : "media\/f1817db4c3bc4d7a48bc7f24bdd2a35e100bb59d.opus",
+      "mediaSize" : "63 KB",
+      "identifier" : "CPPB070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:35:44",
+      "delete" : false,
+      "mediaName" : "f5ad7b0d-b32d-4e67-84fa-c72a68f03eb4.opus",
+      "localPath" : "media\/995f9c68d02e9607d1f611635c5975f3a89ce58a.opus",
+      "mediaSize" : "71 KB",
+      "identifier" : "CJjC070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:34"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:37:29",
+      "delete" : false,
+      "mediaName" : "afe01169-7831-4d69-8fda-baa2167aa657.jpg",
+      "localPath" : "media\/5fb76dc62d090efedda77c20695200708bf811cb.jpg",
+      "mediaSize" : "69 KB",
+      "identifier" : "CIHD070GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b31a7ca77f1f5f70bc16e2678fd39e0dfa3c9b8f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:37:35",
+      "delete" : false,
+      "identifier" : "CIfD070GIABIAJABAA==",
+      "msg" : "qual opção eu marco?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:37:55",
+      "delete" : false,
+      "identifier" : "CJvD070GIABIAJABAA==",
+      "msg" : "não quero prejudicar voces por um erro meu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:38:04",
+      "delete" : false,
+      "identifier" : "CKTD070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Pode marcar a opção de não dar continuidade",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:38:07",
+      "delete" : false,
+      "identifier" : "CKfD070GIABIAJABAA==",
+      "msg" : "ja que vou comprar o outro produto de voces do mesmo jeito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:38:12",
+      "delete" : false,
+      "identifier" : "CKzD070GIABIAJABAA==",
+      "msg" : "ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:39:12",
+      "delete" : false,
+      "mediaName" : "974eb8b0-c5ab-4fb2-82c7-2ff4d1085cf7.jpg",
+      "localPath" : "media\/3d67e07d76da06a6403244dcf8213cc66fc2a53b.jpg",
+      "mediaSize" : "29 KB",
+      "identifier" : "COjD070GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b4c5849fdb504c6089a16a5abf1fff1ee16f0e3f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:39:13",
+      "delete" : false,
+      "identifier" : "COnD070GIABIAJABAA==",
+      "msg" : "pronto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:41:53",
+      "delete" : false,
+      "identifier" : "CInF070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Prontinho, verifica se chegou a confirmação do reembolso no seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:43:16",
+      "delete" : false,
+      "identifier" : "CNzF070GIABIAJABAA==",
+      "msg" : "chegou sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:43:20",
+      "delete" : false,
+      "identifier" : "CODF070GIABIAJABAA==",
+      "msg" : "muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:47:04",
+      "delete" : false,
+      "identifier" : "CMDH070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! Se tiver alguma dúvida ou precisar de ajuda com algo, pode me mandar mensagem ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:53:34",
+      "delete" : false,
+      "identifier" : "CMbK070GIABIAJABAA==",
+      "msg" : "certo, so vou esperar o dinheiro cair aqui na conta que ja vou pagar o mensal e ai qualquer coisa entro em contato com voce novamente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:53:42",
+      "delete" : false,
+      "identifier" : "CM7K070GIABIAJABAA==",
+      "msg" : "muito obrigado pela atencao",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/18 16:53:51",
+      "delete" : false,
+      "identifier" : "CNfK070GIABIAJABAA==",
+      "msg" : "e bom trabalho pra voce",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/18 16:54:41",
+      "delete" : false,
+      "identifier" : "CInL070GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Eu quem agradeço pelo contato, desejo uma boa semana 😊",
+      "type" : "text"
+    }
+  ]
+})

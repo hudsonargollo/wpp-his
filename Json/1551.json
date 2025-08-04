@@ -1,0 +1,65 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 97 98421-7150",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/12 14:58:09",
+      "delete" : false,
+      "mediaName" : "e79b10fa-ef2d-4774-b351-72d74ac94b57.opus",
+      "localPath" : "media\/c5dbfa00a22a8936e6849743711591595c838b68.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CLnI7LoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/13 15:36:31",
+      "delete" : false,
+      "identifier" : "CLf98boGIABIAZABAA==",
+      "msg" : "Só site diz q já existe uma conta com meu Gmail",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/13 15:37:13",
+      "delete" : false,
+      "identifier" : "COH98boGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu e-mail por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/14 15:58:51",
+      "delete" : false,
+      "identifier" : "CPOq97oGIABIAZABAA==",
+      "msg" : "Robertofreirecarrillo@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 09:10:44",
+      "delete" : false,
+      "identifier" : "CMyxgLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 09:10:55",
+      "delete" : false,
+      "identifier" : "CNexgLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tenta redefinir a senha por gentileza",
+      "type" : "text"
+    }
+  ]
+})

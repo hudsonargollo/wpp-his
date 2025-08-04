@@ -1,0 +1,57 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 34 99675-3535",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/20 11:43:27",
+      "delete" : false,
+      "identifier" : "CJeB9MMGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/20 11:44:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLyB9MMGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/20 12:47:53",
+      "delete" : false,
+      "mediaName" : "6becd842-cc60-4dc2-8038-ca309ded15aa.jpg",
+      "localPath" : "media\/ab799f93a852d26375541a84010c6121ee9730df.jpg",
+      "mediaSize" : "79 KB",
+      "identifier" : "CLGf9MMGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/f78fb42c63fa4c348205e7081613b06b982f90e9"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 08:55:30",
+      "delete" : false,
+      "identifier" : "CLrV+MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? Você tentou acessar de um outro navegador?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 08:55:40",
+      "delete" : false,
+      "identifier" : "CMTV+MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "sugerimos o edge para melhor desempenho.",
+      "type" : "text"
+    }
+  ]
+})

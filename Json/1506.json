@@ -1,0 +1,223 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 99023-9895",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 23:00:50",
+      "delete" : false,
+      "identifier" : "CNqrqLsGIABIAZABAA==",
+      "msg" : "Olá Suporte Iuri Meira! Sou aluno do Clube da Luta e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 23:01:05",
+      "delete" : false,
+      "identifier" : "COmrqLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 23:01:12",
+      "delete" : false,
+      "identifier" : "CPCrqLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 23:16:11",
+      "delete" : false,
+      "identifier" : "CPOyqLsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/24 08:28:16",
+      "delete" : false,
+      "mediaName" : "801b1830-9b90-4140-8e43-dfb468f61d30.opus",
+      "localPath" : "media\/47b40df394a7bb7e2a6f68b6d07830a2b88e7ac1.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CNi1qrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/24 12:56:47",
+      "delete" : false,
+      "identifier" : "CMezq7sGIABIAZABAA==",
+      "msg" : "Meu e-mail jonathas.castro17@gmail.com, eu não recebi os e-books",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/24 12:56:53",
+      "delete" : false,
+      "identifier" : "CM2zq7sGIABIAZABAA==",
+      "msg" : "E nem acesso a ferramenta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/24 12:57:01",
+      "delete" : false,
+      "mediaName" : "74f80100-3358-4844-8ecd-365555628f18.jpg",
+      "localPath" : "media\/d05cc606eb6bf92fe012528e3d5814482eb2fa85.jpg",
+      "mediaSize" : "109 KB",
+      "identifier" : "CNWzq7sGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/e826cd031acbc52444a63e461122606e272cc402"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:04:53",
+      "delete" : false,
+      "mediaName" : "ebfc855d-3df4-46f3-903b-afbf99a005b4.opus",
+      "localPath" : "media\/dc3f593a6f51b692e480d4acfca98f2cf95058e5.opus",
+      "mediaSize" : "4 KB",
+      "identifier" : "CO2MtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 09:09:44",
+      "delete" : false,
+      "identifier" : "CJCPtbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifiquei aqui, você comprou acesso mensal ao Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 11:09:41",
+      "delete" : false,
+      "identifier" : "CK3HtbsGIABIAZABAA==",
+      "msg" : "Não saiu nada no áudio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 12:08:07",
+      "delete" : false,
+      "mediaName" : "cff77990-7a51-4c67-98d2-a0466e72c95d.opus",
+      "localPath" : "media\/54277e2aee9d501c0ad89cf022b4597d13370030.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CN\/itbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 12:08:33",
+      "delete" : false,
+      "identifier" : "CPnitbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você não conseguiu realizar o cadastro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 12:32:30",
+      "delete" : false,
+      "identifier" : "CJbutbsGIABIAZABAA==",
+      "msg" : "Eu fiz o cadastro lá, mas no anuncio fala que tenho acesso por 7 dias",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 12:33:04",
+      "delete" : false,
+      "identifier" : "CLjutbsGIABIAZABAA==",
+      "msg" : "Eu queria ver como era essa ferramenta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 13:17:38",
+      "delete" : false,
+      "identifier" : "CKqDtrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifiquei errado, perdão.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/26 13:18:10",
+      "delete" : false,
+      "mediaName" : "b267b103-7903-47dc-9c38-c68ca2d60ec5.opus",
+      "localPath" : "media\/a27dbc19a003a43f0f7e8dde1857a1cbdef683c5.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CMqDtrsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:15"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/26 22:31:26",
+      "delete" : false,
+      "identifier" : "CPaGuLsGIABIAZABAA==",
+      "msg" : "E esse acesso de 7 dias que tá no anúncio?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 08:28:54",
+      "delete" : false,
+      "identifier" : "CP6eursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 08:29:19",
+      "delete" : false,
+      "identifier" : "CJefursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "É o período avaliativo disponível",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 12:49:28",
+      "delete" : false,
+      "identifier" : "CJCZu7sGIABIAZABAA==",
+      "msg" : "Onde consigo acessar ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 13:44:58",
+      "mediaSize" : "14 KB",
+      "mediaName" : "a83bc4e9-aab6-4d62-a40a-bd56177a62f7.thumb",
+      "localPath" : "media\/e6920bb62d4362b6ca9c5f1ea78ab8c1fbffec3c.thumb",
+      "delete" : false,
+      "identifier" : "CJKzu7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

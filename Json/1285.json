@@ -1,0 +1,91 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 48 99978-6288",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/18 16:31:07",
+      "delete" : false,
+      "identifier" : "CIODsLwGIABIAJABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/18 16:31:16",
+      "delete" : false,
+      "identifier" : "CIyDsLwGIABIAJABAA==",
+      "msg" : "Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 16:31:17",
+      "delete" : false,
+      "identifier" : "CI2DsLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 16:31:23",
+      "delete" : false,
+      "identifier" : "CJODsLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/18 16:31:43",
+      "delete" : false,
+      "identifier" : "CKeDsLwGIABIAJABAA==",
+      "msg" : "Não estou encontrando no indique e ganhe o link para o drive com os criativos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 16:31:49",
+      "delete" : false,
+      "identifier" : "CK2DsLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Não estou encontrando no indique e ganhe o link para o drive com os criativos*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/18 16:31:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLODsLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/18 16:31:57",
+      "delete" : false,
+      "identifier" : "CLWDsLwGIABIAJABAA==",
+      "msg" : "Me chamo Henrique",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/18 16:32:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLyDsLwGIABIAJABAA==",
+      "type" : "file"
+    }
+  ]
+})

@@ -1,0 +1,363 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 98008-6692",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 18:11:21",
+      "delete" : false,
+      "identifier" : "CIGUqrkGIABIAJABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 18:11:36",
+      "delete" : false,
+      "identifier" : "CJCUqrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 18:11:42",
+      "delete" : false,
+      "identifier" : "CJaUqrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 18:26:34",
+      "delete" : false,
+      "identifier" : "CJKbqrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 22:01:25",
+      "delete" : false,
+      "identifier" : "CO2ag7sGIABIAJABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 22:01:41",
+      "delete" : false,
+      "identifier" : "CP2ag7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 22:01:47",
+      "delete" : false,
+      "identifier" : "CIObg7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 22:01:50",
+      "delete" : false,
+      "identifier" : "CIabg7sGIABIAJABAA==",
+      "msg" : "Rodrigo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 22:01:57",
+      "delete" : false,
+      "identifier" : "CI2bg7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Rodrigo*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 22:02:03",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJObg7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 22:03:06",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "CNKbg7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 22:03:13",
+      "delete" : false,
+      "identifier" : "CNmbg7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre a Central Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 22:03:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN6bg7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 22:03:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "COWbg7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/16 22:03:27",
+      "delete" : false,
+      "identifier" : "COebg7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 22:04:34",
+      "delete" : false,
+      "identifier" : "CKqcg7sGIABIAZABAA==",
+      "msg" : "Verifiquei no curso de produtividade do Iuri Meira que a plataforma vai ser desativada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/16 22:04:42",
+      "delete" : false,
+      "identifier" : "CLKcg7sGIABIAZABAA==",
+      "msg" : "O que será preciso fazer?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/17 08:47:30",
+      "delete" : false,
+      "identifier" : "CNrJhbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/17 08:48:02",
+      "delete" : false,
+      "identifier" : "CPrJhbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Os cursos foram migrados para o Sistema do Modo Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 09:04:00",
+      "delete" : false,
+      "identifier" : "CLjRhbsGIABIAZABAA==",
+      "msg" : "Bom dia, sistema você diz a central?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/17 09:11:39",
+      "delete" : false,
+      "mediaName" : "383837b3-92fa-438e-bfd5-8ff45633572b.opus",
+      "localPath" : "media\/c89832891916364355b105219313083cabb4be33.opus",
+      "mediaSize" : "9 KB",
+      "identifier" : "CIPVhbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:05"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 09:21:29",
+      "delete" : false,
+      "identifier" : "CNHZhbsGIABIAZABAA==",
+      "msg" : "Ah sim, perfeito",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 09:21:37",
+      "delete" : false,
+      "identifier" : "CNnZhbsGIABIAZABAA==",
+      "msg" : "Teria o link de acesso?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/17 09:25:44",
+      "delete" : false,
+      "mediaName" : "b5762c7b-7de2-4368-b97f-d3255271fad3.opus",
+      "localPath" : "media\/9ca6bdd02a5b49052e53398f4e08c499a9e9cac4.opus",
+      "mediaSize" : "16 KB",
+      "identifier" : "CNDbhbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 10:17:30",
+      "delete" : false,
+      "identifier" : "CPLzhbsGIABIAZABAA==",
+      "msg" : "contato.rodrigomiranda@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/17 10:17:44",
+      "delete" : false,
+      "identifier" : "CID0hbsGIABIAZABAA==",
+      "msg" : "Tenho plano anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/17 10:20:48",
+      "delete" : false,
+      "mediaName" : "5ae12378-d025-4a31-a20d-12705366071a.opus",
+      "localPath" : "media\/38e831d91662919921e953ddbf74f50d88dab623.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CLj1hbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:03:33",
+      "delete" : false,
+      "identifier" : "CK3LursGIABIAJABAA==",
+      "msg" : "Bom dia! Gostaria de tirar uma dúvida... percebi que a Central Caverna está diferente de como é apresentada nas aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:03:57",
+      "delete" : false,
+      "identifier" : "CMXLursGIABIAJABAA==",
+      "msg" : "Teria como retornar para como ela era antes ou já é uma mudança definitiva?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 10:06:45",
+      "delete" : false,
+      "identifier" : "CO3MursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 10:07:25",
+      "delete" : false,
+      "identifier" : "CJXNursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Quais mudanças você fala?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:08:21",
+      "delete" : false,
+      "identifier" : "CM3NursGIABIAJABAA==",
+      "msg" : "A central está toda diferente kkk vou dar um exemplo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:12:19",
+      "delete" : false,
+      "mediaName" : "c26c710d-3d3d-4e0f-a63d-9508bf5cdb5f.jpg",
+      "localPath" : "media\/cca6885391dd79c2c83535f37a6b3e9a0fed8a5c.jpg",
+      "mediaSize" : "104 KB",
+      "identifier" : "CLvPursGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/e4acced5069ceda4678bba5fb8805ab4ee9a8135"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:12:38",
+      "delete" : false,
+      "identifier" : "CM7PursGIABIAJABAA==",
+      "msg" : "Ali do lado você pode ver que dava pra acrescentar rotinas nos blocos manhã\/tarde\/noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:13:36",
+      "delete" : false,
+      "mediaName" : "e5183fc0-c9d7-44f2-ab2f-bca0b1fd3e62.jpg",
+      "localPath" : "media\/b6ae4601312e6e27775dcf9d94133f61fad68000.jpg",
+      "mediaSize" : "83 KB",
+      "identifier" : "CIjQursGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/581cbff45e1f2236506cab9e64b50d2a1ecfb03f"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/27 10:14:12",
+      "delete" : false,
+      "identifier" : "CKzQursGIABIAJABAA==",
+      "msg" : "Faz pouco tempo que teve a mudança do layout, só queria saber mesmo se tem como voltar como era antes ou se é definitivo mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/27 11:17:02",
+      "delete" : false,
+      "mediaName" : "3eeb98ad-74d7-4e15-9ede-2fab37da4de4.opus",
+      "localPath" : "media\/d5c274c1821745c464e27c41380a36ac70485677.opus",
+      "mediaSize" : "38 KB",
+      "identifier" : "CObtursGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    }
+  ]
+})

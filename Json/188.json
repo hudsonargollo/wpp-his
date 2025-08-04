@@ -1,0 +1,46 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 34 99675-3535",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/20 11:43:45",
+      "delete" : false,
+      "identifier" : "CKmB9MMGGhMxMzcwODY4NTAwNzY3MDJAbGlkIABIAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/20 11:43:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKqB9MMGGhMxMzcwODY4NTAwNzY3MDJAbGlkIABIAJABAA==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/20 11:44:11",
+      "delete" : false,
+      "identifier" : "CMOB9MMGGhMxMzcwODY4NTAwNzY3MDJAbGlkIABIAJABAA==",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/20 11:44:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMiB9MMGGhMxMzcwODY4NTAwNzY3MDJAbGlkIABIAJABAA==",
+      "type" : ""
+    }
+  ]
+})

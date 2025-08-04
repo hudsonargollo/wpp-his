@@ -1,0 +1,328 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 79 98138-0716",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 20:54:40",
+      "delete" : false,
+      "identifier" : "CMjJgMQGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 20:54:49",
+      "delete" : false,
+      "identifier" : "CNHJgMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 20:54:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNLJgMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 20:54:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "4️⃣ Programa de Afiliados",
+      "delete" : false,
+      "identifier" : "CNvJgMQGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 20:55:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNzJgMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 21:59:35",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Já sou afiliado e preciso de ajuda.*",
+      "delete" : false,
+      "identifier" : "CP\/ngMQGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 21:59:37",
+      "delete" : false,
+      "identifier" : "CIHogMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "🛠️ _Para que eu possa te ajudar da melhor forma, por favor, me envie:_\n\n_1._ *Seu nome*\n2. *E-mail de compra*\n_3.*_ Descreva brevemente como posso te ajudar*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 22:01:01",
+      "delete" : false,
+      "identifier" : "CNXogMQGIABIAZABAA==",
+      "msg" : "Pablo Luiz Aragão Porto \n\nPessoal.pabloporto@gmail.com\n\nInfelizmente quando logo na plataforma de afiliados não tem nenhum material disponível.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 22:01:07",
+      "delete" : false,
+      "mediaName" : "498a462e-12db-4d05-8441-5c6ab5fe9a2c.jpg",
+      "localPath" : "media\/ed6503dfdc3a60d784c2952b42d32b4bd91b7aaf.jpg",
+      "mediaSize" : "21 KB",
+      "identifier" : "CNvogMQGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4e80d4a14c04b5db38afeb5d21cff6cb216563c5"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 22:01:08",
+      "delete" : false,
+      "identifier" : "CNzogMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 22:01:09",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN3ogMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 22:01:17",
+      "mediaSize" : "1 byte",
+      "mediaName" : "4️⃣ Programa de Afiliados",
+      "delete" : false,
+      "identifier" : "COXogMQGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 22:01:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CObogMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 22:01:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Já sou afiliado e preciso de ajuda.*",
+      "delete" : false,
+      "identifier" : "COvogMQGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 22:01:25",
+      "delete" : false,
+      "identifier" : "CO3ogMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "🛠️ _Para que eu possa te ajudar da melhor forma, por favor, me envie:_\n\n_1._ *Seu nome*\n2. *E-mail de compra*\n_3.*_ Descreva brevemente como posso te ajudar*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 22:01:36",
+      "delete" : false,
+      "identifier" : "CPjogMQGIABIAZABAA==",
+      "msg" : "Pablo Luiz Aragão Porto \n\nPessoal.pabloporto@gmail.com\n\nInfelizmente quando logo na plataforma de afiliados não tem nenhum material disponível.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 22:01:43",
+      "delete" : false,
+      "identifier" : "CP\/ogMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/22 22:01:44",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIDpgMQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:30:00",
+      "delete" : false,
+      "identifier" : "CODHg8QGIABIAJABAA==",
+      "msg" : "Olá, bom dia. Preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:30:27",
+      "delete" : false,
+      "identifier" : "CPvHg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? Em que posso te ajudar? ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:32:49",
+      "delete" : false,
+      "identifier" : "CInJg8QGIABIAJABAA==",
+      "msg" : "Infelizmente quando logo na plataforma de afiliados não tenho acesso a nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:32:57",
+      "delete" : false,
+      "mediaName" : "17d07ede-992e-46f3-9fc2-7c1e886e41e0.jpg",
+      "localPath" : "media\/891f8012b32b40f38205c50266b349d48fb59a80.jpg",
+      "mediaSize" : "22 KB",
+      "identifier" : "CJHJg8QGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/fff64dac6394428d383782e9b3968aa7647270f4"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:33:18",
+      "delete" : false,
+      "identifier" : "CKbJg8QGIABIAJABAA==",
+      "msg" : "Gostaria de pegar a estrutura do manychat ver os conteúdos e tal",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:34:50",
+      "mediaSize" : "420 bytes",
+      "mediaName" : "1e6c0707-3d9a-4df4-9ebf-dd96e9893a47.thumb",
+      "localPath" : "media\/877265b400a4a6319632708860ec5ed826773d7e.thumb",
+      "delete" : false,
+      "identifier" : "CILKg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:35:55",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CMPKg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:36:14",
+      "delete" : false,
+      "identifier" : "CNbKg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "https:\/\/app.manychat.com\/flowPlayerPage?share_hash=238077186051427_0c171e9dc1ed1e95835ae7630a659d16b8cc9777\n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:36:42",
+      "delete" : false,
+      "mediaName" : "5c1fb36f-474e-49ef-93ed-95a3a1ea70c7.jpg",
+      "localPath" : "media\/a1971623fcee6af041a94a856af2cbc3a767788e.jpg",
+      "mediaSize" : "19 KB",
+      "identifier" : "CPLKg8QGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/1287e4f37e6ada71d51515ad37db8a4ba92bedd2"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:36:49",
+      "delete" : false,
+      "identifier" : "CPnKg8QGIABIAJABAA==",
+      "msg" : "Mas esse deu certo! ❤️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:38:06",
+      "mediaSize" : "420 bytes",
+      "mediaName" : "3b0f619b-e9d2-4d67-823c-f793e9137189.thumb",
+      "localPath" : "media\/ad464c6c556f8f89c8eecb53468e9e60a2699408.thumb",
+      "delete" : false,
+      "identifier" : "CMbLg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:40:55",
+      "delete" : false,
+      "identifier" : "CO\/Mg8QGIABIAJABAA==",
+      "msg" : "Combinado, obrigado.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:41:11",
+      "delete" : false,
+      "identifier" : "CP\/Mg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais? \n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:41:23",
+      "delete" : false,
+      "identifier" : "CIvNg8QGIABIAJABAA==",
+      "msg" : "Não, muito obrigado por enquanto.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:41:31",
+      "delete" : false,
+      "identifier" : "CJPNg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "DIsponha! \n",
+      "type" : "text"
+    }
+  ]
+})

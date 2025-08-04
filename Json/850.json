@@ -1,0 +1,83 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 12 98167-4601",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 12:06:52",
+      "delete" : false,
+      "mediaName" : "79d53267-ad08-4037-895e-a51c870d169e.jpg",
+      "localPath" : "media\/ae54e36340905cc9a3d4e0b1ca90da5e2d6ca34e.jpg",
+      "mediaSize" : "91 KB",
+      "identifier" : "CJS9378GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/956045d35cafa0c6bab9f05cd0ab9e35636cc92d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 12:08:31",
+      "delete" : false,
+      "identifier" : "CPe9378GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ? \nSou a Brenda, responsável pelo suporte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 15:28:58",
+      "delete" : false,
+      "identifier" : "CPKb4L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Desça um pouco mais a tela logo a baixo do balão de fala tem um botão vermelho para prosseguir.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/10 15:30:26",
+      "delete" : false,
+      "identifier" : "CMqc4L8GIABIAZABAA==",
+      "msg" : "Muito obrigada!! Minha tela estava muito ampliada e não vi a opção",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 15:30:34",
+      "delete" : false,
+      "identifier" : "CNKc4L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 15:30:40",
+      "delete" : false,
+      "identifier" : "CNic4L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 15:45:32",
+      "delete" : false,
+      "identifier" : "CNSj4L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/10 16:23:55",
+      "delete" : false,
+      "identifier" : "CNO14L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha! 😊",
+      "type" : "text"
+    }
+  ]
+})

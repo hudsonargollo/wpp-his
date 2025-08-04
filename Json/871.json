@@ -1,0 +1,26 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 47 99269-2759",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 13:52:09",
+      "delete" : false,
+      "identifier" : "CMGF0L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, tudo bem ?\nSou a Brenda e faço parte do suporte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/07 13:52:52",
+      "delete" : false,
+      "identifier" : "COyF0L8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vi na ticto que você pediu reembolso de um produto por conta de duplicidade, poderia me enviar o e-mail da sua esposa, por gentileza ?",
+      "type" : "text"
+    }
+  ]
+})

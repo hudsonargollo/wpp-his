@@ -1,0 +1,53 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 99307-8019",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/04 08:26:43",
+      "delete" : false,
+      "identifier" : "CPvGm74GIABIAZABAA==",
+      "msg" : "Boa noite, gostaria de cancelar minha assinatura anual, como faço pra prosseguir?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 09:53:29",
+      "delete" : false,
+      "identifier" : "CNGSob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, Italo, bom dia! Tudo bem?\nMe chamo Rafaella e vou prosseguir com seu atendimento",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 09:53:43",
+      "delete" : false,
+      "identifier" : "CN+Sob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email de compra, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/05 10:04:32",
+      "delete" : false,
+      "identifier" : "COiXob4GIABIAZABAA==",
+      "msg" : "italopresottode2004@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/05 10:10:18",
+      "delete" : false,
+      "identifier" : "CMKaob4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Prontinho, acabei de cancelar sua assinatura e ela não irá renovar automaticamente!\nVerifica se chegou no seu email e me confirma, por gentileza",
+      "type" : "text"
+    }
+  ]
+})

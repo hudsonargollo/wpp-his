@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 75 99917-0992",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/22 11:09:18",
+      "delete" : false,
+      "identifier" : "CJbgvMEGIABIAZABAA==",
+      "msg" : "Certo, muito obrigado pela compreensão",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/22 11:13:02",
+      "delete" : false,
+      "identifier" : "CPbhvMEGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/22 11:18:47",
+      "delete" : false,
+      "identifier" : "CM\/kvMEGIABIAZABAA==",
+      "msg" : "Poderia me mandar os arquivos abaixo?\n\n-Road Map\n-arquivo da aula \"conheça bem o seu oponente\".\n-arquivo da aula \"Pirâmide da consciência\"",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/22 11:29:17",
+      "delete" : false,
+      "identifier" : "CMXpvMEGIABIAZABAA==",
+      "msg" : "Muito obrigado",
+      "type" : "text"
+    }
+  ]
+})

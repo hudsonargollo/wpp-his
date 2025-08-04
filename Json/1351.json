@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 19 99340-9315",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/10 16:17:57",
+      "delete" : false,
+      "identifier" : "CO3khbwGIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/10 16:18:01",
+      "delete" : false,
+      "identifier" : "CPHkhbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/10 16:18:07",
+      "delete" : false,
+      "identifier" : "CPfkhbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/10 16:18:20",
+      "delete" : false,
+      "identifier" : "CITlhbwGIABIAZABAA==",
+      "msg" : "Como me afilio?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/10 17:45:10",
+      "delete" : false,
+      "mediaName" : "d4b45006-9eff-43fd-bda9-842fd598cfb9.opus",
+      "localPath" : "media\/aa7c630660524c942bf132d571851be53c1b6a91.opus",
+      "mediaSize" : "26 KB",
+      "identifier" : "CN+NhrwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    }
+  ]
+})

@@ -1,0 +1,66 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 98876-6736",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/07 20:58:25",
+      "delete" : false,
+      "identifier" : "CKmotbkGIABIAZABAA==",
+      "msg" : "Olá, Sou afiliado da Central Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 09:32:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM2JuLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 10:02:51",
+      "delete" : false,
+      "identifier" : "CIOYuLkGIABIAZABAA==",
+      "msg" : "Quando será a reunião com Iuri?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 10:03:42",
+      "delete" : false,
+      "mediaName" : "7ecb4777-d0a4-4479-8404-84e3e3d8bf6f.opus",
+      "localPath" : "media\/ce9b5e5877b25a5f91706eb62be561c62442237f.opus",
+      "mediaSize" : "24 KB",
+      "identifier" : "CLaYuLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/08 10:04:25",
+      "delete" : false,
+      "identifier" : "COGYuLkGIABIAZABAA==",
+      "msg" : "Bruna, bom dia.\nObrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/08 10:06:25",
+      "delete" : false,
+      "identifier" : "CNmZuLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida estou a disposição!",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,114 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Igor Phellipe",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/25 15:59:14",
+      "delete" : false,
+      "identifier" : "CIq70bcGIABIAZABAA==",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/25 16:12:15",
+      "delete" : false,
+      "identifier" : "CJfB0bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi, tudo certo por aí? 😊\n\nSou a Júlia, da equipe do Iuri Meira, e estou aqui para te ajudar com o que precisar!\nMe conta como posso te ajudar. Vamos resolver tudo juntos. Pode contar comigo sempre! 🤝",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/27 12:57:50",
+      "delete" : false,
+      "identifier" : "CIas27cGIABIAZABAA==",
+      "msg" : "Queria fazer a solicitação de plaquinhas. Mas meu acesso a quebra da matrix expirou. É possível solicitar assim mesmo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 12:57:51",
+      "delete" : false,
+      "identifier" : "CIis27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 14:17:16",
+      "delete" : false,
+      "mediaName" : "e999b90e-6a92-4207-9294-795b88816662.opus",
+      "localPath" : "media\/c7e993de6a503aa8968bb71cdc23a76eecdf5761.opus",
+      "mediaSize" : "77 KB",
+      "identifier" : "CKTR27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:37"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 14:17:27",
+      "delete" : false,
+      "mediaName" : "4c740272-28cf-418e-bd70-ade9e3b5876e.opus",
+      "localPath" : "media\/eec91ab5416a7561de361cbd0ec8ffc792504757.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CK\/R27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 14:17:48",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CMTR27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/27 14:21:33",
+      "delete" : false,
+      "identifier" : "CKXT27cGIABIAZABAA==",
+      "msg" : "Ok. Muito obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 14:33:10",
+      "delete" : false,
+      "identifier" : "CN7Y27cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/27 17:26:10",
+      "delete" : false,
+      "identifier" : "COqp3LcGIABIAZABAA==",
+      "msg" : "Qual o formato da prova social de faturamento que eu preciso te enviar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/27 17:51:57",
+      "delete" : false,
+      "identifier" : "CPW13LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você pode enviar em formato de foto ou vídeo!",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,55 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 19 99642-3840",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 12:01:10",
+      "delete" : false,
+      "identifier" : "CL6n18EGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 12:01:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNun18EGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 12:02:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "CPen18EGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 12:02:22",
+      "delete" : false,
+      "identifier" : "CIao18EGIABIAZABAA==",
+      "msg" : "Ryan Gabriel\nryangabriel724@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/27 12:02:39",
+      "delete" : false,
+      "identifier" : "CJeo18EGIABIAZABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    }
+  ]
+})

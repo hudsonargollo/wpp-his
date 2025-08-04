@@ -1,0 +1,151 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99827-9348",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 01:02:25",
+      "delete" : false,
+      "identifier" : "CNmTw7sGIABIAZABAA==",
+      "msg" : "Olá! Vi o aviso que a Área de Membros da Cademi vai sair do ar e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 01:02:29",
+      "delete" : false,
+      "identifier" : "CN2Tw7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 01:02:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COSTw7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/29 01:02:50",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna\/Central Caverna",
+      "delete" : false,
+      "identifier" : "CPKTw7sGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/29 01:02:52",
+      "delete" : false,
+      "identifier" : "CPSTw7sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sem problemas! Todas as aulas do Modo Caverna estão agora dentro da Área de Conteúdos do sistema, basta acessar o sistema para assistir.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/06 18:41:49",
+      "delete" : false,
+      "identifier" : "CKWc8bsGIABIAZABAA==",
+      "msg" : "Preciso de suporte",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 08:53:20",
+      "delete" : false,
+      "identifier" : "CLir9LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 09:29:29",
+      "delete" : false,
+      "identifier" : "CLG89LsGIABIAJABAA==",
+      "msg" : "Bom dia Bruna tudo jóia? Eu fiz um investimento de 30 reais pré assinatura",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 09:30:50",
+      "delete" : false,
+      "identifier" : "CIK99LsGIABIAJABAA==",
+      "msg" : "Hoje eu fiz a assinatura porém gostaria de saber a respeito desses 30 reais que eu paguei para ter acesso a plataforma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 09:31:43",
+      "delete" : false,
+      "identifier" : "CLe99LsGIABIAJABAA==",
+      "msg" : "não ficou claro que 30 reais era referente a 7 dias de teste da plataforma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 09:38:25",
+      "delete" : false,
+      "mediaName" : "0051bb0e-7958-49b3-b2b8-d7125ef26097.jpg",
+      "localPath" : "media\/f6a9913fbe0a97b91fc14db41c2c6221167b3f98.jpg",
+      "mediaSize" : "65 KB",
+      "identifier" : "CMnA9LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/ed8c010f88a6910c51795f9ea519db7babe82070"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 09:39:24",
+      "delete" : false,
+      "mediaName" : "606f24a1-43c7-4439-a69c-800c648205e8.opus",
+      "localPath" : "media\/a7b6edff21428d483ef910cc7aa418528aa564af.opus",
+      "mediaSize" : "45 KB",
+      "identifier" : "CITB9LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 09:40:50",
+      "delete" : false,
+      "identifier" : "CNrB9LsGIABIAJABAA==",
+      "msg" : "Entendi Bruna, obrigado pela explicação só queria ficar ciente do que aconteceu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 09:41:47",
+      "delete" : false,
+      "identifier" : "CJPC9LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer dúvida estamos à disposição",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 09:41:54",
+      "delete" : false,
+      "identifier" : "CJrC9LsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te ajudo em algo mais?",
+      "type" : "text"
+    }
+  ]
+})

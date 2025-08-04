@@ -1,0 +1,574 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98894-7335",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 19:06:55",
+      "delete" : false,
+      "identifier" : "CIfNx7cGIABIAJABAA==",
+      "msg" : "ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 19:06:57",
+      "delete" : false,
+      "identifier" : "CIrNx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem?\n\nSuporte Iuri Meira aqui. Agradecemos seu contato!\n\nEm alguns minutos você será respondido. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00).\n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 19:06:57",
+      "delete" : false,
+      "identifier" : "CIrNx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 19:06:58",
+      "delete" : false,
+      "identifier" : "CIrNx7cGIABIAJABAA==",
+      "msg" : "boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 19:07:00",
+      "delete" : false,
+      "identifier" : "CIzNx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 19:07:02",
+      "delete" : false,
+      "identifier" : "CI7Nx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 19:07:15",
+      "delete" : false,
+      "identifier" : "CJvNx7cGIABIAJABAA==",
+      "msg" : "Davi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 19:07:22",
+      "delete" : false,
+      "identifier" : "CKLNx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Davi.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 19:07:25",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKXNx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 19:07:57",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "CMXNx7cGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 19:07:59",
+      "delete" : false,
+      "identifier" : "CMfNx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ok, Central Caverna. Agora selecione uma opção que corresponda a sua dúvida\/problema.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/23 19:08:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMnNx7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/23 19:09:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente! 🔺",
+      "delete" : false,
+      "identifier" : "CLXOx7cGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:35:18",
+      "delete" : false,
+      "identifier" : "CI7kyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 09:35:35",
+      "delete" : false,
+      "identifier" : "CJ\/kyrcGIABIAJABAA==",
+      "msg" : "tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:35:38",
+      "delete" : false,
+      "identifier" : "CKLkyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 09:35:40",
+      "delete" : false,
+      "identifier" : "CKTkyrcGIABIAJABAA==",
+      "msg" : "bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:35:40",
+      "delete" : false,
+      "identifier" : "CKTkyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 09:35:44",
+      "delete" : false,
+      "identifier" : "CKjkyrcGIABIAJABAA==",
+      "msg" : "Davi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:35:51",
+      "delete" : false,
+      "identifier" : "CK\/kyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, Davi.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:35:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLLkyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 09:36:06",
+      "delete" : false,
+      "identifier" : "CL7kyrcGIABIAJABAA==",
+      "msg" : "como faço para dar sugestão ao central caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:36:09",
+      "delete" : false,
+      "identifier" : "CMHkyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte dos alunos do Iuri Meira.* 🔺🐺\n\nNosso atendimento é de:\n\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n\n*Aos Sábados das 9h às 12h.*\n\n*Mas você não precisa esperar por ajuda!* \n\nNosso atendente virtual está disponível a qualquer hora do dia para responder suas perguntas e te orientar. \n\n*Ele foi pensado para tornar seu atendimento rápido e eficiente. Salve nosso contato e converse com ele sempre que precisar. 🤩*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:36:11",
+      "delete" : false,
+      "identifier" : "CMPkyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, poderia me informar o seu nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:46:12",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJzpyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 09:46:27",
+      "delete" : false,
+      "identifier" : "CKvpyrcGIABIAJABAA==",
+      "msg" : "ok Bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/24 09:46:29",
+      "delete" : false,
+      "identifier" : "CK3pyrcGIABIAJABAA==",
+      "msg" : "obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:46:34",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CLLpyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:46:34",
+      "delete" : false,
+      "identifier" : "CLLpyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito Obrigado, ok Bruna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:46:37",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CLXpyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/24 09:47:09",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNXpyrcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 18:53:24",
+      "delete" : false,
+      "identifier" : "CNyk\/LcGIABIAJABAA==",
+      "msg" : "oii",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/03 18:53:25",
+      "delete" : false,
+      "identifier" : "CN6k\/LcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Olá, tudo bem? \n\nSuporte Iuri Meira aqui. Agradecemos seu contato. \n\nEstamos ausentes no momento. (Horário de atendimento de Segunda à Sexta das 09:00 às 12:00 - 14:00 às 18:00 e aos Sábados das 09:00 às 12:00). \n\nPara facilitar o atendimento, envie seu nome e como podemos te ajudar aqui embaixo.👇\n\nAssim que retornarmos te responderemos o mais breve possível!🔺🐺",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/03 18:53:29",
+      "delete" : false,
+      "identifier" : "COGk\/LcGIABIAJABAA==",
+      "msg" : "bom noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 09:16:01",
+      "delete" : false,
+      "identifier" : "CIm5\/7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Oi! Espero que seu dia esteja indo bem. 😊\n\nSou a Júlia, faço parte da equipe do Iuri Meira, e estou aqui para garantir que você se sinta bem acolhido(a). \n\nComo posso te ajudar? Vamos resolver qualquer coisa juntos, ok? Conte comigo! 🤝",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 09:19:49",
+      "delete" : false,
+      "identifier" : "CO26\/7cGIABIAZABAA==",
+      "msg" : "Oi Júlia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 09:22:21",
+      "delete" : false,
+      "identifier" : "CIW8\/7cGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Como posso te ajudar? 😁",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:24:06",
+      "delete" : false,
+      "identifier" : "CN6BgbgGIABIAJABAA==",
+      "msg" : "eu fiz uma sugestão para melhorar a questão de rotinas, não sei se foi recebida, eu vi também que isso ta como breve no app de vocês",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:24:11",
+      "delete" : false,
+      "identifier" : "COOBgbgGIABIAJABAA==",
+      "msg" : "boa tarde primeiramente kkk",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:24:56",
+      "delete" : false,
+      "identifier" : "CJCCgbgGIABIAJABAA==",
+      "msg" : "eu tenho  um app de hábitos que eu pago, ele ta pra ser renovado, daqui 1 mês, mas eu não queria renovar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 16:25:16",
+      "delete" : false,
+      "mediaName" : "6e271c54-a41b-48e5-91f7-0ee1dde3e66a.opus",
+      "localPath" : "media\/854ce6ebbc6e12cbce43c0fe4f1597e8affa35d3.opus",
+      "mediaSize" : "65 KB",
+      "identifier" : "CKSCgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:31"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:25:40",
+      "delete" : false,
+      "identifier" : "CLyCgbgGIABIAJABAA==",
+      "msg" : "gosto dele porque tem métricas de hábitos gráficos, marco os hábitos que fiz no dia, da pra colocar hábitos que faço 2 vezes por semana e outra funções",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:25:55",
+      "delete" : false,
+      "identifier" : "CMuCgbgGIABIAJABAA==",
+      "msg" : "vcs tem alguma data de lançamento da área de hábitos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:26:07",
+      "delete" : false,
+      "identifier" : "CNeCgbgGIABIAJABAA==",
+      "msg" : "eu não quero renovar com esse app que uso hoje",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:26:44",
+      "delete" : false,
+      "identifier" : "CPyCgbgGIABIAJABAA==",
+      "msg" : "que bom,",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:28:35",
+      "delete" : false,
+      "mediaName" : "e896adac-5f5d-4412-ad47-45ec682c4ad0.jpg",
+      "localPath" : "media\/cefc3919d86e8889c27525491e3ef56451a0edea.jpg",
+      "mediaSize" : "3 KB",
+      "identifier" : "COuDgbgGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/6cb7d5eba570d7fe643e0a052fd81f06faad3812"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:29:12",
+      "delete" : false,
+      "mediaName" : "c88a81c7-ab84-4d3d-b327-4d2830c4614f.jpg",
+      "localPath" : "media\/d1861e2144f4a3747a2c1dc2949b7f36952d0dbd.jpg",
+      "mediaSize" : "4 KB",
+      "identifier" : "CJCEgbgGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/dcfef6f0fa2bdefc80190e51a4e3b280121a6905"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:29:49",
+      "delete" : false,
+      "identifier" : "CLWEgbgGIAA6IDU4NDVCOTQwMkM3MkYyN0VEM0MzNDBCNkUxRTUyNTc0QPuOjcilMkgBeIaSycilMpABAA==",
+      "msg" : "Tô deixando aqui os apps pra de repente vocês se inspirarem nas melhores ferramentas deles",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:31:20",
+      "delete" : false,
+      "identifier" : "CJCFgbgGIABIAZABAA==",
+      "msg" : "Gostei mais desse na realidade, ele separa os hábitos por área",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 16:38:58",
+      "delete" : false,
+      "mediaName" : "b2c53b89-21bd-4b78-a182-c51168a5fb18.opus",
+      "localPath" : "media\/e9ade9c3261ca3765a81fa7ec46109b2d29d794c.opus",
+      "mediaSize" : "106 KB",
+      "identifier" : "CNqIgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:51"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:41:05",
+      "delete" : false,
+      "identifier" : "CNmJgbgGIABIAZABAA==",
+      "msg" : "O meu Google agenda não tá funcionando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:41:17",
+      "delete" : false,
+      "identifier" : "COWJgbgGIABIAZABAA==",
+      "msg" : "Eu fiz a sincronização mas não aparece",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 16:45:53",
+      "delete" : false,
+      "mediaName" : "a0907727-87b7-4838-a73d-a1785e18e8fb.opus",
+      "localPath" : "media\/e384c6cf890d9a1732ece0f35a653a08b7f9c5f3.opus",
+      "mediaSize" : "26 KB",
+      "identifier" : "CPmLgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:46:52",
+      "delete" : false,
+      "identifier" : "CLSMgbgGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:47:01",
+      "delete" : false,
+      "identifier" : "CL2MgbgGIABIAZABAA==",
+      "msg" : "Quando eu puder eu mando sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:47:03",
+      "delete" : false,
+      "identifier" : "CL+MgbgGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 16:47:34",
+      "delete" : false,
+      "identifier" : "CN6MgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Te ajudo em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:47:43",
+      "delete" : false,
+      "identifier" : "COeMgbgGIABIAZABAA==",
+      "msg" : "Só isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/04 16:47:45",
+      "delete" : false,
+      "identifier" : "COmMgbgGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/04 16:47:59",
+      "delete" : false,
+      "identifier" : "CPeMgbgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "De nada! Estamos à disposição para qualquer dúvida ou necessidade. Obrigada pelo seu contato! 😉😉",
+      "type" : "text"
+    }
+  ]
+})

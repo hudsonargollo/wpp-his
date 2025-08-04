@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 16 98825-3401",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 09:28:06",
+      "delete" : false,
+      "identifier" : "CN6Nt8EGIABIAZABAA==",
+      "msg" : "Bom dia. E vou usar o cartão de crédito.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 10:02:53",
+      "delete" : false,
+      "identifier" : "CIWet8EGIABIAZABAA==",
+      "msg" : "Sim. Oxe! Esses 49 é empresta. Vou devolver e depois comprar com meu cartão.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/21 10:10:40",
+      "delete" : false,
+      "identifier" : "CNiht8EGIABIAZABAA==",
+      "msg" : "Ok. Pode deixar.",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 81 99881-9545",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/23 00:15:57",
+      "delete" : false,
+      "identifier" : "CPWl6r0GIABIAJABAA==",
+      "msg" : "olá boa noite. não estou tendo acesso aos pdfs e eu comprei o plano vitalicio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/02\/23 00:16:04",
+      "delete" : false,
+      "mediaName" : "ad1d9e83-3b23-4565-94c8-850033a2980d.jpg",
+      "localPath" : "media\/426b5eb8c50e37ca1a6283b297a888cc20d0db3b.jpg",
+      "mediaSize" : "52 KB",
+      "identifier" : "CPyl6r0GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/11f8fd556f3799fde04407dba0a1a573b1d5816d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/23 00:16:14",
+      "delete" : false,
+      "identifier" : "CIam6r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/23 00:16:20",
+      "delete" : false,
+      "identifier" : "CIym6r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/02\/23 00:31:17",
+      "delete" : false,
+      "identifier" : "CI2t6r0GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAigEECAAQAJABAA==",
+      "msg" : "*Por falta de resposta, seu atendimento foi encerrado!*\n\nCaso ainda tenha dúvidas, não hesite em nos mandar uma mensagem. 😉",
+      "type" : "text"
+    }
+  ]
+})

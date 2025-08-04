@@ -1,0 +1,502 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 62 98150-3141",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 08:31:40",
+      "delete" : false,
+      "identifier" : "CKTMproGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 08:43:39",
+      "delete" : false,
+      "identifier" : "CPPRproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩\nComo posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 08:44:00",
+      "delete" : false,
+      "identifier" : "CIjSproGIABIAZABAA==",
+      "msg" : "Bruna tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 08:44:10",
+      "delete" : false,
+      "identifier" : "CJLSproGIABIAZABAA==",
+      "msg" : "Seguinte não estou achando o modo caverna que comprei",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 08:44:14",
+      "delete" : false,
+      "identifier" : "CJbSproGIABIAZABAA==",
+      "msg" : "Poderia me ajudar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 08:51:04",
+      "delete" : false,
+      "mediaName" : "e328f29d-a796-4a7f-8b2f-ab3949ec8235.opus",
+      "localPath" : "media\/bb9ec710c6ec90aa013672a0f2ab3cbefc02f8a9.opus",
+      "mediaSize" : "26 KB",
+      "identifier" : "CLDVproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 08:52:16",
+      "delete" : false,
+      "identifier" : "CPjVproGIABIAJABAA==",
+      "msg" : "E pq eu so recebi o acesso a vitrine",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 08:52:53",
+      "delete" : false,
+      "identifier" : "CJ3WproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me envia seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 08:53:20",
+      "delete" : false,
+      "identifier" : "CLjWproGIABIAJABAA==",
+      "msg" : "thierry.wilhans.alcantara@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 08:55:50",
+      "delete" : false,
+      "mediaName" : "88fb38fc-2b30-4944-9d5e-461dd9c257c3.opus",
+      "localPath" : "media\/05e7574351c9b98dafc8ba0e8b123c921d4c3ce8.opus",
+      "mediaSize" : "70 KB",
+      "identifier" : "CM7XproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:34"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:01:52",
+      "delete" : false,
+      "identifier" : "CLjaproGIABIAJABAA==",
+      "msg" : "Não consigo baixar os ebooks , e nem acesso ao desafio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:02:35",
+      "delete" : false,
+      "identifier" : "COPaproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou estar te mandando os ebooks aqui para que fique mais fácil de você acessar, certo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:03:14",
+      "delete" : false,
+      "identifier" : "CIrbproGIABIAJABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:03:33",
+      "delete" : false,
+      "mediaName" : "Ebook - Guia Prático para definição de um plano de ação.pdf",
+      "localPath" : "media\/5e40b50f71d7ddc1628ac54205869ad7cf4c7049.pdf",
+      "mediaSize" : "2,9 MB",
+      "identifier" : "CJ3bproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/2eb56e47fb273eaa3ba1146eb8d4223294834769"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:03:34",
+      "delete" : false,
+      "mediaName" : "Ebook - O manual para a criação de bons hábitos.pdf",
+      "localPath" : "media\/d5240fd01c7a1f32421fe80d28b980ddb2cff0c4.pdf",
+      "mediaSize" : "2,7 MB",
+      "identifier" : "CJ7bproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/2b5b7d659b1ac7ed5151f88101e256feff838c92"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:03:39",
+      "delete" : false,
+      "mediaName" : "Ebook - Flow Caverna.pdf",
+      "localPath" : "media\/19b1b66bad04f7419e823b2d470f26d72f42eb56.pdf",
+      "mediaSize" : "929 KB",
+      "identifier" : "CKPbproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/84912ca1c4a4681a8909a43a877175f08b5c44fe"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:03:39",
+      "mediaSize" : "56,7 MB",
+      "mediaName" : "Ebook - Defina seus objetivos e metas.pdf",
+      "localPath" : "media\/3245602434747bb461248a899138795f4795a09a.pdf",
+      "delete" : false,
+      "identifier" : "CKPbproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:03:39",
+      "delete" : false,
+      "mediaName" : "Ebook - Os pilares da rotina adaptativa.pdf",
+      "localPath" : "media\/958be50c90a263d3a00182ab7bb3652a26f86052.pdf",
+      "mediaSize" : "3,3 MB",
+      "identifier" : "CKPbproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/2cc065c557736ce6511c66b507cc61c2cb7cdc52"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:03:39",
+      "delete" : false,
+      "mediaName" : "Planner - Desafio 5 anos em 30 dias.pdf",
+      "localPath" : "media\/f68d529ce960a2f1b01d2b7aedf797e7cbd8046c.pdf",
+      "mediaSize" : "1,7 MB",
+      "identifier" : "CKPbproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/f9654284591c0a3dc29089c64d12894071f93a87"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:03:39",
+      "mediaSize" : "8,3 MB",
+      "mediaName" : "Modo Caverna - Express.pdf",
+      "localPath" : "media\/aaff10e3b085caac058b85dd489d94598bd185e9.pdf",
+      "delete" : false,
+      "identifier" : "CKPbproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:03:39",
+      "delete" : false,
+      "mediaName" : "Ebook - Produtivo burro x produtivo inteligente.pdf",
+      "localPath" : "media\/2abe8be764d2d6d9527ac21c81dbdf6602fbfdf8.pdf",
+      "mediaSize" : "740 KB",
+      "identifier" : "CKPbproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/5898ea9bdedf0853604c544edbce4a38c45b9b2d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:03:58",
+      "delete" : false,
+      "identifier" : "CLbbproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você conseguiu acessar a Central Caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:04:03",
+      "delete" : false,
+      "identifier" : "CLvbproGIABIAJABAA==",
+      "msg" : "O mais louco e que quando comprei eu comprei o modo caverna, não entendo pq apareceu o desafio",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:04:53",
+      "delete" : false,
+      "identifier" : "CO3bproGIABIAJABAA==",
+      "msg" : "Não estou conseguindo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:05:00",
+      "delete" : false,
+      "mediaName" : "f3086a20-8f81-45eb-b24b-8bf3eb294015.opus",
+      "localPath" : "media\/be5e5fa5d1e5d922fe75a78ba72195e6d4fada86.opus",
+      "mediaSize" : "61 KB",
+      "identifier" : "CPTbproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:29"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:05:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJzcproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:05:54",
+      "delete" : false,
+      "mediaName" : "7dc08b01-f8a6-4cca-8d45-73fee8b8c124.opus",
+      "localPath" : "media\/bf18862468b00336c5b63560102798ca922c920b.opus",
+      "mediaSize" : "25 KB",
+      "identifier" : "CKrcproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:09:48",
+      "delete" : false,
+      "identifier" : "CJTeproGIABIAJABAA==",
+      "msg" : "Pronto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:13:03",
+      "delete" : false,
+      "identifier" : "CNffproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Veja se consegue acessar a área de conteúdo na Central, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:14:49",
+      "delete" : false,
+      "identifier" : "CMHgproGIABIAJABAA==",
+      "msg" : "e isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:14:49",
+      "delete" : false,
+      "identifier" : "CMHgproGIABIAJABAA==",
+      "msg" : "Desenvolvimento pessoal e marketing",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:19:08",
+      "delete" : false,
+      "identifier" : "CMTiproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso mesmo!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:21:21",
+      "delete" : false,
+      "identifier" : "CMnjproGIABIAJABAA==",
+      "msg" : "Boa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:21:28",
+      "delete" : false,
+      "identifier" : "CNDjproGIABIAJABAA==",
+      "msg" : "depois dos dias restantes e so assiando ne",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:22:21",
+      "delete" : false,
+      "identifier" : "CIXkproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Exatamente ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 11:41:01",
+      "delete" : false,
+      "identifier" : "CIWlp7oGIABIAJABAA==",
+      "msg" : "bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 11:41:03",
+      "delete" : false,
+      "identifier" : "CIelp7oGIABIAJABAA==",
+      "msg" : "está ai",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 11:57:19",
+      "delete" : false,
+      "identifier" : "CNesp7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estou sim, pode falar! 😀",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 11:58:00",
+      "delete" : false,
+      "identifier" : "CICtp7oGIABIAZABAA==",
+      "msg" : "Os pdfs que falam nas aulas do clube da luta e outras tbm onde eu baixo ? Ou foi esses que me mandou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 11:58:09",
+      "delete" : false,
+      "identifier" : "CImtp7oGIABIAZABAA==",
+      "msg" : "Ainda não tive tempo de ver o que me enviou",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 11:59:51",
+      "delete" : false,
+      "identifier" : "CO+tp7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "São esses que te enviei!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 12:00:06",
+      "delete" : false,
+      "identifier" : "CP6tp7oGIABIAZABAA==",
+      "msg" : "Ahh blz",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 12:00:10",
+      "delete" : false,
+      "identifier" : "CIKup7oGIABIAZABAA==",
+      "msg" : "Então desconsidera kkkkkk",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 12:00:12",
+      "delete" : false,
+      "identifier" : "CISup7oGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 12:00:13",
+      "delete" : false,
+      "mediaName" : "5 maneiras de fazer 3 mil reais (ou mais) na internet em 30 dias.pdf",
+      "localPath" : "media\/57aa8f2f219b2def967ae0e76ad1ae933c45d62c.pdf",
+      "mediaSize" : "7 MB",
+      "identifier" : "CIWup7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/72447568aaa921df2c4f246d4898856a186046ba"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 12:00:15",
+      "delete" : false,
+      "mediaName" : "Como ganhar 10 mil reais com os fundamentos do mercado digital_.pdf",
+      "localPath" : "media\/46099c620bb901da714cff315358af695fc0a45a.pdf",
+      "mediaSize" : "5,8 MB",
+      "identifier" : "CIeup7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/4ce1252a2f814578015c44998661696a4a808091"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 12:00:15",
+      "delete" : false,
+      "mediaName" : "6 ferramentas e habilidades indispensáveis para fazer dinheiro na internet.pdf",
+      "localPath" : "media\/0d2dfce319fa3e6cc986ed86b9b207e4f864d40f.pdf",
+      "mediaSize" : "19,7 MB",
+      "identifier" : "CIeup7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/eddd9f14414c7dd97f505321ecc163ec70a8cd9d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 12:00:26",
+      "delete" : false,
+      "identifier" : "CJKup7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te enviei mais 3 como brinde ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 12:01:10",
+      "delete" : false,
+      "identifier" : "CL6up7oGIABIAJABAA==",
+      "msg" : "Muito obrigado!!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 12:01:35",
+      "delete" : false,
+      "identifier" : "CNeup7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha 😀",
+      "type" : "text"
+    }
+  ]
+})

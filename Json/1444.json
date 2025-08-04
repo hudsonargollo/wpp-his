@@ -1,0 +1,66 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 62 99154-2025",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/22 11:34:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIjHoLsGIAA=",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 09:39:28",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIm0pbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/23 09:51:29",
+      "delete" : false,
+      "identifier" : "CNm5pbsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Fábio! Muito obrigada pelo pagamento, assim que seu envelope for postado, te enviaremos o código para rastreio!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/23 09:58:50",
+      "delete" : false,
+      "identifier" : "CJK9pbsGIABIAZABAA==",
+      "msg" : "Bom dia ok eu que agradeço 🤝",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/02 16:52:48",
+      "delete" : false,
+      "identifier" : "CJjd27sGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Vim te informar que o seu envelope já foi postado 🤩\nSegue o código de rastreio: \nAV035925942BR",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/02 17:11:47",
+      "mediaSize" : "263 KB",
+      "mediaName" : "31535298-2cd1-4ec9-b42f-b7be0d64bc4b.webp",
+      "localPath" : "media\/31535298-2cd1-4ec9-b42f-b7be0d64bc4b.png.webp",
+      "delete" : false,
+      "identifier" : "CIvm27sGIABIAZABAA==",
+      "type" : "photo"
+    }
+  ]
+})

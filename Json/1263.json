@@ -1,0 +1,44 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 99623-0442",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 07:53:57",
+      "delete" : false,
+      "identifier" : "CM3WuLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 12:10:53",
+      "delete" : false,
+      "identifier" : "CIXPubwGIABIAZABAA==",
+      "msg" : "o produto não atendeu minhas expectativas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 12:11:05",
+      "delete" : false,
+      "identifier" : "CJHPubwGIABIAZABAA==",
+      "msg" : "eu não imaginava que fosse em pdf os bônus",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/21 16:31:32",
+      "delete" : false,
+      "identifier" : "CJzsv7wGIABIAZABAA==",
+      "msg" : "olá?",
+      "type" : "text"
+    }
+  ]
+})

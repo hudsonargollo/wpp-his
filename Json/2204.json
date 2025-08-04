@@ -1,0 +1,35 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Diego Stein - Afiliado",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/18 14:11:38",
+      "delete" : false,
+      "identifier" : "CNKTrLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, boa tarde! Faço parte do suporte de Afiliações do Iuri Meira, gostaria de informar que sua afiliação foi aprovada! 🤩\nPoderia verificar por gentileza.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/09\/18 14:23:17",
+      "delete" : false,
+      "identifier" : "CI2ZrLcGIABIAJABAA==",
+      "msg" : "Verificando",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/09\/18 14:32:31",
+      "delete" : false,
+      "identifier" : "CLedrLcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo!",
+      "type" : "text"
+    }
+  ]
+})

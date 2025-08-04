@@ -1,0 +1,92 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 24 97401-5412",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/06 15:24:35",
+      "delete" : false,
+      "mediaName" : "d89a4a11-68a7-4fcf-ad74-8c7276b31473.opus",
+      "localPath" : "media\/da75e6396a9c66a00672240de12a28cf5d92a890.opus",
+      "mediaSize" : "96 KB",
+      "identifier" : "COvorrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:47"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/06 15:28:18",
+      "delete" : false,
+      "mediaName" : "8c31d847-0e12-49c9-9301-facce5b9a449.opus",
+      "localPath" : "media\/e6a1a2050462a17e3c85658a6318d6a684378757.opus",
+      "mediaSize" : "46 KB",
+      "identifier" : "CMrqrrkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/06 15:28:34",
+      "delete" : false,
+      "mediaName" : "b3f7e95f-2f77-4616-86d2-990bccc0d015.jpg",
+      "localPath" : "media\/a8b51e49a640326c99f9c4b6e2e04bd35f654be3.jpg",
+      "mediaSize" : "77 KB",
+      "identifier" : "CNrqrrkGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/cef8a2f935a6db1a83950173f8771def4e4f1ec5"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/06 15:28:42",
+      "delete" : false,
+      "identifier" : "COLqrrkGIABIAZABAA==",
+      "msg" : "Essa é a mais recente...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/06 15:39:22",
+      "delete" : false,
+      "mediaName" : "7978f9a4-5ecc-40bd-b998-f703a64d09b2.opus",
+      "localPath" : "media\/addb525835d4760768c3f10b4b7d9a6afb86922a.opus",
+      "mediaSize" : "65 KB",
+      "identifier" : "COLvrrkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:32"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/06 15:47:52",
+      "delete" : false,
+      "identifier" : "CODzrrkGIABIAZABAA==",
+      "msg" : "A tá, entendi então o negócio é aguardar né",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/06 16:14:08",
+      "delete" : false,
+      "identifier" : "CIiAr7kGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Exatamente, Helton!\nPosso te ajudar em algo mais?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/06 16:32:08",
+      "delete" : false,
+      "identifier" : "CMCIr7kGIABIAZABAA==",
+      "msg" : "Não, vamos aguardar",
+      "type" : "text"
+    }
+  ]
+})

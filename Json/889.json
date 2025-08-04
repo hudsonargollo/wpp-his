@@ -1,0 +1,321 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 99795-9183",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:40:26",
+      "delete" : false,
+      "identifier" : "CNL8tL8GIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:40:40",
+      "delete" : false,
+      "identifier" : "COD8tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:40:46",
+      "delete" : false,
+      "identifier" : "COb8tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:40:51",
+      "delete" : false,
+      "identifier" : "COv8tL8GIABIAZABAA==",
+      "msg" : "Bom dia \nGostaria de saber mais informações sobre o uso dessa ferramenta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:40:58",
+      "delete" : false,
+      "identifier" : "CPL8tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Bom dia \nGostaria de saber mais informações sobre o uso dessa ferramenta*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:41:04",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPj8tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:41:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CJz9tL8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:41:48",
+      "delete" : false,
+      "identifier" : "CKT9tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:41:53",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKn9tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:42:07",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CLf9tL8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:42:10",
+      "delete" : false,
+      "identifier" : "CLr9tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:43:35",
+      "delete" : false,
+      "identifier" : "CI\/+tL8GIABIAZABAA==",
+      "msg" : "Preciso saber se a compra desse produto é única ou se terá pagamento mensal.\nTambém gostaria de saber como usar essa ferramenta com mais eficiência",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:46:05",
+      "delete" : false,
+      "identifier" : "CKX\/tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:46:24",
+      "delete" : false,
+      "identifier" : "CLj\/tL8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me informe seu e-mail, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:47:53",
+      "delete" : false,
+      "identifier" : "CJGAtb8GIABIAZABAA==",
+      "msg" : "rutilo.rocha1808@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:47:59",
+      "delete" : false,
+      "identifier" : "CJeAtb8GIABIAZABAA==",
+      "msg" : "Tudo bem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:51:10",
+      "delete" : false,
+      "identifier" : "CNaBtb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu plano é anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:56:24",
+      "delete" : false,
+      "identifier" : "CJCEtb8GIABIAZABAA==",
+      "msg" : "É anual e em Março de 2026 terei que pagar para renovar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:56:28",
+      "delete" : false,
+      "identifier" : "CJSEtb8GIABIAZABAA==",
+      "msg" : "É isso,m",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 10:56:41",
+      "delete" : false,
+      "identifier" : "CKGEtb8GIABIAZABAA==",
+      "msg" : "E quanto as outras dúvidas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 10:58:39",
+      "delete" : false,
+      "identifier" : "CJeFtb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 11:00:58",
+      "delete" : false,
+      "identifier" : "CKKGtb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "só um minuto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 14:31:32",
+      "delete" : false,
+      "identifier" : "CPzotb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, você está se referindo ao desafio dos 40 dias, certo ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 14:46:18",
+      "delete" : false,
+      "identifier" : "CPLvtb8GIABIAZABAA==",
+      "msg" : "Sim",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 14:46:39",
+      "delete" : false,
+      "identifier" : "CIfwtb8GIABIAZABAA==",
+      "msg" : "Não achei o link de acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 14:55:02",
+      "delete" : false,
+      "identifier" : "CP7ztb8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Já mando para você",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 15:10:22",
+      "delete" : false,
+      "identifier" : "CJb7tb8GIABIAZABAA==",
+      "msg" : "Aguardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 15:25:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJSCtr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 15:29:42",
+      "mediaSize" : "133 KB",
+      "mediaName" : "Screenshot 2025-04-02 152929.png",
+      "localPath" : "media\/014afa603cd76ab8087afdff7227ffe865f661cd.png",
+      "delete" : false,
+      "identifier" : "CJ6Etr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 15:30:57",
+      "delete" : false,
+      "identifier" : "COmEtr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Na aba de foco e produtividade, você encontra o Desafio caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 15:31:18",
+      "delete" : false,
+      "identifier" : "CP6Etr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Mandei um print da minha tela para você visualizar",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 15:31:35",
+      "delete" : false,
+      "identifier" : "CI+Ftr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer dúvida é só entrar em contato.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/02 15:56:46",
+      "delete" : false,
+      "identifier" : "CPaQtr8GIABIAZABAA==",
+      "msg" : "Legal \nMuito obrigado por sua atenção e gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/02 15:57:29",
+      "delete" : false,
+      "identifier" : "CKGRtr8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Por nada, estou a disposição! ☺️",
+      "type" : "text"
+    }
+  ]
+})

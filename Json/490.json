@@ -1,0 +1,54 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 33 98842-1191",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 22:42:17",
+      "delete" : false,
+      "identifier" : "CIG+o8IGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 22:42:26",
+      "delete" : false,
+      "identifier" : "CIq+o8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/10 22:42:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIu+o8IGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/10 22:42:45",
+      "delete" : false,
+      "identifier" : "CJ2+o8IGIABIAZABAA==",
+      "msg" : "Como cancelo ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/11 08:22:02",
+      "delete" : false,
+      "identifier" : "COLNpcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia!🐺\n\nAntes de prosseguir, preciso te perguntar: qual foi o motivo que levou você a solicitar o cancelamento?",
+      "type" : "text"
+    }
+  ]
+})

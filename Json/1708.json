@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 98422-8229",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/28 21:14:13",
+      "delete" : false,
+      "identifier" : "CN2OpLoGIABIAZABAA==",
+      "msg" : "Quero ganhar indicando a Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 08:49:59",
+      "delete" : false,
+      "mediaName" : "083a3967-92a1-4d2b-8992-2d4782fcabed.opus",
+      "localPath" : "media\/3e54f2f455f5d46fde387ac32aee28adfede92f3.opus",
+      "mediaSize" : "15 KB",
+      "identifier" : "CO\/UproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:07"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/29 09:35:08",
+      "delete" : false,
+      "identifier" : "CITqproGIABIAZABAA==",
+      "msg" : "markkuz@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:40:55",
+      "delete" : false,
+      "mediaName" : "c8d43c25-8d32-446a-8588-f7e39a66f0e7.opus",
+      "localPath" : "media\/71d75553b078822bb6cd0992b424fdbf0a6a5b17.opus",
+      "mediaSize" : "95 KB",
+      "identifier" : "CN\/sproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:46"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/29 09:41:04",
+      "delete" : false,
+      "mediaName" : "2d8ab8b4-2f27-4f60-9ced-c96fd8356aa6.mp4",
+      "localPath" : "media\/14e03aa789c2f36741df56bd2c1fd42ec942b648.mp4",
+      "mediaSize" : "1,2 MB",
+      "identifier" : "COjsproGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "video",
+      "thumbPath" : "media\/08c971b9ce05aba6134fbcde360ec70c5bbeca70"
+    }
+  ]
+})

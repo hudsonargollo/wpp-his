@@ -1,0 +1,41 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "socio lista 1 _210",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 01:57:36",
+      "mediaSize" : "1 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/43b81ffc3bb6c2b5f611e206147dc51334d462f5"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/31 22:34:37",
+      "mediaSize" : "1 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/658a18bebc642b25f26f7339d62e5f40380ba10e"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/08\/01 20:02:19",
+      "mediaSize" : "1 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "IABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/aff672ed2c8a56f14a7b1ad5a27cc0f380e40a00"
+    }
+  ]
+})

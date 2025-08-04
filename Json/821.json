@@ -1,0 +1,459 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 38 99154-3226",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 21:56:45",
+      "delete" : false,
+      "identifier" : "CNXd9r8GIABIAJABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 21:56:53",
+      "delete" : false,
+      "identifier" : "CN3d9r8GIABIAJABAA==",
+      "msg" : "meu nome é Wille Dingsor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 21:56:58",
+      "delete" : false,
+      "identifier" : "COLd9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 21:57:04",
+      "delete" : false,
+      "identifier" : "COjd9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 21:57:14",
+      "delete" : false,
+      "identifier" : "CPLd9r8GIABIAJABAA==",
+      "msg" : "Wille",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 21:57:21",
+      "delete" : false,
+      "identifier" : "CPnd9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Wille*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 21:57:27",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CP\/d9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 21:58:20",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLTe9r8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 21:58:30",
+      "delete" : false,
+      "identifier" : "CL7e9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 21:58:36",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMTe9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 21:58:54",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Falar com atendente 🔺",
+      "delete" : false,
+      "identifier" : "CNbe9r8GIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/14 21:58:56",
+      "delete" : false,
+      "identifier" : "CNje9r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Descreva em poucas palavras o sua dúvida... enquanto isso, vou te direcionar para um atendente.\n\nApós escrever, mande-me seu e-mail de compra.\n\nLembrando que o horário de atendimento é das 08:00 às 18:00 de segunda à sexta, e   das 08:00 às 12:00 aos sábados.\n\nAgora é só aguardar. ⏱️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 22:01:14",
+      "delete" : false,
+      "identifier" : "COLf9r8GIABIAZABAA==",
+      "msg" : "Comprei o Modo Caverna e iniciei o curso. Cheguei até a penúltima aula do módulo 1. Fiquei algum dias sem acessar. Hoje, ao tentar acessar, aparaceu uma tela nova como se eu estivesse em teste gratuito. \n\nPerdi o progresso do curso.\n\nGostaria de recuperar minha conta.\n\nMeu nome é Wille Dingsor e o meu email de cadastro é wdsp03@yahoo.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 22:08:29",
+      "delete" : false,
+      "mediaName" : "0e7327a0-1cd5-4605-bd2a-787f4ebe12fe.jpg",
+      "localPath" : "media\/d73069d8e7d8787226c53083aa458ddc512deb57.jpg",
+      "mediaSize" : "39 KB",
+      "identifier" : "CJXj9r8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/1e578499e83bb23f438ebda2368ec6602b06eecf"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/14 22:09:00",
+      "delete" : false,
+      "identifier" : "CLTj9r8GIABIAZABAA==",
+      "msg" : "Tanto no Computador quanto no Celular",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:46:44",
+      "delete" : false,
+      "identifier" : "CKyO+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem ?\nSou a Brenda, responsável pelo suporte do Modo Caverna\nInfelizmente, nosso novo sistema não está otimizado para a versão mobile, mas estamos em processo para lançarmos o aplicativo para o celular.\nExiste a possibilidade de utilizar um desktop ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:47:30",
+      "delete" : false,
+      "identifier" : "CNqO+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Nesse caso, poderia me enviar, por gentileza, um video do processo até a chegada do erro ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:27:47",
+      "delete" : false,
+      "identifier" : "CMuh+b8GIABIAZABAA==",
+      "msg" : "Bom dia Bruna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:28:05",
+      "delete" : false,
+      "identifier" : "CN2h+b8GIABIAZABAA==",
+      "msg" : "Eu utilizo apenas o COMPUTADOR para acessar e curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:28:47",
+      "delete" : false,
+      "identifier" : "CIei+b8GIABIAZABAA==",
+      "msg" : "Entrei pelo celular apenas para verificar se o problema seria o mesmo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 09:29:10",
+      "delete" : false,
+      "identifier" : "CJ6i+b8GIABIAZABAA==",
+      "msg" : "Vou entrar novamente e te mando aí",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:38:37",
+      "delete" : false,
+      "identifier" : "CNWm+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, fico no aguardo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:12:52",
+      "delete" : false,
+      "mediaName" : "03ba35ab-6166-4672-8508-4d1135ad300c.mp4",
+      "localPath" : "media\/2194ef25cd199fb7a36872bdd3873dc8f147445f.mp4",
+      "mediaSize" : "19,6 MB",
+      "identifier" : "CNy2+b8GIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/6726eb16faee646f43bf5ab0fc16f9d67a8629c6"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:21:11",
+      "delete" : false,
+      "mediaName" : "f7d407d0-cd02-48c6-a5d9-539e7d7ad0b5.jpg",
+      "localPath" : "media\/ceffc13586916ec77890aedacda5a9c8b1ddea68.jpg",
+      "mediaSize" : "93 KB",
+      "identifier" : "CM+6+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/0b587b80cd6ca5a1bfa986b99c12f9ef8507a9dd"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:45:26",
+      "delete" : false,
+      "mediaName" : "408bc21d-5f14-445c-9bbb-7939ee041500.jpg",
+      "localPath" : "media\/54d89db53bfa96d2a512e4c9a5be2132aa3b0839.jpg",
+      "mediaSize" : "170 KB",
+      "identifier" : "CP7F+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/6fe91e6f83c4310af94b86552aa6900511662446"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 10:45:48",
+      "delete" : false,
+      "identifier" : "CJTG+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "entao wille, os outros cursos estao em producao...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 10:45:58",
+      "delete" : false,
+      "identifier" : "CJ7G+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "estou verificando o seu problema com o time",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 10:46:10",
+      "delete" : false,
+      "identifier" : "CKrG+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "me envia o seu email por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:46:26",
+      "delete" : false,
+      "identifier" : "CLrG+b8GIABIAZABAA==",
+      "msg" : "O Cave Focus eu estava fazendo ele... Estava na última aula do Módulo 1",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:46:49",
+      "delete" : false,
+      "identifier" : "CNHG+b8GIABIAZABAA==",
+      "msg" : "wdsp03@yahoo.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:51:51",
+      "delete" : false,
+      "mediaName" : "d56991f6-877b-4e21-b31f-54a5fcf5d2a1.jpg",
+      "localPath" : "media\/0b0e83b18c86a865132933f342b13584d8ef9921.jpg",
+      "mediaSize" : "132 KB",
+      "identifier" : "CP\/I+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/3157a1de4c9f4b5c799c0c8a9b872a467ef92e87"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:52:05",
+      "delete" : false,
+      "mediaName" : "763ac9ac-f43d-4e60-b495-ff3cbdc37bfa.jpg",
+      "localPath" : "media\/1ec65967e61935c0ad4dc1b491c5b5cfff4a5407.jpg",
+      "mediaSize" : "114 KB",
+      "identifier" : "CI3J+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/b21b519822effc022df9285cfc029f3ce53159a7"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:52:25",
+      "delete" : false,
+      "mediaName" : "9797d7fd-735d-494f-82f2-b5c15f2f5457.jpg",
+      "localPath" : "media\/3ad71e4d28250d904e55ae4578774c04854b715c.jpg",
+      "mediaSize" : "94 KB",
+      "identifier" : "CKHJ+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/ec652e3e6987bb47b2d10f4088ca0a76d142504a"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 10:52:39",
+      "delete" : false,
+      "identifier" : "CK\/J+b8GIABIAZABAA==",
+      "msg" : "Meu email:\n\nwdsp03@yahoo.com.br",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 11:16:00",
+      "delete" : false,
+      "identifier" : "CKjU+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estamos verificando seu problema",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 11:52:45",
+      "delete" : false,
+      "identifier" : "CMXl+b8GIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 11:52:50",
+      "delete" : false,
+      "identifier" : "CMrl+b8GIABIAZABAA==",
+      "msg" : "Aguardo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 11:52:52",
+      "delete" : false,
+      "identifier" : "CMzl+b8GIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 12:00:00",
+      "delete" : false,
+      "identifier" : "CPjo+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verificamos aqui, e houve algum erro, seu acesso é o Desafio caverna que tem acesso apenas ao curso Modo-Caverna\nPara adquirir os outros cursos você precisa realizar a compra do Modo Caverna mensal ou anual",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 12:00:24",
+      "delete" : false,
+      "identifier" : "CJDp+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Se você desejar realizar a compra, posso enviar o link para você",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 12:34:53",
+      "delete" : false,
+      "mediaName" : "fc67be49-92d7-411d-ae51-6be407a273ab.jpg",
+      "localPath" : "media\/f8c81faa2dc587c03fb7ae77cc6686a421adbe93.jpg",
+      "mediaSize" : "80 KB",
+      "identifier" : "CKX5+b8GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/40fc4697013d6e5e35115fc1ab34805ff2e897a8"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 12:35:54",
+      "delete" : false,
+      "identifier" : "COL5+b8GIABIAZABAA==",
+      "msg" : "Não. Pode deixar.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 12:37:03",
+      "delete" : false,
+      "identifier" : "CKf6+b8GIABIAZABAA==",
+      "msg" : "Ótima semana pra vc",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 12:37:21",
+      "delete" : false,
+      "identifier" : "CLn6+b8GIABIAZABAA==",
+      "msg" : "Desculpe o incomodo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 12:37:28",
+      "delete" : false,
+      "identifier" : "CMD6+b8GIABIAZABAA==",
+      "msg" : "Obrigado pela atenção",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 13:18:09",
+      "delete" : false,
+      "identifier" : "CMmN+r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para aqueles que compraram o desafio caverna,  demos 7 dias de avaliação gratuita a todas as ferramentas do sistema.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 13:18:31",
+      "delete" : false,
+      "identifier" : "CN+N+r8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer dúvida, estou a disposição",
+      "type" : "text"
+    }
+  ]
+})

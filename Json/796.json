@@ -1,0 +1,448 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 99222-1387",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 01:46:27",
+      "delete" : false,
+      "identifier" : "CKvJ978GIABIAJABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 01:46:36",
+      "delete" : false,
+      "identifier" : "CLTJ978GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 01:46:42",
+      "delete" : false,
+      "identifier" : "CLrJ978GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 01:46:48",
+      "delete" : false,
+      "identifier" : "CMDJ978GIABIAJABAA==",
+      "msg" : "mariane",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 01:46:55",
+      "delete" : false,
+      "identifier" : "CMfJ978GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *mariane*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 01:47:01",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM3J978GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 01:47:11",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNfJ978GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 01:47:18",
+      "delete" : false,
+      "identifier" : "CN7J978GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre o Modo Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 01:47:23",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COPJ978GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 01:47:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com dificuldade em uma das seções",
+      "delete" : false,
+      "identifier" : "CPvJ978GIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 01:47:49",
+      "delete" : false,
+      "identifier" : "CP3J978GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Certo!* Me conta aqui qual a sua dúvida, se puder me mande uma captura de tela para eu possa te auxiliar! 😊\n\nLembrando que nosso horário de atendimento é de:\n- Segunda à Sexta das 08:00 às 12:00 e das 14:00 às 18:00\n- Aos Sábados das 08:00 às 12:00\n\nCaso sua mensagem seja enviada fora desse horário, aguarde pelo atendimento.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 01:50:11",
+      "delete" : false,
+      "identifier" : "CIvL978GIABIAJABAA==",
+      "msg" : "Não consigo entrar no site modo caverna depois que ocorreu a atualização. Sempre aparece a mensagem senha ou e-mail incorretos. Redefini a senha várias vezes e sempre aparece a mesma mensagem",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 01:50:33",
+      "delete" : false,
+      "mediaName" : "97d01e41-9b89-4258-abfd-a1aa4119ba3c.jpg",
+      "localPath" : "media\/29b0b177734e34865d980f3a6981b4d8209ef628.jpg",
+      "mediaSize" : "111 KB",
+      "identifier" : "CKHL978GIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/4bc0a125bf1454c961317a53442da9921e3daf45"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 08:57:15",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CKOT+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/15 09:01:10",
+      "delete" : false,
+      "identifier" : "CI6V+b8GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Lembrando que todos os dados inseridos no sistema de teste foram excluídos, por ser um link para testar o novo sistema.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/15 22:58:16",
+      "delete" : false,
+      "identifier" : "CMCd\/L8GIABIAJABAA==",
+      "msg" : "Boa noite, Brenda! Consegui acessar apenas no celular pelo computador ainda aparece o mesmo erro de login.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 15:24:56",
+      "delete" : false,
+      "identifier" : "CIDs\/78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 15:25:15",
+      "delete" : false,
+      "identifier" : "CJPs\/78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Consegue me encaminhar seu email para eu averiguar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 15:33:37",
+      "delete" : false,
+      "identifier" : "CInw\/78GIABIAZABAA==",
+      "msg" : "marianesancarvalho@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 15:37:48",
+      "delete" : false,
+      "identifier" : "CITy\/78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Estarei encaminhando para o time de desenvolvimento para averiguar, peço que aguarde um tempo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 15:57:49",
+      "delete" : false,
+      "identifier" : "CLX7\/78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Mariana, nosso time de dev's conferiu sua conta e viu que estava tudo certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 15:58:04",
+      "delete" : false,
+      "identifier" : "CMT7\/78GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Consegue testar e enviar um vídeo para gente do erro?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 16:14:48",
+      "delete" : false,
+      "identifier" : "CLCDgMAGIABIAJABAA==",
+      "msg" : "sim,",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/16 16:15:13",
+      "delete" : false,
+      "mediaName" : "c94d4b46-9c7a-45f8-b7d8-89db674712d7.mp4",
+      "localPath" : "media\/f737cd7600c63b6ca506f564fb5b162b03074344.mp4",
+      "mediaSize" : "3,8 MB",
+      "identifier" : "CMmDgMAGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/7f4a72f821edde34b770d916d71025ba8e1e5864"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/16 16:47:55",
+      "delete" : false,
+      "identifier" : "CPOSgMAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Aperta em \"Esqueci a senha\" e realiza o processo de recuperação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:03:09",
+      "delete" : false,
+      "mediaName" : "2e63b209-1a2e-45ed-af81-77b14bba88bf.mp4",
+      "localPath" : "media\/cce23ac9ecf453dc8833c81c03cb77d3f2128120.mp4",
+      "mediaSize" : "13,8 MB",
+      "identifier" : "COWEhcAGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/115eef5f7a0613379a7badaf38dab9ec4af41617"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:03:10",
+      "delete" : false,
+      "identifier" : "COaEhcAGIABIAZABAA==",
+      "msg" : "Boa tarde !\nA senha foi redefinida e o erro persiste .",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:06:01",
+      "delete" : false,
+      "mediaName" : "6dfdc08b-c401-4fb3-81e9-3ed7b13f84d1.opus",
+      "localPath" : "media\/4404a0e8388d962689933e4d7572cfad7484452f.opus",
+      "mediaSize" : "374 KB",
+      "identifier" : "CJGGhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "01:02"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:13:22",
+      "delete" : false,
+      "mediaName" : "7cb420b3-cdcb-4118-b7d5-097ad986cd3f.jpg",
+      "localPath" : "media\/0f835982c8af0af69778cb6d84e432871c81227e.jpg",
+      "mediaSize" : "100 KB",
+      "identifier" : "CMqJhcAGIAA6IDdCNjk0OEE4ODZFNUUwRUQyNjQ2MEU4OUVERDg5OURFQIiH1afkMkgBeLKoi7bkMpABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/2d30a43b919646cbccd910c992fb9f869c11ee95"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:16:10",
+      "delete" : false,
+      "mediaName" : "36fa1396-6234-45fc-8ed4-a5b735332e1c.opus",
+      "localPath" : "media\/a973e3eba9de4056070040e5f6799b406a376861.opus",
+      "mediaSize" : "139 KB",
+      "identifier" : "CPKKhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:21:29",
+      "delete" : false,
+      "identifier" : "CLGNhcAGIABIAZABAA==",
+      "msg" : "Negativo,  eu estou recebendo todas as mensagens  referente ao aplicativo desde o dia 9 inclusive recebi ontem esta que eu enviei o print",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:21:59",
+      "delete" : false,
+      "mediaName" : "ed0f644d-7c98-4009-ac6b-36f2b95f5abb.opus",
+      "localPath" : "media\/923633384a69a8f5ffdf2af0456f241cd1f12a08.opus",
+      "mediaSize" : "130 KB",
+      "identifier" : "CM+NhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:22:54",
+      "delete" : false,
+      "mediaName" : "9ba39ac3-c753-48b0-9ba6-68e292d4693a.opus",
+      "localPath" : "media\/1a32babc7cd8e52de448eb146a18de0341b39670.opus",
+      "mediaSize" : "247 KB",
+      "identifier" : "CIaOhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:40"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:22:58",
+      "delete" : false,
+      "identifier" : "CIqOhcAGIABIAZABAA==",
+      "msg" : "Como vende um.produto no dia 13 com a oferta se foi ofertado no dia 9 ?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:24:05",
+      "delete" : false,
+      "mediaName" : "12e5ee5c-2e77-4825-a616-b16ee1511880.opus",
+      "localPath" : "media\/559b2458df825da5231873503fd39ed50c29ec48.opus",
+      "mediaSize" : "231 KB",
+      "identifier" : "CM2OhcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:36"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:24:10",
+      "delete" : false,
+      "identifier" : "CNKOhcAGIABIAZABAA==",
+      "msg" : "Negativo, eu realizei a compra justamente por causa do app e eu tenho salvo no meu emial e nos meu whats. Diante disso devo pedir o estorno em qual lugar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 15:25:16",
+      "delete" : false,
+      "identifier" : "CJSPhcAGIABIAZABAA==",
+      "msg" : "Desculpe não é  isso que diz o código  do consumidor . Devo aguardar o estorno aqui ou recorrer a outros meios jurídicos?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 15:53:54",
+      "delete" : false,
+      "mediaName" : "4ec6499e-2b84-4828-a5bb-54a2ddbcb3f0.opus",
+      "localPath" : "media\/c36eb8edb491353513df6859159192f0624084fb.opus",
+      "mediaSize" : "112 KB",
+      "identifier" : "CMqchcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:19"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 17:11:21",
+      "delete" : false,
+      "identifier" : "CPHAhcAGIABIAZABAA==",
+      "msg" : "Mas o meu aplicativo no celular funciona... \nO que eu queria era conseguir entrar pelo computador porque eu acho a visualização melhor...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 17:11:42",
+      "delete" : false,
+      "identifier" : "CIbBhcAGIABIAZABAA==",
+      "msg" : "Eu consigo usar o aplicativo eu só não consigo entrar no computador",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/17 17:46:45",
+      "delete" : false,
+      "identifier" : "CL3RhcAGIAA6IDRFNTdGMEFDOTcyNTA0NTc4NjZEQzRDQkQ0ODEyQzQ3QMzEo6zkMkgBeK\/si7bkMpABAA==",
+      "msg" : "Ah deixa para lá....\nVou ficar só com o app e com os  e-books. A minha intenção era acessar pelo computador para eu conhecer melhor as funcionalidades porque pelo aplicativo eu não me adaptei.  E então posteriormente tendo uma visão mais ampla eu iria  fazer o  upgrade para o cavernoso, porque realmente eu achei a proposta interessante. Mas eu não consigo acessar pelo computador e eu não gosto de papel e nem de aplicativo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/17 23:47:19",
+      "delete" : false,
+      "identifier" : "CL\/6hsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Boa noite tudo bem? Consegue Me informar o motivo de não conseguir acessar pelo computador? Qual o erro apresentado?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/18 09:30:12",
+      "delete" : false,
+      "identifier" : "CNyLicAGIABIAZABAA==",
+      "msg" : "Bom dia! \nO erro informa que a senha e\/ ou e-mail estão incorretos. Redefini a senha várias vezes e testei em outros navegadores.  Consigo acessar pelo aplicativo com o mesmo login e senha que no computador informa erro.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:04:24",
+      "delete" : false,
+      "identifier" : "COC+jsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/19 10:04:44",
+      "delete" : false,
+      "identifier" : "CPS+jsAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "passei sua solicitação para os desenvolvedores",
+      "type" : "text"
+    }
+  ]
+})

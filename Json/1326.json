@@ -1,0 +1,102 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 31 98459-6453",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 02:40:08",
+      "delete" : false,
+      "identifier" : "CMDOkrwGIABIAZABAA==",
+      "msg" : "Quero ganhar indicando a Central Caverna",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 09:58:07",
+      "delete" : false,
+      "identifier" : "COeblLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, tudo bem?\nAqui é a Bruna. Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 09:58:27",
+      "delete" : false,
+      "identifier" : "CPublLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você já tem algum plano ativo do Modo Caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 16:28:54",
+      "delete" : false,
+      "identifier" : "CP7SlbwGIABIAZABAA==",
+      "msg" : "Oi, Bru! Tenho sim. Meu e-mail de compra foi:\n\n contatogcruz@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 16:53:11",
+      "delete" : false,
+      "mediaName" : "e7500c53-3b11-45aa-92b6-b483d7484061.opus",
+      "localPath" : "media\/093bf764d4a93352359045ef98b1660cae0a3657.opus",
+      "mediaSize" : "15 KB",
+      "identifier" : "CK\/elbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:08"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 17:04:59",
+      "delete" : false,
+      "identifier" : "CPPjlbwGIABIAZABAA==",
+      "msg" : "Tem material pra afiliado? Qual o link de afiliação?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 08:59:09",
+      "delete" : false,
+      "identifier" : "CJWjmbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 08:59:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "CJmjmbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 08:59:49",
+      "delete" : false,
+      "identifier" : "CL2jmbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Nesse link que te mandei mostra como encontrar o link de afiliado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/14 09:00:09",
+      "delete" : false,
+      "identifier" : "CNGjmbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Os materiais e aulas estão dentro do Indique e ganhe na plataforma",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,107 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 99994-0287",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/06 22:36:14",
+      "delete" : false,
+      "identifier" : "CJbJrMMGIABIAZABAA==",
+      "msg" : "Ola",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/06 22:36:35",
+      "delete" : false,
+      "identifier" : "CKvJrMMGIABIAZABAA==",
+      "msg" : "Foi feito uma renovação automática de vocês no meu cartão dia 06\/07 e não foi atualizado. Quero a devolução",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/07 14:12:50",
+      "delete" : false,
+      "identifier" : "CJqAsMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Vinycius!Tudo bem?\nMe informa seu email, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/07 15:07:11",
+      "delete" : false,
+      "identifier" : "CNeZsMMGIABIAZABAA==",
+      "msg" : "Vinyciusdecampos@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/07 15:21:59",
+      "delete" : false,
+      "identifier" : "CM+gsMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Acabei de localizar sua compra aqui, você não tem interesse em continuar com sua assinatura? Aprimoramos o nosso aplicativo e implementamos novas funções!\nAinda assim sua renovação permanece por R$147, quase 50% do valor que o plano está atualmente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/07 15:25:03",
+      "delete" : false,
+      "identifier" : "CIeisMMGIABIAZABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/07 15:25:05",
+      "delete" : false,
+      "identifier" : "CImisMMGIABIAZABAA==",
+      "msg" : "Obrigado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/07 15:32:27",
+      "delete" : false,
+      "identifier" : "CMOlsMMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendo, você não utiliza mais o nosso sistema?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 12:19:48",
+      "delete" : false,
+      "identifier" : "CJyp5MMGIABIAZABAA==",
+      "msg" : "Não",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/17 12:20:04",
+      "delete" : false,
+      "identifier" : "CKyp5MMGIABIAZABAA==",
+      "msg" : "Fizeram o estorno? Não veio pra mim nenhuma confirmação sobre",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/17 13:38:33",
+      "delete" : false,
+      "identifier" : "CJHO5MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você precisa localizar o e-mail de compra aprovada que você recebeu, lá no rodapé, terá a opção de solicitar o reembolso",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,129 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 99944-0527",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 06:16:59",
+      "delete" : false,
+      "identifier" : "CJOtw8MGIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 06:17:07",
+      "delete" : false,
+      "identifier" : "CJutw8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 06:17:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CJytw8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 06:17:14",
+      "delete" : false,
+      "identifier" : "CKKtw8MGIABIAJABAA==",
+      "msg" : "Como reativar minha assinatura",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 06:17:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CLKtw8MGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 06:18:19",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ Loja Caverna",
+      "delete" : false,
+      "identifier" : "COOtw8MGIABIAJABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 08:24:05",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ Loja Caverna",
+      "delete" : false,
+      "identifier" : "CN3ow8MGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 15:10:46",
+      "delete" : false,
+      "identifier" : "CK6nxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Alexandre! Tudo bem? Em que posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 15:13:06",
+      "delete" : false,
+      "identifier" : "CLqoxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me passa seu e-mail, por gentileza!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 15:39:18",
+      "delete" : false,
+      "identifier" : "CN60xcMGIABIAZABAA==",
+      "msg" : "alexxmesquita@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:12:25",
+      "delete" : false,
+      "identifier" : "CKHExcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Certo, qual problema você está tendo?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 16:23:12",
+      "delete" : false,
+      "identifier" : "CKjJxcMGIABIAZABAA==",
+      "msg" : "Sem acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 16:23:47",
+      "delete" : false,
+      "identifier" : "CMvJxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Consegue me enviar uma imagem para que eu possa visualizar?",
+      "type" : "text"
+    }
+  ]
+})

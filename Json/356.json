@@ -1,0 +1,81 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 49 99954-7279",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/01 21:36:02",
+      "delete" : false,
+      "identifier" : "CPr9kcMGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/01 21:36:11",
+      "delete" : false,
+      "identifier" : "CIP+kcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/01 21:36:13",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIX+kcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/01 21:36:20",
+      "delete" : false,
+      "identifier" : "CIz+kcMGIABIAZABAA==",
+      "msg" : "Eu adquiri o conteúdo do modo caverna mas n lembro de onde faço para acessar os ebooks",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/01 21:36:42",
+      "delete" : false,
+      "identifier" : "CKL+kcMGIABIAZABAA==",
+      "msg" : "Nome Weslei Joaquim Duarte Corrêa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/01 21:36:50",
+      "delete" : false,
+      "identifier" : "CKr+kcMGIABIAZABAA==",
+      "msg" : "Email wesleipbzin@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/02 17:53:45",
+      "delete" : false,
+      "identifier" : "COG4lsMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Fala, Cavernoso! Vamos esclarecer isso.\n\nO Modo Caverna não utiliza eBooks ou PDFs. Todo o conteúdo está disponível em vídeo diretamente na plataforma. Para acessar, siga estes passos:\n\nEntre na Plataforma: Acesse o site do Modo Caverna.\nLogin: Faça login com suas credenciais.\nAcesse o Curso: Navegue até a seção do curso completo, onde você encontrará todas as aulas em vídeo.\nSe precisar de mais ajuda ou tiver dúvidas sobre como navegar, estou aqui para te guiar! Vamos em frente!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/02 17:55:06",
+      "delete" : false,
+      "identifier" : "CLK5lsMGIABIAZABAA==",
+      "msg" : "Ok obg",
+      "type" : "text"
+    }
+  ]
+})

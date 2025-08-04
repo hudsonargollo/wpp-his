@@ -1,0 +1,41 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 97152-0083",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/24 11:36:15",
+      "delete" : false,
+      "identifier" : "COeYqcAGIABIAZABAA==",
+      "msg" : "Essa página de vendas pra mim n aparece",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/24 11:51:59",
+      "delete" : false,
+      "mediaName" : "cc4bc745-3430-4614-baab-9acef66ac541.opus",
+      "localPath" : "media\/dc7c15bf354632547e5403a21092eaa44dc95715.opus",
+      "mediaSize" : "142 KB",
+      "identifier" : "CJegqcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/24 11:54:20",
+      "delete" : false,
+      "mediaName" : "efb12e51-e4ea-48ea-947e-482d1920f23b.opus",
+      "localPath" : "media\/b5ee5303293da2525a9edf02d643533515c22fa0.opus",
+      "mediaSize" : "835 KB",
+      "identifier" : "CKShqcAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "02:19"
+    }
+  ]
+})

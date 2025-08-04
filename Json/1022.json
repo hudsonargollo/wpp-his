@@ -1,0 +1,65 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 17 99661-9479",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 19:12:07",
+      "delete" : false,
+      "identifier" : "CL+7qL4GIABIAZABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 19:12:17",
+      "delete" : false,
+      "identifier" : "CMm7qL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/06 19:12:23",
+      "delete" : false,
+      "identifier" : "CM+7qL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 19:13:06",
+      "delete" : false,
+      "identifier" : "CPq7qL4GIABIAZABAA==",
+      "msg" : "Não consegui pegar um dos e-books",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/06 19:13:20",
+      "delete" : false,
+      "identifier" : "CIi8qL4GIABIAZABAA==",
+      "msg" : "O dos mandamentos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/07 08:59:56",
+      "delete" : false,
+      "mediaName" : "OS-MANDAMENTOS-CAVERNA-2.pdf",
+      "localPath" : "media\/eaee54dd72ed7114a9361daa9233125658d6fd21.pdf",
+      "mediaSize" : "27,1 MB",
+      "identifier" : "CMS\/q74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/8bce20485f08f59309f496fd9117d7fb29c62174"
+    }
+  ]
+})

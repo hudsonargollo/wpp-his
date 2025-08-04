@@ -1,0 +1,122 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 91042-3713",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 12:15:00",
+      "delete" : false,
+      "identifier" : "CPyJ9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:15:14",
+      "delete" : false,
+      "identifier" : "CIqK9bsGIABIAZABAA==",
+      "msg" : "Claro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:15:43",
+      "delete" : false,
+      "identifier" : "CKeK9bsGIABIAZABAA==",
+      "msg" : "Se passaram 3 dias e apenas 1 aula foi liberada, que não agregou tanto quanto o esperado.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:15:58",
+      "delete" : false,
+      "identifier" : "CLaK9bsGIABIAZABAA==",
+      "msg" : "A aula introdutória",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/07 12:18:04",
+      "delete" : false,
+      "identifier" : "CLSL9bsGIABIAZABAA==",
+      "msg" : "E qualquer tiração de \"dúvidas\", o levam para um produto com ticket maior... Qual está sendo muito forçado e não atendendo a minha necessidade e curiosidade das outras aulas.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 13:05:41",
+      "delete" : false,
+      "mediaName" : "e32d7a89-5f98-4456-9bdb-f2cd3a8370f7.opus",
+      "localPath" : "media\/7adc5d28dc8210e3b36c3bfd858ff6b766e739d7.opus",
+      "mediaSize" : "28 KB",
+      "identifier" : "CN2h9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/07 13:06:01",
+      "delete" : false,
+      "mediaName" : "78258372-b352-468e-a7d8-7e051995898b.opus",
+      "localPath" : "media\/cdb88160cb6e00c20dd4f821f6ceb1c53a159f89.opus",
+      "mediaSize" : "34 KB",
+      "identifier" : "CPGh9bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/08 10:09:52",
+      "delete" : false,
+      "identifier" : "CKjy+bsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem?\nRecebi sua solicitação de reembolso, e como parte de nossa política de tratativa, aguardamos um período de 24 horas para receber uma resposta antes de dar continuidade ao processo. Como não tivemos retorno desde nossa última conversa, consideramos que você optou por não seguir com o reembolso, e por isso o processo foi suspenso temporariamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/08 20:58:46",
+      "delete" : false,
+      "identifier" : "CL6i\/LsGIABIAZABAA==",
+      "msg" : "Olá, agradeço pela atenção. Acabei esquecendo de responder",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/08 20:59:13",
+      "delete" : false,
+      "identifier" : "CNmi\/LsGIABIAZABAA==",
+      "msg" : "Agr que entendi melhor, irei fazer conforme vc disse nos áudios.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/08 20:59:23",
+      "delete" : false,
+      "identifier" : "COOi\/LsGIABIAZABAA==",
+      "msg" : "Agradeço pelo suporte.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/09 07:38:47",
+      "delete" : false,
+      "identifier" : "CMDO\/rsGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAQ==",
+      "msg" : "Disponha, qualquer dúvida estamos à disposição.",
+      "type" : "text"
+    }
+  ]
+})

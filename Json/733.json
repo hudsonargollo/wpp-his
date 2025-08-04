@@ -1,0 +1,123 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 41 99949-6104",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/30 12:52:29",
+      "delete" : false,
+      "identifier" : "CMWOycAGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/30 12:52:34",
+      "delete" : false,
+      "identifier" : "CMqOycAGIABIAZABAA==",
+      "msg" : "Realizei a compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/30 12:52:39",
+      "delete" : false,
+      "identifier" : "CM+OycAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/30 12:52:39",
+      "delete" : false,
+      "identifier" : "CM+OycAGIABIAZABAA==",
+      "msg" : "E não consigo acessar o site",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/30 12:52:40",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNCOycAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/30 12:52:47",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CNeOycAGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/30 12:59:39",
+      "delete" : false,
+      "identifier" : "CPORycAGIABIAZABAA==",
+      "msg" : "Realizei a compra",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/30 12:59:43",
+      "delete" : false,
+      "identifier" : "CPeRycAGIABIAZABAA==",
+      "msg" : "E não consigo acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/30 13:00:00",
+      "delete" : false,
+      "mediaName" : "001a4ad7-9e82-467b-996e-b6467381c15a.jpg",
+      "localPath" : "media\/3892899b84a24f9492b0610c7691e7fe4b1baad3.jpg",
+      "mediaSize" : "105 KB",
+      "identifier" : "CIiSycAGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/5d9737e21f9e1f704fe00fa27c54ec788ddd04d7"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/30 17:34:07",
+      "delete" : false,
+      "identifier" : "CMeSysAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem com você?\n\nSinto muito pelo transtorno, vou te ajudar com o acesso aos cursos e conteúdos.\n\nQual o seu email de compra?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/04\/30 17:36:00",
+      "delete" : false,
+      "identifier" : "CLiTysAGIABIAZABAA==",
+      "msg" : "joaop_siqueira@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/04\/30 17:38:21",
+      "mediaSize" : "3 KB",
+      "mediaName" : "4611abed-f0ea-47cc-aa45-094ab27e0160.thumb",
+      "localPath" : "media\/79738f1f4afdad4eca0d8aef960b325f4488cb64.thumb",
+      "delete" : false,
+      "identifier" : "CMWUysAGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

@@ -1,0 +1,81 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 99906-0239",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 10:05:49",
+      "delete" : false,
+      "identifier" : "CLWK9bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 10:06:39",
+      "delete" : false,
+      "identifier" : "COeK9bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vi que você entrou em contato pelo email relatando que não recebeu os ebooks, correto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 10:11:35",
+      "delete" : false,
+      "identifier" : "CI+N9bcGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 10:11:46",
+      "delete" : false,
+      "identifier" : "CJqN9bcGIABIAZABAA==",
+      "msg" : "Nem o ebook e neon o acesso da ferramenta",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/02 10:11:50",
+      "delete" : false,
+      "identifier" : "CJ6N9bcGIABIAZABAA==",
+      "msg" : "E nem área de membros na",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 10:12:45",
+      "delete" : false,
+      "identifier" : "CNWN9bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou te mandar aqui ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 10:13:00",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Unknown",
+      "delete" : false,
+      "identifier" : "COSN9bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/02 10:13:26",
+      "delete" : false,
+      "identifier" : "CP6N9bcGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Caso tenha alguma dúvida ou dificuldade, pode me mandar mensagem!",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,145 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 87 99917-3300",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 10:14:12",
+      "delete" : false,
+      "identifier" : "CKy0qLkGIABIAZABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 10:15:04",
+      "delete" : false,
+      "mediaName" : "bdedbd0c-ce7e-4619-a3f3-4459aa4c6116.opus",
+      "localPath" : "media\/743e29f98c225148e5c185a1c44a0b0bb118c3b7.opus",
+      "mediaSize" : "97 KB",
+      "identifier" : "COC0qLkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:43"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 10:16:11",
+      "delete" : false,
+      "mediaName" : "e2dd5d90-cd5e-46e2-98cd-3441eddcbd9f.opus",
+      "localPath" : "media\/476a74953a6a65affe67834ad49cca170e3a60fa.opus",
+      "mediaSize" : "64 KB",
+      "identifier" : "CKO1qLkGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:29"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 10:16:31",
+      "delete" : false,
+      "identifier" : "CLe1qLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Iuri Meira.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.\n\nNosso atendimento é de:\n*Segunda a Sexta, das 9h às 12h e das 14h às 18h;*\n*Aos Sábados das 9h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 10:16:37",
+      "delete" : false,
+      "identifier" : "CL21qLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Antes de começar o atendimento, qual é seu primeiro nome?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 10:16:58",
+      "delete" : false,
+      "identifier" : "CNK1qLkGIABIAZABAA==",
+      "msg" : "Maicon Cauã",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 10:17:04",
+      "delete" : false,
+      "identifier" : "CNi1qLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito, *Maicon Cauã*!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 10:17:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CN61qLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 10:17:18",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Central Caverna",
+      "delete" : false,
+      "identifier" : "COa1qLkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 10:17:25",
+      "delete" : false,
+      "identifier" : "CO21qLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Entendi perfeitamente! ✅\nSeu atendimento é sobre a Central Caverna, vamos continuar...",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 10:17:30",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CPK1qLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/11\/05 10:17:46",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Quero deixar uma sugestão!",
+      "delete" : false,
+      "identifier" : "CIK2qLkGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 10:17:48",
+      "delete" : false,
+      "identifier" : "CIS2qLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ficamos muito felizes em receber sua sugestão para otimizar ainda mais nossa plataforma 🤩\n\nRegistre-a no formulário abaixo ⬇️\nhttps:\/\/bit.ly\/sugestoescentral",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/05 10:17:49",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CIW2qLkGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    }
+  ]
+})

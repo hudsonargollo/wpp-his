@@ -1,0 +1,86 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 99542-3848",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/14 20:33:14",
+      "delete" : false,
+      "identifier" : "CMLUtrgGIABIAJABAA==",
+      "msg" : "Olá, sou cliente dos produtos do Iuri e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/14 20:33:39",
+      "delete" : false,
+      "identifier" : "CNvUtrgGIABIAJABAA==",
+      "msg" : "Boa noite! Estou sem acesso ao curso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/14 20:33:50",
+      "delete" : false,
+      "identifier" : "CObUtrgGIABIAJABAA==",
+      "msg" : "Meu email - pedrohhenrique222@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/14 20:34:13",
+      "delete" : false,
+      "identifier" : "CP3UtrgGIABIAJABAA==",
+      "msg" : "Uma dúvida, por que colocar um numero de whatsapp que ninguem responde para solucionar o meu problema!?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/14 20:34:38",
+      "delete" : false,
+      "mediaName" : "de351e67-edfa-4b92-bf60-aa6726983174.jpg",
+      "localPath" : "media\/76f7c379d2624a66f5ebeab84b61c76afc1f1169.jpg",
+      "mediaSize" : "177 KB",
+      "identifier" : "CJbVtrgGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/cadfff5d881349a5c5fd3d83d9f506d6e4b0720e"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/10\/14 20:35:48",
+      "delete" : false,
+      "mediaName" : "740c8de9-f280-41fc-90d1-1b0ec79e3f77.jpg",
+      "localPath" : "media\/cdc3a49e1a33d68eb2a1ea591a3edb7e4a7f2d63.jpg",
+      "mediaSize" : "34 KB",
+      "identifier" : "CNzVtrgGIABIAJABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/412414b7eb2eb2b8074d8da3e25a19c1c42c479e"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 09:11:48",
+      "delete" : false,
+      "identifier" : "CIy4ubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Tudo bem? 😉\nMe chamo Bruna! Sou do Time do suporte do Iuri Meira. Estou aqui para te ajudar da melhor maneira possível! 🤩🤩",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/10\/15 09:12:16",
+      "delete" : false,
+      "identifier" : "CKi4ubgGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Pedro! Verifica novamente se já está tudo certo, por gentileza ☺️",
+      "type" : "text"
+    }
+  ]
+})

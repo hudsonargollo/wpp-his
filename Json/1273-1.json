@@ -1,0 +1,429 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 46 99985-5238",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 11:06:54",
+      "delete" : false,
+      "identifier" : "CIalpLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 11:07:02",
+      "delete" : false,
+      "identifier" : "CI6lpLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Perfeito!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 09:19:43",
+      "delete" : false,
+      "identifier" : "COf+uLwGIABIAZABAA==",
+      "msg" : "Olá, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 09:20:32",
+      "delete" : false,
+      "identifier" : "CJj\/uLwGIABIAZABAA==",
+      "msg" : "Acabei o módulo do clube da luta sobre fazer a pagina de vendas, aí o Iuri fala que tem um bônus que é um módulo só ensinando criar pagina",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 09:20:44",
+      "delete" : false,
+      "identifier" : "CKT\/uLwGIABIAZABAA==",
+      "msg" : "Mas não aparece para mim, consegue disponibilizar, por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:13:36",
+      "delete" : false,
+      "identifier" : "CJi0ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 11:13:58",
+      "delete" : false,
+      "identifier" : "CK60ubwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou verificar com a equipe, pois esse material estava na área de membros da Cademí",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 11:14:59",
+      "delete" : false,
+      "identifier" : "COu0ubwGIABIAZABAA==",
+      "msg" : "Pois é, que dai eu não consigo dar continuidade no curso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 13:47:25",
+      "delete" : false,
+      "identifier" : "CKX8ubwGIABIAZABAA==",
+      "msg" : "Olá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 13:47:30",
+      "delete" : false,
+      "identifier" : "CKr8ubwGIAA6FDNBRTlGMEI1NjI2QjhFNDdFNEQ2QOa+86TIMkgBeLu3sKfIMpABAA==",
+      "msg" : "Como consigo fazer?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 14:17:04",
+      "delete" : false,
+      "identifier" : "CJiKurwGIABIAZABAA==",
+      "msg" : "Gostaria de dar continuidade nas aulas",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:33:37",
+      "delete" : false,
+      "identifier" : "CImuurwGIABIAZABAA==",
+      "msg" : "Alguém?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 15:39:23",
+      "delete" : false,
+      "identifier" : "COOwurwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgADoUM0VCMDQzM0I2MzQxOEU1MDIxNzhApcOPqMgySAB4utCPqMgykAEA",
+      "msg" : "Esse bônus não está disponível mais.\nNo indique e ganhe tem uma aula ensinando sobre como fazer templates de página☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:43:30",
+      "delete" : false,
+      "identifier" : "CNqyurwGIABIAZABAA==",
+      "msg" : "Como assim?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:45:41",
+      "delete" : false,
+      "identifier" : "CN2zurwGIABIAZABAA==",
+      "msg" : "Mas como que vou fazer o curso se está incompleto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:49:36",
+      "delete" : false,
+      "identifier" : "CMi1urwGIABIAZABAA==",
+      "msg" : "La pede um código de afiliado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:49:45",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CNG1urwGIAA=",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 15:52:14",
+      "delete" : false,
+      "mediaName" : "aa7c75ac-b724-4b58-bee9-d1b7513ba75d.opus",
+      "localPath" : "media\/aa26adcccb63fd630bc64df88f5a0454de8fe3cc.opus",
+      "mediaSize" : "19 KB",
+      "identifier" : "COa2urwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:52:35",
+      "delete" : false,
+      "identifier" : "CPu2urwGIABIAZABAA==",
+      "msg" : "Mas eu não tenho conta na ticto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:52:42",
+      "delete" : false,
+      "identifier" : "CIK3urwGIABIAZABAA==",
+      "msg" : "Eu vi o vídeo no site",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:53:13",
+      "delete" : false,
+      "identifier" : "CKG3urwGIABIAZABAA==",
+      "msg" : "Mas isso é o essencial do curso não um bônus kkkk",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 15:54:22",
+      "delete" : false,
+      "identifier" : "COa3urwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Na verdade, para ter acesso as aulas no indique e ganhe você não precisa ter cadastro na ticto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 15:54:40",
+      "delete" : false,
+      "identifier" : "CPi3urwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Só precisaria se você quisesse se afiliar ao produto",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:54:58",
+      "delete" : false,
+      "identifier" : "CIq4urwGIABIAZABAA==",
+      "msg" : "Mas como faço?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:58:14",
+      "delete" : false,
+      "identifier" : "CM65urwGIABIAZABAA==",
+      "msg" : "E tenho acesso as aulas completas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 15:58:45",
+      "delete" : false,
+      "mediaName" : "2a13b189-8a85-43eb-9ca7-e817b9b30cda.jpg",
+      "localPath" : "media\/399fad8435cebd6686c866e6bae5f2f549e49960.jpg",
+      "mediaSize" : "120 KB",
+      "identifier" : "CO25urwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/312f18998251dab82936c000e9c1d7a82307c288"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 15:58:54",
+      "delete" : false,
+      "identifier" : "CPa5urwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Para você apararece assim, correto?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 15:59:18",
+      "delete" : false,
+      "identifier" : "CI66urwGIABIAZABAA==",
+      "msg" : "Isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 15:59:46",
+      "delete" : false,
+      "identifier" : "CKq6urwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "É só clicar nos módulos, você tem acesso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:01:13",
+      "delete" : false,
+      "mediaName" : "2597199b-08c9-47f0-bb69-e4dd0cafdeea.opus",
+      "localPath" : "media\/f57564a8abce3bd99734da964a9f16fbda644ad7.opus",
+      "mediaSize" : "13 KB",
+      "identifier" : "CIG7urwGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:05"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:01:51",
+      "delete" : false,
+      "identifier" : "CKe7urwGIABIAZABAA==",
+      "msg" : "Nesse caso, o módulo de criação de pagina é o venda no automático?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:03:00",
+      "delete" : false,
+      "mediaName" : "b85556b0-8d2e-45b8-a5e0-b06aedfcc115.jpg",
+      "localPath" : "media\/24b34bcb69c55a09f87248e14331332564e61a6f.jpg",
+      "mediaSize" : "97 KB",
+      "identifier" : "COy7urwGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/16e825093104dd85a9084a9da2a572415d58fadd"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:03:06",
+      "delete" : false,
+      "identifier" : "CPK7urwGIABIAZABAA==",
+      "msg" : "Da esse erro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 16:04:03",
+      "delete" : false,
+      "identifier" : "CKu8urwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tenta acessar pelo computador",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:04:51",
+      "delete" : false,
+      "identifier" : "CNu8urwGIABIAZABAA==",
+      "msg" : "Acessei pelo pc aqui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:05:05",
+      "delete" : false,
+      "identifier" : "COm8urwGIABIAZABAA==",
+      "msg" : "Consegue falar com o pessoal aí?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 16:11:39",
+      "delete" : false,
+      "identifier" : "CPO\/urwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Acessa por outro navegador por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:15:30",
+      "delete" : false,
+      "identifier" : "CNrBurwGIABIAZABAA==",
+      "msg" : "Hmm pelo edge deu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:16:10",
+      "delete" : false,
+      "identifier" : "CILCurwGIABIAZABAA==",
+      "msg" : "Só confirma pra mim por favor, ali no tutorial é onde teria as aulas ensinando a subir a pagina de vendas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 16:34:58",
+      "delete" : false,
+      "mediaName" : "0bbad688-57b6-4147-922b-630f07ca029e.opus",
+      "localPath" : "media\/6e81f486ee6e1f239b2b8387ff5cb2787e4c2ca8.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "COrKurwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:38:50",
+      "delete" : false,
+      "identifier" : "CNLMurwGIABIAZABAA==",
+      "msg" : "Iuri falou que vão subir alguns cursos hoje",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 16:39:54",
+      "delete" : false,
+      "identifier" : "CJLNurwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sim, iremos subir para a plataforma o curso de como criar sua página",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:40:04",
+      "delete" : false,
+      "identifier" : "CJzNurwGIABIAZABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/20 16:40:07",
+      "delete" : false,
+      "identifier" : "CJ\/NurwGIABIAZABAA==",
+      "msg" : "Legal",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/20 16:49:11",
+      "delete" : false,
+      "identifier" : "CL\/RurwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qualquer dúvida estamos à disposição ☺️",
+      "type" : "text"
+    }
+  ]
+})

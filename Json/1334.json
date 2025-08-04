@@ -1,0 +1,65 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 48 99157-2012",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:10:25",
+      "delete" : false,
+      "identifier" : "COnZlLwGIABIAJABAA==",
+      "msg" : "Olá, vim do Modo Caverna e desejo solicitar o cancelamento do meu plano",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 12:36:22",
+      "delete" : false,
+      "mediaName" : "466cc3ae-d2e3-4306-bacf-7fb13947c135.opus",
+      "localPath" : "media\/5c610faa04dea1614e119282d4de060dba92d9eb.opus",
+      "mediaSize" : "22 KB",
+      "identifier" : "CP7llLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:11"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:52:28",
+      "delete" : false,
+      "identifier" : "CMTtlLwGIABIAZABAA==",
+      "msg" : "isso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 12:52:36",
+      "delete" : false,
+      "identifier" : "CMztlLwGIABIAZABAA==",
+      "msg" : "guilherme.werlich777@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/13 13:13:11",
+      "delete" : false,
+      "identifier" : "CJ\/3lLwGIABIAJABAA==",
+      "msg" : "assim que for cancelada, vc consegue me dar um ok por aqui?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/13 13:31:57",
+      "delete" : false,
+      "identifier" : "CIWAlbwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O cancelamento foi realizado, você vai receber uma notificação por e-mail.",
+      "type" : "text"
+    }
+  ]
+})

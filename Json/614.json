@@ -1,0 +1,75 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 21 98299-7443",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 09:18:29",
+      "delete" : false,
+      "identifier" : "CJ3DrMEGIABIAJABAA==",
+      "msg" : "Fala Pessoal. Tenho dúvida sobre afiliação dos produtos do Iuri Meira.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 09:18:40",
+      "delete" : false,
+      "identifier" : "CKjDrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Você está no canal de suporte do Modo Caverna.* 🔺🐺\n\nNosso atendente virtual vai esclarecer suas dúvidas rapidamente.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 09:18:41",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CKnDrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 09:19:08",
+      "mediaSize" : "1 byte",
+      "mediaName" : "4️⃣ Programa de Afiliados",
+      "delete" : false,
+      "identifier" : "CMTDrMEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 09:19:10",
+      "mediaSize" : "1 byte",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CMbDrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/19 09:19:16",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Já sou afiliado e preciso de ajuda.*",
+      "delete" : false,
+      "identifier" : "CMzDrMEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/05\/19 09:19:19",
+      "delete" : false,
+      "identifier" : "CM\/DrMEGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "🛠️ _Para que eu possa te ajudar da melhor forma, por favor, me envie:_\n\n_1._ *Seu nome*\n2. *E-mail de compra*\n_3.*_ Descreva brevemente como posso te ajudar*",
+      "type" : "text"
+    }
+  ]
+})

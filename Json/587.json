@@ -1,0 +1,53 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 61 99570-9116",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/23 10:59:02",
+      "delete" : false,
+      "identifier" : "CK7+wcEGIABIAZABAA==",
+      "msg" : "Eu vou querer pegar o outro plano eu vi que tem 2 planos lá",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/23 10:59:09",
+      "delete" : false,
+      "identifier" : "CLX+wcEGIABIAZABAA==",
+      "msg" : "Cancela esse",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/23 10:59:16",
+      "delete" : false,
+      "identifier" : "CLz+wcEGIABIAZABAA==",
+      "msg" : "Que vou pegar o outro",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/23 11:21:59",
+      "delete" : false,
+      "identifier" : "CI+JwsEGIABIAJABAA==",
+      "msg" : "entendi, mas pode concluir o reembolso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/23 11:22:01",
+      "delete" : false,
+      "identifier" : "CJGJwsEGIABIAJABAA==",
+      "msg" : "por favor",
+      "type" : "text"
+    }
+  ]
+})

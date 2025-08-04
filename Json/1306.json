@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 85 99183-8157",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/15 14:48:31",
+      "delete" : false,
+      "identifier" : "CPfpn7wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá! Aqui é a Bruna, do time do Iuri Meira. 😁\nVi que você abriu um chamado na Ticto, e fico feliz em poder te ajudar. \nPoderia compartilhar comigo mais detalhes sobre o motivo pelo qual está solicitando o reembolso? 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:03:04",
+      "delete" : false,
+      "identifier" : "CICpoLwGIABIAJABAA==",
+      "msg" : "Boa tarde,  insatisfação mesmo!  Dentro oferece outras coisas e a forma de vender é indicando o próprio curso!  Agradeço contato, mas prefiro reembolso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:03:25",
+      "delete" : false,
+      "identifier" : "CJWpoLwGIABIAJABAA==",
+      "msg" : "Não pelo valor, mas pela expectativa que era outra mesmo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/15 17:03:29",
+      "delete" : false,
+      "identifier" : "CJmpoLwGIABIAJABAA==",
+      "msg" : "obrigada de qualquer forma",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/16 11:41:11",
+      "delete" : false,
+      "identifier" : "CI+1pLwGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Sua solicitação de reembolso foi aprovada, pode verificar e me confirmar, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/16 11:42:13",
+      "delete" : false,
+      "identifier" : "CM21pLwGIABIAZABAA==",
+      "msg" : "Confirmado",
+      "type" : "text"
+    }
+  ]
+})

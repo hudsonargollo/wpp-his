@@ -1,0 +1,74 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 77 98142-2346",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 17:10:34",
+      "delete" : false,
+      "identifier" : "CMLfxcMGIABIAJABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 17:11:11",
+      "delete" : false,
+      "identifier" : "COffxcMGIABIAJABAA==",
+      "msg" : "Foi descontado um valor no cartao, nao lembro de ter feito a assinatura a esse perfil recentemente",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 17:30:59",
+      "delete" : false,
+      "identifier" : "CIvpxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde! Tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 17:31:04",
+      "delete" : false,
+      "identifier" : "CJDpxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual seu e-mail, por gentileza",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 17:31:35",
+      "delete" : false,
+      "identifier" : "CK\/pxcMGIABIAJABAA==",
+      "msg" : "Jrmoveis.vc@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/11 17:32:25",
+      "delete" : false,
+      "mediaName" : "71a6f431-bf7c-442c-b371-b010b762f469.opus",
+      "localPath" : "media\/afb4a41d1ac33ac5ead8e43da7ac1d2ce9178b20.opus",
+      "mediaSize" : "106 KB",
+      "identifier" : "COHpxcMGIABIAJABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:48"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/11 17:35:30",
+      "delete" : false,
+      "identifier" : "CJrrxcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Isso mesmo, foi uma cobrança de renovação! Tenta utilizar e conhecer a plataforma, e nesse tempo, pode usar tudo no seu ritmo, inclusive com suporte pra te ajudar a adaptar o sistema à sua rotina. É uma excelente opção para organização e gestão pessoal. Esperamos que goste, qualquer dúvida, estaremos a disposição.",
+      "type" : "text"
+    }
+  ]
+})

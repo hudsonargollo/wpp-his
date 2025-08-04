@@ -1,0 +1,62 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 75 99127-0443",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 13:31:44",
+      "delete" : false,
+      "identifier" : "CPj3isMGIABIAJABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 13:31:54",
+      "delete" : false,
+      "identifier" : "CIL4isMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*Olá! Seja bem-vindo(a) ao suporte do Desafio Modo Caverna* 🔺🐺\n\nNosso atendimento é de:\n*Segunda a Sexta, das 8h às 12h e das 14h às 18h;*\n*Aos Sábados das 8h às 12h.*",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 13:32:00",
+      "delete" : false,
+      "identifier" : "CIj4isMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me diz aqui, como posso te ajudar?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 13:32:25",
+      "delete" : false,
+      "identifier" : "CKH4isMGIABIAZABAA==",
+      "msg" : "Quanto tá o modo caverna?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/30 13:32:29",
+      "delete" : false,
+      "identifier" : "CKX4isMGIABIAZABAA==",
+      "msg" : "O aplicativo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 14:32:48",
+      "delete" : false,
+      "identifier" : "CMiUi8MGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "O plano cavernoso custa 299,00 anual ou 49,00 mensal!\n\nSe te interessa, posso te ajudar a finalizar sua compra! 🐺",
+      "type" : "text"
+    }
+  ]
+})

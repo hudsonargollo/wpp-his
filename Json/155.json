@@ -1,0 +1,293 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 99806-0171",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 19:35:45",
+      "delete" : false,
+      "identifier" : "CMm2zsEGIABIAJABAA==",
+      "msg" : "boa noite, não estou conseguindo acessar ao curso modo caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 19:36:52",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ Aplicativo Modo Caverna",
+      "delete" : false,
+      "identifier" : "CIy3zsEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 19:37:39",
+      "mediaSize" : "1 byte",
+      "mediaName" : "1️⃣ *Modo Caverna: Desafio 40 Dias*",
+      "delete" : false,
+      "identifier" : "CLu3zsEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 19:38:02",
+      "delete" : false,
+      "identifier" : "CNK3zsEGIABIAZABAA==",
+      "msg" : "Layla Ticiane Nascimento Sousa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 19:38:16",
+      "delete" : false,
+      "identifier" : "COC3zsEGIABIAZABAA==",
+      "msg" : "laylaticiaestudo@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/05\/25 19:38:21",
+      "mediaSize" : "1 byte",
+      "mediaName" : "Estou com problema para acessar o aplicativo",
+      "delete" : false,
+      "identifier" : "COW3zsEGIABIAZABAA==",
+      "type" : "file"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/20 08:09:32",
+      "delete" : false,
+      "identifier" : "CPSc88MGIABIAZABAA==",
+      "msg" : "Não estou conseguindo acessar o app",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/20 08:10:04",
+      "delete" : false,
+      "identifier" : "CJSd88MGIABIAZABAA==",
+      "msg" : "Bom dia!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/20 08:10:15",
+      "delete" : false,
+      "identifier" : "CJ+d88MGIABIAZABAA==",
+      "msg" : "Só fica carregando e não aparece nada",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/21 08:55:00",
+      "delete" : false,
+      "identifier" : "CJzV+MMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? Você tentou acessar de um outro navegador? Sugerimos que seja o edge para melhor desempenho",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 20:07:05",
+      "delete" : false,
+      "identifier" : "CKGzgMQGIABIAZABAA==",
+      "msg" : "Olá, também não consegui",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/22 20:11:06",
+      "delete" : false,
+      "mediaName" : "662ecb93-cd59-4c7e-ae01-f8d46e446415.jpg",
+      "localPath" : "media\/20b790133f982eeed2fbff48641a2b61b48731d1.jpg",
+      "mediaSize" : "654 KB",
+      "identifier" : "CJK1gMQGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/56f1d9a55036a5739671c2d59a1ba9370d75855d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 08:39:05",
+      "delete" : false,
+      "identifier" : "COGTg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? Qual navegador você está usando? ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 08:40:10",
+      "delete" : false,
+      "identifier" : "CKKUg8QGIABIAZABAA==",
+      "msg" : "Bom dia, eu sempre usei no Google Chrome, mas fiz o teste no Edge como pediram e também não foi.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 08:43:17",
+      "delete" : false,
+      "identifier" : "CN2Vg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Humm, vou estar passando para nosso desenvolvedor. Me passa seu e-mail, por favor? ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 08:44:30",
+      "delete" : false,
+      "identifier" : "CKaWg8QGIABIAZABAA==",
+      "msg" : "laylaticianestudo@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 08:49:11",
+      "delete" : false,
+      "identifier" : "CL+Yg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "ok. Obrigada! Assim que tivermos um retorno, te informo. Mas peço que sempre que for utilizar, que seja pelo edge, tá? Ele tem melhor desempenho.\n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 08:49:50",
+      "delete" : false,
+      "identifier" : "COaYg8QGIABIAZABAA==",
+      "msg" : "Tudo bem, usarei ele.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 08:52:54",
+      "delete" : false,
+      "identifier" : "CJ6ag8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Obrigada! ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 09:49:59",
+      "delete" : false,
+      "identifier" : "CP+0g8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olha, para nós tudo está funcionando normalmente em diversos aparelhos e dispositivos. Pode ser problema de conexão da sua rede.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 09:51:55",
+      "delete" : false,
+      "identifier" : "CPO1g8QGIABIAZABAA==",
+      "msg" : "Não é, é só quando acesso a plataforma que não funciona.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 09:54:24",
+      "delete" : false,
+      "identifier" : "CIi3g8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "tenta limpar o cache do seu navegador, por favor\n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:08:44",
+      "delete" : false,
+      "identifier" : "COS9g8QGIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:23:35",
+      "delete" : false,
+      "identifier" : "CN\/Eg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "deu certo? \n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:24:16",
+      "delete" : false,
+      "identifier" : "CIjFg8QGIABIAZABAA==",
+      "msg" : "Agora sim 🙏",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:24:23",
+      "delete" : false,
+      "identifier" : "CI\/Fg8QGIABIAZABAA==",
+      "msg" : "Muito obrigada pela atenção",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:24:31",
+      "delete" : false,
+      "identifier" : "CJfFg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "ótimo! te ajudo em algo mais? \n",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:24:47",
+      "delete" : false,
+      "identifier" : "CKfFg8QGIABIAZABAA==",
+      "msg" : "Não, não! Era só isso mesmo.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:25:06",
+      "delete" : false,
+      "identifier" : "CLrFg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "perfeito, tenha um ótimo dia! ",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/23 10:25:13",
+      "delete" : false,
+      "identifier" : "CMHFg8QGIABIAZABAA==",
+      "msg" : "Igualmente!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/23 10:25:23",
+      "delete" : false,
+      "identifier" : "CMvFg8QGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Obrigada!\n",
+      "type" : "text"
+    }
+  ]
+})

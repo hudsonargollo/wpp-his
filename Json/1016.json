@@ -1,0 +1,861 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "Giselle Afiliada",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:01:35",
+      "delete" : false,
+      "mediaName" : "e2925223-6306-4390-9aca-2d9fb395b8e6.opus",
+      "localPath" : "media\/d7c6e9a154eeb47daadd98c48d3db114a3552422.opus",
+      "mediaSize" : "93 KB",
+      "identifier" : "CIePvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:45"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:06:27",
+      "delete" : false,
+      "mediaName" : "140d9e97-4313-4317-8f16-be1bb7d04001.opus",
+      "localPath" : "media\/d9ede2671b07cfde2cbae381ede2aed9c6723e74.opus",
+      "mediaSize" : "103 KB",
+      "identifier" : "CKuRvboGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:45"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:21:43",
+      "delete" : false,
+      "mediaName" : "974f5efa-a790-491e-b2de-a68951280ffd.opus",
+      "localPath" : "media\/fb40f9f586a20257bf880daaa3a1ffbd0d2aed03.opus",
+      "mediaSize" : "71 KB",
+      "identifier" : "CL+YvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:34"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:23:16",
+      "delete" : false,
+      "identifier" : "CJyZvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu endereço completo e o tamanho para sua camisa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:23:31",
+      "delete" : false,
+      "identifier" : "CKuZvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "*INSTRUÇÕES PARA DEPOIMENTO*\n- Gravar na horizontal (celular deitado) \n- Detalhe: Mencionar *MODO CAVERNA* invés de Central Caverna\n- Não precisa ser engessado, basta se basear nas questões abaixo:\n- há quanto tempo você utiliza o modo caverna?\n- ⁠qual era sua maior dificuldade (procrastinação, ansiedade, desorganização)?\n- ⁠o que te chamou atenção para começar o modo caverna?\n- ⁠cite as principais mudanças emocionais, pessoais e profissionais que você notou após ativar o modo caverna  (como você se sente agora em relação as dificuldades de antes?)\n- ⁠você recomendaria o modo caverna para outras pessoas?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:23:49",
+      "delete" : false,
+      "mediaName" : "9b55dcf3-db70-42ed-8880-449d6e51c126.opus",
+      "localPath" : "media\/71095e3cc63a17ef3aa5dab7c86496429b9bdb19.opus",
+      "mediaSize" : "29 KB",
+      "identifier" : "CL2ZvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:14"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:28:04",
+      "delete" : false,
+      "identifier" : "CLybvboGIABIAZABAA==",
+      "msg" : "Top",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:31:43",
+      "delete" : false,
+      "mediaName" : "0d33fd42-3599-49e6-a239-fa87e40f07dd.opus",
+      "localPath" : "media\/3aac0409a94a6f1b852dbbcc7cec1374e810b4d7.opus",
+      "mediaSize" : "37 KB",
+      "identifier" : "CJedvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:34:22",
+      "delete" : false,
+      "identifier" : "CLaevboGIABIAZABAA==",
+      "msg" : "Rsrs entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:34:45",
+      "delete" : false,
+      "identifier" : "CM2evboGIABIAZABAA==",
+      "msg" : "Ok",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:37:01",
+      "delete" : false,
+      "identifier" : "CNWfvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me manda seu endereço e tamanho 🥰",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:38:36",
+      "delete" : false,
+      "identifier" : "CLSgvboGIABIAZABAA==",
+      "msg" : "Rua Cuiabá, 2346 bloco 04 apt 404, Candeias - Jaboatão dos Guararapes - PE",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:38:59",
+      "delete" : false,
+      "identifier" : "CMugvboGIABIAZABAA==",
+      "msg" : "Eu tenho até q pedir aquele kit da pulseira 👀😅",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:39:08",
+      "delete" : false,
+      "identifier" : "CNSgvboGIABIAZABAA==",
+      "msg" : "Tava no amazonas.. aí nem pedi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:40:47",
+      "delete" : false,
+      "identifier" : "CLehvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou ver a possibilidade de enviar junto pra você 🤭",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:41:06",
+      "delete" : false,
+      "identifier" : "CMqhvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Qual o tamanho da blusa?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:41:41",
+      "delete" : false,
+      "mediaName" : "6d2ab24a-dd48-4492-97d3-f934eb13862a.opus",
+      "localPath" : "media\/687389203e23314861a313de40212611e2521b50.opus",
+      "mediaSize" : "30 KB",
+      "identifier" : "CO2hvboGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:43:20",
+      "delete" : false,
+      "mediaName" : "41797c7a-18c4-4348-b6ba-d334905275d6.opus",
+      "localPath" : "media\/5be9f5266f0ea72c072ffdd6ed7c31d8af6e3aaf.opus",
+      "mediaSize" : "56 KB",
+      "identifier" : "CNCivboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:27"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:45:38",
+      "delete" : false,
+      "identifier" : "CNqjvboGIABIAZABAA==",
+      "msg" : "Falou sim rsrs",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:45:56",
+      "delete" : false,
+      "mediaName" : "5e695dec-05f8-461c-b4cd-5c6eadad55d0.opus",
+      "localPath" : "media\/629fc9f626b428d5ece7d72e88dbfd9d7b556ca6.opus",
+      "mediaSize" : "29 KB",
+      "identifier" : "COyjvboGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:12"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:48:30",
+      "delete" : false,
+      "mediaName" : "9a8971d8-d4b8-4759-a943-b2721e96fafd.opus",
+      "localPath" : "media\/b28510be73c3fc2096b6f4d2db371e8407f1e4c7.opus",
+      "mediaSize" : "27 KB",
+      "identifier" : "CIalvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:13"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:48:54",
+      "delete" : false,
+      "identifier" : "CJ6lvboGIABIAZABAA==",
+      "msg" : "#oremos",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 15:48:58",
+      "delete" : false,
+      "identifier" : "CKKlvboGIABIAZABAA==",
+      "msg" : "😅",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 15:49:56",
+      "delete" : false,
+      "identifier" : "CNylvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vai dar tudo certo! 🥰🙏🏻",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 17:47:29",
+      "mediaSize" : "570 bytes",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "COncvboGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/3de839016acd34d40fce22185e5d4d9e14bb902a"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 17:47:31",
+      "delete" : false,
+      "mediaName" : "10eb9779-c140-4f5f-ad9a-83c9113628eb.opus",
+      "localPath" : "media\/d4033cfb3ee28c290c8c98667f55136068477ba7.opus",
+      "mediaSize" : "60 KB",
+      "identifier" : "COvcvboGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:26"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 17:47:40",
+      "mediaSize" : "236 KB",
+      "mediaName" : "094c0c43-9ec8-4617-aeb2-bf168af181d9.webp",
+      "localPath" : "media\/094c0c43-9ec8-4617-aeb2-bf168af181d9.png.webp",
+      "delete" : false,
+      "identifier" : "CPTcvboGIABIAZABAA==",
+      "type" : "photo"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 17:47:45",
+      "mediaSize" : "213 KB",
+      "mediaName" : "533cae1f-e641-4798-9e9c-8647ace5e431.webp",
+      "localPath" : "media\/533cae1f-e641-4798-9e9c-8647ace5e431.png.webp",
+      "delete" : false,
+      "identifier" : "CPncvboGIABIAZABAA==",
+      "type" : "photo"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 17:48:24",
+      "delete" : false,
+      "mediaName" : "5fef76dd-20b4-4b0f-9dec-a5e0cee9fb06.opus",
+      "localPath" : "media\/6aba12a1be042cb0ea727bb45514e71732db3c7f.opus",
+      "mediaSize" : "67 KB",
+      "identifier" : "CKDdvboGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:29"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 17:50:37",
+      "delete" : false,
+      "identifier" : "CKXevboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Maravilhosa!!! Muito obrigada, Gi 🥰🥰🥰",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 17:51:18",
+      "delete" : false,
+      "mediaName" : "4acc68b8-e980-4983-a244-7fd7ae31e3df.opus",
+      "localPath" : "media\/347baec79c06768f2bb5894a6b3c00d118de3bb9.opus",
+      "mediaSize" : "21 KB",
+      "identifier" : "CM7evboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:10"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 17:51:40",
+      "mediaSize" : "188 KB",
+      "mediaName" : "1ece728d-f409-41c5-a33d-5ec3b0ebf9a9.webp",
+      "localPath" : "media\/1ece728d-f409-41c5-a33d-5ec3b0ebf9a9.png.webp",
+      "delete" : false,
+      "identifier" : "COTevboGIABIAZABAA==",
+      "type" : "photo"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 17:51:48",
+      "delete" : false,
+      "identifier" : "COzevboGIABIAZABAA==",
+      "msg" : "Massa 😊🙏🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 17:52:08",
+      "delete" : false,
+      "mediaName" : "0d0d1be1-6658-478c-9497-ff85ff0fd84b.opus",
+      "localPath" : "media\/36c101be73eb410b199b3f436cc118c50aa8c621.opus",
+      "mediaSize" : "42 KB",
+      "identifier" : "CIDfvboGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:18"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 17:52:20",
+      "delete" : false,
+      "identifier" : "CIzfvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Está ótimo!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 17:52:27",
+      "delete" : false,
+      "identifier" : "CJPfvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Vou te mandar o link",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 17:52:53",
+      "mediaSize" : "15 KB",
+      "mediaName" : "53f7216f-b4ab-4c17-b151-1c09795e495a.thumb",
+      "localPath" : "media\/76342e8702535e797ed441eca1688d199b054ed1.thumb",
+      "delete" : false,
+      "identifier" : "CK3fvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : ""
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 17:53:08",
+      "delete" : false,
+      "identifier" : "CLzfvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Ficou para o dia 05 a live",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/03 17:53:46",
+      "delete" : false,
+      "identifier" : "COLfvboGIABIAZABAA==",
+      "msg" : "Massa",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/03 17:56:23",
+      "delete" : false,
+      "identifier" : "CP\/gvboGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Te espero lá! ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 17:53:46",
+      "delete" : false,
+      "mediaName" : "00c345e5-2c86-4970-86a5-218bcf85f53b.opus",
+      "localPath" : "media\/23df9a7689f674a78c2c9c221d2284a89423684c.opus",
+      "mediaSize" : "43 KB",
+      "identifier" : "COKlyLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:21"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 17:57:00",
+      "delete" : false,
+      "mediaName" : "28cef37b-c141-4b1d-94e0-07f85b2552f3.opus",
+      "localPath" : "media\/17624629be444183ff75319221c668478b439422.opus",
+      "mediaSize" : "47 KB",
+      "identifier" : "CKSnyLoGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 17:57:49",
+      "delete" : false,
+      "mediaName" : "9a14e414-6224-4391-8075-32b266c8a619.opus",
+      "localPath" : "media\/5738c1da72ca521f18d8b78c32ed7218bdfb8a02.opus",
+      "mediaSize" : "41 KB",
+      "identifier" : "CNWnyLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:20"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 18:10:35",
+      "delete" : false,
+      "mediaName" : "61bc2b1d-8b71-411d-b0cd-3069945f3614.opus",
+      "localPath" : "media\/bb0b3bdc90ccb6ac25f30265dc52d784a5c9eea8.opus",
+      "mediaSize" : "38 KB",
+      "identifier" : "CNOtyLoGIABIAZABAA==",
+      "type" : "audio",
+      "mediaTime" : "00:16"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/05 18:13:35",
+      "delete" : false,
+      "identifier" : "CIevyLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Tranquilo!!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 22:07:48",
+      "delete" : false,
+      "mediaName" : "898e3456-cc12-4efa-8ebd-5cceb0b4b728.mp4",
+      "localPath" : "media\/c66e695144e0c60dde997a14fa5629ee3e59f94e.mp4",
+      "mediaSize" : "2,2 MB",
+      "identifier" : "COycyboGIABIAZABAA==",
+      "type" : "video",
+      "thumbPath" : "media\/fd5864427a5e4cb64c678def7aab96b2ebae9224"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/05 22:08:02",
+      "delete" : false,
+      "identifier" : "CPqcyboGIABIAZABAA==",
+      "msg" : "Nem tá com cara de cansada a bichinha.. 🥹🤭😅🤣😝",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 09:06:46",
+      "delete" : false,
+      "mediaName" : "c39dad23-a4c5-4bf1-af4e-98cb9131d9d7.opus",
+      "localPath" : "media\/e6d1c75523d86858e030bee579a9ad8aba026420.opus",
+      "mediaSize" : "50 KB",
+      "identifier" : "CN7Ry7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:24"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 09:30:37",
+      "delete" : false,
+      "identifier" : "CPXcy7oGIABIAZABAA==",
+      "msg" : "Massa 😊👏🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 13:56:28",
+      "delete" : false,
+      "mediaName" : "Giselle - Termo de Cessão de Direitos para Uso de Imagem e de Voz.pdf",
+      "localPath" : "media\/b5f73375b4d7cf3002ad5c7af6cbd9cc25d0f6da.pdf",
+      "mediaSize" : "121 KB",
+      "identifier" : "CMTZzLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "document",
+      "thumbPath" : "media\/fde333d56ad067f27151e6ab359a0022343e46dd"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 14:17:09",
+      "delete" : false,
+      "identifier" : "CJ3jzLoGIABIAZABAA==",
+      "msg" : "Aff Maria 😅",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2024\/12\/06 14:18:09",
+      "delete" : false,
+      "identifier" : "CNnjzLoGIABIAZABAA==",
+      "msg" : "Começando a ficar preocupada com tanta autorização 👀🤣\n\nVão fazer o q com a minha imagem em? 🥹🫠🤣",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/12\/06 14:24:15",
+      "delete" : false,
+      "mediaName" : "9373934a-ff35-420b-96fb-f542bffc0203.opus",
+      "localPath" : "media\/50b90920bf7b128d960a6f07a15d6e955891545e.opus",
+      "mediaSize" : "63 KB",
+      "identifier" : "CMfmzLoGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:30"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/27 17:03:42",
+      "delete" : false,
+      "identifier" : "CKbN37wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Boa tarde, Gi!! Tudo bem?\nMe envia seu cep para enviarmos a camisa, por gentileza. Acabei esquecendo de te pedir junto ao endereço\nJá está em produção!! 🥳",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 18:12:20",
+      "delete" : false,
+      "identifier" : "CLzt37wGIABIAZABAA==",
+      "msg" : "Oi oi 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 18:12:25",
+      "delete" : false,
+      "identifier" : "CMHt37wGIABIAZABAA==",
+      "msg" : "54440-130",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/01\/27 18:12:51",
+      "delete" : false,
+      "identifier" : "CNvt37wGIABIAZABAA==",
+      "msg" : "Eu que vacilei neh rsrs",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/01\/28 08:40:43",
+      "delete" : false,
+      "identifier" : "CMOE47wGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Muito obrigada ☺️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 08:59:25",
+      "delete" : false,
+      "identifier" : "CKW\/q74GIABIAZABAA==",
+      "msg" : "Bom dia 😊",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:00:08",
+      "delete" : false,
+      "identifier" : "CNC\/q74GIABIAZABAA==",
+      "msg" : "Olha.. a central tá com algum problema?\nDesde ontem q tento assistir as aulas.. mas não aparecem 🥹",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/07 09:04:54",
+      "delete" : false,
+      "identifier" : "CO7Bq74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, Gi! Tudo bem?\nVocê está acessando por onde?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:05:24",
+      "delete" : false,
+      "identifier" : "CIzCq74GIABIAZABAA==",
+      "msg" : "Acessei pelo celular..\nAcessei pelo PC tbm..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:05:34",
+      "delete" : false,
+      "identifier" : "CJbCq74GIABIAZABAA==",
+      "msg" : "Eu entro na central.. mas n consigo mexer nela..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:05:51",
+      "delete" : false,
+      "mediaName" : "23742345-6ff2-4f1e-a851-95997799436a.jpg",
+      "localPath" : "media\/5f4463c772a1580e4e86f868fff91a561004ec34.jpg",
+      "mediaSize" : "38 KB",
+      "identifier" : "CKfCq74GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/8d2b75385c5321b4d25c7d27b2764b4d46d1f0fd"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:05:55",
+      "delete" : false,
+      "identifier" : "CKvCq74GIABIAZABAA==",
+      "msg" : "Fica assim..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:06:03",
+      "delete" : false,
+      "identifier" : "CLPCq74GIABIAZABAA==",
+      "msg" : "N aparece o cabe focus..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:06:26",
+      "delete" : false,
+      "identifier" : "CMrCq74GIABIAZABAA==",
+      "msg" : "Entrei na parte de finanças tbm.. E ele n deixa atualizar as informações",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:07:08",
+      "delete" : false,
+      "mediaName" : "cf625d5d-45c8-4c97-b7a3-174728a1eeaf.jpg",
+      "localPath" : "media\/bed9c486768ef03868b7233ed8d8ad99b381b61d.jpg",
+      "mediaSize" : "69 KB",
+      "identifier" : "CPTCq74GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/9e14a8780350739770cb7e9fdccc8c323c7ea74d"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/07 09:07:09",
+      "delete" : false,
+      "identifier" : "CPXCq74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Verifica se quando você acessa pelo navegador do celular ou pelo navegador edge permanece esse erro, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:07:39",
+      "delete" : false,
+      "identifier" : "CJPDq74GIABIAZABAA==",
+      "msg" : "Certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/07 09:10:58",
+      "delete" : false,
+      "identifier" : "CNrEq74GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Após testar me diz se conseguiu",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 09:15:02",
+      "delete" : false,
+      "identifier" : "CM7Gq74GIABIAZABAA==",
+      "msg" : "Aviso",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 10:51:07",
+      "delete" : false,
+      "identifier" : "CNPzq74GIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 10:51:15",
+      "delete" : false,
+      "identifier" : "CNvzq74GIABIAZABAA==",
+      "msg" : "Desculpa a demora.. tava na rua",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 10:51:20",
+      "delete" : false,
+      "identifier" : "CODzq74GIABIAZABAA==",
+      "msg" : "Então..  pegou pelo edge",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 10:51:40",
+      "delete" : false,
+      "identifier" : "CPTzq74GIABIAZABAA==",
+      "msg" : "Demorei um bocadinho.. configurando ele 😅\nPq nunca tinha usado..",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 10:51:46",
+      "delete" : false,
+      "identifier" : "CPrzq74GIABIAZABAA==",
+      "msg" : "Mas abriu normal 🙌🏼🙏🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 10:52:01",
+      "delete" : false,
+      "mediaName" : "ea62b093-bd37-4d11-895c-87431820af3b.jpg",
+      "localPath" : "media\/848d9d91573122befbd80bd0d34f90b21f38fe58.jpg",
+      "mediaSize" : "130 KB",
+      "identifier" : "CIn0q74GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/15d0bb4a79bfeee346290aecc5a0758639f6b0f9"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 10:52:32",
+      "delete" : false,
+      "mediaName" : "22881886-7d16-477d-9baa-e76f56989d45.jpg",
+      "localPath" : "media\/059e8b96668ca013211e26dba6414f2d593a0233.jpg",
+      "mediaSize" : "111 KB",
+      "identifier" : "CKj0q74GIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/eb1fa53d4949b126dd0615be142b0c0a66ed0e8c"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/07 12:35:11",
+      "delete" : false,
+      "mediaName" : "ee2c18e6-8191-476d-b861-e54ebbf426ee.opus",
+      "localPath" : "media\/a9c5ff4e77129fa69dd3eb272d156f083731119c.opus",
+      "mediaSize" : "48 KB",
+      "identifier" : "CLekrL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "audio",
+      "mediaTime" : "00:23"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 13:33:02",
+      "delete" : false,
+      "identifier" : "CMa\/rL4GIABIAZABAA==",
+      "msg" : "Entendi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 13:33:13",
+      "delete" : false,
+      "identifier" : "CNG\/rL4GIABIAZABAA==",
+      "msg" : "Sai marcando aqui.. 😊🙏🏼",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 13:33:19",
+      "delete" : false,
+      "identifier" : "CNe\/rL4GIABIAZABAA==",
+      "msg" : "Tudo certo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/03\/07 13:33:26",
+      "delete" : false,
+      "identifier" : "CN6\/rL4GIABIAZABAA==",
+      "msg" : "Obg pelo apoio ❤️",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/03\/07 13:59:36",
+      "delete" : false,
+      "identifier" : "CIDMrL4GGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha, qualquer dúvida é só mandar mensagem 🥰",
+      "type" : "text"
+    }
+  ]
+})

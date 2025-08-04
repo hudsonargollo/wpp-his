@@ -1,0 +1,98 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 73 98231-0229",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/28 11:10:53",
+      "delete" : false,
+      "identifier" : "CPWJnsQGIABIAJABAA==",
+      "msg" : "Olá, bom dia, tudo bem?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/28 11:11:09",
+      "delete" : false,
+      "identifier" : "CIWKnsQGIABIAJABAA==",
+      "msg" : "Gostaria de solicitar reembolso para o pedido TOC3B0592807XZG2571 \n\nJá tenho o produto completo",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/28 11:11:51",
+      "delete" : false,
+      "identifier" : "CK+KnsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Bom dia, tudo bem? me passa seu e-mail, por favor",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/28 11:11:59",
+      "delete" : false,
+      "identifier" : "CLeKnsQGIABIAJABAA==",
+      "msg" : "Gabriel-alves02@hotmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/28 11:19:16",
+      "delete" : false,
+      "identifier" : "COyNnsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Mas se você solicitar isso, você perde o acesso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/28 11:19:53",
+      "delete" : false,
+      "identifier" : "CJGOnsQGIABIAJABAA==",
+      "msg" : "Sim sim, o outro está em outro e-mail, prestes a ser renovado",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/28 11:22:58",
+      "delete" : false,
+      "identifier" : "CMqPnsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "ah, tudo bem.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/28 11:24:16",
+      "delete" : false,
+      "identifier" : "CJiQnsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "você pode localizar o e-mail de compra aprovada enviado pela Ticto, no rodapé terá ''clique aqui\", ai você clica e será redirecionado para solicitar o reembolso.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/28 11:29:39",
+      "delete" : false,
+      "identifier" : "CNuSnsQGIABIAJABAA==",
+      "msg" : "Certinho, obrigado!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/07\/28 11:38:34",
+      "delete" : false,
+      "identifier" : "CPKWnsQGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Disponha!",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,28 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 11 98136-5307",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 09:34:40",
+      "delete" : false,
+      "identifier" : "COiAl7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Olá, bom dia! Poderia enviar seu email, por gentileza?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2024\/11\/26 09:42:45",
+      "mediaSize" : "1 KB",
+      "mediaName" : "",
+      "delete" : false,
+      "identifier" : "CM2El7oGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "type" : "photo",
+      "thumbPath" : "media\/774b83b845208243c9b8ca9d78ce2b1d2b8e7e10"
+    }
+  ]
+})

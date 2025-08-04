@@ -1,0 +1,26 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 32 99984-8959",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 18:41:56",
+      "delete" : false,
+      "identifier" : "CKz8vMIGIABIAZABAA==",
+      "msg" : "Olá, quero ajuda com meu acesso ao Modo Caverna.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 18:42:23",
+      "delete" : false,
+      "identifier" : "CMf8vMIGIABIAZABAA==",
+      "msg" : "Quero reembolso",
+      "type" : "text"
+    }
+  ]
+})

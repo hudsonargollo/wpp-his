@@ -1,0 +1,71 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 87 98867-8043",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 19:11:29",
+      "delete" : false,
+      "identifier" : "CJnRgcMGIABIAZABAA==",
+      "msg" : "Oi",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 19:11:32",
+      "delete" : false,
+      "identifier" : "CJzRgcMGIABIAZABAA==",
+      "msg" : "Boa noite",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/28 19:11:51",
+      "delete" : false,
+      "identifier" : "CK\/RgcMGIABIAZABAA==",
+      "msg" : "Recebei um e-mail\nDe renovação \nPorém não fiz nenhuma solicitação",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/29 12:17:25",
+      "delete" : false,
+      "identifier" : "CI2yhcMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Me informe o seu email e CPF de cadastro por favor.\n\nJá vou te ajudar com alta prioridade!",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/29 12:30:49",
+      "delete" : false,
+      "identifier" : "CLG4hcMGIABIAZABAA==",
+      "msg" : "brendamonise.corretora@gmail.com",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/29 12:30:58",
+      "delete" : false,
+      "identifier" : "CLq4hcMGIABIAZABAA==",
+      "msg" : "CPF 10868287474",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/30 08:08:17",
+      "delete" : false,
+      "identifier" : "CKngicMGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Seu reembolso foi confirmado.\nO valor será devolvido em até 7 dias úteis, direto na forma de pagamento que você usou.",
+      "type" : "text"
+    }
+  ]
+})

@@ -1,0 +1,56 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 42 99159-1212",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 23:33:32",
+      "delete" : false,
+      "identifier" : "CISFvsIGIABIAJABAA==",
+      "msg" : "Olá! Acabei de comprar o Desafio Modo Caverna e preciso de ajuda",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/15 23:34:04",
+      "delete" : false,
+      "identifier" : "CKSFvsIGIABIAJABAA==",
+      "msg" : "para acessar o app é email e cpf certo? Mais diz invalido",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/16 16:49:38",
+      "delete" : false,
+      "mediaName" : "9378cee2-9f43-40cd-9751-0eba0a6a00e3.jpg",
+      "localPath" : "media\/3254594247f607041d4481fb58faf3c79d25fa23.jpg",
+      "mediaSize" : "32 KB",
+      "identifier" : "CNrqwcIGIABIAZABAA==",
+      "type" : "photo",
+      "thumbPath" : "media\/81feb51f95d37c5b3c20f7bccd13bb965b1dd81f"
+    },
+    {
+      "avatar" : "",
+      "position" : "right",
+      "time" : "2025\/06\/17 09:55:49",
+      "delete" : false,
+      "identifier" : "CN3LxcIGGhs1NTczODI0NDYwOThAcy53aGF0c2FwcC5uZXQgAEgAkAEA",
+      "msg" : "Você poderia me enviar o seu CPF, por favor?",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/06\/17 20:25:30",
+      "delete" : false,
+      "identifier" : "CPLyx8IGIABIAZABAA==",
+      "msg" : "05995899902",
+      "type" : "text"
+    }
+  ]
+})

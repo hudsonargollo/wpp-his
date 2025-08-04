@@ -1,0 +1,27 @@
+contentCallbackFunc({
+  "head" : {
+    "name" : "+55 22 93618-0822",
+    "member" : ""
+  },
+  "body" : [
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 07:28:53",
+      "delete" : false,
+      "identifier" : "CO2308MGIABIAZABAA==",
+      "msg" : "Olá, sou cliente do Modo Caverna e preciso de ajuda.",
+      "type" : "text"
+    },
+    {
+      "avatar" : "",
+      "position" : "left",
+      "time" : "2025\/07\/14 07:28:59",
+      "mediaSize" : "1 byte",
+      "mediaName" : "2️⃣ Loja Caverna",
+      "delete" : false,
+      "identifier" : "CPO308MGIABIAZABAA==",
+      "type" : "file"
+    }
+  ]
+})
